@@ -1,0 +1,14 @@
+﻿{
+  "Id": "lK0TZxYRmk2L8_mfgZaQUw",
+  "Reference": "XmXxxtzE4ke1YN84qKCJ1w/lK0TZxYRmk2L8_mfgZaQUw",
+  "ParentRef": "XmXxxtzE4ke1YN84qKCJ1w/gctnT_PQjkiimeLRomxEUw",
+  "Name": "Extract Table Data - Kasbon",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2022-08-20T05:40:34.8532334Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=21.4.4.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-08-20T05:40:34.8532334Z"
+}

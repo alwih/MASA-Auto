@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetAnchorable ContentHash="5JCelqJ8XUKdMzwGjuLTWA" DesignTimeRectangle="65, 585, 639, 41" FriendlyName="'- Pilih Tipe Dokumen -'" FullSelectorArgument="&lt;ctrl name='FPP Pajak / Non Pajak Detail | MASA' role='document' /&gt;&lt;ctrl name='Main' role='property page' /&gt;&lt;ctrl idx='15' role='grouping' /&gt;" FuzzySelectorArgument="&lt;ctrl name='*| MASA' role='document' /&gt;&lt;ctrl name='Main' role='property page' /&gt;&lt;ctrl automationid='' role='grouping' check:fulltext='- Pilih Tipe Dokumen -' /&gt;" ScopeSelectorArgument="&lt;wnd app='chrome.exe' cls='Chrome_WidgetWin_1' title='FPP Pajak / Non Pajak Detail | MASA - Google Chrome' /&gt;" SearchSteps="FuzzySelector, Image" SelectionStrategy="AA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=mscorlib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <TargetAnchorable.Anchors>
+    <scg:List x:TypeArguments="ITarget" Capacity="4">
+      <Target DesignTimeRectangle="65, 561, 205, 25" ElementType="InputBox" FriendlyName="'Jenis Dokumen'" FullSelectorArgument="&lt;ctrl name='FPP Pajak / Non Pajak Detail | MASA' role='document' /&gt;&lt;ctrl name='Main' role='property page' /&gt;&lt;ctrl idx='13' role='editable text' /&gt;" FuzzySelectorArgument="&lt;ctrl name='FPP Pajak / Non Pajak Detail | MASA' role='document' /&gt;&lt;ctrl name='Main' role='property page' /&gt;&lt;ctrl automationid='' role='editable text' /&gt;" SearchSteps="Selector, FuzzySelector, Image">
+        <imageRef attrName="ImageBase64" xmlns="">4Twp2JfdVm0C2EOaUyZHyPg</imageRef>
+      </Target>
+    </scg:List>
+  </TargetAnchorable.Anchors>
+  <imageRef attrName="ImageBase64" xmlns="">03KS2CadjnkSnjGqpRNSsHg</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="939e506dc726a2216a000064edbfc677.png" xmlns="">0W-NR2OboL02ho2qTxBhU2Q</imageRef>
+</TargetAnchorable>

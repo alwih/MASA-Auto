@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetAnchorable ContentHash="KdGytBqSF0-QqVwC_2jFkg" DesignTimeRectangle="81, 405, 1294, 182" FriendlyName="'TABLE'" FullSelectorArgument="&lt;webctrl id='wt13_OutSystemsUIWeb_wt18_block_wtContent_wtMainContent_MASA_SHA*' tag='TABLE' /&gt;" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Order List | MASA' /&gt;" SearchSteps="Selector" xmlns="http://schemas.uipath.com/workflow/activities/uix">
+  <imageRef attrName="InformativeScreenshot" originalValue="3c761719a423a53aa33fb514e753f75e.png" xmlns="">0W7VXoz79q0GqTQhNgy4L9Q</imageRef>
+</TargetAnchorable>

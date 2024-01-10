@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetAnchorable BrowserURL="https://10.243.229.232/MASA/ReportTransaksiGagalTransfer.aspx?(Not.Licensed.For.Production)=" ContentHash="bm4xik07N0KWxSdR0MfAYQ" DesignTimeRectangle="452, 110, 194, 21" ElementType="Text" FriendlyName="'Berhasil menghapus'" FullSelectorArgument="&lt;webctrl id='wt19_OutSystemsUIWeb_wt18_block_wt5_RichWidgets_wt7_block_wtSani*' tag='SPAN' /&gt;" FuzzySelectorArgument="&lt;webctrl id='wt19_OutSystemsUIWeb_wt18_block_wt5_RichWidgets_wt7_block_wtSani*' tag='SPAN' type='' aaname='*' /&gt;" ScopeSelectorArgument="&lt;html app='chrome.exe' title='ReportTransaksiGagalTransfer' /&gt;" SearchSteps="Selector, FuzzySelector, Image" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=mscorlib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <TargetAnchorable.Anchors>
+    <scg:List x:TypeArguments="ITarget" Capacity="4">
+      <Target DesignTimeRectangle="420, 101, 600, 39" FriendlyName="'Berhasil menghapus'" FullSelectorArgument="&lt;webctrl parentid='wt19_OutSystemsUIWeb_wt18_block_wt5_RichWidgets_wt7_block_wtFeed*' tag='DIV' /&gt;" FuzzySelectorArgument="&lt;webctrl parentid='wt19_OutSystemsUIWeb_wt18_block_wt5_RichWidgets_wt7_block_wtFeed*' tag='DIV' type='' aaname='' check:text='Berhasil menghapus 1 data' /&gt;" SearchSteps="FuzzySelector, Image">
+        <imageRef attrName="ImageBase64" xmlns="">1elTZUVZGt06R3dUGHkTzgw</imageRef>
+      </Target>
+    </scg:List>
+  </TargetAnchorable.Anchors>
+  <imageRef attrName="ImageBase64" xmlns="">0-2tEj3xs70aQkeCFvPU5Cg</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="290fcfb5198d7db7ea6d86f92ed56852.png" xmlns="">0eqJTnXMPVUqG-7ysotX2tg</imageRef>
+</TargetAnchorable>

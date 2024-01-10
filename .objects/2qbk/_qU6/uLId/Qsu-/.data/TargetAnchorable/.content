@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetAnchorable BrowserURL="https://10.243.229.232/MASA/ReportFakturPajak.aspx?(Not.Licensed.For.Production)=" ContentHash="3GLMZtQBRk-ID0g4n_x1fQ" DesignTimeRectangle="832, 439, 116, 40" ElementType="Button" FriendlyName="'Export Excel'" FullSelectorArgument="&lt;webctrl aaname='Export Excel' id='wt10_OutSystemsUIWeb_wt18_block_wtContent_wtMainContent_MASA_Rep*' tag='INPUT' type='submit' /&gt;" FuzzySelectorArgument="&lt;webctrl aaname='Export Excel' id='wt10_OutSystemsUIWeb_wt18_block_wtContent_wtMainContent_MASA_Rep*' tag='INPUT' type='submit' check:text='Export Excel' /&gt;" ScopeSelectorArgument="&lt;html app='chrome.exe' title='ReportFakturPajak' /&gt;" SearchSteps="FuzzySelector, Image" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=mscorlib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <TargetAnchorable.Anchors>
+    <scg:List x:TypeArguments="ITarget" Capacity="4">
+      <Target DesignTimeRectangle="732, 439, 80, 40" ElementType="Button" FriendlyName="'Search'" FullSelectorArgument="&lt;webctrl id='wt10_OutSystemsUIWeb_wt18_block_wtContent_wtMainContent_MASA_Rep*' tag='INPUT' type='submit' /&gt;" FuzzySelectorArgument="&lt;webctrl id='wt10_OutSystemsUIWeb_wt18_block_wtContent_wtMainContent_MASA_Rep*' tag='INPUT' type='submit' aaname='Search' check:text='Search' /&gt;" SearchSteps="FuzzySelector, Image">
+        <imageRef attrName="ImageBase64" xmlns="">1TbSZ86A5UEe10fx1VbfyAw</imageRef>
+      </Target>
+    </scg:List>
+  </TargetAnchorable.Anchors>
+  <imageRef attrName="ImageBase64" xmlns="">0y8_XTVOuO02gVAPW83yUKQ</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="70f217304b01c96d152c8a36bc502f1c.png" xmlns="">058W3ZXqCokmvttz2SZqFfg</imageRef>
+</TargetAnchorable>

@@ -1,0 +1,16 @@
+﻿{
+  "Id": "ck8CWls_D0e5UJ0xl_v6Og",
+  "Reference": "XmXxxtzE4ke1YN84qKCJ1w/ck8CWls_D0e5UJ0xl_v6Og",
+  "ParentRef": "XmXxxtzE4ke1YN84qKCJ1w/nkyS7sqDskCiUnveJ9F8EA",
+  "Name": "Notif: Tab Norek",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2022-05-30T02:22:09.0027568Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-05-30T02:23:04.7040781Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

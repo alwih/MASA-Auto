@@ -1,0 +1,16 @@
+﻿{
+  "Id": "2WhZ40emOUG51IdGBjdfsQ",
+  "Reference": "XmXxxtzE4ke1YN84qKCJ1w/2WhZ40emOUG51IdGBjdfsQ",
+  "ParentRef": "XmXxxtzE4ke1YN84qKCJ1w/YCepkdxQQUWoV2DzFFSpqQ",
+  "Name": "e Alamat Pajak",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2022-04-20T04:45:25.2269561Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-04-20T04:45:48.8964511Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

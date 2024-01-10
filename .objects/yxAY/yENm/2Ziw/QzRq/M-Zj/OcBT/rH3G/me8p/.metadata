@@ -1,0 +1,16 @@
+﻿{
+  "Id": "me8pXRG2E0KjJwDcbMZNIQ",
+  "Reference": "XmXxxtzE4ke1YN84qKCJ1w/me8pXRG2E0KjJwDcbMZNIQ",
+  "ParentRef": "XmXxxtzE4ke1YN84qKCJ1w/rH3GTJBLekWMZEsBhAS5Aw",
+  "Name": "Klik: Kode Grup",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2022-04-22T05:30:51.4401876Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-04-22T05:31:59.1401692Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetAnchorable ContentHash="CZ5QemseA0GdseXc5Yj5TA" DesignTimeRectangle="327, 409, 260, 49" ElementType="TabPage" FriendlyName="'Beban Group'" FullSelectorArgument="&lt;ctrl name='Pertanggungjawaban Uang Muka Non Perdin Detail | MASA' role='document' /&gt;&lt;ctrl name='Detail' role='property page' /&gt;&lt;ctrl name='Nomor Rekening Beban Group Dokumen History Mutasi' role='page tab list' /&gt;&lt;ctrl name='Beban Group' role='page tab' /&gt;" FuzzySelectorArgument="&lt;ctrl name='Pertanggungjawaban Uang Muka Non Perdin Detail | MASA' role='document' /&gt;&lt;ctrl name='Detail' role='property page' /&gt;&lt;ctrl name='Nomor Rekening Beban Group Dokumen History Mutasi' role='page tab list' /&gt;&lt;ctrl name='Beban Group' role='page tab' automationid='' check:text='Beban Group' /&gt;" ScopeSelectorArgument="&lt;wnd app='chrome.exe' cls='Chrome_WidgetWin_1' title='Pertanggungjawaban Uang Muka Non Perdin Detail | MASA - Google C*' /&gt;" SearchSteps="Selector, FuzzySelector, Image" SelectionStrategy="AA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=mscorlib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <TargetAnchorable.Anchors>
+    <scg:List x:TypeArguments="ITarget" Capacity="4">
+      <Target DesignTimeRectangle="65, 409, 259, 49" ElementType="TabPage" FriendlyName="'Nomor Rekening'" FullSelectorArgument="&lt;ctrl name='Pertanggungjawaban Uang Muka Non Perdin Detail | MASA' role='document' /&gt;&lt;ctrl name='Detail' role='property page' /&gt;&lt;ctrl name='Nomor Rekening Beban Group Dokumen History Mutasi' role='page tab list' /&gt;&lt;ctrl name='Nomor Rekening' role='page tab' /&gt;" FuzzySelectorArgument="&lt;ctrl name='Pertanggungjawaban Uang Muka Non Perdin Detail | MASA' role='document' /&gt;&lt;ctrl name='Detail' role='property page' /&gt;&lt;ctrl name='Nomor Rekening Beban Group Dokumen History Mutasi' role='page tab list' /&gt;&lt;ctrl name='Nomor Rekening' role='page tab' automationid='' check:text='Nomor Rekening' /&gt;" SearchSteps="Selector, FuzzySelector, Image">
+        <imageRef attrName="ImageBase64" xmlns="">18duEDwwcmkOJYrw8HR2d4g</imageRef>
+      </Target>
+    </scg:List>
+  </TargetAnchorable.Anchors>
+  <imageRef attrName="ImageBase64" xmlns="">0lPMTeFdeuUuN0Am0NDnH8g</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="a3d32708ed090c048d894396b800b20f.png" xmlns="">0MSTLZoXk_US6KwvY_Ft4lg</imageRef>
+</TargetAnchorable>

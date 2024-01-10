@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetAnchorable BrowserURL="https://10.243.229.232/MASA/TrackNoteDashboard.aspx?(Not.Licensed.For.Production)=" ContentHash="D4PDcZFP9U-ygm5b-yYgBg" DesignTimeRectangle="504, 137, 114, 37" ElementType="Text" FriendlyName="'Tracking Nota'" FullSelectorArgument="&lt;webctrl aaname='Tracking Nota' id='wt17_OutSystemsUIWeb_wt18_block_wtHeader_wtHeaderContent_wt14_Ri*' tag='A' /&gt;" FuzzySelectorArgument="&lt;webctrl aaname='Tracking Nota' id='wt17_OutSystemsUIWeb_wt18_block_wtHeader_wtHeaderContent_wt14_Ri*' tag='A' type='' check:text='Tracking Nota' /&gt;" Reference="XmXxxtzE4ke1YN84qKCJ1w/vrFFt411vUCjcOixOpGq5A" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Tracking Nota | MASA' /&gt;" SearchSteps="Selector, FuzzySelector, Image" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=mscorlib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <TargetAnchorable.Anchors>
+    <scg:List x:TypeArguments="ITarget" Capacity="4">
+      <Target DesignTimeRectangle="504, 135, 114, 39" ElementType="Button" FriendlyName="'Tracking Nota'" FullSelectorArgument="&lt;webctrl aria-role='button' css-selector='body&amp;gt;form&amp;gt;div&amp;gt;div&amp;gt;header&amp;gt;div&amp;gt;div&amp;gt;nav&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div' idx='2' tag='DIV' /&gt;" FuzzySelectorArgument="&lt;webctrl aria-role='button' css-selector='body&amp;gt;form&amp;gt;div&amp;gt;div&amp;gt;header&amp;gt;div&amp;gt;div&amp;gt;nav&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div' type='' tag='DIV' aaname='' check:text='Tracking Nota' /&gt;" SearchSteps="FuzzySelector, Image">
+        <imageRef attrName="ImageBase64" xmlns="">1UiUZUEjqmEuOf3mp2-pnyA</imageRef>
+      </Target>
+    </scg:List>
+  </TargetAnchorable.Anchors>
+  <imageRef attrName="ImageBase64" xmlns="">0bZV5FsJPfEySPJImAIzpHQ</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="70bf2668cee2a302346de008eafffc04.png" xmlns="">0MKt3h91qUE2hXiEbxlT5vw</imageRef>
+</TargetAnchorable>

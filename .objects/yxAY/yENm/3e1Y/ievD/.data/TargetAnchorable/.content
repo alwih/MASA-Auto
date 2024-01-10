@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetAnchorable BrowserURL="https://10.243.229.232/MASA/FinancialTransaction.FPP_SetoranMaterai.aspx" ContentHash="RPftIRPYV0yHkNRGVBgavg" DesignTimeRectangle="175, 215, 114, 17" ElementType="Text" FriendlyName="'FPP Setoran Materai'" FullSelectorArgument="&lt;webctrl id='wt10_OutSystemsUIWeb_wt18_block_wtContent_wtBreadcrumbs_OutSyste*' tag='A' /&gt;" FuzzySelectorArgument="&lt;webctrl id='wt10_OutSystemsUIWeb_wt18_block_wtContent_wtBreadcrumbs_OutSyste*' tag='A' type='' aaname='*' /&gt;" ScopeSelectorArgument="&lt;html app='chrome.exe' title='FPP Setoran Materai Detail | MASA' /&gt;" SearchSteps="FuzzySelector, Image" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=mscorlib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <TargetAnchorable.Anchors>
+    <scg:List x:TypeArguments="ITarget" Capacity="4">
+      <Target DesignTimeRectangle="48, 215, 105, 18" ElementType="Text" FriendlyName="'Transaksi Finansial'" FullSelectorArgument="&lt;webctrl aaname='Transaksi Finansial' id='wt10_OutSystemsUIWeb_wt18_block_wtContent_wtBreadcrumbs_OutSyste*' tag='DIV' /&gt;" FuzzySelectorArgument="&lt;webctrl aaname='Transaksi Finansial' id='wt10_OutSystemsUIWeb_wt18_block_wtContent_wtBreadcrumbs_OutSyste*' tag='DIV' type='' check:text='Transaksi Finansial' /&gt;" SearchSteps="FuzzySelector, Image">
+        <imageRef attrName="ImageBase64" xmlns="">1_M8_QdcCOEWHrO8OD2xn9A</imageRef>
+      </Target>
+    </scg:List>
+  </TargetAnchorable.Anchors>
+  <imageRef attrName="ImageBase64" xmlns="">0K4-0oUYeLEOLsyIWRk1zmg</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="373fe97eaadd48041d3cc44f208d1090.png" xmlns="">04pYcQ8fiXU69CtK2XFOozw</imageRef>
+</TargetAnchorable>

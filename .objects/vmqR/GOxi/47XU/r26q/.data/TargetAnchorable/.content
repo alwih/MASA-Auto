@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetAnchorable ContentHash="6_w_A6MiREywybj8aVgIDw" DesignTimeRectangle="735, 577, 639, 41" ElementType="DropDown" FriendlyName="'MASA Operator Internal'" FullSelectorArgument="&lt;ctrl name='*' role='document' /&gt;&lt;ctrl name='Mutasi' role='property page' /&gt;&lt;ctrl name='PIC' role='combo box' /&gt;" FuzzySelectorArgument="&lt;ctrl name='*' role='document' /&gt;&lt;ctrl name='Mutasi' role='property page' /&gt;&lt;ctrl name='PIC' role='combo box' automationid='' /&gt;" Reference="XmXxxtzE4ke1YN84qKCJ1w/r26qTRoxoUuL57MGXHsowA" ScopeSelectorArgument="&lt;wnd app='chrome.exe' cls='Chrome_WidgetWin_1' title='FPP Setoran Materai Detail | MASA - Google Chrome' /&gt;" SearchSteps="Selector, FuzzySelector" SelectionStrategy="AA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=mscorlib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <TargetAnchorable.Anchors>
+    <scg:List x:TypeArguments="ITarget" Capacity="4">
+      <Target DesignTimeRectangle="735, 553, 422, 25" ElementType="InputBox" FriendlyName="'PIC'" FullSelectorArgument="&lt;ctrl name='*' role='document' /&gt;&lt;ctrl name='Mutasi' role='property page' /&gt;&lt;ctrl idx='13' role='editable text' /&gt;" FuzzySelectorArgument="&lt;ctrl name='*' role='document' /&gt;&lt;ctrl name='Mutasi' role='property page' /&gt;&lt;ctrl automationid='' role='editable text' /&gt;" SearchSteps="Selector, FuzzySelector, Image">
+        <imageRef attrName="ImageBase64" xmlns="">15t7SyibXL0uut9TQfFeDvg</imageRef>
+      </Target>
+      <Target DesignTimeRectangle="735, 479, 422, 25" ElementType="InputBox" FriendlyName="'Approver Acc 3'" FullSelectorArgument="&lt;ctrl name='*' role='document' /&gt;&lt;ctrl name='Mutasi' role='property page' /&gt;&lt;ctrl idx='12' role='editable text' /&gt;" FuzzySelectorArgument="&lt;ctrl name='*' role='document' /&gt;&lt;ctrl name='Mutasi' role='property page' /&gt;&lt;ctrl automationid='' role='editable text' /&gt;" SearchSteps="Selector, FuzzySelector, Image">
+        <imageRef attrName="ImageBase64" xmlns="">16cHhhdZKRpUCeNgzCF7NUBQ</imageRef>
+      </Target>
+    </scg:List>
+  </TargetAnchorable.Anchors>
+  <imageRef attrName="ImageBase64" xmlns="">0E1eXH6HqNESBDWajxnmK2g</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="cfa7bf1be8c2598cbd91e90a1c59aa33.png" xmlns="">0PIdS3lrqgUCW58MnGt_aOw</imageRef>
+</TargetAnchorable>

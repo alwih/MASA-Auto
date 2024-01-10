@@ -1,0 +1,16 @@
+﻿{
+  "Id": "Rt0U7yof6kqJHRRhvePO5Q",
+  "Reference": "XmXxxtzE4ke1YN84qKCJ1w/Rt0U7yof6kqJHRRhvePO5Q",
+  "ParentRef": "XmXxxtzE4ke1YN84qKCJ1w/nkyS7sqDskCiUnveJ9F8EA",
+  "Name": "a Add Record",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2022-05-30T02:16:44.6689528Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-05-30T02:17:07.4518293Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

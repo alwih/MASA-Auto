@@ -1,0 +1,16 @@
+﻿{
+  "Id": "4mE1Rf7zzkCtSrO0xzPUUg",
+  "Reference": "XmXxxtzE4ke1YN84qKCJ1w/4mE1Rf7zzkCtSrO0xzPUUg",
+  "ParentRef": "XmXxxtzE4ke1YN84qKCJ1w/FRIjL8XXF0KcZPSYvVN1RA",
+  "Name": "Notif: Hapus",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2022-07-27T08:59:14.3746771Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-07-27T08:59:43.2926276Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

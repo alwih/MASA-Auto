@@ -1,0 +1,14 @@
+﻿{
+  "Id": "drkb9jqHiEq7UKS61Lue4Q",
+  "Reference": "XmXxxtzE4ke1YN84qKCJ1w/drkb9jqHiEq7UKS61Lue4Q",
+  "ParentRef": "XmXxxtzE4ke1YN84qKCJ1w/IxIcHbNJJ0uK3pZlLuSTzQ",
+  "Name": "Extract Table Data - UM Perdin",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2022-08-20T13:15:32.9438503Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=21.4.4.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-08-20T13:15:32.9438503Z"
+}

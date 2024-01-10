@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetAnchorable BrowserURL="https://10.243.229.232/MASA/FinancialTransaction.FPP_SetoranMaterai.aspx" ContentHash="_LI0_UsvCEaRXVJGvTHKeQ" DesignTimeRectangle="81, 275, 252, 48" ElementType="Text" FriendlyName="'Beban Grup'" FullSelectorArgument="&lt;webctrl aaname='Beban Grup' aria-role='tab' tag='DIV' /&gt;" FuzzySelectorArgument="&lt;webctrl aaname='Beban Grup' aria-role='tab' tag='DIV' type='' check:text='Beban Grup' /&gt;" ScopeSelectorArgument="&lt;html app='chrome.exe' title='FPP Setoran Materai Detail | MASA' /&gt;" SearchSteps="FuzzySelector, Image" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=mscorlib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <TargetAnchorable.Anchors>
+    <scg:List x:TypeArguments="ITarget" Capacity="4">
+      <Target DesignTimeRectangle="337, 275, 252, 48" ElementType="Text" FriendlyName="'Valuta Asal'" FullSelectorArgument="&lt;webctrl aaname='Valuta Asal' aria-role='tab' tag='DIV' /&gt;" FuzzySelectorArgument="&lt;webctrl aaname='Valuta Asal' aria-role='tab' tag='DIV' type='' check:text='Valuta Asal' /&gt;" SearchSteps="FuzzySelector, Image">
+        <imageRef attrName="ImageBase64" xmlns="">1rFZNEx-gBkaZSjDin4Yk8w</imageRef>
+      </Target>
+      <Target DesignTimeRectangle="508, 196, 423, 48" ElementType="Text" FriendlyName="'Detail'" FullSelectorArgument="&lt;webctrl aaname='Detail' aria-role='tab' tag='DIV' /&gt;" FuzzySelectorArgument="&lt;webctrl aaname='Detail' aria-role='tab' tag='DIV' type='' check:text='Detail' /&gt;" SearchSteps="FuzzySelector, Image">
+        <imageRef attrName="ImageBase64" xmlns="">2NOL0SV2NBU6dlh3KXYbWyA</imageRef>
+      </Target>
+    </scg:List>
+  </TargetAnchorable.Anchors>
+  <imageRef attrName="ImageBase64" xmlns="">0YxjwfCMlgkKgOzL03MPtjg</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="19e80d1011a06ba046d06f0a38e70111.png" xmlns="">0QcRX406XhEmCfZqLiDgmQg</imageRef>
+</TargetAnchorable>

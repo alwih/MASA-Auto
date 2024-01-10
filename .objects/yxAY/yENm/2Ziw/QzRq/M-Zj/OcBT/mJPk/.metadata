@@ -1,0 +1,16 @@
+﻿{
+  "Id": "mJPkGVfzEkidORFp_1UgZQ",
+  "Reference": "XmXxxtzE4ke1YN84qKCJ1w/mJPkGVfzEkidORFp_1UgZQ",
+  "ParentRef": "XmXxxtzE4ke1YN84qKCJ1w/OcBTkb3AjU-64olePqaG7g",
+  "Name": "7 Ceklis",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2022-04-20T07:02:02.4394581Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-04-20T07:02:37.3617702Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

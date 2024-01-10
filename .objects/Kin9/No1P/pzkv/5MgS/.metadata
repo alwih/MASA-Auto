@@ -1,0 +1,14 @@
+﻿{
+  "Id": "5MgSPaZf-Uao0-ToggPKLQ",
+  "Reference": "XmXxxtzE4ke1YN84qKCJ1w/5MgSPaZf-Uao0-ToggPKLQ",
+  "ParentRef": "XmXxxtzE4ke1YN84qKCJ1w/pzkvE5_xZ02x_1-Vs7X6Bw",
+  "Name": "Extract Table Data: Complete Document",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2022-04-27T07:57:35.3956579Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=21.4.4.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-04-27T07:57:35.3956579Z"
+}

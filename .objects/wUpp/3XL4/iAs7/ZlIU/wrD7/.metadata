@@ -1,0 +1,16 @@
+﻿{
+  "Id": "wrD7sjoK60ePPTEh53XS4w",
+  "Reference": "XmXxxtzE4ke1YN84qKCJ1w/wrD7sjoK60ePPTEh53XS4w",
+  "ParentRef": "XmXxxtzE4ke1YN84qKCJ1w/ZlIUVsjDvESySOJXYPa11Q",
+  "Name": "b New Rate",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2022-08-16T03:54:23.5285251Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-08-16T03:54:40.2018397Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

@@ -1,0 +1,15 @@
+﻿{
+  "Id": "iAs7tVPRuUK8MxdRceJ_tg",
+  "Reference": "XmXxxtzE4ke1YN84qKCJ1w/iAs7tVPRuUK8MxdRceJ_tg",
+  "ParentRef": "XmXxxtzE4ke1YN84qKCJ1w/3XL4ZboadUieKFsQ0wfrZQ",
+  "Name": "Exchange Rate",
+  "Type": "Screen",
+  "Created": "2022-08-16T03:51:57.0460277Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-08-16T03:52:20.9619538Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

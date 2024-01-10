@@ -1,0 +1,16 @@
+﻿{
+  "Id": "Zf3-BsFdykie2b0Ow4SHFQ",
+  "Reference": "XmXxxtzE4ke1YN84qKCJ1w/Zf3-BsFdykie2b0Ow4SHFQ",
+  "ParentRef": "XmXxxtzE4ke1YN84qKCJ1w/gh43GwKZYkOTO6npSNVlCw",
+  "Name": "Btn: Tambah Baru Valuta Asal",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2022-04-19T09:09:49.6443453Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-04-19T09:10:04.1154524Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

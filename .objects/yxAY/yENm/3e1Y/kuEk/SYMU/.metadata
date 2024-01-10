@@ -1,0 +1,16 @@
+﻿{
+  "Id": "SYMUGP-FjUG1rfW4mN5R6A",
+  "Reference": "XmXxxtzE4ke1YN84qKCJ1w/SYMUGP-FjUG1rfW4mN5R6A",
+  "ParentRef": "XmXxxtzE4ke1YN84qKCJ1w/kuEks7dypEeX5gOwRQZyUA",
+  "Name": "f Tgl Dok Lengkap",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2022-04-19T08:18:22.2424274Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-04-19T08:23:14.5659325Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

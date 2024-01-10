@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetAnchorable BrowserURL="https://10.243.229.232/MASA/FinancialTransaction.PJUMNonPerdin.aspx" ContentHash="6c7IFGrPvEa7QzaIb6iQ_A" DesignTimeRectangle="608, 441, 229, 35" ElementType="Text" FriendlyName="'Drag &amp;'" FullSelectorArgument="&lt;webctrl id='filepond--drop-label-zv6tnz0f3' tag='LABEL' /&gt;" FuzzySelectorArgument="&lt;webctrl id='filepond--drop-label-zv6tnz0f3' tag='LABEL' type='' aaname='Drag &amp;amp; Drop your files or ' /&gt;" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Pertanggungjawaban Uang Muka Non Perdin Detail | MASA' /&gt;" SearchSteps="FuzzySelector, Image" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=mscorlib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <TargetAnchorable.Anchors>
+    <scg:List x:TypeArguments="ITarget" Capacity="4">
+      <Target DesignTimeRectangle="494, 420, 458, 76" FriendlyName="'Drag &amp;'" FullSelectorArgument="&lt;webctrl css-selector='body&amp;gt;form&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;main&amp;gt;div&amp;gt;div&amp;gt;span&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;span&amp;gt;div&amp;gt;div&amp;gt;div' parentid='wt29_OutSystemsUIWeb_wt18_block_wtContent_wtMainContent_MASA_Fin*' parentname='WebForm1' tag='DIV' /&gt;" FuzzySelectorArgument="&lt;webctrl css-selector='body&amp;gt;form&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;main&amp;gt;div&amp;gt;div&amp;gt;span&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;span&amp;gt;div&amp;gt;div&amp;gt;div' parentid='wt29_OutSystemsUIWeb_wt18_block_wtContent_wtMainContent_MASA_Fin*' parentname='WebForm1' tag='DIV' type='' aaname='' check:text='Drag &amp;amp; Drop your files or Browse' /&gt;" SearchSteps="FuzzySelector, Image">
+        <imageRef attrName="ImageBase64" xmlns="">1TR4vb3GQPUWKfPoJLI5Tqg</imageRef>
+      </Target>
+    </scg:List>
+  </TargetAnchorable.Anchors>
+  <imageRef attrName="ImageBase64" xmlns="">0mFmGXeqlJ0W2HEpQQ32JZw</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="bc4f3e80a409249c31cf701e3d7917c0.png" xmlns="">0pbcYwtGTYEyA_XOfpmQgjw</imageRef>
+</TargetAnchorable>

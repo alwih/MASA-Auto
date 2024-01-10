@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetAnchorable BrowserURL="https://10.243.229.232/MASA/OrderDetail.aspx" ContentHash="bpZXihPJbE-wAxF-9PcanQ" DesignTimeRectangle="736, 523, 623, 40" ElementType="InputBox" FriendlyName="'INPUT'" FullSelectorArgument="&lt;webctrl aaname='Nomor Rekening Nasabah' id='wt10_OutSystemsUIWeb_wt18_block_wtContent_wtMainContent_MASA_Fin*' tag='INPUT' type='text' /&gt;" FuzzySelectorArgument="&lt;webctrl aaname='Nomor Rekening Nasabah' id='wt10_OutSystemsUIWeb_wt18_block_wtContent_wtMainContent_MASA_Fin*' tag='INPUT' type='text' /&gt;" ScopeSelectorArgument="&lt;html app='chrome.exe' title='FPP Setoran Materai Detail | MASA' /&gt;" SearchSteps="FuzzySelector, Image" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=mscorlib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <TargetAnchorable.Anchors>
+    <scg:List x:TypeArguments="ITarget" Capacity="4">
+      <Target DesignTimeRectangle="736, 499, 305, 24" ElementType="Text" FriendlyName="'Nomor Rekening Nasabah'" FullSelectorArgument="&lt;webctrl aaname='Nomor Rekening Nasabah' parentid='wt10_OutSystemsUIWeb_wt18_block_wtContent_wtMainContent_MASA_Fin*' tag='LABEL' /&gt;" FuzzySelectorArgument="&lt;webctrl aaname='Nomor Rekening Nasabah' parentid='wt10_OutSystemsUIWeb_wt18_block_wtContent_wtMainContent_MASA_Fin*' tag='LABEL' type='' check:text='Nomor Rekening Nasabah' /&gt;" SearchSteps="FuzzySelector, Image">
+        <imageRef attrName="ImageBase64" xmlns="">1oh70dgxDOEW1EH-MZNZ06w</imageRef>
+      </Target>
+    </scg:List>
+  </TargetAnchorable.Anchors>
+  <imageRef attrName="ImageBase64" xmlns="">00VUpHF9A0kWDIj06HtF19g</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="cfbf6c82d3ba297af3df6edf5e3ab219.png" xmlns="">0SAIAI48ltkGqxyjh3yw3-Q</imageRef>
+</TargetAnchorable>

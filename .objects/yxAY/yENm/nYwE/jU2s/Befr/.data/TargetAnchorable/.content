@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetAnchorable BrowserURL="https://10.243.229.232/MASA/Order.aspx" ContentHash="GOjsEL0FDk-nFXSihU5-Yg" DesignTimeRectangle="1264, 622, 69, 40" ElementType="Button" FriendlyName="'Form'" FullSelectorArgument="&lt;webctrl id='wt4_OutSystemsUIWeb_wt18_block_wtContent_wtMainContent_MASA_Regi*' tag='INPUT' type='submit' /&gt;" FuzzySelectorArgument="&lt;webctrl id='wt4_OutSystemsUIWeb_wt18_block_wtContent_wtMainContent_MASA_Regi*' tag='INPUT' type='submit' aaname='Form' check:text='Form' /&gt;" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Order Detail | MASA' /&gt;" SearchSteps="FuzzySelector, Image" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=mscorlib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <TargetAnchorable.Anchors>
+    <scg:List x:TypeArguments="ITarget" Capacity="4">
+      <Target DesignTimeRectangle="736, 598, 623, 64" FriendlyName="'Modul Form'" FullSelectorArgument="&lt;webctrl css-selector='body&amp;gt;form&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;main&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div' idx='9' parentid='wt4_OutSystemsUIWeb_wt18_block_wtContent_wtMainContent_MASA_Regi*' tag='DIV' /&gt;" FuzzySelectorArgument="&lt;webctrl css-selector='body&amp;gt;form&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;main&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div' type='' parentid='wt4_OutSystemsUIWeb_wt18_block_wtContent_wtMainContent_MASA_Regi*' tag='DIV' aaname='' check:text='Modul&amp;#xA;          Form Permintaan Pembayaran Setoran Materai&amp;#xA;              Form Permintaan Pembayaran' /&gt;" SearchSteps="FuzzySelector, Image">
+        <imageRef attrName="ImageBase64" xmlns="">1cUMJ8WQLc0ezPwfI3HwT5g</imageRef>
+      </Target>
+    </scg:List>
+  </TargetAnchorable.Anchors>
+  <imageRef attrName="ImageBase64" xmlns="">0dCJK8SrT50W1azfXjub4sw</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="67c00de9907e6deb5b0c6bc216a5a9aa.png" xmlns="">0i3naVvepIUy5Et_z-c5lXw</imageRef>
+</TargetAnchorable>

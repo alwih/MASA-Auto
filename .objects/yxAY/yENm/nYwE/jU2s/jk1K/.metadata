@@ -1,0 +1,16 @@
+﻿{
+  "Id": "jk1KOzrVlEWbMxlPgiROyA",
+  "Reference": "XmXxxtzE4ke1YN84qKCJ1w/jk1KOzrVlEWbMxlPgiROyA",
+  "ParentRef": "XmXxxtzE4ke1YN84qKCJ1w/jU2sn4NRp0-V-LkSNwrWkg",
+  "Name": "3 Asal Nota",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2022-04-19T08:11:47.0310529Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-04-19T08:12:00.5950237Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

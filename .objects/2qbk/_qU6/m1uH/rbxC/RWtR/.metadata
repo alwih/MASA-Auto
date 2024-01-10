@@ -1,0 +1,16 @@
+﻿{
+  "Id": "RWtRyiGljUizEtTW3zF5AA",
+  "Reference": "XmXxxtzE4ke1YN84qKCJ1w/RWtRyiGljUizEtTW3zF5AA",
+  "ParentRef": "XmXxxtzE4ke1YN84qKCJ1w/rbxCpSHwoUe5BxK62jPeYw",
+  "Name": "5.2 Get Notif Delete",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2022-05-11T08:43:37.5645454Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-05-11T08:44:31.7211058Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

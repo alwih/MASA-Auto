@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetAnchorable ContentHash="7pveGZTOEUeqIEBfTkv-0w" DesignTimeRectangle="69, 432, 642, 41" ElementType="InputBox" FriendlyName="'editable text'" FullSelectorArgument="&lt;ctrl name='Master Modul Detail | MASA' role='document' /&gt;&lt;ctrl name='Nama Modul *' role='editable text' /&gt;" FuzzySelectorArgument="&lt;ctrl name='Master Modul Detail | MASA' role='document' /&gt;&lt;ctrl name='Nama Modul *' role='editable text' automationid='' /&gt;" ScopeSelectorArgument="&lt;wnd app='chrome.exe' cls='Chrome_WidgetWin_1' title='Master Modul Detail | MASA - Google Chrome' /&gt;" SearchSteps="Selector, FuzzySelector" SelectionStrategy="AA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=mscorlib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <TargetAnchorable.Anchors>
+    <scg:List x:TypeArguments="ITarget" Capacity="4">
+      <Target DesignTimeRectangle="69, 408, 197, 25" ElementType="InputBox" FriendlyName="'Nama Modul'" FullSelectorArgument="&lt;ctrl name='Master Modul Detail | MASA' role='document' /&gt;&lt;ctrl idx='2' role='editable text' /&gt;" FuzzySelectorArgument="&lt;ctrl name='Master Modul Detail | MASA' role='document' /&gt;&lt;ctrl automationid='' role='editable text' /&gt;" SearchSteps="Selector, FuzzySelector, Image">
+        <imageRef attrName="ImageBase64" xmlns="">1weGZWVsDZ0694JPQnYKQxw</imageRef>
+      </Target>
+    </scg:List>
+  </TargetAnchorable.Anchors>
+  <imageRef attrName="ImageBase64" xmlns="">0d10Fqf2-WkuYd8wgBpzzug</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="4920e0ec9889875d74ff95d371bd4fd8.png" xmlns="">01Y_DIfjMPkayZh2AgFw1Wg</imageRef>
+</TargetAnchorable>

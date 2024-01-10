@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetAnchorable BrowserURL="https://10.243.229.232/MASA/OrderDetail.aspx" ContentHash="-k0ff8dLFUOnJI12HReIdA" DesignTimeRectangle="736, 392, 639, 40" FriendlyName="'-Silahkan Pilih'" FullSelectorArgument="&lt;webctrl css-selector='body&amp;gt;form&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;main&amp;gt;div&amp;gt;div&amp;gt;span&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div' idx='5' parentid='wt20_OutSystemsUIWeb_wt18_block_wtContent_wtMainContent_MASA_Fin*' parentname='wt20$OutSystemsUIWeb_wt18$block$wtContent$wtMainContent$MASA_Fin*' tag='DIV' /&gt;" FuzzySelectorArgument="&lt;webctrl css-selector='body&amp;gt;form&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;main&amp;gt;div&amp;gt;div&amp;gt;span&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div' type='' parentid='wt20_OutSystemsUIWeb_wt18_block_wtContent_wtMainContent_MASA_Fin*' parentname='wt20$OutSystemsUIWeb_wt18$block$wtContent$wtMainContent$MASA_Fin*' tag='DIV' aaname='' check:text='-Silahkan Pilih URC-&amp;#xA;              -Silahkan Pilih URC-&amp;#xA;                Remove item' /&gt;" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Kasbon Detail | MASA' /&gt;" SearchSteps="Selector, FuzzySelector, Image" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=mscorlib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <TargetAnchorable.Anchors>
+    <scg:List x:TypeArguments="ITarget" Capacity="4">
+      <Target DesignTimeRectangle="736, 368, 204, 24" ElementType="Text" FriendlyName="'Kode URC Group'" FullSelectorArgument="&lt;webctrl aaname='Kode URC Group' parentid='wt20_OutSystemsUIWeb_wt18_block_wtContent_wtMainContent_MASA_Fin*' tag='LABEL' /&gt;" FuzzySelectorArgument="&lt;webctrl aaname='Kode URC Group' parentid='wt20_OutSystemsUIWeb_wt18_block_wtContent_wtMainContent_MASA_Fin*' tag='LABEL' type='' check:text='Kode URC Group' /&gt;" SearchSteps="FuzzySelector, Image">
+        <imageRef attrName="ImageBase64" xmlns="">6SEv3vFuV0ke2Rl39JymB2Q</imageRef>
+      </Target>
+    </scg:List>
+  </TargetAnchorable.Anchors>
+  <imageRef attrName="ImageBase64" xmlns="">05OMZpCA-pEmcRgd75NkiOg</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="f665a6709660521e8a1940312670821b.png" xmlns="">05NR29Liy0UikaH4b_CM4xQ</imageRef>
+</TargetAnchorable>

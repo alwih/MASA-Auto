@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetAnchorable BrowserURL="https://10.243.229.232/MASA/FPP_Pajak_NonPajak.aspx" ContentHash="8S2BmHFZqkyk7j__3gMIWg" DesignTimeRectangle="81, 746, 623, 40" ElementType="InputBox" FriendlyName="'INPUT'" FullSelectorArgument="&lt;webctrl aaname='Tanggal Terima Berkas' tag='INPUT' type='text' /&gt;" FuzzySelectorArgument="&lt;webctrl aaname='Tanggal Terima Berkas' tag='INPUT' type='text' /&gt;" ScopeSelectorArgument="&lt;html app='chrome.exe' title='FPP Pajak / Non Pajak Detail | MASA' /&gt;" SearchSteps="FuzzySelector, Image" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=mscorlib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <TargetAnchorable.Anchors>
+    <scg:List x:TypeArguments="ITarget" Capacity="4">
+      <Target DesignTimeRectangle="81, 722, 305, 24" ElementType="Text" FriendlyName="'Tanggal Terima Berkas'" FullSelectorArgument="&lt;webctrl aaname='Tanggal Terima Berkas' parentid='wt17_OutSystemsUIWeb_wt18_block_wtContent_wtMainContent_MASA_Fin*' tag='LABEL' /&gt;" FuzzySelectorArgument="&lt;webctrl aaname='Tanggal Terima Berkas' parentid='wt17_OutSystemsUIWeb_wt18_block_wtContent_wtMainContent_MASA_Fin*' tag='LABEL' type='' check:text='Tanggal Terima Berkas' /&gt;" SearchSteps="FuzzySelector, Image">
+        <imageRef attrName="ImageBase64" xmlns="">1x4IsY-VrGUCUleZAevq-Ng</imageRef>
+      </Target>
+    </scg:List>
+  </TargetAnchorable.Anchors>
+  <imageRef attrName="ImageBase64" xmlns="">0nJPFi-mDUEmli-mNQxgnkA</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="a23766be8cb60b9806d1608dbaa0b7ee.png" xmlns="">0kzBTjY0ulkO3_pOm_I3IXA</imageRef>
+</TargetAnchorable>

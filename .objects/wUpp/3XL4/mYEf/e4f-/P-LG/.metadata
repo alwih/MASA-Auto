@@ -1,0 +1,16 @@
+﻿{
+  "Id": "P-LGpTPsK02CoqvFkJtJhw",
+  "Reference": "XmXxxtzE4ke1YN84qKCJ1w/P-LGpTPsK02CoqvFkJtJhw",
+  "ParentRef": "XmXxxtzE4ke1YN84qKCJ1w/e4f-naiIxkmu0gFUwB74kw",
+  "Name": "e Kode Dokumen",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2022-07-28T03:02:17.8836642Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-07-28T03:02:36.1794631Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

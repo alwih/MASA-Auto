@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetAnchorable BrowserURL="https://10.243.229.232/MASA/Order.aspx" ContentHash="hhVXjNkjjUSp9QhziLyKnQ" DesignTimeRectangle="81, 667, 623, 40" ElementType="InputBox" FriendlyName="'2022-04-19'" FullSelectorArgument="&lt;webctrl aaname='Tanggal SLA Group' id='wt4_OutSystemsUIWeb_wt18_block_wtContent_wtMainContent_MASA_Regi*' tag='INPUT' type='text' /&gt;" FuzzySelectorArgument="&lt;webctrl aaname='Tanggal SLA Group' id='wt4_OutSystemsUIWeb_wt18_block_wtContent_wtMainContent_MASA_Regi*' tag='INPUT' type='text' /&gt;" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Order Detail | MASA' /&gt;" SearchSteps="FuzzySelector, Image" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=mscorlib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <TargetAnchorable.Anchors>
+    <scg:List x:TypeArguments="ITarget" Capacity="4">
+      <Target DesignTimeRectangle="81, 643, 305, 24" ElementType="Text" FriendlyName="'Tanggal SLA Group'" FullSelectorArgument="&lt;webctrl aaname='Tanggal SLA Group' parentid='wt4_OutSystemsUIWeb_wt18_block_wtContent_wtMainContent_MASA_Regi*' tag='LABEL' /&gt;" FuzzySelectorArgument="&lt;webctrl aaname='Tanggal SLA Group' parentid='wt4_OutSystemsUIWeb_wt18_block_wtContent_wtMainContent_MASA_Regi*' tag='LABEL' type='' check:text='Tanggal SLA Group' /&gt;" SearchSteps="FuzzySelector, Image">
+        <imageRef attrName="ImageBase64" xmlns="">1pkZSz95BJkyIpIaAdoBsUA</imageRef>
+      </Target>
+    </scg:List>
+  </TargetAnchorable.Anchors>
+  <imageRef attrName="ImageBase64" xmlns="">0gQRBm8Ppx06C4NhFnQLfKA</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="86c2e8886692e11ad92141f14c239d3c.png" xmlns="">0uwyvtZnMYEm92IGveFIpLg</imageRef>
+</TargetAnchorable>

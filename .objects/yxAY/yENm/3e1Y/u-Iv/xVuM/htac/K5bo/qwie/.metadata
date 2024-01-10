@@ -1,0 +1,14 @@
+﻿{
+  "Id": "qwie330wYkqffeMxuoyBYg",
+  "Reference": "XmXxxtzE4ke1YN84qKCJ1w/qwie330wYkqffeMxuoyBYg",
+  "ParentRef": "XmXxxtzE4ke1YN84qKCJ1w/K5boeZquV0yaev91rxTD9A",
+  "Name": "Klik: Pilih Formulir",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2022-04-20T10:45:56.9048151Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=21.4.4.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-04-20T10:45:56.9048151Z"
+}

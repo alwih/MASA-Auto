@@ -1,0 +1,16 @@
+﻿{
+  "Id": "7k07YxpyWUKY3oMtfFcmhg",
+  "Reference": "XmXxxtzE4ke1YN84qKCJ1w/7k07YxpyWUKY3oMtfFcmhg",
+  "ParentRef": "XmXxxtzE4ke1YN84qKCJ1w/PTu-qCqudEmG_T1QyeEF4w",
+  "Name": "a Nama Team",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2022-08-04T12:16:04.3635999Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-08-04T12:16:26.9986071Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

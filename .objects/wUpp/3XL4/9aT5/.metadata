@@ -1,0 +1,15 @@
+﻿{
+  "Id": "9aT5KuQlO0KKyXBN6VcqHQ",
+  "Reference": "XmXxxtzE4ke1YN84qKCJ1w/9aT5KuQlO0KKyXBN6VcqHQ",
+  "ParentRef": "XmXxxtzE4ke1YN84qKCJ1w/3XL4ZboadUieKFsQ0wfrZQ",
+  "Name": "URC",
+  "Type": "Screen",
+  "Created": "2022-07-28T09:15:18.2488648Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-07-28T09:15:27.0609602Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

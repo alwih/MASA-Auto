@@ -1,0 +1,16 @@
+﻿{
+  "Id": "vUfWUj6qhES0_8_x20lB-w",
+  "Reference": "XmXxxtzE4ke1YN84qKCJ1w/vUfWUj6qhES0_8_x20lB-w",
+  "ParentRef": "XmXxxtzE4ke1YN84qKCJ1w/aD_ZwgP_I0iQhH70Gu2siQ",
+  "Name": "Btn: Tambah Baru",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2022-08-16T04:16:30.816996Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-08-16T04:16:55.1031663Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

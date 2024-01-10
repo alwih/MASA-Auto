@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetAnchorable ContentHash="ef4o2qYPLkmUDY4ttLYpJg" DesignTimeRectangle="1325, 435, 18, 19" ElementType="Text" FriendlyName="''" FullSelectorArgument="&lt;ctrl name='Libur | MASA' role='document' /&gt;&lt;ctrl idx='2' role='row' /&gt;&lt;ctrl name='' role='cell' /&gt;&lt;ctrl name='' role='link' /&gt;" FuzzySelectorArgument="&lt;ctrl name='Libur | MASA' role='document' /&gt;&lt;ctrl role='row' /&gt;&lt;ctrl name='' role='cell' /&gt;&lt;ctrl name='' role='link' automationid='' check:text='' /&gt;" ScopeSelectorArgument="&lt;wnd app='chrome.exe' cls='Chrome_WidgetWin_1' title='Libur | MASA - Google Chrome' /&gt;" SearchSteps="FuzzySelector, Image" SelectionStrategy="AA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=mscorlib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <TargetAnchorable.Anchors>
+    <scg:List x:TypeArguments="ITarget" Capacity="4">
+      <Target DesignTimeRectangle="1294, 388, 80, 39" FriendlyName="'Action'" FullSelectorArgument="&lt;ctrl name='Libur | MASA' role='document' /&gt;&lt;ctrl role='row' /&gt;&lt;ctrl name='Action' role='column header' /&gt;" FuzzySelectorArgument="&lt;ctrl name='Libur | MASA' role='document' /&gt;&lt;ctrl role='row' /&gt;&lt;ctrl name='Action' role='column header' automationid='' check:fulltext='Action' /&gt;" SearchSteps="Selector, FuzzySelector, Image">
+        <imageRef attrName="ImageBase64" xmlns="">1zPNRQk1lL0iNsdS7MIOYpg</imageRef>
+      </Target>
+    </scg:List>
+  </TargetAnchorable.Anchors>
+  <imageRef attrName="ImageBase64" xmlns="">0tHfwEQV8r0aM5K5bpYeY_Q</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="dec599fb5dc86c0db11f36f31df2b923.png" xmlns="">0heY_78fXtU-vvMkED55Omw</imageRef>
+</TargetAnchorable>

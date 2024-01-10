@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetAnchorable ContentHash="Kq-A-iP8WkOwuPG9_QnS3A" DesignTimeRectangle="502, 330, 435, 49" ElementType="TabPage" FriendlyName="'Detail'" FullSelectorArgument="&lt;ctrl name='Petty Cash Detail | MASA' role='document' /&gt;&lt;ctrl name='Main Detail Accounting' role='page tab list' /&gt;&lt;ctrl name='Detail' role='page tab' /&gt;" FuzzySelectorArgument="&lt;ctrl name='Petty Cash Detail | MASA' role='document' /&gt;&lt;ctrl name='Main Detail Accounting' role='page tab list' /&gt;&lt;ctrl name='Detail' role='page tab' automationid='' check:text='Detail' /&gt;" ScopeSelectorArgument="&lt;wnd app='chrome.exe' cls='Chrome_WidgetWin_1' title='Petty Cash Detail | MASA - Google Chrome' /&gt;" SearchSteps="Selector, FuzzySelector, Image" SelectionStrategy="AA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=mscorlib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <TargetAnchorable.Anchors>
+    <scg:List x:TypeArguments="ITarget" Capacity="4">
+      <Target DesignTimeRectangle="65, 330, 434, 49" ElementType="TabPage" FriendlyName="'Main'" FullSelectorArgument="&lt;ctrl name='Petty Cash Detail | MASA' role='document' /&gt;&lt;ctrl name='Main Detail Accounting' role='page tab list' /&gt;&lt;ctrl name='Main' role='page tab' /&gt;" FuzzySelectorArgument="&lt;ctrl name='Petty Cash Detail | MASA' role='document' /&gt;&lt;ctrl name='Main Detail Accounting' role='page tab list' /&gt;&lt;ctrl name='Main' role='page tab' automationid='' check:text='Main' /&gt;" SearchSteps="Selector, FuzzySelector, Image">
+        <imageRef attrName="ImageBase64" xmlns="">1ybWBu7RFwk-AcabfHd8dDg</imageRef>
+      </Target>
+    </scg:List>
+  </TargetAnchorable.Anchors>
+  <imageRef attrName="ImageBase64" xmlns="">0UdxeVyBG0U-yeAsBG_WQHA</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="8846dbb1be93a76d891bdf912cffdf09.png" xmlns="">08I-DtsXMGkKLrzTAs9nxIQ</imageRef>
+</TargetAnchorable>

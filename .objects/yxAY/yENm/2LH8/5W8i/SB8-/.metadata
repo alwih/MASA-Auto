@@ -1,0 +1,16 @@
+﻿{
+  "Id": "SB8-vEie7U-ssYRBNe_F1w",
+  "Reference": "XmXxxtzE4ke1YN84qKCJ1w/SB8-vEie7U-ssYRBNe_F1w",
+  "ParentRef": "XmXxxtzE4ke1YN84qKCJ1w/5W8iKogDi0qSJnq7lmtf2A",
+  "Name": "b Jenis Beban",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2022-08-20T03:29:29.2717005Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-08-20T03:29:48.5051417Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

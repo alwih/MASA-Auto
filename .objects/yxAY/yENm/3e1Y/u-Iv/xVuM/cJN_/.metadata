@@ -1,0 +1,16 @@
+﻿{
+  "Id": "cJN_eSXI-EywPRsSVbkYAA",
+  "Reference": "XmXxxtzE4ke1YN84qKCJ1w/cJN_eSXI-EywPRsSVbkYAA",
+  "ParentRef": "XmXxxtzE4ke1YN84qKCJ1w/xVuMNPEfXkWtudmsK7KbOg",
+  "Name": "Btn: Tambah Baru",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2022-04-19T08:40:30.2089869Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-04-19T09:00:20.6494548Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

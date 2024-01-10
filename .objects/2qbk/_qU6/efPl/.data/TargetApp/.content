@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetApp Area="0, 0, 0, 0" BrowserType="Chrome" ContentHash="5zLavI18SUGBoUxvA87YRA" Selector="&lt;html app='chrome.exe' title='Laporan'/&gt;" Url="https://10.243.229.232/MASA/Laporan.aspx?(Not.Licensed.For.Production)=" xmlns="http://schemas.uipath.com/workflow/activities/uix">
+  <imageRef attrName="IconBase64" xmlns="">02xXgR0joXEasojI9MLbk3w</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="26f9bdb3755786990395a9f310c22782.png" xmlns="">0wbJj7j8cp02wnPStk5R0NQ</imageRef>
+</TargetApp>

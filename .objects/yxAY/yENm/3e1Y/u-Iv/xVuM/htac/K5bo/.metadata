@@ -1,0 +1,16 @@
+﻿{
+  "Id": "K5boeZquV0yaev91rxTD9A",
+  "Reference": "XmXxxtzE4ke1YN84qKCJ1w/K5boeZquV0yaev91rxTD9A",
+  "ParentRef": "XmXxxtzE4ke1YN84qKCJ1w/htacyg-giEyHs7ZxpTo4CA",
+  "Name": "1 Pilih Formulir",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2022-04-19T08:56:58.7696506Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-04-19T08:57:37.4891036Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

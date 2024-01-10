@@ -1,0 +1,16 @@
+﻿{
+  "Id": "hbS62VEXtk64wv7JFq0WBQ",
+  "Reference": "XmXxxtzE4ke1YN84qKCJ1w/hbS62VEXtk64wv7JFq0WBQ",
+  "ParentRef": "XmXxxtzE4ke1YN84qKCJ1w/TTAI37W6G0KXIBf9tAg3DA",
+  "Name": "Action: Icon Delete",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2022-08-11T00:01:28.2403958Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-08-11T00:01:46.9970419Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

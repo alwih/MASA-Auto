@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetAnchorable ContentHash="4b5HOWXeYECSlaQyqFx6hw" DesignTimeRectangle="1314, 435, 18, 19" ElementType="Text" FriendlyName="''" FullSelectorArgument="&lt;ctrl name='Jabatan | MASA' role='document' /&gt;&lt;ctrl idx='2' role='row' /&gt;&lt;ctrl name='' role='cell' /&gt;&lt;ctrl name='' role='link' /&gt;" FuzzySelectorArgument="&lt;ctrl name='Jabatan | MASA' role='document' /&gt;&lt;ctrl role='row' /&gt;&lt;ctrl name='' role='cell' /&gt;&lt;ctrl name='' role='link' automationid='' check:text='' /&gt;" ScopeSelectorArgument="&lt;wnd app='chrome.exe' cls='Chrome_WidgetWin_1' title='Jabatan | MASA - Google Chrome' /&gt;" SearchSteps="FuzzySelector, Image" SelectionStrategy="AA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=mscorlib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <TargetAnchorable.Anchors>
+    <scg:List x:TypeArguments="ITarget" Capacity="4">
+      <Target DesignTimeRectangle="1294, 388, 80, 39" FriendlyName="'Action'" FullSelectorArgument="&lt;ctrl name='Jabatan | MASA' role='document' /&gt;&lt;ctrl role='row' /&gt;&lt;ctrl name='Action' role='column header' /&gt;" FuzzySelectorArgument="&lt;ctrl name='Jabatan | MASA' role='document' /&gt;&lt;ctrl role='row' /&gt;&lt;ctrl name='Action' role='column header' automationid='' check:fulltext='Action' /&gt;" SearchSteps="Selector, FuzzySelector, Image">
+        <imageRef attrName="ImageBase64" xmlns="">2PSMcRSZOaEK1Z8GH-nmwtQ</imageRef>
+      </Target>
+      <Target DesignTimeRectangle="1336, 435, 18, 19" ElementType="Text" FriendlyName="''" FullSelectorArgument="&lt;ctrl name='Jabatan | MASA' role='document' /&gt;&lt;ctrl idx='2' role='row' /&gt;&lt;ctrl name='' role='cell' /&gt;&lt;ctrl name='' role='link' /&gt;" FuzzySelectorArgument="&lt;ctrl name='Jabatan | MASA' role='document' /&gt;&lt;ctrl role='row' /&gt;&lt;ctrl name='' role='cell' /&gt;&lt;ctrl name='' role='link' automationid='' check:text='' /&gt;" SearchSteps="Selector, FuzzySelector, Image">
+        <imageRef attrName="ImageBase64" xmlns="">3LdmBrWlQTE6hA5ynCVFA4Q</imageRef>
+      </Target>
+    </scg:List>
+  </TargetAnchorable.Anchors>
+  <imageRef attrName="ImageBase64" xmlns="">01XRL5xKwCEKhXo7Ll6vZ4A</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="760737613c4855a04747d0faa3426231.png" xmlns="">0ENt6VAdWwkabZRP4mcQt9A</imageRef>
+</TargetAnchorable>

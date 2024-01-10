@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetAnchorable BrowserURL="https://10.243.229.232/MASA/FinancialTransaction.FPP_SetoranMaterai.aspx" ContentHash="IfMRSl45v0-bN0t7F_R1kg" DesignTimeRectangle="312, 592, 395, 40" ElementType="InputBox" FriendlyName="'INPUT'" FullSelectorArgument="&lt;webctrl aaname='Internal Order' id='wt10_OutSystemsUIWeb_wt18_block_wtContent_wtMainContent_MASA_Fin*' parentname='wt10$OutSystemsUIWeb_wt18$block$wtContent$wtMainContent$MASA_Fin*' tag='INPUT' type='text' /&gt;" FuzzySelectorArgument="&lt;webctrl aaname='Internal Order' id='wt10_OutSystemsUIWeb_wt18_block_wtContent_wtMainContent_MASA_Fin*' parentname='wt10$OutSystemsUIWeb_wt18$block$wtContent$wtMainContent$MASA_Fin*' tag='INPUT' type='text' /&gt;" ScopeSelectorArgument="&lt;html app='chrome.exe' title='FPP Setoran Materai Detail | MASA' /&gt;" SearchSteps="FuzzySelector, Image" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=mscorlib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <TargetAnchorable.Anchors>
+    <scg:List x:TypeArguments="ITarget" Capacity="4">
+      <Target DesignTimeRectangle="312, 568, 261, 24" ElementType="Text" FriendlyName="'Internal Order'" FullSelectorArgument="&lt;webctrl aaname='Internal Order' parentid='wt10_OutSystemsUIWeb_wt18_block_wtContent_wtMainContent_MASA_Fin*' parentname='wt10$OutSystemsUIWeb_wt18$block$wtContent$wtMainContent$MASA_Fin*' tag='LABEL' /&gt;" FuzzySelectorArgument="&lt;webctrl aaname='Internal Order' parentid='wt10_OutSystemsUIWeb_wt18_block_wtContent_wtMainContent_MASA_Fin*' parentname='wt10$OutSystemsUIWeb_wt18$block$wtContent$wtMainContent$MASA_Fin*' tag='LABEL' type='' check:text='Internal Order' /&gt;" SearchSteps="FuzzySelector, Image">
+        <imageRef attrName="ImageBase64" xmlns="">17mzDfUQn50-cku5HThJyGw</imageRef>
+      </Target>
+    </scg:List>
+  </TargetAnchorable.Anchors>
+  <imageRef attrName="ImageBase64" xmlns="">0KazYmPI5jUC_n0bm8P0rPw</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="12fe07756464c86905d94654d64430e8.png" xmlns="">09-6QoeOCYEikgGei3LDHHg</imageRef>
+</TargetAnchorable>

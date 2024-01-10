@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetApp Area="0, 0, 0, 0" BrowserType="Chrome" ContentHash="N1ljO_s37EatgCufmE1cdA" Selector="&lt;html app='chrome.exe' title='Master URC | MASA'/&gt;" Url="https://10.243.229.232/MASA/MasterURC.aspx?(Not.Licensed.For.Production)=" xmlns="http://schemas.uipath.com/workflow/activities/uix">
+  <imageRef attrName="IconBase64" xmlns="">03Srono5DgEa_JU0buKJyxQ</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="d9c812bfa48f19ce02cdb24da230a735.png" xmlns="">0Z56ooJhV70iThZNac-gBcw</imageRef>
+</TargetApp>

@@ -1,0 +1,16 @@
+﻿{
+  "Id": "gA9O-lI_l0aEthqnk1XKiQ",
+  "Reference": "XmXxxtzE4ke1YN84qKCJ1w/gA9O-lI_l0aEthqnk1XKiQ",
+  "ParentRef": "XmXxxtzE4ke1YN84qKCJ1w/xVuMNPEfXkWtudmsK7KbOg",
+  "Name": "6 Jumlah Beban",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2022-04-19T08:53:24.820252Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-04-19T09:01:57.4191314Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetAnchorable BrowserURL="https://10.243.229.26/MASA/ApprovalRequest.aspx?(Not.Licensed.For.Production)=" ContentHash="ar1G_cRgTEi7sOTuqkbN_g" DesignTimeRectangle="1249, 519, 99, 40" ElementType="Text" FriendlyName="'Detail'" FullSelectorArgument="&lt;webctrl aaname='Detail' id='wt8_OutSystemsUIWeb_wt18_block_wtContent_wtMainContent_MASA_SHAR*' tag='A' /&gt;" FuzzySelectorArgument="&lt;webctrl aaname='Detail' id='wt8_OutSystemsUIWeb_wt18_block_wtContent_wtMainContent_MASA_SHAR*' tag='A' type='' check:text='Detail' /&gt;" Reference="XmXxxtzE4ke1YN84qKCJ1w/uJoJuMFcAUiKIVX92AibDA" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Approval Request | MASA' /&gt;" SearchSteps="Selector, FuzzySelector, Image" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=mscorlib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <TargetAnchorable.Anchors>
+    <scg:List x:TypeArguments="ITarget" Capacity="4">
+      <Target DesignTimeRectangle="1249, 559, 99, 40" ElementType="Text" FriendlyName="'View'" FullSelectorArgument="&lt;webctrl aaname='View' id='wt8_OutSystemsUIWeb_wt18_block_wtContent_wtMainContent_MASA_SHAR*' tag='A' /&gt;" FuzzySelectorArgument="&lt;webctrl aaname='View' id='wt8_OutSystemsUIWeb_wt18_block_wtContent_wtMainContent_MASA_SHAR*' tag='A' type='' check:text='View' /&gt;" SearchSteps="FuzzySelector, Image">
+        <imageRef attrName="ImageBase64" xmlns="">1nGAHz-Sd3EqtvWVvmINomQ</imageRef>
+      </Target>
+    </scg:List>
+  </TargetAnchorable.Anchors>
+  <imageRef attrName="ImageBase64" xmlns="">0cCFPo6O4b0Sp7zAD6hbU2w</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="0d9ecb9ee9cd643e00b42a5dcfc1501a.png" xmlns="">0-qF3lR4oPUaiuNBut9yRCw</imageRef>
+</TargetAnchorable>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetAnchorable ContentHash="iwdguKDZAU2NVoxB7ksvjg" DesignTimeRectangle="1235, 483, 104, 41" ElementType="Text" FriendlyName="'Edit'" FullSelectorArgument="&lt;ctrl name='Master URC | MASA' role='document' /&gt;&lt;ctrl idx='2' role='row' /&gt;&lt;ctrl name=' Edit' role='link' /&gt;" FuzzySelectorArgument="&lt;ctrl name='Master URC | MASA' role='document' /&gt;&lt;ctrl role='row' /&gt;&lt;ctrl name=' Edit' role='link' automationid='' check:text='Edit' /&gt;" ScopeSelectorArgument="&lt;wnd app='chrome.exe' cls='Chrome_WidgetWin_1' title='Master URC | MASA - Google Chrome' /&gt;" SearchSteps="FuzzySelector, Image" SelectionStrategy="AA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=mscorlib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <TargetAnchorable.Anchors>
+    <scg:List x:TypeArguments="ITarget" Capacity="4">
+      <Target DesignTimeRectangle="1234, 474, 106, 99" FriendlyName="'Edit Delete'" FullSelectorArgument="&lt;ctrl name='Master URC | MASA' role='document' /&gt;&lt;ctrl idx='2' role='row' /&gt;&lt;ctrl idx='3' role='grouping' /&gt;" FuzzySelectorArgument="&lt;ctrl name='Master URC | MASA' role='document' /&gt;&lt;ctrl role='row' /&gt;&lt;ctrl automationid='' role='grouping' check:fulltext='Edit&amp;#xD;&amp;#xA;Delete' /&gt;" SearchSteps="Selector, FuzzySelector, Image">
+        <imageRef attrName="ImageBase64" xmlns="">1U9UNo2fDmU6jLo2wUxRh3Q</imageRef>
+      </Target>
+    </scg:List>
+  </TargetAnchorable.Anchors>
+  <imageRef attrName="ImageBase64" xmlns="">0QmqlIDzTcUid6g-h6vNqIg</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="5c2fb1bdf19543f7778bcf70a2935df3.png" xmlns="">09EiyQgxylUaWx_wtGTGCPg</imageRef>
+</TargetAnchorable>

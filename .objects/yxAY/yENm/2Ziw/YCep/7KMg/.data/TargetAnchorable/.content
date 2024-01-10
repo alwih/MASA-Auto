@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetAnchorable BrowserURL="https://10.243.229.232/MASA/FPP_Pajak_NonPajak.aspx" ContentHash="ylg14__9ZUeVz-zP9lDn0g" DesignTimeRectangle="736, 284, 623, 69" ElementType="InputBox" FriendlyName="'TEXTAREA'" FullSelectorArgument="&lt;webctrl aaname='Keterangan Bank' tag='TEXTAREA' /&gt;" FuzzySelectorArgument="&lt;webctrl aaname='Keterangan Bank' tag='TEXTAREA' type='' /&gt;" ScopeSelectorArgument="&lt;html app='chrome.exe' title='FPP Pajak / Non Pajak Detail | MASA' /&gt;" SearchSteps="FuzzySelector, Image" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=mscorlib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <TargetAnchorable.Anchors>
+    <scg:List x:TypeArguments="ITarget" Capacity="4">
+      <Target DesignTimeRectangle="734, 258, 203, 28" ElementType="Text" FriendlyName="'Keterangan Bank'" FullSelectorArgument="&lt;webctrl aaname='Keterangan Bank' parentid='wt17_OutSystemsUIWeb_wt18_block_wtContent_wtMainContent_MASA_Fin*' tag='LABEL' /&gt;" FuzzySelectorArgument="&lt;webctrl aaname='Keterangan Bank' parentid='wt17_OutSystemsUIWeb_wt18_block_wtContent_wtMainContent_MASA_Fin*' tag='LABEL' type='' check:text='Keterangan Bank' /&gt;" SearchSteps="FuzzySelector, Image">
+        <imageRef attrName="ImageBase64" xmlns="">1a2DhuxrazUOQii4d1-rCKg</imageRef>
+      </Target>
+    </scg:List>
+  </TargetAnchorable.Anchors>
+  <imageRef attrName="ImageBase64" xmlns="">0HViFzo2L3Uqq78BZElJqLA</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="ff59088bb38faa258204ebd905c502c8.png" xmlns="">0-bx_6tDsNkyF-sW7V6673w</imageRef>
+</TargetAnchorable>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetAnchorable BrowserURL="https://10.243.229.232/MASA/FinancialTransaction.FPP_SetoranMaterai.aspx" ContentHash="rzan-7XuSk-JFPUGA-yN5Q" DesignTimeRectangle="312, 296, 395, 40" FriendlyName="'- Pilih'" FullSelectorArgument="&lt;webctrl css-selector='body&amp;gt;form&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;main&amp;gt;div&amp;gt;div&amp;gt;span&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div' idx='11' parentid='wt10_OutSystemsUIWeb_wt18_block_wtContent_wtMainContent_MASA_Fin*' parentname='wt10$OutSystemsUIWeb_wt18$block$wtContent$wtMainContent$MASA_Fin*' tag='DIV' /&gt;" FuzzySelectorArgument="&lt;webctrl css-selector='body&amp;gt;form&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;main&amp;gt;div&amp;gt;div&amp;gt;span&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div' type='' parentid='wt10_OutSystemsUIWeb_wt18_block_wtContent_wtMainContent_MASA_Fin*' parentname='wt10$OutSystemsUIWeb_wt18$block$wtContent$wtMainContent$MASA_Fin*' tag='DIV' aaname='' /&gt;" ScopeSelectorArgument="&lt;html app='chrome.exe' title='FPP Setoran Materai Detail | MASA' /&gt;" SearchSteps="FuzzySelector, Image" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=mscorlib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <TargetAnchorable.Anchors>
+    <scg:List x:TypeArguments="ITarget" Capacity="4">
+      <Target DesignTimeRectangle="312, 272, 261, 24" ElementType="Text" FriendlyName="'Kode Group'" FullSelectorArgument="&lt;webctrl aaname='Kode Group' idx='2' parentid='wt10_OutSystemsUIWeb_wt18_block_wtContent_wtMainContent_MASA_Fin*' parentname='wt10$OutSystemsUIWeb_wt18$block$wtContent$wtMainContent$MASA_Fin*' tag='LABEL' /&gt;" FuzzySelectorArgument="&lt;webctrl aaname='Kode Group' type='' parentid='wt10_OutSystemsUIWeb_wt18_block_wtContent_wtMainContent_MASA_Fin*' parentname='wt10$OutSystemsUIWeb_wt18$block$wtContent$wtMainContent$MASA_Fin*' tag='LABEL' check:text='Kode Group' /&gt;" SearchSteps="FuzzySelector, Image">
+        <imageRef attrName="ImageBase64" xmlns="">4YjjNwVQhUEuHGFnfeVTkjw</imageRef>
+      </Target>
+    </scg:List>
+  </TargetAnchorable.Anchors>
+  <imageRef attrName="ImageBase64" xmlns="">03YTE1e7nxkCIzX3GvHnbdw</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="d8bf6a109dc294449fc5e573944ff1ed.png" xmlns="">0RSlbyK9p5ECwRYDJ2B8zSA</imageRef>
+</TargetAnchorable>

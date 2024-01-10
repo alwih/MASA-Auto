@@ -1,0 +1,15 @@
+﻿{
+  "Id": "FRIjL8XXF0KcZPSYvVN1RA",
+  "Reference": "XmXxxtzE4ke1YN84qKCJ1w/FRIjL8XXF0KcZPSYvVN1RA",
+  "ParentRef": "XmXxxtzE4ke1YN84qKCJ1w/3XL4ZboadUieKFsQ0wfrZQ",
+  "Name": "Limit Kewenangan",
+  "Type": "Screen",
+  "Created": "2022-07-27T04:56:25.7292674Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-07-27T04:56:41.1288585Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

@@ -1,0 +1,15 @@
+﻿{
+  "Id": "PyeIr0yTnU2dv77-71Kb7w",
+  "Reference": "XmXxxtzE4ke1YN84qKCJ1w/PyeIr0yTnU2dv77-71Kb7w",
+  "ParentRef": "XmXxxtzE4ke1YN84qKCJ1w/3XL4ZboadUieKFsQ0wfrZQ",
+  "Name": "SAP Group",
+  "Type": "Screen",
+  "Created": "2022-07-28T07:32:28.5808526Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-07-28T07:32:40.3712789Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

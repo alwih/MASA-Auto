@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetAnchorable ContentHash="M-ohU7JhWUiswQmbSQzp9g" DesignTimeRectangle="1224, 334, 154, 41" ElementType="Text" FriendlyName="'Tambah Baru'" FullSelectorArgument="&lt;ctrl name='Limit Kewenangan | MASA' role='document' /&gt;&lt;ctrl name=' Tambah Baru' role='link' /&gt;" FuzzySelectorArgument="&lt;ctrl name='Limit Kewenangan | MASA' role='document' /&gt;&lt;ctrl name=' Tambah Baru' role='link' automationid='' check:text='Tambah Baru' /&gt;" ScopeSelectorArgument="&lt;wnd app='chrome.exe' cls='Chrome_WidgetWin_1' title='Limit Kewenangan | MASA - Google Chrome' /&gt;" SearchSteps="Selector, FuzzySelector, Image" SelectionStrategy="AA" xmlns="http://schemas.uipath.com/workflow/activities/uix">
+  <imageRef attrName="ImageBase64" xmlns="">0EQrwkYwvCkOo0Yu0SRGipg</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="78006547399c0dc746a94ad18305406f.png" xmlns="">0oXoV9aF1AUaZBOL1gprylQ</imageRef>
+</TargetAnchorable>

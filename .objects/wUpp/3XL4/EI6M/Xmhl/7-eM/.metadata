@@ -1,0 +1,16 @@
+﻿{
+  "Id": "7-eMtXh2_EidUOky3T_8Fw",
+  "Reference": "XmXxxtzE4ke1YN84qKCJ1w/7-eMtXh2_EidUOky3T_8Fw",
+  "ParentRef": "XmXxxtzE4ke1YN84qKCJ1w/Xmhl6m91mEiNykpTlBQb5Q",
+  "Name": "a Modul",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2022-08-04T10:09:42.5504824Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-08-04T10:11:47.0592301Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

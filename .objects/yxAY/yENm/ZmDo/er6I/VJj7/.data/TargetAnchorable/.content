@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetAnchorable ContentHash="RCeSXElC_kyiAOKeyZbUgQ" DesignTimeRectangle="748, 675, 19, 19" ElementType="CheckBox" FriendlyName="'Checkbox'" FullSelectorArgument="&lt;ctrl name='Pertanggungjawaban Uang Muka Perdin Detail | MASA' role='document' /&gt;&lt;ctrl name='Main' role='property page' /&gt;&lt;ctrl name='Is SAP eHCMS' role='check box' /&gt;" FuzzySelectorArgument="&lt;ctrl name='Pertanggungjawaban Uang Muka Perdin Detail | MASA' role='document' /&gt;&lt;ctrl name='Main' role='property page' /&gt;&lt;ctrl name='Is SAP eHCMS' role='check box' automationid='' /&gt;" ScopeSelectorArgument="&lt;wnd app='chrome.exe' cls='Chrome_WidgetWin_1' title='Pertanggungjawaban Uang Muka Perdin Detail | MASA - Google Chrom*' /&gt;" SearchSteps="Selector, FuzzySelector" SelectionStrategy="AA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=mscorlib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <TargetAnchorable.Anchors>
+    <scg:List x:TypeArguments="ITarget" Capacity="4">
+      <Target DesignTimeRectangle="735, 577, 205, 25" ElementType="InputBox" FriendlyName="'Paid'" FullSelectorArgument="&lt;ctrl name='Pertanggungjawaban Uang Muka Perdin Detail | MASA' role='document' /&gt;&lt;ctrl name='Main' role='property page' /&gt;&lt;ctrl idx='24' role='editable text' /&gt;" FuzzySelectorArgument="&lt;ctrl name='Pertanggungjawaban Uang Muka Perdin Detail | MASA' role='document' /&gt;&lt;ctrl name='Main' role='property page' /&gt;&lt;ctrl automationid='' role='editable text' /&gt;" SearchSteps="Selector, FuzzySelector, Image">
+        <imageRef attrName="ImageBase64" xmlns="">06xpfhKkLz0qNYyRhvstKbA</imageRef>
+      </Target>
+    </scg:List>
+  </TargetAnchorable.Anchors>
+  <imageRef attrName="InformativeScreenshot" originalValue="7c48ed99168fb990b1605232abef2dc1.png" xmlns="">0HMP5MQP1IkeLPA4yJictrA</imageRef>
+</TargetAnchorable>

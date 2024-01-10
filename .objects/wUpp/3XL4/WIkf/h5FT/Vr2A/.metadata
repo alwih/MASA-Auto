@@ -1,0 +1,16 @@
+﻿{
+  "Id": "Vr2AIBuMAECfsLnZ7KIxcw",
+  "Reference": "XmXxxtzE4ke1YN84qKCJ1w/Vr2AIBuMAECfsLnZ7KIxcw",
+  "ParentRef": "XmXxxtzE4ke1YN84qKCJ1w/h5FTN_qPGUOcgQm_pmQAxg",
+  "Name": "a Grup File",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2022-08-02T10:41:51.896057Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-08-02T10:44:10.585003Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

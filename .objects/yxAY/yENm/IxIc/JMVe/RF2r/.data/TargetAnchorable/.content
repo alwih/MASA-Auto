@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetAnchorable ContentHash="msxqOXAlsUmLj5CAnJ1R4Q" DesignTimeRectangle="65, 527, 639, 41" ElementType="InputBox" FriendlyName="'editable text'" FullSelectorArgument="&lt;ctrl name='Uang Muka Perdin Detail | MASA' role='document' /&gt;&lt;ctrl name='Main' role='property page' /&gt;&lt;ctrl name='Tanggal Akhir' role='editable text' /&gt;" FuzzySelectorArgument="&lt;ctrl name='Uang Muka Perdin Detail | MASA' role='document' /&gt;&lt;ctrl name='Main' role='property page' /&gt;&lt;ctrl name='Tanggal Akhir' role='editable text' automationid='' /&gt;" ScopeSelectorArgument="&lt;wnd app='chrome.exe' cls='Chrome_WidgetWin_1' title='Uang Muka Perdin Detail | MASA - Google Chrome' /&gt;" SearchSteps="Selector, FuzzySelector, Image" SelectionStrategy="AA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=mscorlib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <TargetAnchorable.Anchors>
+    <scg:List x:TypeArguments="ITarget" Capacity="4">
+      <Target DesignTimeRectangle="65, 503, 313, 25" ElementType="InputBox" FriendlyName="'Tanggal Akhir'" FullSelectorArgument="&lt;ctrl name='Uang Muka Perdin Detail | MASA' role='document' /&gt;&lt;ctrl name='Main' role='property page' /&gt;&lt;ctrl idx='13' role='editable text' /&gt;" FuzzySelectorArgument="&lt;ctrl name='Uang Muka Perdin Detail | MASA' role='document' /&gt;&lt;ctrl name='Main' role='property page' /&gt;&lt;ctrl automationid='' role='editable text' /&gt;" SearchSteps="Selector, FuzzySelector, Image">
+        <imageRef attrName="ImageBase64" xmlns="">1BLEsf7cmQ0Gs5CyP6Po3Xw</imageRef>
+      </Target>
+    </scg:List>
+  </TargetAnchorable.Anchors>
+  <imageRef attrName="ImageBase64" xmlns="">0fabhSjzPkEWIVyBPZ2lA1g</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="3d26526152439b94ffb4b4d95a4b9d01.png" xmlns="">06uQKSAgllUiJHw7ThNbsxw</imageRef>
+</TargetAnchorable>

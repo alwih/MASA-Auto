@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetAnchorable BrowserURL="https://10.243.229.232/MASA/FinancialTransaction.PJUMNonPerdin.aspx" ContentHash="7DtgrcmNqU-fsZLnM-0xrw" DesignTimeRectangle="736, 600, 639, 40" ElementType="InputBox" FriendlyName="'INPUT'" FullSelectorArgument="&lt;webctrl id='wt29_OutSystemsUIWeb_wt18_block_wtContent_wtMainContent_MASA_Fin*' tabindex='122' tag='INPUT' type='text' /&gt;" FuzzySelectorArgument="&lt;webctrl id='wt29_OutSystemsUIWeb_wt18_block_wtContent_wtMainContent_MASA_Fin*' tabindex='122' tag='INPUT' type='text' aaname='' /&gt;" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Pertanggungjawaban Uang Muka Non Perdin Detail | MASA' /&gt;" SearchSteps="FuzzySelector, Image" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=mscorlib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <TargetAnchorable.Anchors>
+    <scg:List x:TypeArguments="ITarget" Capacity="4">
+      <Target DesignTimeRectangle="736, 576, 204, 24" ElementType="Text" FriendlyName="'No. Bukti Setor'" FullSelectorArgument="&lt;webctrl aaname='No. Bukti Setor' parentid='wt29_OutSystemsUIWeb_wt18_block_wtContent_wtMainContent_MASA_Fin*' tag='LABEL' /&gt;" FuzzySelectorArgument="&lt;webctrl aaname='No. Bukti Setor' parentid='wt29_OutSystemsUIWeb_wt18_block_wtContent_wtMainContent_MASA_Fin*' tag='LABEL' type='' check:text='No. Bukti Setor' /&gt;" SearchSteps="FuzzySelector, Image">
+        <imageRef attrName="ImageBase64" xmlns="">13NQaveXNpkChpmJXGE3Z7Q</imageRef>
+      </Target>
+    </scg:List>
+  </TargetAnchorable.Anchors>
+  <imageRef attrName="ImageBase64" xmlns="">0BWwggiANpEaXBE5kOa0gyg</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="f4d1b5b795688bc5e28c26ee554a8399.png" xmlns="">020Z5q6TuXEeCMJwybiS6Hg</imageRef>
+</TargetAnchorable>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetAnchorable BrowserURL="https://10.243.229.232/MASA/ReportTransaksiGagalTransfer.aspx?(Not.Licensed.For.Production)=" ContentHash="fLcf7rUqZUisvCFPwvWNQw" DesignTimeRectangle="608, 441, 229, 35" ElementType="Text" FriendlyName="'Drag &amp;'" FullSelectorArgument="&lt;webctrl id='filepond--drop-label-abp9fo5hu' tag='LABEL' /&gt;" FuzzySelectorArgument="&lt;webctrl id='filepond--drop-label-abp9fo5hu' tag='LABEL' type='' aaname='Drag &amp;amp; Drop your files or ' /&gt;" Reference="XmXxxtzE4ke1YN84qKCJ1w/d5kHVTFFxUObUubZ6-Kszg" ScopeSelectorArgument="&lt;html app='chrome.exe' title='ReportTransaksiGagalTransfer' /&gt;" SearchSteps="Selector, FuzzySelector, Image" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=mscorlib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <TargetAnchorable.Anchors>
+    <scg:List x:TypeArguments="ITarget" Capacity="4">
+      <Target DesignTimeRectangle="492, 418, 462, 80" FriendlyName="'Drag &amp;'" FullSelectorArgument="&lt;webctrl css-selector='body&amp;gt;form&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;main&amp;gt;div&amp;gt;div&amp;gt;span&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div' parentid='wt19_OutSystemsUIWeb_wt18_block_wtContent_wtMainContent_MASA_Rep*' tag='DIV' /&gt;" FuzzySelectorArgument="&lt;webctrl css-selector='body&amp;gt;form&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;main&amp;gt;div&amp;gt;div&amp;gt;span&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div' parentid='wt19_OutSystemsUIWeb_wt18_block_wtContent_wtMainContent_MASA_Rep*' tag='DIV' type='' aaname='' check:text='Drag &amp;amp; Drop your files or Browse' /&gt;" SearchSteps="FuzzySelector, Image">
+        <imageRef attrName="ImageBase64" xmlns="">1CTZIO2us_0uN9v-FDdDIrQ</imageRef>
+      </Target>
+    </scg:List>
+  </TargetAnchorable.Anchors>
+  <imageRef attrName="ImageBase64" xmlns="">0Ly0KbtvddEefnPFLNoLL6w</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="cab870b457e286e3ed502e67d7e4d78c.png" xmlns="">0GJKHSm59YUGAzNXmZzKbPw</imageRef>
+</TargetAnchorable>

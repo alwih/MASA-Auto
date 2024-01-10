@@ -1,0 +1,16 @@
+﻿{
+  "Id": "NOAp9ntjskS12k21nPA8ZA",
+  "Reference": "XmXxxtzE4ke1YN84qKCJ1w/NOAp9ntjskS12k21nPA8ZA",
+  "ParentRef": "XmXxxtzE4ke1YN84qKCJ1w/5W8iKogDi0qSJnq7lmtf2A",
+  "Name": "a Jenis Reimbursement",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2022-08-20T03:29:01.4319589Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-08-20T03:29:18.0541388Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

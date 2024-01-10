@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetAnchorable ContentHash="okar_Zkv10Gv3XbJxaM0Zg" DesignTimeRectangle="84, 580, 19, 19" ElementType="CheckBox" FriendlyName="'Checkbox'" FullSelectorArgument="&lt;ctrl name='ReportFakturPajak' role='document' /&gt;&lt;ctrl idx='3' role='row' /&gt;&lt;ctrl role='check box' /&gt;" FuzzySelectorArgument="&lt;ctrl name='ReportFakturPajak' role='document' /&gt;&lt;ctrl role='row' /&gt;&lt;ctrl role='check box' automationid='' /&gt;" ScopeSelectorArgument="&lt;wnd app='chrome.exe' cls='Chrome_WidgetWin_1' title='ReportFakturPajak - Google Chrome' /&gt;" SearchSteps="FuzzySelector" SelectionStrategy="AA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=mscorlib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <TargetAnchorable.Anchors>
+    <scg:List x:TypeArguments="ITarget" Capacity="4">
+      <Target DesignTimeRectangle="172, 582, 68, 19" ElementType="Text" FriendlyName="'13-06-2022'" FullSelectorArgument="&lt;ctrl name='ReportFakturPajak' role='document' /&gt;&lt;ctrl idx='3' role='row' /&gt;&lt;ctrl name='13-06-2022' role='cell' /&gt;&lt;ctrl name='13-06-2022' role='text' /&gt;" FuzzySelectorArgument="&lt;ctrl name='ReportFakturPajak' role='document' /&gt;&lt;ctrl role='row' /&gt;&lt;ctrl name='13-06-2022' role='cell' /&gt;&lt;ctrl name='13-06-2022' role='text' automationid='' check:text='13-06-2022' /&gt;" SearchSteps="Selector, FuzzySelector, Image">
+        <imageRef attrName="ImageBase64" xmlns="">0SwG0ZXunH0qM9wegZevNww</imageRef>
+      </Target>
+      <Target DesignTimeRectangle="65, 568, 57, 49" ElementType="Cell" FriendlyName="'cell'" FullSelectorArgument="&lt;ctrl name='ReportFakturPajak' role='document' /&gt;&lt;ctrl idx='3' role='row' /&gt;&lt;ctrl role='cell' /&gt;" FuzzySelectorArgument="&lt;ctrl name='ReportFakturPajak' role='document' /&gt;&lt;ctrl role='row' /&gt;&lt;ctrl role='cell' automationid='' /&gt;" SearchSteps="Selector, FuzzySelector, Image">
+        <imageRef attrName="ImageBase64" xmlns="">1nKmslki0_kG1t_tICauoDA</imageRef>
+      </Target>
+    </scg:List>
+  </TargetAnchorable.Anchors>
+  <imageRef attrName="InformativeScreenshot" originalValue="8d50e11b30056413980ed12ecff67f72.png" xmlns="">0InaA3jjulkOon9qQSF3ODQ</imageRef>
+</TargetAnchorable>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetAnchorable ContentHash="2x3drch0p0SvILyHBCdFQw" DesignTimeRectangle="735, 510, 639, 41" ElementType="DropDown" FriendlyName="'-'" FullSelectorArgument="&lt;ctrl name='Uang Muka Non Perdin Detail | MASA' role='document' /&gt;&lt;ctrl name='Mutasi' role='property page' /&gt;&lt;ctrl name='PIC B' role='combo box' /&gt;" FuzzySelectorArgument="&lt;ctrl name='Uang Muka Non Perdin Detail | MASA' role='document' /&gt;&lt;ctrl name='Mutasi' role='property page' /&gt;&lt;ctrl name='PIC B' role='combo box' automationid='' /&gt;" ScopeSelectorArgument="&lt;wnd app='chrome.exe' cls='Chrome_WidgetWin_1' title='Uang Muka Non Perdin Detail | MASA - Google Chrome' /&gt;" SearchSteps="Selector, FuzzySelector" SelectionStrategy="AA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=mscorlib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <TargetAnchorable.Anchors>
+    <scg:List x:TypeArguments="ITarget" Capacity="4">
+      <Target DesignTimeRectangle="735, 486, 422, 25" ElementType="InputBox" FriendlyName="'PIC B'" FullSelectorArgument="&lt;ctrl name='Uang Muka Non Perdin Detail | MASA' role='document' /&gt;&lt;ctrl name='Mutasi' role='property page' /&gt;&lt;ctrl idx='17' role='editable text' /&gt;" FuzzySelectorArgument="&lt;ctrl name='Uang Muka Non Perdin Detail | MASA' role='document' /&gt;&lt;ctrl name='Mutasi' role='property page' /&gt;&lt;ctrl automationid='' role='editable text' /&gt;" SearchSteps="Selector, FuzzySelector, Image">
+        <imageRef attrName="ImageBase64" xmlns="">0qKZb3lbYuUi9tm1PTmt4Ng</imageRef>
+      </Target>
+    </scg:List>
+  </TargetAnchorable.Anchors>
+  <imageRef attrName="InformativeScreenshot" originalValue="2e80a907b4b1c68b4b509a2530a6b4e9.png" xmlns="">0WYml6ZAI6kepCpchDsn_tw</imageRef>
+</TargetAnchorable>

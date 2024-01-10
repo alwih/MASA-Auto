@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetAnchorable ContentHash="jCDarwJJN0O6R4pWfS7rEw" DesignTimeRectangle="48, 337, 435, 41" ElementType="DropDown" FriendlyName="'- Pilih Team -'" FullSelectorArgument="&lt;ctrl name='Master Modul Team Detail | MASA' role='document' /&gt;&lt;ctrl name='Nama Team *' role='combo box' /&gt;" FuzzySelectorArgument="&lt;ctrl name='Master Modul Team Detail | MASA' role='document' /&gt;&lt;ctrl name='Nama Team *' role='combo box' automationid='' /&gt;" ScopeSelectorArgument="&lt;wnd app='chrome.exe' cls='Chrome_WidgetWin_1' title='Master Modul Team Detail | MASA - Google Chrome' /&gt;" SearchSteps="Selector, FuzzySelector" SelectionStrategy="AA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=mscorlib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <TargetAnchorable.Anchors>
+    <scg:List x:TypeArguments="ITarget" Capacity="4">
+      <Target DesignTimeRectangle="48, 313, 211, 25" ElementType="InputBox" FriendlyName="'Nama Team'" FullSelectorArgument="&lt;ctrl name='Master Modul Team Detail | MASA' role='document' /&gt;&lt;ctrl role='editable text' /&gt;" FuzzySelectorArgument="&lt;ctrl name='Master Modul Team Detail | MASA' role='document' /&gt;&lt;ctrl role='editable text' automationid='' /&gt;" SearchSteps="Selector, FuzzySelector, Image">
+        <imageRef attrName="ImageBase64" xmlns="">0D3F8C0hPKEGpZahwaNREPg</imageRef>
+      </Target>
+    </scg:List>
+  </TargetAnchorable.Anchors>
+  <imageRef attrName="InformativeScreenshot" originalValue="1ad6f258e710042b2aca9823fe328391.png" xmlns="">0TN9W1XteTUyyKi4J9eOv4g</imageRef>
+</TargetAnchorable>

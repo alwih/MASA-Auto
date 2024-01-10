@@ -1,0 +1,15 @@
+﻿{
+  "Id": "KgN92FwBxUCx9Zy81Etleg",
+  "Reference": "XmXxxtzE4ke1YN84qKCJ1w/KgN92FwBxUCx9Zy81Etleg",
+  "ParentRef": "XmXxxtzE4ke1YN84qKCJ1w/3XL4ZboadUieKFsQ0wfrZQ",
+  "Name": "Rekening",
+  "Type": "Screen",
+  "Created": "2022-07-28T04:21:46.3962301Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-07-28T04:22:09.0049065Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

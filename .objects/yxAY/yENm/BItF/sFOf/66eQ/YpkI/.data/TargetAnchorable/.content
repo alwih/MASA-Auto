@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetAnchorable ContentHash="KPBsSiz90k6OkL4gdsu3bg" DesignTimeRectangle="1092, 488, 160, 41" ElementType="Button" FriendlyName="'Tambah Dokumen'" FullSelectorArgument="&lt;ctrl name='Uang Muka Non Perdin Detail | MASA' role='document' /&gt;&lt;ctrl name='Detail' role='property page' /&gt;&lt;ctrl name='Nomor Rekening' role='property page' /&gt;&lt;ctrl name='Tambah Dokumen' role='push button' /&gt;" FuzzySelectorArgument="&lt;ctrl name='Uang Muka Non Perdin Detail | MASA' role='document' /&gt;&lt;ctrl name='Detail' role='property page' /&gt;&lt;ctrl name='Nomor Rekening' role='property page' /&gt;&lt;ctrl name='Tambah Dokumen' role='push button' automationid='' check:text='Tambah Dokumen' /&gt;" ScopeSelectorArgument="&lt;wnd app='chrome.exe' cls='Chrome_WidgetWin_1' title='Uang Muka Non Perdin Detail | MASA - Google Chrome' /&gt;" SearchSteps="Selector, FuzzySelector, Image" SelectionStrategy="AA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=mscorlib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <TargetAnchorable.Anchors>
+    <scg:List x:TypeArguments="ITarget" Capacity="4">
+      <Target DesignTimeRectangle="1271, 488, 103, 41" ElementType="Button" FriendlyName="'Download'" FullSelectorArgument="&lt;ctrl name='Uang Muka Non Perdin Detail | MASA' role='document' /&gt;&lt;ctrl name='Detail' role='property page' /&gt;&lt;ctrl name='Nomor Rekening' role='property page' /&gt;&lt;ctrl name='Download' role='push button' /&gt;" FuzzySelectorArgument="&lt;ctrl name='Uang Muka Non Perdin Detail | MASA' role='document' /&gt;&lt;ctrl name='Detail' role='property page' /&gt;&lt;ctrl name='Nomor Rekening' role='property page' /&gt;&lt;ctrl name='Download' role='push button' automationid='' check:text='Download' /&gt;" SearchSteps="Selector, FuzzySelector, Image">
+        <imageRef attrName="ImageBase64" xmlns="">1beOsy9DQP0yTate31xOSJw</imageRef>
+      </Target>
+    </scg:List>
+  </TargetAnchorable.Anchors>
+  <imageRef attrName="ImageBase64" xmlns="">0m36nIxzoU02G1x-7C6X_0w</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="e7c6c102084aa4e7fda565270fe8ee47.png" xmlns="">0qbPePzpOr0quX2DymgDmIw</imageRef>
+</TargetAnchorable>

@@ -1,0 +1,16 @@
+﻿{
+  "Id": "kXThgRg_eUaCgR2md11uTw",
+  "Reference": "XmXxxtzE4ke1YN84qKCJ1w/kXThgRg_eUaCgR2md11uTw",
+  "ParentRef": "XmXxxtzE4ke1YN84qKCJ1w/EVpX8ZAaLEGFWhGTz_mdxg",
+  "Name": "a Nomor UM",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2022-05-30T06:54:55.515516Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-05-30T06:56:11.2698224Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

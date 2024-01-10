@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetAnchorable ContentHash="uTU4UbjfpUWXwQj0grVfYg" DesignTimeRectangle="735, 478, 639, 41" FriendlyName="'-Select URC-'" FullSelectorArgument="&lt;ctrl name='Petty Cash Detail | MASA' role='document' /&gt;&lt;ctrl name='Main' role='property page' /&gt;&lt;ctrl idx='14' role='grouping' /&gt;" FuzzySelectorArgument="&lt;ctrl name='Petty Cash Detail | MASA' role='document' /&gt;&lt;ctrl name='Main' role='property page' /&gt;&lt;ctrl automationid='' role='grouping' check:fulltext='-Select URC-' /&gt;" ScopeSelectorArgument="&lt;wnd app='chrome.exe' cls='Chrome_WidgetWin_1' title='Petty Cash Detail | MASA - Google Chrome' /&gt;" SearchSteps="FuzzySelector, Image" SelectionStrategy="AA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=mscorlib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <TargetAnchorable.Anchors>
+    <scg:List x:TypeArguments="ITarget" Capacity="4">
+      <Target DesignTimeRectangle="735, 454, 205, 25" ElementType="InputBox" FriendlyName="'Kode URC Group'" FullSelectorArgument="&lt;ctrl name='Petty Cash Detail | MASA' role='document' /&gt;&lt;ctrl name='Main' role='property page' /&gt;&lt;ctrl idx='14' role='editable text' /&gt;" FuzzySelectorArgument="&lt;ctrl name='Petty Cash Detail | MASA' role='document' /&gt;&lt;ctrl name='Main' role='property page' /&gt;&lt;ctrl automationid='' role='editable text' /&gt;" SearchSteps="Selector, FuzzySelector, Image">
+        <imageRef attrName="ImageBase64" xmlns="">1CNK_57Ae-UeElgATu6dKNA</imageRef>
+      </Target>
+    </scg:List>
+  </TargetAnchorable.Anchors>
+  <imageRef attrName="ImageBase64" xmlns="">0fSUkUu962k-t9jALDlT0Ig</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="3b2c12c0107aacf5f12d535b53e9355f.png" xmlns="">0TtFl4sM6PkO-6ACpPuZcHQ</imageRef>
+</TargetAnchorable>

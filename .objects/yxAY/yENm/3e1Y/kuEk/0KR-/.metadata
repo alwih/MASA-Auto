@@ -1,0 +1,16 @@
+﻿{
+  "Id": "0KR-jWpVYEu3Mn6AXDiJHw",
+  "Reference": "XmXxxtzE4ke1YN84qKCJ1w/0KR-jWpVYEu3Mn6AXDiJHw",
+  "ParentRef": "XmXxxtzE4ke1YN84qKCJ1w/kuEks7dypEeX5gOwRQZyUA",
+  "Name": "o Master Asset",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2022-04-19T08:25:47.8313144Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-04-19T08:26:03.2301857Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

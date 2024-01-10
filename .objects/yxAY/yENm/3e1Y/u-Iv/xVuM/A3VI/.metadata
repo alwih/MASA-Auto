@@ -1,0 +1,16 @@
+﻿{
+  "Id": "A3VI7uRFgEmgL8M--aabbA",
+  "Reference": "XmXxxtzE4ke1YN84qKCJ1w/A3VI7uRFgEmgL8M--aabbA",
+  "ParentRef": "XmXxxtzE4ke1YN84qKCJ1w/xVuMNPEfXkWtudmsK7KbOg",
+  "Name": "9 Ket Beban Group",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2022-04-19T08:54:31.6154641Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-04-19T09:02:23.6719316Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

@@ -1,0 +1,14 @@
+﻿{
+  "Id": "qYb_OHNI9US7ioP0jH4miA",
+  "Reference": "XmXxxtzE4ke1YN84qKCJ1w/qYb_OHNI9US7ioP0jH4miA",
+  "ParentRef": "XmXxxtzE4ke1YN84qKCJ1w/FRIjL8XXF0KcZPSYvVN1RA",
+  "Name": "Extract Table Data - Limit Kewenangan",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2022-07-27T09:15:19.0960373Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=21.4.4.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-07-27T09:15:19.0960373Z"
+}

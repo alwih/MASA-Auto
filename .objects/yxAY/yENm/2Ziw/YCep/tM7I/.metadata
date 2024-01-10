@@ -1,0 +1,16 @@
+﻿{
+  "Id": "tM7I82J2uE6IPDH8cY12Lg",
+  "Reference": "XmXxxtzE4ke1YN84qKCJ1w/tM7I82J2uE6IPDH8cY12Lg",
+  "ParentRef": "XmXxxtzE4ke1YN84qKCJ1w/YCepkdxQQUWoV2DzFFSpqQ",
+  "Name": "a Jenis Pajak",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2022-04-20T04:40:50.5075281Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-04-20T04:41:11.4969918Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

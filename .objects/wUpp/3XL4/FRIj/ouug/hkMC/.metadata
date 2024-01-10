@@ -1,0 +1,16 @@
+﻿{
+  "Id": "hkMCdTWF1kaFfega4p8SAA",
+  "Reference": "XmXxxtzE4ke1YN84qKCJ1w/hkMCdTWF1kaFfega4p8SAA",
+  "ParentRef": "XmXxxtzE4ke1YN84qKCJ1w/ouugGXjs-E2yzDx4SIgTHw",
+  "Name": "Kategori",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2022-07-27T05:39:03.9427728Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-07-27T05:40:38.030842Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

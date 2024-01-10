@@ -1,0 +1,16 @@
+﻿{
+  "Id": "SbU1nZact0iw8IqxtAC_Zw",
+  "Reference": "XmXxxtzE4ke1YN84qKCJ1w/SbU1nZact0iw8IqxtAC_Zw",
+  "ParentRef": "XmXxxtzE4ke1YN84qKCJ1w/efPlp2vOKkS0bwxd3TGZhQ",
+  "Name": "4 Tgl Akhir",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2022-05-10T06:56:25.8903835Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-05-10T06:56:42.318408Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

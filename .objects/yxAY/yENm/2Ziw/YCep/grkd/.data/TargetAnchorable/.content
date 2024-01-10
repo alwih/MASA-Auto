@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetAnchorable BrowserURL="https://10.243.229.232/MASA/FPP_Pajak_NonPajak.aspx" ContentHash="GTPx2axZ0Uu-z2KBqsGAnw" DesignTimeRectangle="736, 598, 623, 40" FriendlyName="'- Pilih'" FullSelectorArgument="&lt;webctrl css-selector='body&amp;gt;form&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;main&amp;gt;div&amp;gt;div&amp;gt;span&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div' idx='7' parentid='wt17_OutSystemsUIWeb_wt18_block_wtContent_wtMainContent_MASA_Fin*' parentname='wt17$OutSystemsUIWeb_wt18$block$wtContent$wtMainContent$MASA_Fin*' tag='DIV' /&gt;" FuzzySelectorArgument="&lt;webctrl css-selector='body&amp;gt;form&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;main&amp;gt;div&amp;gt;div&amp;gt;span&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div' type='' parentid='wt17_OutSystemsUIWeb_wt18_block_wtContent_wtMainContent_MASA_Fin*' parentname='wt17$OutSystemsUIWeb_wt18$block$wtContent$wtMainContent$MASA_Fin*' tag='DIV' aaname='' check:text='- Pilih Valuta -&amp;#xA;              - Pilih Valuta -&amp;#xA;                Remove item' /&gt;" ScopeSelectorArgument="&lt;html app='chrome.exe' title='FPP Pajak / Non Pajak Detail | MASA' /&gt;" SearchSteps="FuzzySelector, Image" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=mscorlib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <TargetAnchorable.Anchors>
+    <scg:List x:TypeArguments="ITarget" Capacity="4">
+      <Target DesignTimeRectangle="734, 572, 203, 28" ElementType="Text" FriendlyName="'Valuta'" FullSelectorArgument="&lt;webctrl aaname='Valuta' parentid='wt17_OutSystemsUIWeb_wt18_block_wtContent_wtMainContent_MASA_Fin*' tag='LABEL' /&gt;" FuzzySelectorArgument="&lt;webctrl aaname='Valuta' parentid='wt17_OutSystemsUIWeb_wt18_block_wtContent_wtMainContent_MASA_Fin*' tag='LABEL' type='' check:text='Valuta' /&gt;" SearchSteps="FuzzySelector, Image">
+        <imageRef attrName="ImageBase64" xmlns="">1UNFwDUdxA0q_-fBR7qyltQ</imageRef>
+      </Target>
+    </scg:List>
+  </TargetAnchorable.Anchors>
+  <imageRef attrName="ImageBase64" xmlns="">0VEuKIJQt5Uy3DHUnko302A</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="58113afe68d26d5c52d5a012a93a5af3.png" xmlns="">0Mzmg_MJcME6HWthj4Mj6iQ</imageRef>
+</TargetAnchorable>

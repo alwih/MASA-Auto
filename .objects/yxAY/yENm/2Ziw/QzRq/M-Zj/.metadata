@@ -1,0 +1,16 @@
+﻿{
+  "Id": "M-Zjp5ivtkumTq_qiz9-1A",
+  "Reference": "XmXxxtzE4ke1YN84qKCJ1w/M-Zjp5ivtkumTq_qiz9-1A",
+  "ParentRef": "XmXxxtzE4ke1YN84qKCJ1w/QzRqNweJK0OWVnDhtzB4yg",
+  "Name": "2.2 Jenis Pembayaran",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2022-04-20T06:52:02.2652744Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-04-20T06:52:51.6905559Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

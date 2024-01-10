@@ -1,0 +1,16 @@
+﻿{
+  "Id": "JFTrG7_c00OJQhgrMGVDxQ",
+  "Reference": "XmXxxtzE4ke1YN84qKCJ1w/JFTrG7_c00OJQhgrMGVDxQ",
+  "ParentRef": "XmXxxtzE4ke1YN84qKCJ1w/TTAI37W6G0KXIBf9tAg3DA",
+  "Name": "Action: Icon Edit",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2022-08-11T00:00:40.3737424Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-08-11T00:01:12.0535065Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetAnchorable ContentHash="jf11XPXYdkGOGSwew8shMw" DesignTimeRectangle="73, 637, 18, 19" ElementType="CheckBox" FriendlyName="'Checkbox'" FullSelectorArgument="&lt;ctrl name='ReportTransaksiGagalTransfer' role='document' /&gt;&lt;ctrl idx='4' role='row' /&gt;&lt;ctrl role='check box' /&gt;" FuzzySelectorArgument="&lt;ctrl name='ReportTransaksiGagalTransfer' role='document' /&gt;&lt;ctrl role='row' /&gt;&lt;ctrl role='check box' automationid='' /&gt;" ScopeSelectorArgument="&lt;wnd app='chrome.exe' cls='Chrome_WidgetWin_1' title='ReportTransaksiGagalTransfer - Google Chrome' /&gt;" SearchSteps="FuzzySelector" SelectionStrategy="AA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=mscorlib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <TargetAnchorable.Anchors>
+    <scg:List x:TypeArguments="ITarget" Capacity="4">
+      <Target DesignTimeRectangle="161, 625, 101, 49" ElementType="Cell" FriendlyName="'A'" FullSelectorArgument="&lt;ctrl name='ReportTransaksiGagalTransfer' role='document' /&gt;&lt;ctrl idx='4' role='row' /&gt;&lt;ctrl name='A' role='cell' /&gt;" FuzzySelectorArgument="&lt;ctrl name='ReportTransaksiGagalTransfer' role='document' /&gt;&lt;ctrl role='row' /&gt;&lt;ctrl name='A' role='cell' automationid='' /&gt;" SearchSteps="Selector, FuzzySelector, Image">
+        <imageRef attrName="ImageBase64" xmlns="">0mBA-NJFj30i8Tri-vUfcNA</imageRef>
+      </Target>
+      <Target DesignTimeRectangle="65, 625, 40, 49" ElementType="Cell" FriendlyName="'cell'" FullSelectorArgument="&lt;ctrl name='ReportTransaksiGagalTransfer' role='document' /&gt;&lt;ctrl idx='4' role='row' /&gt;&lt;ctrl role='cell' /&gt;" FuzzySelectorArgument="&lt;ctrl name='ReportTransaksiGagalTransfer' role='document' /&gt;&lt;ctrl role='row' /&gt;&lt;ctrl role='cell' automationid='' /&gt;" SearchSteps="Selector, FuzzySelector, Image">
+        <imageRef attrName="ImageBase64" xmlns="">1zk4zmY-pDU615qXd8bXIFA</imageRef>
+      </Target>
+    </scg:List>
+  </TargetAnchorable.Anchors>
+  <imageRef attrName="InformativeScreenshot" originalValue="565628b6d505fd49ab1b7bae7fcae681.png" xmlns="">0RR-Sg9gXV0SJzpVpj7JMyg</imageRef>
+</TargetAnchorable>

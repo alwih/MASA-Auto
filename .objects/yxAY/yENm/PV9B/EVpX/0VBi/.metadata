@@ -1,0 +1,16 @@
+﻿{
+  "Id": "0VBi005ZWUy2-hu9R7MA1g",
+  "Reference": "XmXxxtzE4ke1YN84qKCJ1w/0VBi005ZWUy2-hu9R7MA1g",
+  "ParentRef": "XmXxxtzE4ke1YN84qKCJ1w/EVpX8ZAaLEGFWhGTz_mdxg",
+  "Name": "d Is FormSetoran",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2022-05-30T06:57:28.6417073Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-05-30T06:58:57.9927705Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

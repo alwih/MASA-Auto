@@ -1,0 +1,16 @@
+﻿{
+  "Id": "TlAxFqpyKkqIDzdmajsqwA",
+  "Reference": "XmXxxtzE4ke1YN84qKCJ1w/TlAxFqpyKkqIDzdmajsqwA",
+  "ParentRef": "XmXxxtzE4ke1YN84qKCJ1w/u-Ivu-jzEk6c0xLyXBwf5w",
+  "Name": "2.3 Tab Dokumen",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2022-04-19T08:39:37.7812502Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-04-19T08:40:04.2840472Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

@@ -1,0 +1,16 @@
+﻿{
+  "Id": "zm0BvUKeh0aLZ1a3X3CAMg",
+  "Reference": "XmXxxtzE4ke1YN84qKCJ1w/zm0BvUKeh0aLZ1a3X3CAMg",
+  "ParentRef": "XmXxxtzE4ke1YN84qKCJ1w/YCepkdxQQUWoV2DzFFSpqQ",
+  "Name": "n Bank Penerima",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2022-04-20T06:31:29.9711503Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-04-20T06:32:06.3570408Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

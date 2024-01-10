@@ -1,0 +1,16 @@
+﻿{
+  "Id": "PTu-qCqudEmG_T1QyeEF4w",
+  "Reference": "XmXxxtzE4ke1YN84qKCJ1w/PTu-qCqudEmG_T1QyeEF4w",
+  "ParentRef": "XmXxxtzE4ke1YN84qKCJ1w/eXE5t3-b-Eijntqt78ZAIA",
+  "Name": "Btn: Modul Team",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2022-08-04T12:15:23.3022598Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-08-04T12:15:36.5126096Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

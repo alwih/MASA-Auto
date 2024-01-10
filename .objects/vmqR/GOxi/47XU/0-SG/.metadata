@@ -1,0 +1,14 @@
+﻿{
+  "Id": "0-SGNuRp5EKw2uo8cyD-xg",
+  "Reference": "XmXxxtzE4ke1YN84qKCJ1w/0-SGNuRp5EKw2uo8cyD-xg",
+  "ParentRef": "XmXxxtzE4ke1YN84qKCJ1w/47XUujyua0SCy1qZodMkkw",
+  "Name": "Extract Table Data: Assign PIC",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2022-06-20T04:34:42.6511602Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=21.4.4.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-06-20T04:34:42.6511602Z"
+}

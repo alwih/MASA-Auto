@@ -1,0 +1,16 @@
+﻿{
+  "Id": "b81Vkdr1GE-AIEEitIL2RQ",
+  "Reference": "XmXxxtzE4ke1YN84qKCJ1w/b81Vkdr1GE-AIEEitIL2RQ",
+  "ParentRef": "XmXxxtzE4ke1YN84qKCJ1w/pmbhmA3XAk-DsDQ0z3viVg",
+  "Name": "e Draft Submitted",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2022-08-24T02:11:31.3576942Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-08-24T02:12:13.5030476Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

@@ -1,0 +1,16 @@
+﻿{
+  "Id": "rR8cnDn_n0mLyOA3DJx4Lg",
+  "Reference": "XmXxxtzE4ke1YN84qKCJ1w/rR8cnDn_n0mLyOA3DJx4Lg",
+  "ParentRef": "XmXxxtzE4ke1YN84qKCJ1w/G_gLhC9YYEqM497Ms6izWg",
+  "Name": "b Nama Parameter",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2022-07-28T03:45:12.8648142Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-07-28T03:45:29.1059411Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

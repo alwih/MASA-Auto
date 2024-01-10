@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetAnchorable BrowserURL="https://10.243.229.27/MASA/OrderList.aspx?(Not.Licensed.For.Production)=" ContentHash="bNjJ6Pv5X0KdJ3nIqQlghQ" DesignTimeRectangle="595, 760, 61, 32" ElementType="Button" FriendlyName="'Complete Document'" FullSelectorArgument="&lt;webctrl aaname='Complete Document' id='wt13_OutSystemsUIWeb_wt18_block_wtContent_wtMainContent_MASA_SHA*' tag='INPUT' type='submit' /&gt;" FuzzySelectorArgument="&lt;webctrl aaname='*' id='wt13_OutSystemsUIWeb_wt18_block_wtContent_wtMainContent_MASA_SHA*' tag='INPUT' type='submit' /&gt;" Reference="XmXxxtzE4ke1YN84qKCJ1w/dkgbYaD85kuaPSMKR_RocQ" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Order List | MASA' /&gt;" SearchSteps="FuzzySelector, Image" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=mscorlib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <TargetAnchorable.Anchors>
+    <scg:List x:TypeArguments="ITarget" Capacity="4">
+      <Target DesignTimeRectangle="522, 760, 56, 32" ElementType="Button" FriendlyName="'Cancel'" FullSelectorArgument="&lt;webctrl aaname='Cancel' id='wt13_OutSystemsUIWeb_wt18_block_wtContent_wtMainContent_MASA_SHA*' tag='INPUT' type='submit' /&gt;" FuzzySelectorArgument="&lt;webctrl aaname='Cancel' id='wt13_OutSystemsUIWeb_wt18_block_wtContent_wtMainContent_MASA_SHA*' tag='INPUT' type='submit' check:text='Cancel' /&gt;" SearchSteps="FuzzySelector, Image">
+        <imageRef attrName="ImageBase64" xmlns="">1W9bIbQedTUy7J2-0X2Jvkw</imageRef>
+      </Target>
+    </scg:List>
+  </TargetAnchorable.Anchors>
+  <imageRef attrName="ImageBase64" xmlns="">0fYy7mOlzcU2TMGYi50I1uw</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="4735f30f08d0538809848a95d7b6ea4f.png" xmlns="">0MIDTRfETyki04SLGXWmKnQ</imageRef>
+</TargetAnchorable>

@@ -1,0 +1,16 @@
+﻿{
+  "Id": "lyzKdl10cESI21r4g7RM4g",
+  "Reference": "XmXxxtzE4ke1YN84qKCJ1w/lyzKdl10cESI21r4g7RM4g",
+  "ParentRef": "XmXxxtzE4ke1YN84qKCJ1w/jU2sn4NRp0-V-LkSNwrWkg",
+  "Name": "5 Perihal",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2022-04-19T08:12:31.0078137Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-04-19T08:12:42.0635142Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

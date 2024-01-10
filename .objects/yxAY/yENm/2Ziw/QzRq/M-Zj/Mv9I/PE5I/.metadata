@@ -1,0 +1,16 @@
+﻿{
+  "Id": "PE5IMkaHZESRLmOkIX_-Jg",
+  "Reference": "XmXxxtzE4ke1YN84qKCJ1w/PE5IMkaHZESRLmOkIX_-Jg",
+  "ParentRef": "XmXxxtzE4ke1YN84qKCJ1w/Mv9Iid_SVUy9d_dDW9yWOA",
+  "Name": "5 Nilai Potongan",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2022-04-20T07:05:42.159704Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-04-20T07:06:16.3881587Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

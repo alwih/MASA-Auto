@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetAnchorable ContentHash="4NyohFI2i02wu6zTyfz48g" DesignTimeRectangle="451, 110, 171, 21" FriendlyName="'Data berhasil disimpan.'" FullSelectorArgument="&lt;ctrl name='FPP Pajak / Non Pajak Detail | MASA' role='document' /&gt;&lt;ctrl idx='23' role='grouping' /&gt;" FuzzySelectorArgument="&lt;ctrl name='FPP Pajak / Non Pajak Detail | MASA' role='document' /&gt;&lt;ctrl automationid='' role='grouping' check:text='Data berhasil disimpan.' /&gt;" ScopeSelectorArgument="&lt;wnd app='chrome.exe' cls='Chrome_WidgetWin_1' title='FPP Pajak / Non Pajak Detail | MASA - Google Chrome' /&gt;" SearchSteps="FuzzySelector, Image" SelectionStrategy="AA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=mscorlib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <TargetAnchorable.Anchors>
+    <scg:List x:TypeArguments="ITarget" Capacity="4">
+      <Target DesignTimeRectangle="419, 101, 601, 39" FriendlyName="'grouping'" FullSelectorArgument="&lt;ctrl name='FPP Pajak / Non Pajak Detail | MASA' role='document' /&gt;&lt;ctrl idx='14' role='grouping' /&gt;" FuzzySelectorArgument="&lt;ctrl name='FPP Pajak / Non Pajak Detail | MASA' role='document' /&gt;&lt;ctrl automationid='' role='grouping' /&gt;" SearchSteps="Selector, FuzzySelector, Image">
+        <imageRef attrName="ImageBase64" xmlns="">1nEkqiS2RFUqpravdRKy1tg</imageRef>
+      </Target>
+    </scg:List>
+  </TargetAnchorable.Anchors>
+  <imageRef attrName="ImageBase64" xmlns="">0U6721Sg-DUaZhICOp0Uqvw</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="adae164318bd0fbeb35c6f0e66fd479a.png" xmlns="">04GbyvOslVk-SiqRKcmQUHQ</imageRef>
+</TargetAnchorable>

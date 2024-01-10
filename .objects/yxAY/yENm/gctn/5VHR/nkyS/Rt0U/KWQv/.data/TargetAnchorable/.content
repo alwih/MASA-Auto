@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetAnchorable ContentHash="Ew_2NNjeZEGUT4doz8tmkg" DesignTimeRectangle="613, 612, 22, 22" FriendlyName="''" FullSelectorArgument="&lt;ctrl name='Kasbon Detail | MASA' role='document' /&gt;&lt;ctrl name='Detail' role='property page' /&gt;&lt;ctrl name='Accounting' role='property page' /&gt;&lt;ctrl idx='2' role='grouping' /&gt;" FuzzySelectorArgument="&lt;ctrl name='Kasbon Detail | MASA' role='document' /&gt;&lt;ctrl name='Detail' role='property page' /&gt;&lt;ctrl name='Accounting' role='property page' /&gt;&lt;ctrl automationid='' role='grouping' check:text='' /&gt;" ScopeSelectorArgument="&lt;wnd app='chrome.exe' cls='Chrome_WidgetWin_1' title='Kasbon Detail | MASA - Google Chrome' /&gt;" SearchSteps="FuzzySelector, Image" SelectionStrategy="AA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=mscorlib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <TargetAnchorable.Anchors>
+    <scg:List x:TypeArguments="ITarget" Capacity="4">
+      <Target DesignTimeRectangle="652, 612, 21, 22" FriendlyName="''" FullSelectorArgument="&lt;ctrl name='Kasbon Detail | MASA' role='document' /&gt;&lt;ctrl name='Detail' role='property page' /&gt;&lt;ctrl name='Accounting' role='property page' /&gt;&lt;ctrl idx='3' role='grouping' /&gt;" FuzzySelectorArgument="&lt;ctrl name='Kasbon Detail | MASA' role='document' /&gt;&lt;ctrl name='Detail' role='property page' /&gt;&lt;ctrl name='Accounting' role='property page' /&gt;&lt;ctrl automationid='' role='grouping' check:text='' /&gt;" SearchSteps="Selector, FuzzySelector, Image">
+        <imageRef attrName="ImageBase64" xmlns="">1DN5jaUwxkEeOgloXMx_DZw</imageRef>
+      </Target>
+      <Target DesignTimeRectangle="692, 613, 18, 19" FriendlyName="''" FullSelectorArgument="&lt;ctrl name='Kasbon Detail | MASA' role='document' /&gt;&lt;ctrl name='Detail' role='property page' /&gt;&lt;ctrl name='Accounting' role='property page' /&gt;&lt;ctrl idx='4' role='grouping' /&gt;" FuzzySelectorArgument="&lt;ctrl name='Kasbon Detail | MASA' role='document' /&gt;&lt;ctrl name='Detail' role='property page' /&gt;&lt;ctrl name='Accounting' role='property page' /&gt;&lt;ctrl automationid='' role='grouping' check:text='' /&gt;" SearchSteps="Selector, FuzzySelector, Image">
+        <imageRef attrName="ImageBase64" xmlns="">2QgdtstN3OUWXgqe2LQ65yw</imageRef>
+      </Target>
+    </scg:List>
+  </TargetAnchorable.Anchors>
+  <imageRef attrName="ImageBase64" xmlns="">0VTNLdlKL8kmUT8JkREVV_g</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="2d18ad2ae1612edcbd00471080289cc2.png" xmlns="">05219p1s9XUCVRE2_hFpScQ</imageRef>
+</TargetAnchorable>

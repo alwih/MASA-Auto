@@ -1,0 +1,16 @@
+﻿{
+  "Id": "RfRr3z66_kWJbVwhFJ-fvg",
+  "Reference": "XmXxxtzE4ke1YN84qKCJ1w/RfRr3z66_kWJbVwhFJ-fvg",
+  "ParentRef": "XmXxxtzE4ke1YN84qKCJ1w/kuEks7dypEeX5gOwRQZyUA",
+  "Name": "q Tipe Dokumen",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2022-04-19T08:26:27.4479671Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-04-19T08:27:07.3004942Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

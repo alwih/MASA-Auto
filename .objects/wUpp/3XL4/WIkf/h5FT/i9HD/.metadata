@@ -1,0 +1,16 @@
+﻿{
+  "Id": "i9HDBl4I8EiBciUX_KSxbQ",
+  "Reference": "XmXxxtzE4ke1YN84qKCJ1w/i9HDBl4I8EiBciUX_KSxbQ",
+  "ParentRef": "XmXxxtzE4ke1YN84qKCJ1w/h5FTN_qPGUOcgQm_pmQAxg",
+  "Name": "c Nama Link",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2022-08-02T10:44:22.8961929Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-08-02T10:44:50.4928479Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

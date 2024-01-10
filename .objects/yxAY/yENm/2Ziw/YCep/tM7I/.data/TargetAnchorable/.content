@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetAnchorable BrowserURL="https://10.243.229.232/MASA/FPP_Pajak_NonPajak.aspx" ContentHash="WjL6JwxNIka7L8wnH2BpSg" DesignTimeRectangle="81, 450, 623, 40" ElementType="DropDown" FriendlyName="'Pajak'" FullSelectorArgument="&lt;webctrl tag='SELECT' /&gt;" FuzzySelectorArgument="&lt;webctrl tag='SELECT' type='' aaname='Jenis Pajak' /&gt;" ScopeSelectorArgument="&lt;html app='chrome.exe' title='FPP Pajak / Non Pajak Detail | MASA' /&gt;" SearchSteps="FuzzySelector" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=mscorlib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <TargetAnchorable.Anchors>
+    <scg:List x:TypeArguments="ITarget" Capacity="4">
+      <Target DesignTimeRectangle="81, 426, 305, 24" ElementType="Text" FriendlyName="'Jenis Pajak'" FullSelectorArgument="&lt;webctrl parentid='wt17_OutSystemsUIWeb_wt18_block_wtContent_wtMainContent_MASA_Fin*' tag='LABEL' /&gt;" FuzzySelectorArgument="&lt;webctrl parentid='wt17_OutSystemsUIWeb_wt18_block_wtContent_wtMainContent_MASA_Fin*' tag='LABEL' type='' aaname='Jenis Pajak' check:text='Jenis Pajak' /&gt;" SearchSteps="FuzzySelector, Image">
+        <imageRef attrName="ImageBase64" xmlns="">0Vu9IEyWW9kiAc7rHqby6yg</imageRef>
+      </Target>
+    </scg:List>
+  </TargetAnchorable.Anchors>
+  <imageRef attrName="InformativeScreenshot" originalValue="cd9b7c76f1ab92a1ce320f675e9c4ccb.png" xmlns="">0vKNMAnr1QUO87m4PcF832A</imageRef>
+</TargetAnchorable>

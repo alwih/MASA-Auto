@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetAnchorable BrowserURL="https://10.243.229.232/MASA/FinancialTransaction.FPP_SetoranMaterai.aspx" ContentHash="pisfrolS3kGx3cwrcEacrQ" DesignTimeRectangle="739, 518, 395, 40" ElementType="InputBox" FriendlyName="'0,00'" FullSelectorArgument="&lt;webctrl aaname='Sisa Anggaran' id='wt10_OutSystemsUIWeb_wt18_block_wtContent_wtMainContent_MASA_Fin*' parentname='wt10$OutSystemsUIWeb_wt18$block$wtContent$wtMainContent$MASA_Fin*' tag='INPUT' type='text' /&gt;" FuzzySelectorArgument="&lt;webctrl aaname='Sisa Anggaran' id='wt10_OutSystemsUIWeb_wt18_block_wtContent_wtMainContent_MASA_Fin*' parentname='wt10$OutSystemsUIWeb_wt18$block$wtContent$wtMainContent$MASA_Fin*' tag='INPUT' type='text' /&gt;" ScopeSelectorArgument="&lt;html app='chrome.exe' title='FPP Setoran Materai Detail | MASA' /&gt;" SearchSteps="FuzzySelector, Image" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=mscorlib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <TargetAnchorable.Anchors>
+    <scg:List x:TypeArguments="ITarget" Capacity="4">
+      <Target DesignTimeRectangle="739, 494, 261, 24" ElementType="Text" FriendlyName="'Sisa Anggaran'" FullSelectorArgument="&lt;webctrl aaname='Sisa Anggaran' parentid='wt10_OutSystemsUIWeb_wt18_block_wtContent_wtMainContent_MASA_Fin*' parentname='wt10$OutSystemsUIWeb_wt18$block$wtContent$wtMainContent$MASA_Fin*' tag='LABEL' /&gt;" FuzzySelectorArgument="&lt;webctrl aaname='Sisa Anggaran' parentid='wt10_OutSystemsUIWeb_wt18_block_wtContent_wtMainContent_MASA_Fin*' parentname='wt10$OutSystemsUIWeb_wt18$block$wtContent$wtMainContent$MASA_Fin*' tag='LABEL' type='' check:text='Sisa Anggaran' /&gt;" SearchSteps="FuzzySelector, Image">
+        <imageRef attrName="ImageBase64" xmlns="">6HWNI5WShW0WbUw471W0gMw</imageRef>
+      </Target>
+    </scg:List>
+  </TargetAnchorable.Anchors>
+  <imageRef attrName="ImageBase64" xmlns="">05MFFgSE9X0y9vOpgG261rg</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="dcca343c6d48f91c7d0a97da2ec8a8f9.png" xmlns="">0HCTIpfP76UewbMoMRTpZ2g</imageRef>
+</TargetAnchorable>

@@ -1,0 +1,16 @@
+﻿{
+  "Id": "HJ1ux1R9Q0WrndRYsG3b8g",
+  "Reference": "XmXxxtzE4ke1YN84qKCJ1w/HJ1ux1R9Q0WrndRYsG3b8g",
+  "ParentRef": "XmXxxtzE4ke1YN84qKCJ1w/pzkvE5_xZ02x_1-Vs7X6Bw",
+  "Name": "Note Complete Doc",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2022-04-27T08:01:56.8499341Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-04-27T08:02:14.6034599Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

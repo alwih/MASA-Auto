@@ -1,0 +1,16 @@
+﻿{
+  "Id": "npLo-SpvckakwbSEcWTSvg",
+  "Reference": "XmXxxtzE4ke1YN84qKCJ1w/npLo-SpvckakwbSEcWTSvg",
+  "ParentRef": "XmXxxtzE4ke1YN84qKCJ1w/YCepkdxQQUWoV2DzFFSpqQ",
+  "Name": "t Project Code",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2022-04-20T06:38:24.1778887Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-04-20T06:39:37.5419775Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

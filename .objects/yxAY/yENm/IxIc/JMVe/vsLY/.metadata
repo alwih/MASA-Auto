@@ -1,0 +1,16 @@
+﻿{
+  "Id": "vsLY3-jIKkKbBNc1Ycybdg",
+  "Reference": "XmXxxtzE4ke1YN84qKCJ1w/vsLY3-jIKkKbBNc1Ycybdg",
+  "ParentRef": "XmXxxtzE4ke1YN84qKCJ1w/JMVeg6fiZEaOkK454tYu7Q",
+  "Name": "a Jenis UM",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2022-08-20T12:20:33.5870864Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-08-20T12:20:45.0028299Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

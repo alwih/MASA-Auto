@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetAnchorable BrowserURL="https://10.243.229.26/MASA/Modul.aspx?(Not.Licensed.For.Production)=" ContentHash="hgOVsZtnDU-phW8sPwjEcw" DesignTimeRectangle="1236, 335, 142, 40" ElementType="Text" FriendlyName="'Modul Baru'" FullSelectorArgument="&lt;webctrl id='wt25_OutSystemsUIWeb_wt18_block_wtContent_wtMainContent_MASA_Bac*' tag='A' /&gt;" FuzzySelectorArgument="&lt;webctrl id='wt25_OutSystemsUIWeb_wt18_block_wtContent_wtMainContent_MASA_Bac*' tag='A' type='' aaname='Modul Baru' check:text='Modul Baru' /&gt;" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Master Modul | MASA' /&gt;" SearchSteps="FuzzySelector, Image" xmlns="http://schemas.uipath.com/workflow/activities/uix">
+  <imageRef attrName="ImageBase64" xmlns="">02vjK9CvdeUO70NBYWMM_ZA</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="e64eceb06fa3e0fd6a211da00805c87b.png" xmlns="">0CnO8cxGJ2UCOhx9iJi9ebw</imageRef>
+</TargetAnchorable>

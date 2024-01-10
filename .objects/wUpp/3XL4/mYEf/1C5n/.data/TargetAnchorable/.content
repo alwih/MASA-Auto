@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetAnchorable ContentHash="8h34Y1BZb0eOI8OEgVuJDw" DesignTimeRectangle="731, 613, 86, 41" ElementType="Button" FriendlyName="'Simpan'" FullSelectorArgument="&lt;ctrl name='Master Modul Detail | MASA' role='document' /&gt;&lt;ctrl name='Simpan' role='push button' /&gt;" FuzzySelectorArgument="&lt;ctrl name='Master Modul Detail | MASA' role='document' /&gt;&lt;ctrl name='Simpan' role='push button' automationid='' check:text='Simpan' /&gt;" ScopeSelectorArgument="&lt;wnd app='chrome.exe' cls='Chrome_WidgetWin_1' title='Master Modul Detail | MASA - Google Chrome' /&gt;" SearchSteps="Selector, FuzzySelector, Image" SelectionStrategy="AA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=mscorlib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <TargetAnchorable.Anchors>
+    <scg:List x:TypeArguments="ITarget" Capacity="4">
+      <Target DesignTimeRectangle="622, 613, 90, 41" ElementType="Button" FriendlyName="'Kembali'" FullSelectorArgument="&lt;ctrl name='Master Modul Detail | MASA' role='document' /&gt;&lt;ctrl name='Kembali' role='push button' /&gt;" FuzzySelectorArgument="&lt;ctrl name='Master Modul Detail | MASA' role='document' /&gt;&lt;ctrl name='Kembali' role='push button' automationid='' check:text='Kembali' /&gt;" SearchSteps="Selector, FuzzySelector, Image">
+        <imageRef attrName="ImageBase64" xmlns="">98FFrgc7TCEmQLLoMGFur1A</imageRef>
+      </Target>
+    </scg:List>
+  </TargetAnchorable.Anchors>
+  <imageRef attrName="ImageBase64" xmlns="">08C383nNiHkqRy4c07H1PGg</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="26de78dacfe2d3d682f53a38f00b6e07.png" xmlns="">0iH7E93dl7U2xW7I-E01exQ</imageRef>
+</TargetAnchorable>

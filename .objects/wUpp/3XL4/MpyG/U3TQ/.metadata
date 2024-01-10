@@ -1,0 +1,14 @@
+﻿{
+  "Id": "U3TQ3rRx4UqocL67sHGd9w",
+  "Reference": "XmXxxtzE4ke1YN84qKCJ1w/U3TQ3rRx4UqocL67sHGd9w",
+  "ParentRef": "XmXxxtzE4ke1YN84qKCJ1w/MpyGILU7Xku8sFt0otvHIQ",
+  "Name": "Extract Table Data - Penandantanganan",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2022-08-12T01:07:57.5491646Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=21.4.4.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-08-12T01:07:57.5491646Z"
+}

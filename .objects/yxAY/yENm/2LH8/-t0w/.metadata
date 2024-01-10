@@ -1,0 +1,16 @@
+﻿{
+  "Id": "-t0w2dZZV0uFLCsquFs4ig",
+  "Reference": "XmXxxtzE4ke1YN84qKCJ1w/-t0w2dZZV0uFLCsquFs4ig",
+  "ParentRef": "XmXxxtzE4ke1YN84qKCJ1w/2LH8Phc57EOlhllS9Iet5g",
+  "Name": "2 Tab Detail",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2022-08-20T04:06:56.1505984Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-08-20T04:07:23.7299416Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

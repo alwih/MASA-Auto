@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetAnchorable ContentHash="JdMoGOE3TEqkMuMboz2WmQ" DesignTimeRectangle="69, 360, 642, 41" FriendlyName="'- Pilih User -'" FullSelectorArgument="&lt;ctrl name='Master PIC Detail | MASA' role='document' /&gt;&lt;ctrl idx='46' role='grouping' /&gt;" FuzzySelectorArgument="&lt;ctrl name='Master PIC Detail | MASA' role='document' /&gt;&lt;ctrl automationid='' role='grouping' /&gt;" ScopeSelectorArgument="&lt;wnd app='chrome.exe' cls='Chrome_WidgetWin_1' title='Master PIC Detail | MASA - Google Chrome' /&gt;" SearchSteps="Selector, FuzzySelector" SelectionStrategy="AA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=mscorlib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <TargetAnchorable.Anchors>
+    <scg:List x:TypeArguments="ITarget" Capacity="4">
+      <Target DesignTimeRectangle="69, 336, 420, 25" ElementType="InputBox" FriendlyName="'User'" FullSelectorArgument="&lt;ctrl name='Master PIC Detail | MASA' role='document' /&gt;&lt;ctrl role='editable text' /&gt;" FuzzySelectorArgument="&lt;ctrl name='Master PIC Detail | MASA' role='document' /&gt;&lt;ctrl role='editable text' automationid='' /&gt;" SearchSteps="Selector, FuzzySelector, Image">
+        <imageRef attrName="ImageBase64" xmlns="">100OtZrd2FUqTUFj_ok8QDA</imageRef>
+      </Target>
+    </scg:List>
+  </TargetAnchorable.Anchors>
+  <imageRef attrName="ImageBase64" xmlns="">0A3pY9yIb2UWYgBHc7g636A</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="6c21e13cbff07bc96f5560706c1c5227.png" xmlns="">0-FOU_edMNUqRTwmNXajAPw</imageRef>
+</TargetAnchorable>

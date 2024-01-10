@@ -1,0 +1,16 @@
+﻿{
+  "Id": "GEzTQsKYrUKlhQES2jO9Lg",
+  "Reference": "XmXxxtzE4ke1YN84qKCJ1w/GEzTQsKYrUKlhQES2jO9Lg",
+  "ParentRef": "XmXxxtzE4ke1YN84qKCJ1w/PyeIr0yTnU2dv77-71Kb7w",
+  "Name": "isSAP",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2022-08-05T04:40:22.7935715Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-08-05T04:41:08.8574205Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

@@ -1,0 +1,16 @@
+﻿{
+  "Id": "NOJKrn32tUGOXrT1Bw6vOg",
+  "Reference": "XmXxxtzE4ke1YN84qKCJ1w/NOJKrn32tUGOXrT1Bw6vOg",
+  "ParentRef": "XmXxxtzE4ke1YN84qKCJ1w/47XUujyua0SCy1qZodMkkw",
+  "Name": "Btn: Checkbox idx1",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2022-06-18T12:33:19.7342307Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-06-18T12:33:45.8642242Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetAnchorable ContentHash="BOFMBRPBpk2hQreaG-ZCRA" DesignTimeRectangle="754, 677, 629, 41" ElementType="InputBox" FriendlyName="'editable text'" FullSelectorArgument="&lt;ctrl name='Vendor Detail | MASA' role='document' /&gt;&lt;ctrl idx='2' role='row' /&gt;&lt;ctrl idx='2' role='editable text' /&gt;" FuzzySelectorArgument="&lt;ctrl name='Vendor Detail | MASA' role='document' /&gt;&lt;ctrl role='row' /&gt;&lt;ctrl automationid='' role='editable text' /&gt;" ScopeSelectorArgument="&lt;wnd app='chrome.exe' cls='Chrome_WidgetWin_1' title='Vendor Detail | MASA - Google Chrome' /&gt;" SearchSteps="FuzzySelector, Image" SelectionStrategy="AA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=mscorlib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <TargetAnchorable.Anchors>
+    <scg:List x:TypeArguments="ITarget" Capacity="4">
+      <Target DesignTimeRectangle="754, 641, 68, 18" ElementType="Text" FriendlyName="'Nama Bank'" FullSelectorArgument="&lt;ctrl name='Vendor Detail | MASA' role='document' /&gt;&lt;ctrl role='row' /&gt;&lt;ctrl name='Nama Bank *' role='column header' /&gt;&lt;ctrl name='Nama Bank' role='text' /&gt;" FuzzySelectorArgument="&lt;ctrl name='Vendor Detail | MASA' role='document' /&gt;&lt;ctrl role='row' /&gt;&lt;ctrl name='Nama Bank *' role='column header' /&gt;&lt;ctrl name='Nama Bank' role='text' automationid='' check:text='Nama Bank' /&gt;" SearchSteps="Selector, FuzzySelector, Image">
+        <imageRef attrName="ImageBase64" xmlns="">1Nc3GD_36tkO71inyInHOlg</imageRef>
+      </Target>
+    </scg:List>
+  </TargetAnchorable.Anchors>
+  <imageRef attrName="ImageBase64" xmlns="">0W7ojSF-JAkOqrCYjtVUIsw</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="97325ae61293b9d538413b562acee124.png" xmlns="">09SaLzNUxAUai8nKFteWyIQ</imageRef>
+</TargetAnchorable>

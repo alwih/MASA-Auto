@@ -1,0 +1,16 @@
+﻿{
+  "Id": "Qsu-HwuuWE--Ra3g6VyDGA",
+  "Reference": "XmXxxtzE4ke1YN84qKCJ1w/Qsu-HwuuWE--Ra3g6VyDGA",
+  "ParentRef": "XmXxxtzE4ke1YN84qKCJ1w/uLIdhYYFEUmUCi-pwjhuzA",
+  "Name": "4 Export Excel",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2022-05-11T06:10:49.7810224Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-05-11T06:10:59.5704148Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

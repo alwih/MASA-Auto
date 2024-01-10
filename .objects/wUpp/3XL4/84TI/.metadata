@@ -1,0 +1,15 @@
+﻿{
+  "Id": "84TIviGNr06hJtV-hZ46eQ",
+  "Reference": "XmXxxtzE4ke1YN84qKCJ1w/84TIviGNr06hJtV-hZ46eQ",
+  "ParentRef": "XmXxxtzE4ke1YN84qKCJ1w/3XL4ZboadUieKFsQ0wfrZQ",
+  "Name": "Rubrik Surat",
+  "Type": "Screen",
+  "Created": "2022-07-28T07:18:00.2342207Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-07-28T07:18:14.6671825Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

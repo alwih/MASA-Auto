@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetAnchorable ContentHash="2vExMsZ-8kOTAbIWgVizrA" DesignTimeRectangle="1283, 430, 57, 41" ElementType="DropDown" FriendlyName="'combo box'" FullSelectorArgument="&lt;ctrl name='Master URC | MASA' role='document' /&gt;&lt;ctrl idx='2' role='row' /&gt;&lt;ctrl role='combo box' /&gt;" FuzzySelectorArgument="&lt;ctrl name='Master URC | MASA' role='document' /&gt;&lt;ctrl role='row' /&gt;&lt;ctrl role='combo box' automationid='' /&gt;" ScopeSelectorArgument="&lt;wnd app='chrome.exe' cls='Chrome_WidgetWin_1' title='Master URC | MASA - Google Chrome' /&gt;" SearchSteps="FuzzySelector" SelectionStrategy="AA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=mscorlib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <TargetAnchorable.Anchors>
+    <scg:List x:TypeArguments="ITarget" Capacity="4">
+      <Target DesignTimeRectangle="1306, 398, 38, 18" ElementType="Text" FriendlyName="'Action'" FullSelectorArgument="&lt;ctrl name='Master URC | MASA' role='document' /&gt;&lt;ctrl role='row' /&gt;&lt;ctrl name='Action' role='column header' /&gt;&lt;ctrl name='Action' role='text' /&gt;" FuzzySelectorArgument="&lt;ctrl name='Master URC | MASA' role='document' /&gt;&lt;ctrl role='row' /&gt;&lt;ctrl name='Action' role='column header' /&gt;&lt;ctrl name='Action' role='text' automationid='' check:text='Action' /&gt;" SearchSteps="Selector, FuzzySelector, Image">
+        <imageRef attrName="ImageBase64" xmlns="">04yfqSLUts0qZ8lgHC2Dyfw</imageRef>
+      </Target>
+    </scg:List>
+  </TargetAnchorable.Anchors>
+  <imageRef attrName="InformativeScreenshot" originalValue="37c85fce355680f0d6fff26e12202c4d.png" xmlns="">0WgiReM0pMkO8P6UIo3_2mA</imageRef>
+</TargetAnchorable>

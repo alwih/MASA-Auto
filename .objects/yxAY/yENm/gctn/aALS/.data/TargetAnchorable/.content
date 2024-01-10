@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetAnchorable BrowserURL="https://10.243.229.232/MASA/KasbonDetail.aspx?OrderId=303&amp;Kasbon_OrderModulId=303&amp;KasbonId=17" ContentHash="TGSGYtoaZU-Lxj6GF5V9kg" DesignTimeRectangle="452, 110, 195, 21" ElementType="Text" FriendlyName="'Data Berhasil'" FullSelectorArgument="&lt;webctrl id='wt20_OutSystemsUIWeb_wt18_block_wt5_RichWidgets_wt7_block_wtSani*' tag='SPAN' /&gt;" FuzzySelectorArgument="&lt;webctrl id='wt20_OutSystemsUIWeb_wt18_block_wt5_RichWidgets_wt7_block_wtSani*' tag='SPAN' type='' aaname='Data Berhasil Ditambahkan' check:text='Data Berhasil Ditambahkan' /&gt;" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Kasbon Detail | MASA' /&gt;" SearchSteps="FuzzySelector, Image" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=mscorlib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <TargetAnchorable.Anchors>
+    <scg:List x:TypeArguments="ITarget" Capacity="4">
+      <Target DesignTimeRectangle="420, 101, 600, 39" FriendlyName="'Data Berhasil'" FullSelectorArgument="&lt;webctrl parentid='wt20_OutSystemsUIWeb_wt18_block_wt5_RichWidgets_wt7_block_wtFeed*' tag='DIV' /&gt;" FuzzySelectorArgument="&lt;webctrl parentid='wt20_OutSystemsUIWeb_wt18_block_wt5_RichWidgets_wt7_block_wtFeed*' tag='DIV' type='' aaname='' check:text='Data Berhasil Ditambahkan' /&gt;" SearchSteps="FuzzySelector, Image">
+        <imageRef attrName="ImageBase64" xmlns="">1M67Wz9CJw0OimuKgnvbXfQ</imageRef>
+      </Target>
+    </scg:List>
+  </TargetAnchorable.Anchors>
+  <imageRef attrName="ImageBase64" xmlns="">0djHQKNAYgkqNcwAKsO6A7g</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="f8b3137e16a689b710c46b6be7a71b1a.png" xmlns="">09RjSBN2_5USD_X8ezKrwlQ</imageRef>
+</TargetAnchorable>

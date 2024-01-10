@@ -1,0 +1,14 @@
+﻿{
+  "Id": "XbZtQl_5kkiGDVERtWIZ3Q",
+  "Reference": "XmXxxtzE4ke1YN84qKCJ1w/XbZtQl_5kkiGDVERtWIZ3Q",
+  "ParentRef": "XmXxxtzE4ke1YN84qKCJ1w/prHyVQ6yT0auX-4KA-dzzQ",
+  "Name": "Extract Table Data - Petty Cash",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2022-08-22T09:16:40.3173199Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=21.4.4.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-08-22T09:16:40.3173199Z"
+}

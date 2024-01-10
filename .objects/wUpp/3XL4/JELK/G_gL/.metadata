@@ -1,0 +1,16 @@
+﻿{
+  "Id": "G_gLhC9YYEqM497Ms6izWg",
+  "Reference": "XmXxxtzE4ke1YN84qKCJ1w/G_gLhC9YYEqM497Ms6izWg",
+  "ParentRef": "XmXxxtzE4ke1YN84qKCJ1w/JELKshWvA0SfU9lPXI02vA",
+  "Name": "Btn: Parameter Baru",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2022-07-28T03:39:48.0502427Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-07-28T03:41:00.416307Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

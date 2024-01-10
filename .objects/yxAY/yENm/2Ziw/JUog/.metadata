@@ -1,0 +1,14 @@
+﻿{
+  "Id": "JUogQyhVrk6J3aHYhrwXUQ",
+  "Reference": "XmXxxtzE4ke1YN84qKCJ1w/JUogQyhVrk6J3aHYhrwXUQ",
+  "ParentRef": "XmXxxtzE4ke1YN84qKCJ1w/2ZiwKLi1YEmNkXFyfkcMtg",
+  "Name": "ExtractTableData FPP Pajak",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2022-04-22T08:00:06.0759634Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=21.4.4.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-04-22T08:00:06.0759634Z"
+}

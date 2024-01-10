@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetAnchorable BrowserURL="https://10.243.229.232/MASA/LimitKewenangan.aspx" ContentHash="ABno7BBPJEiGG8pk8aJQhQ" DesignTimeRectangle="456, 114, 186, 21" ElementType="Text" FriendlyName="'Berhasil menghapus data.'" FullSelectorArgument="&lt;webctrl id='wt24_OutSystemsUIWeb_wt18_block_wt5_RichWidgets_wt7_block_wtSani*' tag='SPAN' /&gt;" FuzzySelectorArgument="&lt;webctrl id='wt24_OutSystemsUIWeb_wt18_block_wt5_RichWidgets_wt7_block_wtSani*' tag='SPAN' type='' aaname='Berhasil menghapus data.' check:text='Berhasil menghapus data.' /&gt;" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Limit Kewenangan | MASA' /&gt;" SearchSteps="Selector, FuzzySelector" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=mscorlib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <TargetAnchorable.Anchors>
+    <scg:List x:TypeArguments="ITarget" Capacity="4">
+      <Target DesignTimeRectangle="424, 105, 600, 39" FriendlyName="'Berhasil menghapus data.'" FullSelectorArgument="&lt;webctrl parentid='wt24_OutSystemsUIWeb_wt18_block_wt5_RichWidgets_wt7_block_wtFeed*' tag='DIV' /&gt;" FuzzySelectorArgument="&lt;webctrl parentid='wt24_OutSystemsUIWeb_wt18_block_wt5_RichWidgets_wt7_block_wtFeed*' tag='DIV' type='' aaname='' check:text='Berhasil menghapus data.' /&gt;" SearchSteps="FuzzySelector, Image">
+        <imageRef attrName="ImageBase64" xmlns="">1yTZQmbo5k02rnbPY0y3BmQ</imageRef>
+      </Target>
+    </scg:List>
+  </TargetAnchorable.Anchors>
+  <imageRef attrName="ImageBase64" xmlns="">0esXt_ucX1EeyAcGq7VZbug</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="d0796476af348fe3bae0ccaf848f94d2.png" xmlns="">0xV58ANNJdEGjclGrbpaAFA</imageRef>
+</TargetAnchorable>

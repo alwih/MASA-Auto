@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetAnchorable ContentHash="PP-3Yxi6skqWKYrK4oMV5Q" DesignTimeRectangle="48, 337, 435, 41" FriendlyName="'- Select Directorate -'" FullSelectorArgument="&lt;ctrl name='GroupCategoryDetail' role='document' /&gt;&lt;ctrl idx='48' role='grouping' /&gt;" FuzzySelectorArgument="&lt;ctrl name='GroupCategoryDetail' role='document' /&gt;&lt;ctrl automationid='' role='grouping' /&gt;" ScopeSelectorArgument="&lt;wnd app='chrome.exe' cls='Chrome_WidgetWin_1' title='GroupCategoryDetail - Google Chrome' /&gt;" SearchSteps="Selector, FuzzySelector, Image" SelectionStrategy="AA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=mscorlib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <TargetAnchorable.Anchors>
+    <scg:List x:TypeArguments="ITarget" Capacity="4">
+      <Target DesignTimeRectangle="48, 313, 211, 25" ElementType="InputBox" FriendlyName="'Directorate'" FullSelectorArgument="&lt;ctrl name='GroupCategoryDetail' role='document' /&gt;&lt;ctrl role='editable text' /&gt;" FuzzySelectorArgument="&lt;ctrl name='GroupCategoryDetail' role='document' /&gt;&lt;ctrl role='editable text' automationid='' /&gt;" SearchSteps="Selector, FuzzySelector, Image">
+        <imageRef attrName="ImageBase64" xmlns="">1ZAwA1hxUAUWLYheqIstQ3g</imageRef>
+      </Target>
+    </scg:List>
+  </TargetAnchorable.Anchors>
+  <imageRef attrName="ImageBase64" xmlns="">0sYOmM__Xw0q8P_hZKWtLfg</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="b80f616fb288f980d591a84de432958c.png" xmlns="">0gFYBF1UwkEmGCAylKWh-Mg</imageRef>
+</TargetAnchorable>

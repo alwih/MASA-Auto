@@ -1,0 +1,15 @@
+﻿{
+  "Id": "BItFztr2rkiWud77cdOlkA",
+  "Reference": "XmXxxtzE4ke1YN84qKCJ1w/BItFztr2rkiWud77cdOlkA",
+  "ParentRef": "XmXxxtzE4ke1YN84qKCJ1w/yENmqdyk4keTz4ZD0b7jZA",
+  "Name": "TF Uang Muka Non Perdin",
+  "Type": "Screen",
+  "Created": "2022-05-25T07:58:36.0423531Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-05-25T07:59:00.3560421Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

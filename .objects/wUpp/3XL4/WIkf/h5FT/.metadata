@@ -1,0 +1,16 @@
+﻿{
+  "Id": "h5FTN_qPGUOcgQm_pmQAxg",
+  "Reference": "XmXxxtzE4ke1YN84qKCJ1w/h5FTN_qPGUOcgQm_pmQAxg",
+  "ParentRef": "XmXxxtzE4ke1YN84qKCJ1w/WIkfpUQaQ06sN1K8v-NhkQ",
+  "Name": "Btn: File Baru",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2022-08-02T10:29:35.764191Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-08-02T10:37:32.338552Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

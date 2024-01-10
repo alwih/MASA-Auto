@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetAnchorable BrowserURL="https://10.243.229.232/MASA/Dashboard.aspx" ContentHash="UVofF19Lc0y9H9WVUlJapg" DesignTimeRectangle="1372, 94, 15, 24" FriendlyName="'SPAN'" FullSelectorArgument="&lt;webctrl css-selector='body&amp;gt;form&amp;gt;div&amp;gt;div&amp;gt;header&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;span' isleaf='1' parentid='wt14_OutSystemsUIWeb_wt18_block_wtHeader_wtRight_wt3_OutSystemsU*' tag='SPAN' /&gt;" FuzzySelectorArgument="&lt;webctrl css-selector='body&amp;gt;form&amp;gt;div&amp;gt;div&amp;gt;header&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;span' isleaf='1' parentid='wt14_OutSystemsUIWeb_wt18_block_wtHeader_wtRight_wt3_OutSystemsU*' tag='SPAN' type='' aaname='' /&gt;" Reference="XmXxxtzE4ke1YN84qKCJ1w/FS6EDWJMeU2axWwYDYlb-g" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Dashboard | MASA' /&gt;" SearchSteps="FuzzySelector, Image" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=mscorlib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <TargetAnchorable.Anchors>
+    <scg:List x:TypeArguments="ITarget" Capacity="4">
+      <Target DesignTimeRectangle="1041, 87, 350, 40" FriendlyName="'// Checks'" FullSelectorArgument="&lt;webctrl id='wt28_OutSystemsUIWeb_wt18_block_wtHeader_wtRight' tag='DIV' /&gt;" FuzzySelectorArgument="&lt;webctrl id='wt28_OutSystemsUIWeb_wt18_block_wtHeader_wtRight' tag='DIV' type='' aaname='' check:text='// Checks if the DOM is loaded, if loaded, start the balloon, otherwise wait for the DOM be loaded' /&gt;" SearchSteps="FuzzySelector, Image">
+        <imageRef attrName="ImageBase64" xmlns="">1LsFYzsaZUUmX2FkZ4V-BIw</imageRef>
+      </Target>
+    </scg:List>
+  </TargetAnchorable.Anchors>
+  <imageRef attrName="ImageBase64" xmlns="">0rzxtEdfRsEKKpMtzlbt-ug</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="995dd8b49fe8cafa8f41f02fea7a0f15.png" xmlns="">0bylQS1UpE06I79FB-JsiCw</imageRef>
+</TargetAnchorable>

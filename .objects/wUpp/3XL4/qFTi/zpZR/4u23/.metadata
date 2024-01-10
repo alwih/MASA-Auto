@@ -1,0 +1,16 @@
+﻿{
+  "Id": "4u23X-P4h0Sj-ZVWTAqBBA",
+  "Reference": "XmXxxtzE4ke1YN84qKCJ1w/4u23X-P4h0Sj-ZVWTAqBBA",
+  "ParentRef": "XmXxxtzE4ke1YN84qKCJ1w/zpZRVNK_o02xmJVzsiUYkQ",
+  "Name": "c Keterangan",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2022-07-28T08:56:22.2488127Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-07-28T08:56:40.3529167Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

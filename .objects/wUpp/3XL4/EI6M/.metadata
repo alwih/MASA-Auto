@@ -1,0 +1,15 @@
+﻿{
+  "Id": "EI6MAgeP5U-WuD7MIivheA",
+  "Reference": "XmXxxtzE4ke1YN84qKCJ1w/EI6MAgeP5U-WuD7MIivheA",
+  "ParentRef": "XmXxxtzE4ke1YN84qKCJ1w/3XL4ZboadUieKFsQ0wfrZQ",
+  "Name": "Approval Type",
+  "Type": "Screen",
+  "Created": "2022-08-04T10:07:55.6349755Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-08-04T10:08:03.2466248Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

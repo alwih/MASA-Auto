@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetAnchorable ContentHash="u-kpDlWGWkGkK28x8ayoXQ" DesignTimeRectangle="239, 48, 969, 24" ElementType="InputBox" FriendlyName="'https://10.243.229.232/…'" FullSelectorArgument="&lt;ctrl name='*' role='pane' /&gt;&lt;ctrl name='Google Chrome' role='pane' /&gt;&lt;ctrl name='Bilah penelusuran dan alamat' role='editable text' /&gt;" FuzzySelectorArgument="&lt;ctrl name='*' role='pane' /&gt;&lt;ctrl name='Google Chrome' role='pane' /&gt;&lt;ctrl name='Bilah penelusuran dan alamat' role='editable text' automationid='' /&gt;" Reference="XmXxxtzE4ke1YN84qKCJ1w/cW5IKK6WKU6U7NR_DZyipA" ScopeSelectorArgument="&lt;wnd app='chrome.exe' cls='Chrome_WidgetWin_1' title='Uang Muka Non Perdin Detail | MASA - Google Chrome' /&gt;" SearchSteps="Selector, FuzzySelector, Image" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=mscorlib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <TargetAnchorable.Anchors>
+    <scg:List x:TypeArguments="ITarget" Capacity="4">
+      <Target DesignTimeRectangle="116, 46, 1160, 28" FriendlyName="'https://10.243.229.232/…'" FullSelectorArgument="&lt;ctrl name='*' role='pane' /&gt;&lt;ctrl name='Google Chrome' role='pane' /&gt;&lt;ctrl idx='2' role='grouping' /&gt;" FuzzySelectorArgument="&lt;ctrl name='*' role='pane' /&gt;&lt;ctrl name='Google Chrome' role='pane' /&gt;&lt;ctrl automationid='' role='grouping' /&gt;" SearchSteps="Selector, FuzzySelector, Image">
+        <imageRef attrName="ImageBase64" xmlns="">88Vr3xyk10rkC6bzPs_NfK5Q</imageRef>
+      </Target>
+    </scg:List>
+  </TargetAnchorable.Anchors>
+  <imageRef attrName="ImageBase64" xmlns="">0087jofZF_kW1FQr7WRM3-A</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="d64122e430f237fe44f80d2e46a66839.png" xmlns="">0awhU1EoSBkGRP_3sSkDU4Q</imageRef>
+</TargetAnchorable>

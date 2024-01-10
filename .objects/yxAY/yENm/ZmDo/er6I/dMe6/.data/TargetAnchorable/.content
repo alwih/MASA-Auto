@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetAnchorable ContentHash="pLY69mX5n0Wd91ryD82w_g" DesignTimeRectangle="65, 729, 639, 41" ElementType="DropDown" FriendlyName="'- Pilih Jenis PJUM -'" FullSelectorArgument="&lt;ctrl name='Pertanggungjawaban Uang Muka Perdin Detail | MASA' role='document' /&gt;&lt;ctrl name='Main' role='property page' /&gt;&lt;ctrl name='Jenis PJUM *' role='combo box' /&gt;" FuzzySelectorArgument="&lt;ctrl name='Pertanggungjawaban Uang Muka Perdin Detail | MASA' role='document' /&gt;&lt;ctrl name='Main' role='property page' /&gt;&lt;ctrl name='Jenis PJUM *' role='combo box' automationid='' /&gt;" ScopeSelectorArgument="&lt;wnd app='chrome.exe' cls='Chrome_WidgetWin_1' title='Pertanggungjawaban Uang Muka Perdin Detail | MASA - Google Chrom*' /&gt;" SearchSteps="Selector, FuzzySelector" SelectionStrategy="AA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=mscorlib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <TargetAnchorable.Anchors>
+    <scg:List x:TypeArguments="ITarget" Capacity="4">
+      <Target DesignTimeRectangle="65, 705, 313, 25" ElementType="InputBox" FriendlyName="'Jenis PJUM'" FullSelectorArgument="&lt;ctrl name='Pertanggungjawaban Uang Muka Perdin Detail | MASA' role='document' /&gt;&lt;ctrl name='Main' role='property page' /&gt;&lt;ctrl idx='7' role='editable text' /&gt;" FuzzySelectorArgument="&lt;ctrl name='Pertanggungjawaban Uang Muka Perdin Detail | MASA' role='document' /&gt;&lt;ctrl name='Main' role='property page' /&gt;&lt;ctrl automationid='' role='editable text' /&gt;" SearchSteps="Selector, FuzzySelector, Image">
+        <imageRef attrName="ImageBase64" xmlns="">0LqzMhW-6lUaW_B7dk0zeDQ</imageRef>
+      </Target>
+    </scg:List>
+  </TargetAnchorable.Anchors>
+  <imageRef attrName="InformativeScreenshot" originalValue="739bdea6a7add2534c586b7694c98401.png" xmlns="">08niejPM0aE-14mYP_An2_Q</imageRef>
+</TargetAnchorable>

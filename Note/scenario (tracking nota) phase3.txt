@@ -1,0 +1,12 @@
+Phase 3 (UMP,RP,PJUMP)
+
+<10 M
+N N N 	<10-acc1 	ump(oprpfa) 		gr2+acc1
+N Y N 	<10-acc2 	oprpi/pe+oprpc		gr2+acc2
+
+*N Y Y 	<10-acc3 	(tidak ada acc yang <10 sampai acc3)
+
+> 100 M
+Y N N 	>100-acc1 	rp & pjump (oprpfa) 	gr3+acc1
+Y Y N 	>100-acc2 	oprpc 			gr3+acc2
+Y Y Y 	>100-acc3 	pettycash(oprpi/pe) 	gr3+acc3

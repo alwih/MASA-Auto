@@ -1,0 +1,16 @@
+﻿{
+  "Id": "YpkI9MdQzEmNxGjHxWTLcw",
+  "Reference": "XmXxxtzE4ke1YN84qKCJ1w/YpkI9MdQzEmNxGjHxWTLcw",
+  "ParentRef": "XmXxxtzE4ke1YN84qKCJ1w/66eQKtVTD0Ob_PDWYqDfpA",
+  "Name": "a Tambah Dokumen",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2022-06-23T05:53:37.7800981Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-06-23T05:54:19.1450766Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

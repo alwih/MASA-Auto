@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetAnchorable BrowserURL="https://10.243.229.232/MASA/Laporan.aspx?(Not.Licensed.For.Production)=" ContentHash="XQ97SToVA0W_9pwdNhRxsg" DesignTimeRectangle="671, 598, 97, 40" ElementType="Button" FriendlyName="'Generate'" FullSelectorArgument="&lt;webctrl id='wt12_OutSystemsUIWeb_wt18_block_wtContent_wtMainContent_MASA_Rep*' tabindex='110' tag='INPUT' type='submit' /&gt;" FuzzySelectorArgument="&lt;webctrl id='wt12_OutSystemsUIWeb_wt18_block_wtContent_wtMainContent_MASA_Rep*' tabindex='110' tag='INPUT' type='submit' aaname='Generate' check:text='Generate' /&gt;" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Laporan' /&gt;" SearchSteps="FuzzySelector, Image" xmlns="http://schemas.uipath.com/workflow/activities/uix">
+  <imageRef attrName="ImageBase64" xmlns="">0t7jsRsOqGUePGV61Guw-FA</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="e921b711078449882268311152e3cebd.png" xmlns="">0aHfElzHFTUGubdJrfmxr3Q</imageRef>
+</TargetAnchorable>

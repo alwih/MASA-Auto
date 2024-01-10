@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetAnchorable ContentHash="bLa3hqYPQE2gYNO2WN9Fsg" DesignTimeRectangle="502, 330, 435, 49" ElementType="TabPage" FriendlyName="'Detail'" FullSelectorArgument="&lt;ctrl name='Uang Muka Perdin Detail | MASA' role='document' /&gt;&lt;ctrl name='Main Detail Accounting' role='page tab list' /&gt;&lt;ctrl name='Detail' role='page tab' /&gt;" FuzzySelectorArgument="&lt;ctrl name='Uang Muka Perdin Detail | MASA' role='document' /&gt;&lt;ctrl name='Main Detail Accounting' role='page tab list' /&gt;&lt;ctrl name='Detail' role='page tab' automationid='' check:text='Detail' /&gt;" ScopeSelectorArgument="&lt;wnd app='chrome.exe' cls='Chrome_WidgetWin_1' title='Uang Muka Perdin Detail | MASA - Google Chrome' /&gt;" SearchSteps="Selector, FuzzySelector, Image" SelectionStrategy="AA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=mscorlib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <TargetAnchorable.Anchors>
+    <scg:List x:TypeArguments="ITarget" Capacity="4">
+      <Target DesignTimeRectangle="65, 330, 434, 49" ElementType="TabPage" FriendlyName="'Main'" FullSelectorArgument="&lt;ctrl name='Uang Muka Perdin Detail | MASA' role='document' /&gt;&lt;ctrl name='Main Detail Accounting' role='page tab list' /&gt;&lt;ctrl name='Main' role='page tab' /&gt;" FuzzySelectorArgument="&lt;ctrl name='Uang Muka Perdin Detail | MASA' role='document' /&gt;&lt;ctrl name='Main Detail Accounting' role='page tab list' /&gt;&lt;ctrl name='Main' role='page tab' automationid='' check:text='Main' /&gt;" SearchSteps="Selector, FuzzySelector, Image">
+        <imageRef attrName="ImageBase64" xmlns="">9tG5OY6ogiU2KQoCQTCj3Bg</imageRef>
+      </Target>
+    </scg:List>
+  </TargetAnchorable.Anchors>
+  <imageRef attrName="ImageBase64" xmlns="">08ofJzugOvEyFhYGkhyffJQ</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="6f069bc84025b210d948a6c3d6cbec0b.png" xmlns="">0hfzp4N923U20xtQ3LOYFkw</imageRef>
+</TargetAnchorable>

@@ -1,0 +1,16 @@
+﻿{
+  "Id": "07Aq_5izwEi1e_55471zyQ",
+  "Reference": "XmXxxtzE4ke1YN84qKCJ1w/07Aq_5izwEi1e_55471zyQ",
+  "ParentRef": "XmXxxtzE4ke1YN84qKCJ1w/Mv9Iid_SVUy9d_dDW9yWOA",
+  "Name": "1 Jenis Potongan",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2022-04-20T07:02:54.1309554Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-04-20T07:03:18.9573849Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

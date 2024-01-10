@@ -1,0 +1,13 @@
+﻿{
+  "Id": "6ixi9JEcDE6z9tqY5EojuA",
+  "Reference": "XmXxxtzE4ke1YN84qKCJ1w/6ixi9JEcDE6z9tqY5EojuA",
+  "ParentRef": "XmXxxtzE4ke1YN84qKCJ1w/ouugGXjs-E2yzDx4SIgTHw",
+  "Name": "Max Limit",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2022-07-27T05:38:28.2593867Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-07-27T05:38:28.2593867Z"
+}

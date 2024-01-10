@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetAnchorable BrowserURL="https://10.243.229.232/MASA/OrderDetail.aspx" ContentHash="_Ec0bnJaik2z01QXklLChg" DesignTimeRectangle="81, 797, 623, 40" ElementType="InputBox" FriendlyName="'INPUT'" FullSelectorArgument="&lt;webctrl aaname='Keterangan' id='wt10_OutSystemsUIWeb_wt18_block_wtContent_wtMainContent_MASA_Fin*' tag='INPUT' type='text' /&gt;" FuzzySelectorArgument="&lt;webctrl aaname='Keterangan' id='wt10_OutSystemsUIWeb_wt18_block_wtContent_wtMainContent_MASA_Fin*' tag='INPUT' type='text' /&gt;" ScopeSelectorArgument="&lt;html app='chrome.exe' title='FPP Setoran Materai Detail | MASA' /&gt;" SearchSteps="FuzzySelector, Image" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=mscorlib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <TargetAnchorable.Anchors>
+    <scg:List x:TypeArguments="ITarget" Capacity="4">
+      <Target DesignTimeRectangle="79, 771, 309, 28" ElementType="Text" FriendlyName="'Keterangan'" FullSelectorArgument="&lt;webctrl aaname='Keterangan' parentid='wt10_OutSystemsUIWeb_wt18_block_wtContent_wtMainContent_MASA_Fin*' tag='LABEL' /&gt;" FuzzySelectorArgument="&lt;webctrl aaname='Keterangan' parentid='wt10_OutSystemsUIWeb_wt18_block_wtContent_wtMainContent_MASA_Fin*' tag='LABEL' type='' check:text='Keterangan' /&gt;" SearchSteps="FuzzySelector, Image">
+        <imageRef attrName="ImageBase64" xmlns="">125gm_ehJVkaneNavLYRCCw</imageRef>
+      </Target>
+    </scg:List>
+  </TargetAnchorable.Anchors>
+  <imageRef attrName="ImageBase64" xmlns="">0fmbxm3W-NkeHlP0_VDFNOw</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="dc0284fa3a03b8971ac9302714f32b44.png" xmlns="">0XQFbdD1YFkmgFIGDS6RV_g</imageRef>
+</TargetAnchorable>

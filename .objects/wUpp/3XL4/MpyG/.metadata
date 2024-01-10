@@ -1,0 +1,15 @@
+﻿{
+  "Id": "MpyGILU7Xku8sFt0otvHIQ",
+  "Reference": "XmXxxtzE4ke1YN84qKCJ1w/MpyGILU7Xku8sFt0otvHIQ",
+  "ParentRef": "XmXxxtzE4ke1YN84qKCJ1w/3XL4ZboadUieKFsQ0wfrZQ",
+  "Name": "Penandatanganan",
+  "Type": "Screen",
+  "Created": "2022-08-12T01:05:35.2041652Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-08-12T01:05:54.5621556Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

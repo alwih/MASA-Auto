@@ -1,0 +1,15 @@
+﻿{
+  "Id": "m1uH4Jw53EuadV0WyLmhPA",
+  "Reference": "XmXxxtzE4ke1YN84qKCJ1w/m1uH4Jw53EuadV0WyLmhPA",
+  "ParentRef": "XmXxxtzE4ke1YN84qKCJ1w/_qU67JSIu0-1WIxMhJIsTw",
+  "Name": "3 Pembayaran Gagal Transfer",
+  "Type": "Screen",
+  "Created": "2022-05-10T06:53:41.2224486Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-05-10T06:54:14.2898532Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetAnchorable ContentHash="gHBAsYVL-U-6-ZQg8QxisQ" DesignTimeRectangle="451, 110, 180, 21" FriendlyName="'Gagal mengunggah data.'" FullSelectorArgument="&lt;ctrl name='Pertanggungjawaban Uang Muka Non Perdin Detail | MASA' role='document' /&gt;&lt;ctrl name='Gagal mengunggah data.' role='grouping' /&gt;" FuzzySelectorArgument="&lt;ctrl name='Pertanggungjawaban Uang Muka Non Perdin Detail | MASA' role='document' /&gt;&lt;ctrl name='Gagal mengunggah data.' role='grouping' automationid='' check:text='Gagal mengunggah data.' /&gt;" ScopeSelectorArgument="&lt;wnd app='chrome.exe' cls='Chrome_WidgetWin_1' title='Pertanggungjawaban Uang Muka Non Perdin Detail | MASA - Google C*' /&gt;" SearchSteps="Selector, FuzzySelector, Image" SelectionStrategy="AA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=mscorlib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <TargetAnchorable.Anchors>
+    <scg:List x:TypeArguments="ITarget" Capacity="4">
+      <Target DesignTimeRectangle="419, 101, 601, 39" FriendlyName="'grouping'" FullSelectorArgument="&lt;ctrl name='Pertanggungjawaban Uang Muka Non Perdin Detail | MASA' role='document' /&gt;&lt;ctrl idx='14' role='grouping' /&gt;" FuzzySelectorArgument="&lt;ctrl name='Pertanggungjawaban Uang Muka Non Perdin Detail | MASA' role='document' /&gt;&lt;ctrl automationid='' role='grouping' /&gt;" SearchSteps="Selector, FuzzySelector, Image">
+        <imageRef attrName="ImageBase64" xmlns="">16JKeATgWhUGuKzFWA2zk_Q</imageRef>
+      </Target>
+    </scg:List>
+  </TargetAnchorable.Anchors>
+  <imageRef attrName="ImageBase64" xmlns="">0t63PEpWPtkyP46zI2RA8Pg</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="54f2be46d4ba96c862eb8913dc46f04f.png" xmlns="">0B4w3Ikxv7Eqq4zyiaEfWBg</imageRef>
+</TargetAnchorable>

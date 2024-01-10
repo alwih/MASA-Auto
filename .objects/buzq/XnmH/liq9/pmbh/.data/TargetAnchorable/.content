@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetAnchorable BrowserURL="https://10.243.229.232/MASA/TrackNoteDashboard.aspx" ContentHash="Mf4YDCe_oE2_QMMOO-5OaA" DesignTimeRectangle="1346, 382, 17, 17" FriendlyName="'SPAN'" FullSelectorArgument="&lt;webctrl css-selector='body&amp;gt;form&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;main&amp;gt;div&amp;gt;div&amp;gt;table&amp;gt;tbody&amp;gt;tr&amp;gt;td&amp;gt;div&amp;gt;a&amp;gt;span' parentid='wt7_OutSystemsUIWeb_wt18_block_wtContent_wtMainContent_MASA_Trac*' tag='SPAN' /&gt;" FuzzySelectorArgument="&lt;webctrl css-selector='body&amp;gt;form&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;main&amp;gt;div&amp;gt;div&amp;gt;table&amp;gt;tbody&amp;gt;tr&amp;gt;td&amp;gt;div&amp;gt;a&amp;gt;span' parentid='wt7_OutSystemsUIWeb_wt18_block_wtContent_wtMainContent_MASA_Trac*' tag='SPAN' type='' aaname='' /&gt;" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Tracking Nota | MASA' /&gt;" SearchSteps="Selector, FuzzySelector, Image" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=mscorlib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <TargetAnchorable.Anchors>
+    <scg:List x:TypeArguments="ITarget" Capacity="4">
+      <Target DesignTimeRectangle="1302, 335, 106, 38" FriendlyName="'View'" FullSelectorArgument="&lt;webctrl id='wt7_OutSystemsUIWeb_wt18_block_wtContent_wtMainContent_MASA_Trac*' tag='TABLE' /&gt;&lt;webctrl tableCol='6' tag='TH' /&gt;" FuzzySelectorArgument="&lt;webctrl id='wt7_OutSystemsUIWeb_wt18_block_wtContent_wtMainContent_MASA_Trac*' tag='TABLE' /&gt;&lt;webctrl type='' tag='TH' aaname='' check:text='View' /&gt;" SearchSteps="FuzzySelector, Image">
+        <imageRef attrName="ImageBase64" xmlns="">48FZTuOYoREyyQA_wOEAxHA</imageRef>
+      </Target>
+    </scg:List>
+  </TargetAnchorable.Anchors>
+  <imageRef attrName="ImageBase64" xmlns="">03cJaCYVLhUach5xifOQ8JQ</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="9563fe7da8630f34fb65565301f889f9.png" xmlns="">02rfkwX1tEkKB4NhKEb10dA</imageRef>
+</TargetAnchorable>

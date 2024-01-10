@@ -1,0 +1,16 @@
+﻿{
+  "Id": "mPR-zPwNzEuGNMwLQtkCIQ",
+  "Reference": "XmXxxtzE4ke1YN84qKCJ1w/mPR-zPwNzEuGNMwLQtkCIQ",
+  "ParentRef": "XmXxxtzE4ke1YN84qKCJ1w/9aT5KuQlO0KKyXBN6VcqHQ",
+  "Name": "d URC SAP Code",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2022-07-29T12:54:45.40026Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-07-29T12:55:24.0722023Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

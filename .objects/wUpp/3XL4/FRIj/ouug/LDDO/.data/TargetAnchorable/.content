@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetAnchorable ContentHash="QUSULsZy9kCX2q9BsRojFQ" DesignTimeRectangle="69, 358, 642, 41" ElementType="InputBox" FriendlyName="'0'" FullSelectorArgument="&lt;ctrl name='Limit Kewenangan Detail | MASA' role='document' /&gt;&lt;ctrl name='Minimum Limit' role='editable text' /&gt;" FuzzySelectorArgument="&lt;ctrl name='Limit Kewenangan Detail | MASA' role='document' /&gt;&lt;ctrl name='Minimum Limit' role='editable text' automationid='' /&gt;" ScopeSelectorArgument="&lt;wnd app='chrome.exe' cls='Chrome_WidgetWin_1' title='Limit Kewenangan Detail | MASA - Google Chrome' /&gt;" SearchSteps="Selector, FuzzySelector" SelectionStrategy="AA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=mscorlib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <TargetAnchorable.Anchors>
+    <scg:List x:TypeArguments="ITarget" Capacity="4">
+      <Target DesignTimeRectangle="69, 334, 642, 25" ElementType="InputBox" FriendlyName="'Minimum Limit'" FullSelectorArgument="&lt;ctrl name='Limit Kewenangan Detail | MASA' role='document' /&gt;&lt;ctrl role='editable text' /&gt;" FuzzySelectorArgument="&lt;ctrl name='Limit Kewenangan Detail | MASA' role='document' /&gt;&lt;ctrl role='editable text' automationid='' /&gt;" SearchSteps="Selector, FuzzySelector, Image">
+        <imageRef attrName="ImageBase64" xmlns="">1JwaG0zsFwU6FiGEwXreRhw</imageRef>
+      </Target>
+    </scg:List>
+  </TargetAnchorable.Anchors>
+  <imageRef attrName="ImageBase64" xmlns="">0qKslcPHVVUWchkbvwQEAIQ</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="daf9a14383daf3e7eb31a90071c12813.png" xmlns="">0dmiz9kMAFkawsVGEG224cw</imageRef>
+</TargetAnchorable>

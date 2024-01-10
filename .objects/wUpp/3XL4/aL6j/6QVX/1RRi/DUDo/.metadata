@@ -1,0 +1,16 @@
+﻿{
+  "Id": "DUDoUSX5eU-F8-LPsyEF5g",
+  "Reference": "XmXxxtzE4ke1YN84qKCJ1w/DUDoUSX5eU-F8-LPsyEF5g",
+  "ParentRef": "XmXxxtzE4ke1YN84qKCJ1w/1RRi3ro-w0esVnJ4tKqejA",
+  "Name": "Norek Bank",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2022-08-04T10:28:31.6374344Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-08-04T10:28:56.5198293Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

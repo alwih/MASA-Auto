@@ -1,0 +1,14 @@
+﻿{
+  "Id": "zV8uDa7JgUeKx1Y2jCpapw",
+  "Reference": "XmXxxtzE4ke1YN84qKCJ1w/zV8uDa7JgUeKx1Y2jCpapw",
+  "ParentRef": "XmXxxtzE4ke1YN84qKCJ1w/T4n0d8My50uEfVGRxbvNmA",
+  "Name": "Extract Table Data - Jabatan",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2022-07-28T02:49:47.319706Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=21.4.4.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-07-28T02:49:47.319706Z"
+}

@@ -1,0 +1,13 @@
+﻿{
+  "Id": "R52lSHzs_0e6mWakxuZuPw",
+  "Reference": "XmXxxtzE4ke1YN84qKCJ1w/R52lSHzs_0e6mWakxuZuPw",
+  "ParentRef": "XmXxxtzE4ke1YN84qKCJ1w/prHyVQ6yT0auX-4KA-dzzQ",
+  "Name": "2 Tab Detail",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2022-08-22T08:31:58.8322203Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-08-22T08:31:58.8322203Z"
+}

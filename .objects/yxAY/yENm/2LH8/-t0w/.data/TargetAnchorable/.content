@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetAnchorable ContentHash="tFF08epwpkqOMzNiugdXIw" DesignTimeRectangle="502, 330, 435, 49" ElementType="TabPage" FriendlyName="'Detail'" FullSelectorArgument="&lt;ctrl name='Reimbursement Perdin Detail | MASA' role='document' /&gt;&lt;ctrl name='Main Detail Accounting' role='page tab list' /&gt;&lt;ctrl name='Detail' role='page tab' /&gt;" FuzzySelectorArgument="&lt;ctrl name='Reimbursement Perdin Detail | MASA' role='document' /&gt;&lt;ctrl name='Main Detail Accounting' role='page tab list' /&gt;&lt;ctrl name='Detail' role='page tab' automationid='' check:text='Detail' /&gt;" ScopeSelectorArgument="&lt;wnd app='chrome.exe' cls='Chrome_WidgetWin_1' title='Reimbursement Perdin Detail | MASA - Google Chrome' /&gt;" SearchSteps="Selector, FuzzySelector, Image" SelectionStrategy="AA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=mscorlib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <TargetAnchorable.Anchors>
+    <scg:List x:TypeArguments="ITarget" Capacity="4">
+      <Target DesignTimeRectangle="65, 330, 434, 49" ElementType="TabPage" FriendlyName="'Main'" FullSelectorArgument="&lt;ctrl name='Reimbursement Perdin Detail | MASA' role='document' /&gt;&lt;ctrl name='Main Detail Accounting' role='page tab list' /&gt;&lt;ctrl name='Main' role='page tab' /&gt;" FuzzySelectorArgument="&lt;ctrl name='Reimbursement Perdin Detail | MASA' role='document' /&gt;&lt;ctrl name='Main Detail Accounting' role='page tab list' /&gt;&lt;ctrl name='Main' role='page tab' automationid='' check:text='Main' /&gt;" SearchSteps="Selector, FuzzySelector, Image">
+        <imageRef attrName="ImageBase64" xmlns="">1n3NSTdX7QkylX3I6YHVRwA</imageRef>
+      </Target>
+    </scg:List>
+  </TargetAnchorable.Anchors>
+  <imageRef attrName="ImageBase64" xmlns="">0ELgXOoN_5UeX2b8t-2vzuQ</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="4fbbc37e9e512a37e95beb3857e98dd5.png" xmlns="">0ZqD02_6e9Ui39S9tuhzRlQ</imageRef>
+</TargetAnchorable>

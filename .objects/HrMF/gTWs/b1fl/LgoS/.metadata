@@ -1,0 +1,14 @@
+﻿{
+  "Id": "LgoSlhs5RkabTE5Ev6g3_w",
+  "Reference": "XmXxxtzE4ke1YN84qKCJ1w/LgoSlhs5RkabTE5Ev6g3_w",
+  "ParentRef": "XmXxxtzE4ke1YN84qKCJ1w/b1fl02FLNkGxDd8pIKdMqg",
+  "Name": "Extract Table Data Approval Request",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2022-04-26T07:38:49.2217318Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=21.4.4.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-04-26T07:38:49.2217318Z"
+}

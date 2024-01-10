@@ -1,0 +1,15 @@
+﻿{
+  "Id": "T4n0d8My50uEfVGRxbvNmA",
+  "Reference": "XmXxxtzE4ke1YN84qKCJ1w/T4n0d8My50uEfVGRxbvNmA",
+  "ParentRef": "XmXxxtzE4ke1YN84qKCJ1w/3XL4ZboadUieKFsQ0wfrZQ",
+  "Name": "Jabatan",
+  "Type": "Screen",
+  "Created": "2022-07-28T02:14:52.1226687Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-07-28T02:15:00.7935777Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

@@ -1,0 +1,16 @@
+﻿{
+  "Id": "iq-Plgcg9UCvMJ7HyjJkyg",
+  "Reference": "XmXxxtzE4ke1YN84qKCJ1w/iq-Plgcg9UCvMJ7HyjJkyg",
+  "ParentRef": "XmXxxtzE4ke1YN84qKCJ1w/htacyg-giEyHs7ZxpTo4CA",
+  "Name": "2 Kumulatif Pembayaran",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2022-04-19T08:57:43.6074954Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-04-19T08:58:50.5095703Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

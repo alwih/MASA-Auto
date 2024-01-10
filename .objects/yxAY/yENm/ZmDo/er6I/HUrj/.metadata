@@ -1,0 +1,16 @@
+﻿{
+  "Id": "HUrjAx4eTUyPQqHUWcgQaQ",
+  "Reference": "XmXxxtzE4ke1YN84qKCJ1w/HUrjAx4eTUyPQqHUWcgQaQ",
+  "ParentRef": "XmXxxtzE4ke1YN84qKCJ1w/er6IIhtuK02F8Me5E6WQuw",
+  "Name": "f Keterangan",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2022-08-22T03:23:08.8480651Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-08-22T03:23:51.8461478Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

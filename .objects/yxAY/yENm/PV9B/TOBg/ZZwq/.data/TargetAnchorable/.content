@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetAnchorable ContentHash="7W7SAPyH1k6L600KcNMBGw" DesignTimeRectangle="590, 409, 259, 49" ElementType="TabPage" FriendlyName="'Dokumen'" FullSelectorArgument="&lt;ctrl name='Pertanggungjawaban Uang Muka Non Perdin Detail | MASA' role='document' /&gt;&lt;ctrl name='Detail' role='property page' /&gt;&lt;ctrl name='Nomor Rekening Beban Group Dokumen History Mutasi' role='page tab list' /&gt;&lt;ctrl name='Dokumen' role='page tab' /&gt;" FuzzySelectorArgument="&lt;ctrl name='Pertanggungjawaban Uang Muka Non Perdin Detail | MASA' role='document' /&gt;&lt;ctrl name='Detail' role='property page' /&gt;&lt;ctrl name='Nomor Rekening Beban Group Dokumen History Mutasi' role='page tab list' /&gt;&lt;ctrl name='Dokumen' role='page tab' automationid='' check:text='Dokumen' /&gt;" ScopeSelectorArgument="&lt;wnd app='chrome.exe' cls='Chrome_WidgetWin_1' title='Pertanggungjawaban Uang Muka Non Perdin Detail | MASA - Google C*' /&gt;" SearchSteps="Selector, FuzzySelector, Image" SelectionStrategy="AA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=mscorlib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <TargetAnchorable.Anchors>
+    <scg:List x:TypeArguments="ITarget" Capacity="4">
+      <Target DesignTimeRectangle="327, 409, 260, 49" ElementType="TabPage" FriendlyName="'Beban Group'" FullSelectorArgument="&lt;ctrl name='Pertanggungjawaban Uang Muka Non Perdin Detail | MASA' role='document' /&gt;&lt;ctrl name='Detail' role='property page' /&gt;&lt;ctrl name='Nomor Rekening Beban Group Dokumen History Mutasi' role='page tab list' /&gt;&lt;ctrl name='Beban Group' role='page tab' /&gt;" FuzzySelectorArgument="&lt;ctrl name='Pertanggungjawaban Uang Muka Non Perdin Detail | MASA' role='document' /&gt;&lt;ctrl name='Detail' role='property page' /&gt;&lt;ctrl name='Nomor Rekening Beban Group Dokumen History Mutasi' role='page tab list' /&gt;&lt;ctrl name='Beban Group' role='page tab' automationid='' check:text='Beban Group' /&gt;" SearchSteps="Selector, FuzzySelector, Image">
+        <imageRef attrName="ImageBase64" xmlns="">1eTw20FG-wEOq3y8Immt3LQ</imageRef>
+      </Target>
+    </scg:List>
+  </TargetAnchorable.Anchors>
+  <imageRef attrName="ImageBase64" xmlns="">0vi3spgRTtUCbWMdhxm4Lng</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="d14dbeedb19cf504cda43589a9c3953e.png" xmlns="">0aliNoWG900q3dK9XBDQwSw</imageRef>
+</TargetAnchorable>

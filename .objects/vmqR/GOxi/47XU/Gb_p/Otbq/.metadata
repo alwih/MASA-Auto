@@ -1,0 +1,16 @@
+﻿{
+  "Id": "Otbq42-2rUGxsrPxOAE1Tw",
+  "Reference": "XmXxxtzE4ke1YN84qKCJ1w/Otbq42-2rUGxsrPxOAE1Tw",
+  "ParentRef": "XmXxxtzE4ke1YN84qKCJ1w/Gb_pd37cPkWwiuOy5icuzw",
+  "Name": "SubTab: History",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2022-06-20T08:22:50.2520958Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-06-20T08:25:31.3367922Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

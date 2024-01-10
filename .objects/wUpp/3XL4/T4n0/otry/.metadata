@@ -1,0 +1,16 @@
+﻿{
+  "Id": "otrys5xNa06ofXIyDSWBTw",
+  "Reference": "XmXxxtzE4ke1YN84qKCJ1w/otrys5xNa06ofXIyDSWBTw",
+  "ParentRef": "XmXxxtzE4ke1YN84qKCJ1w/T4n0d8My50uEfVGRxbvNmA",
+  "Name": "Btn: Icon Edit",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2022-08-04T14:10:14.2372237Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-08-04T14:11:00.6594485Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

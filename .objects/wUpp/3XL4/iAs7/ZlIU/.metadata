@@ -1,0 +1,16 @@
+﻿{
+  "Id": "ZlIUVsjDvESySOJXYPa11Q",
+  "Reference": "XmXxxtzE4ke1YN84qKCJ1w/ZlIUVsjDvESySOJXYPa11Q",
+  "ParentRef": "XmXxxtzE4ke1YN84qKCJ1w/iAs7tVPRuUK8MxdRceJ_tg",
+  "Name": "Btn: Tambah Rate Baru",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2022-08-16T03:52:45.6743336Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-08-16T03:53:03.4424678Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

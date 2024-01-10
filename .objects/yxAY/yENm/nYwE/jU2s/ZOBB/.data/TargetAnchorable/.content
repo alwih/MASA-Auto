@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetAnchorable BrowserURL="https://10.243.229.232/MASA/OrderDetail.aspx?OrderId=132" ContentHash="4fyGIMgnU0qfk8hrsL2GTA" DesignTimeRectangle="452, 110, 112, 21" ElementType="Text" FriendlyName="'Order created.'" FullSelectorArgument="&lt;webctrl id='wt4_OutSystemsUIWeb_wt18_block_wt5_RichWidgets_wt7_block_wtSanit*' tag='SPAN' /&gt;" FuzzySelectorArgument="&lt;webctrl id='wt4_OutSystemsUIWeb_wt18_block_wt5_RichWidgets_wt7_block_wtSanit*' tag='SPAN' type='' aaname='*' /&gt;" Reference="XmXxxtzE4ke1YN84qKCJ1w/ZOBBeYQvDECLXNi4yxAlXA" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Order Detail | MASA' /&gt;" SearchSteps="FuzzySelector" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=mscorlib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <TargetAnchorable.Anchors>
+    <scg:List x:TypeArguments="ITarget" Capacity="4">
+      <Target DesignTimeRectangle="420, 101, 600, 39" FriendlyName="'Order created.'" FullSelectorArgument="&lt;webctrl parentid='wt4_OutSystemsUIWeb_wt18_block_wt5_RichWidgets_wt7_block_wtFeedb*' tag='DIV' /&gt;" FuzzySelectorArgument="&lt;webctrl parentid='wt4_OutSystemsUIWeb_wt18_block_wt5_RichWidgets_wt7_block_wtFeedb*' tag='DIV' type='' aaname='' check:text='Order created.' /&gt;" SearchSteps="FuzzySelector, Image">
+        <imageRef attrName="ImageBase64" xmlns="">1ge0gBIvIgUGWtF9NEi6ddQ</imageRef>
+      </Target>
+    </scg:List>
+  </TargetAnchorable.Anchors>
+  <imageRef attrName="ImageBase64" xmlns="">0C04kHnV5fU-LVJ34-bejxA</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="a452c3c39f0eee6dbfc15a87c7eeb8b5.png" xmlns="">0FNezKqKU2EKlO-ZwMn8UdA</imageRef>
+</TargetAnchorable>

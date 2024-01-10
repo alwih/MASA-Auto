@@ -1,0 +1,16 @@
+﻿{
+  "Id": "UvP3wwWiKEuLOPiXriJ0IA",
+  "Reference": "XmXxxtzE4ke1YN84qKCJ1w/UvP3wwWiKEuLOPiXriJ0IA",
+  "ParentRef": "XmXxxtzE4ke1YN84qKCJ1w/OD64iCxuPUC-wE7-CJwUhA",
+  "Name": "Browse",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2022-06-24T03:34:12.4000304Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-06-24T03:35:04.1985685Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

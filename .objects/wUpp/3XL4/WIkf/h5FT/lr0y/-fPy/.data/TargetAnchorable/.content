@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetAnchorable ContentHash="izYOd_uo_06nd4aubUDC3g" DesignTimeRectangle="129, 593, 480, 25" ElementType="InputBox" FriendlyName="'editable text File name'" FullSelectorArgument="&lt;ctrl name='File name:' role='combo box' /&gt;&lt;ctrl name='File name:' role='editable text' /&gt;" FuzzySelectorArgument="&lt;ctrl name='File name:' role='combo box' /&gt;&lt;ctrl name='File name:' role='editable text' automationid='' /&gt;" ScopeSelectorArgument="&lt;wnd app='chrome.exe' cls='#32770' title='Open' /&gt;" SearchSteps="Selector, FuzzySelector" SelectionStrategy="AA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=mscorlib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <TargetAnchorable.Anchors>
+    <scg:List x:TypeArguments="ITarget" Capacity="4">
+      <Target DesignTimeRectangle="38, 592, 79, 25" ElementType="Text" FriendlyName="'File name'" FullSelectorArgument="&lt;ctrl name='File name:' role='text' /&gt;" FuzzySelectorArgument="&lt;ctrl name='File name:' role='text' automationid='' check:text='File name:' /&gt;" SearchSteps="Selector, FuzzySelector, Image">
+        <imageRef attrName="ImageBase64" xmlns="">1X0CwCQyr4EWbUBz4eNoBeg</imageRef>
+      </Target>
+    </scg:List>
+  </TargetAnchorable.Anchors>
+  <imageRef attrName="ImageBase64" xmlns="">0-c9CIXBZ6E2eDoB0dnGgRg</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="4459e54e937c8299413c814609d18cd5.png" xmlns="">0NaCW6Uc5-kWz4Bpv0ekikg</imageRef>
+</TargetAnchorable>

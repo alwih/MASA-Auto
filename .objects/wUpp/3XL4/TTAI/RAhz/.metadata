@@ -1,0 +1,14 @@
+﻿{
+  "Id": "RAhz_pBmXkuummzHd79MXA",
+  "Reference": "XmXxxtzE4ke1YN84qKCJ1w/RAhz_pBmXkuummzHd79MXA",
+  "ParentRef": "XmXxxtzE4ke1YN84qKCJ1w/TTAI37W6G0KXIBf9tAg3DA",
+  "Name": "Extract Table Data - User Employee",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2022-08-02T09:26:18.774846Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=21.4.4.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-08-02T09:26:18.774846Z"
+}

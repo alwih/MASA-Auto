@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetAnchorable BrowserURL="https://10.243.229.232/MASA/AssignPIC.aspx?(Not.Licensed.For.Production)=" ContentHash="1QjtX2k_sE2Ub4W6yWaV-A" DesignTimeRectangle="1260, 476, 93, 40" ElementType="Text" FriendlyName="'View'" FullSelectorArgument="&lt;webctrl aaname='View' id='wt6_OutSystemsUIWeb_wt18_block_wtContent_wtMainContent_MASA_SHAR*' tag='A' /&gt;" FuzzySelectorArgument="&lt;webctrl aaname='View' id='wt6_OutSystemsUIWeb_wt18_block_wtContent_wtMainContent_MASA_SHAR*' tag='A' type='' check:text='View' /&gt;" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Assign PIC | MASA' /&gt;" SearchSteps="FuzzySelector, Image" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=mscorlib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <TargetAnchorable.Anchors>
+    <scg:List x:TypeArguments="ITarget" Capacity="4">
+      <Target DesignTimeRectangle="1289, 419, 85, 48" FriendlyName="'View// Waits'" FullSelectorArgument="&lt;webctrl id='wt6_OutSystemsUIWeb_wt18_block_wtContent_wtMainContent_MASA_SHAR*' tag='TABLE' /&gt;&lt;webctrl tableCol='9' tag='TD' /&gt;" FuzzySelectorArgument="&lt;webctrl id='wt6_OutSystemsUIWeb_wt18_block_wtContent_wtMainContent_MASA_SHAR*' tag='TABLE' /&gt;&lt;webctrl type='' tag='TD' aaname='' check:text='View// Waits elements render and inits the responsiveTables&amp;#xA;var dropdownDOMReadyHandler = function(' /&gt;" SearchSteps="FuzzySelector, Image">
+        <imageRef attrName="ImageBase64" xmlns="">1Dpy_P8xdvE63FB-Y0ghSXw</imageRef>
+      </Target>
+    </scg:List>
+  </TargetAnchorable.Anchors>
+  <imageRef attrName="ImageBase64" xmlns="">0xqz5hSQbY0iKoKmZXwp8IQ</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="262193a47f44d687337fdc56866c73b4.png" xmlns="">0gGamxVm0VUi8J1mouB5GqA</imageRef>
+</TargetAnchorable>

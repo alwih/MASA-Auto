@@ -1,0 +1,16 @@
+﻿{
+  "Id": "6QVXlRFmUESm1tAGcNUs6Q",
+  "Reference": "XmXxxtzE4ke1YN84qKCJ1w/6QVXlRFmUESm1tAGcNUs6Q",
+  "ParentRef": "XmXxxtzE4ke1YN84qKCJ1w/aL6jtCV9lUKEC_7Ti9rTzA",
+  "Name": "Btn: Vendor Baru",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2022-08-04T10:24:27.0602837Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-08-04T10:25:14.1930104Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

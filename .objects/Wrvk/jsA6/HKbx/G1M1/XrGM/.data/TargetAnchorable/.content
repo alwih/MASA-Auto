@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetAnchorable BrowserURL="https://10.243.229.232/MASA/Dashboard.aspx" ContentHash="BoisPfSmYUWwg62Szx5-xw" DesignTimeRectangle="1149, 110, 211, 17" ElementType="Text" FriendlyName="'masaadmingroup@bankmand…'" FullSelectorArgument="&lt;webctrl aaname='*' tag='SPAN' parentclass='margin-left-s' idx='2' /&gt;" FuzzySelectorArgument="&lt;webctrl aaname='*' tag='SPAN' parentclass='margin-left-s' type='' /&gt;" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Dashboard | MASA' /&gt;" SearchSteps="FuzzySelector, Image" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=mscorlib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <TargetAnchorable.Anchors>
+    <scg:List x:TypeArguments="ITarget" Capacity="4">
+      <Target DesignTimeRectangle="1063, 87, 328, 40" FriendlyName="'99+// Checks'" FullSelectorArgument="&lt;webctrl id='wt14_OutSystemsUIWeb_wt18_block_wtHeader_wtRight' tag='DIV' /&gt;" FuzzySelectorArgument="&lt;webctrl id='wt14_OutSystemsUIWeb_wt18_block_wtHeader_wtRight' tag='DIV' type='' aaname='' check:text='99+// Checks if the DOM is loaded, if loaded, start the balloon, otherwise wait for the DOM be' /&gt;" SearchSteps="FuzzySelector, Image">
+        <imageRef attrName="ImageBase64" xmlns="">1VeOgXLi_wka23hKaTCw-9Q</imageRef>
+      </Target>
+    </scg:List>
+  </TargetAnchorable.Anchors>
+  <imageRef attrName="ImageBase64" xmlns="">0_q42UM-ZGkKAwkhJ10gw6Q</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="bdec760c8d3dc41ac61350bd91bf0bda.png" xmlns="">0NXAK1PHPnUSN9YCmd4abLQ</imageRef>
+</TargetAnchorable>

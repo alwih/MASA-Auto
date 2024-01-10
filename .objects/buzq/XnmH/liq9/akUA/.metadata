@@ -1,0 +1,16 @@
+﻿{
+  "Id": "akUAtenbmEil4pwpTL32jw",
+  "Reference": "XmXxxtzE4ke1YN84qKCJ1w/akUAtenbmEil4pwpTL32jw",
+  "ParentRef": "XmXxxtzE4ke1YN84qKCJ1w/liq9JpKifUCJeSnkEXx7FQ",
+  "Name": "Search: Nomor Nota",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2022-04-28T05:31:08.615762Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-04-28T05:31:32.4607725Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

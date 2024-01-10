@@ -1,0 +1,16 @@
+﻿{
+  "Id": "T0X5CztrZEqKV-Ja9rLSGA",
+  "Reference": "XmXxxtzE4ke1YN84qKCJ1w/T0X5CztrZEqKV-Ja9rLSGA",
+  "ParentRef": "XmXxxtzE4ke1YN84qKCJ1w/er6IIhtuK02F8Me5E6WQuw",
+  "Name": "d TTD1",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2022-08-22T03:11:16.7042575Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-08-22T03:14:04.6725204Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

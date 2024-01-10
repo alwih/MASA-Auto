@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetAnchorable ContentHash="ZDsCViKmEEWQCUQfmKleqg" DesignTimeRectangle="735, 655, 639, 41" FriendlyName="'0'" FullSelectorArgument="&lt;ctrl name='Reimbursement Perdin Detail | MASA' role='document' /&gt;&lt;ctrl name='Main' role='property page' /&gt;&lt;ctrl name='Jumlah Transaksi *' role='spin box' /&gt;" FuzzySelectorArgument="&lt;ctrl name='Reimbursement Perdin Detail | MASA' role='document' /&gt;&lt;ctrl name='Main' role='property page' /&gt;&lt;ctrl name='Jumlah Transaksi *' role='spin box' automationid='' check:text='0' /&gt;" ScopeSelectorArgument="&lt;wnd app='chrome.exe' cls='Chrome_WidgetWin_1' title='Reimbursement Perdin Detail | MASA - Google Chrome' /&gt;" SearchSteps="Selector, FuzzySelector, Image" SelectionStrategy="AA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=mscorlib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <TargetAnchorable.Anchors>
+    <scg:List x:TypeArguments="ITarget" Capacity="4">
+      <Target DesignTimeRectangle="735, 631, 205, 25" ElementType="InputBox" FriendlyName="'Jumlah Transaksi'" FullSelectorArgument="&lt;ctrl name='Reimbursement Perdin Detail | MASA' role='document' /&gt;&lt;ctrl name='Main' role='property page' /&gt;&lt;ctrl idx='18' role='editable text' /&gt;" FuzzySelectorArgument="&lt;ctrl name='Reimbursement Perdin Detail | MASA' role='document' /&gt;&lt;ctrl name='Main' role='property page' /&gt;&lt;ctrl automationid='' role='editable text' /&gt;" SearchSteps="Selector, FuzzySelector, Image">
+        <imageRef attrName="ImageBase64" xmlns="">10amY2OhCPQEafqStoAnTc-A</imageRef>
+      </Target>
+    </scg:List>
+  </TargetAnchorable.Anchors>
+  <imageRef attrName="ImageBase64" xmlns="">09tgHfm-AIUiEt2ets5aYow</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="5e1c28013546969bcbea348bc73c5c10.png" xmlns="">0wholH5EHska3QNRSgMcBgg</imageRef>
+</TargetAnchorable>

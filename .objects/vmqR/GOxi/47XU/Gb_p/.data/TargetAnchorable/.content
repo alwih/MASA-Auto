@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetAnchorable ContentHash="acGBlvbsKkO2tJbmNp3DMA" DesignTimeRectangle="502, 330, 435, 49" ElementType="TabPage" FriendlyName="'Detail'" FullSelectorArgument="&lt;ctrl name='*' role='document' /&gt;&lt;ctrl name='Main Detail Accounting' role='page tab list' /&gt;&lt;ctrl name='Detail' role='page tab' /&gt;" FuzzySelectorArgument="&lt;ctrl name='*' role='document' /&gt;&lt;ctrl name='Main Detail Accounting' role='page tab list' /&gt;&lt;ctrl name='Detail' role='page tab' automationid='' check:text='Detail' /&gt;" ScopeSelectorArgument="&lt;wnd app='chrome.exe' cls='Chrome_WidgetWin_1' title='FPP Pajak / Non Pajak Detail | MASA - Google Chrome' /&gt;" SearchSteps="Selector, FuzzySelector, Image" SelectionStrategy="AA" xmlns="http://schemas.uipath.com/workflow/activities/uix">
+  <imageRef attrName="ImageBase64" xmlns="">0kFb-dl8tQUyJZ4lrtcFouQ</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="2352aacd96cea774082cd72a178dad73.png" xmlns="">099ljB7KyhkW5joQDWiZvyQ</imageRef>
+</TargetAnchorable>

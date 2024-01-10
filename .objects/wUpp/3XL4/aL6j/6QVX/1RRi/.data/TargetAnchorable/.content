@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetAnchorable ContentHash="t0RlNZgfokyT4ivdLLnwfw" DesignTimeRectangle="72, 685, 1295, 22" ElementType="Text" FriendlyName="'Add MasterVendorRekening'" FullSelectorArgument="&lt;ctrl name='Vendor Detail | MASA' role='document' /&gt;&lt;ctrl idx='2' role='row' /&gt;&lt;ctrl name=' Add MasterVendorRekening' role='cell' /&gt;&lt;ctrl name=' Add MasterVendorRekening' role='link' /&gt;" FuzzySelectorArgument="&lt;ctrl name='Vendor Detail | MASA' role='document' /&gt;&lt;ctrl role='row' /&gt;&lt;ctrl name=' Add MasterVendorRekening' role='cell' /&gt;&lt;ctrl name=' Add MasterVendorRekening' role='link' automationid='' check:text='Add MasterVendorRekening' /&gt;" Reference="XmXxxtzE4ke1YN84qKCJ1w/1RRi3ro-w0esVnJ4tKqejA" ScopeSelectorArgument="&lt;wnd app='chrome.exe' cls='Chrome_WidgetWin_1' title='Vendor Detail | MASA - Google Chrome' /&gt;" SearchSteps="FuzzySelector, Image" SelectionStrategy="AA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=mscorlib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <TargetAnchorable.Anchors>
+    <scg:List x:TypeArguments="ITarget" Capacity="4">
+      <Target DesignTimeRectangle="48, 669, 1343, 54" ElementType="Cell" FriendlyName="'Add MasterVendorRekening'" FullSelectorArgument="&lt;ctrl name='Vendor Detail | MASA' role='document' /&gt;&lt;ctrl idx='2' role='row' /&gt;&lt;ctrl name=' Add MasterVendorRekening' role='cell' /&gt;" FuzzySelectorArgument="&lt;ctrl name='Vendor Detail | MASA' role='document' /&gt;&lt;ctrl role='row' /&gt;&lt;ctrl name=' Add MasterVendorRekening' role='cell' automationid='' /&gt;" SearchSteps="Selector, FuzzySelector, Image">
+        <imageRef attrName="ImageBase64" xmlns="">1JiIZJ8QTMEa5cgPQN5aJtg</imageRef>
+      </Target>
+    </scg:List>
+  </TargetAnchorable.Anchors>
+  <imageRef attrName="ImageBase64" xmlns="">0uWluuRXdYU6aEHjCb-aiLA</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="efee3c157efc3972a4ce4a2b537d950b.png" xmlns="">0gUpn4pE2r0e688VLAgYpuA</imageRef>
+</TargetAnchorable>

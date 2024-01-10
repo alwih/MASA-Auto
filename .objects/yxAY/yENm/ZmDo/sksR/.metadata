@@ -1,0 +1,14 @@
+﻿{
+  "Id": "sksR0CiQ5E-B9WM5k6PGNA",
+  "Reference": "XmXxxtzE4ke1YN84qKCJ1w/sksR0CiQ5E-B9WM5k6PGNA",
+  "ParentRef": "XmXxxtzE4ke1YN84qKCJ1w/ZmDojtpcNkSQiCQfPf45xQ",
+  "Name": "Extract Table Data - PJUM Perdin",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2022-08-22T04:27:52.9419746Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=21.4.4.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-08-22T04:27:52.9419746Z"
+}

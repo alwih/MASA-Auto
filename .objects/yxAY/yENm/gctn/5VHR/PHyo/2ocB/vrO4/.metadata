@@ -1,0 +1,13 @@
+﻿{
+  "Id": "vrO44peCW0qP-sROz_Q-qw",
+  "Reference": "XmXxxtzE4ke1YN84qKCJ1w/vrO44peCW0qP-sROz_Q-qw",
+  "ParentRef": "XmXxxtzE4ke1YN84qKCJ1w/2ocBePp-tEiO1fG43Nqj2w",
+  "Name": "File Upload",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2022-05-30T07:56:07.0095591Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-05-30T07:56:07.0095591Z"
+}

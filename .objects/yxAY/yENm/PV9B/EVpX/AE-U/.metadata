@@ -1,0 +1,16 @@
+﻿{
+  "Id": "AE-UlOhgI0KQbUcHncE6yw",
+  "Reference": "XmXxxtzE4ke1YN84qKCJ1w/AE-UlOhgI0KQbUcHncE6yw",
+  "ParentRef": "XmXxxtzE4ke1YN84qKCJ1w/EVpX8ZAaLEGFWhGTz_mdxg",
+  "Name": "e Keterangan",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2022-06-24T02:54:10.8271048Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-06-24T02:54:45.8792842Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

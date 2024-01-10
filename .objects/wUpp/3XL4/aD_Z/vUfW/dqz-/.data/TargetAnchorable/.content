@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetAnchorable ContentHash="CRvIYqTQpka1d4fTYgJeEg" DesignTimeRectangle="48, 488, 435, 41" FriendlyName="'- Select Group -'" FullSelectorArgument="&lt;ctrl name='GroupCategoryDetail' role='document' /&gt;&lt;ctrl idx='62' role='grouping' /&gt;" FuzzySelectorArgument="&lt;ctrl name='GroupCategoryDetail' role='document' /&gt;&lt;ctrl automationid='' role='grouping' /&gt;" ScopeSelectorArgument="&lt;wnd app='chrome.exe' cls='Chrome_WidgetWin_1' title='GroupCategoryDetail - Google Chrome' /&gt;" SearchSteps="Selector, FuzzySelector, Image" SelectionStrategy="AA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=mscorlib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <TargetAnchorable.Anchors>
+    <scg:List x:TypeArguments="ITarget" Capacity="4">
+      <Target DesignTimeRectangle="48, 464, 211, 25" ElementType="InputBox" FriendlyName="'GES Group'" FullSelectorArgument="&lt;ctrl name='GroupCategoryDetail' role='document' /&gt;&lt;ctrl idx='4' role='editable text' /&gt;" FuzzySelectorArgument="&lt;ctrl name='GroupCategoryDetail' role='document' /&gt;&lt;ctrl automationid='' role='editable text' /&gt;" SearchSteps="Selector, FuzzySelector, Image">
+        <imageRef attrName="ImageBase64" xmlns="">1ZfNnDGCyek2_DdbxCewh3g</imageRef>
+      </Target>
+    </scg:List>
+  </TargetAnchorable.Anchors>
+  <imageRef attrName="ImageBase64" xmlns="">0pKIQ0fk2T0KgNND0ARyNcQ</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="50be6a4540e0e54c271f436bc7d1b419.png" xmlns="">0wFdTOKU1UUmv_s11h_wcdw</imageRef>
+</TargetAnchorable>

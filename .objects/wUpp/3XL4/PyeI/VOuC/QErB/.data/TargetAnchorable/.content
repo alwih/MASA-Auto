@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetAnchorable BrowserURL="https://10.243.229.232/MASA/SAPGroup.aspx" ContentHash="h9ETAFugjkOsf05MmUBdZA" DesignTimeRectangle="69, 443, 18, 18" ElementType="CheckBox" FriendlyName="'Checkbox'" FullSelectorArgument="&lt;webctrl tag='INPUT' type='checkbox' /&gt;" FuzzySelectorArgument="&lt;webctrl tag='INPUT' type='checkbox' aaname='Is SAP' /&gt;" ScopeSelectorArgument="&lt;html app='chrome.exe' title='SAP Group | MASA' /&gt;" SearchSteps="Selector, FuzzySelector" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=mscorlib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <TargetAnchorable.Anchors>
+    <scg:List x:TypeArguments="ITarget" Capacity="4">
+      <Target DesignTimeRectangle="69, 409, 419, 24" ElementType="Text" FriendlyName="'unchecked'" FullSelectorArgument="&lt;webctrl aaname='Is SAP' parentid='wt27_OutSystemsUIWeb_wt18_block_wtContent_wtMainContent_MASA_Bac*' tag='LABEL' /&gt;" FuzzySelectorArgument="&lt;webctrl aaname='Is SAP' parentid='wt27_OutSystemsUIWeb_wt18_block_wtContent_wtMainContent_MASA_Bac*' tag='LABEL' type='' check:text='unchecked' /&gt;" SearchSteps="FuzzySelector, Image">
+        <imageRef attrName="ImageBase64" xmlns="">0cRCMdFMKMkCB8FjnWGSGHw</imageRef>
+      </Target>
+    </scg:List>
+  </TargetAnchorable.Anchors>
+  <imageRef attrName="InformativeScreenshot" originalValue="2d1b554535db437e2ea00e2ef56741ad.png" xmlns="">0msa5CViXC0ms0RNt9K8vpw</imageRef>
+</TargetAnchorable>

@@ -1,0 +1,16 @@
+﻿{
+  "Id": "F45BQ6LhdUqSoFSqajSrlA",
+  "Reference": "XmXxxtzE4ke1YN84qKCJ1w/F45BQ6LhdUqSoFSqajSrlA",
+  "ParentRef": "XmXxxtzE4ke1YN84qKCJ1w/uLIdhYYFEUmUCi-pwjhuzA",
+  "Name": "5 Export PDF",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2022-05-11T06:11:09.3518077Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-05-11T06:11:32.8665431Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

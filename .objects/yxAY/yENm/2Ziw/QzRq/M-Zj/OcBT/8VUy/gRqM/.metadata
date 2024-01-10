@@ -1,0 +1,16 @@
+﻿{
+  "Id": "gRqMDYlVtUOe9tNR_ihLZQ",
+  "Reference": "XmXxxtzE4ke1YN84qKCJ1w/gRqMDYlVtUOe9tNR_ihLZQ",
+  "ParentRef": "XmXxxtzE4ke1YN84qKCJ1w/8VUyANAYX0WBEcJaRDtJdg",
+  "Name": "Klik: Mata Uang",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2022-04-22T05:27:46.2320223Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-04-22T05:28:57.8661369Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

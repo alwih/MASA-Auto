@@ -1,0 +1,16 @@
+﻿{
+  "Id": "3SNhKrdr6Um-suRF5V3wcg",
+  "Reference": "XmXxxtzE4ke1YN84qKCJ1w/3SNhKrdr6Um-suRF5V3wcg",
+  "ParentRef": "XmXxxtzE4ke1YN84qKCJ1w/YCepkdxQQUWoV2DzFFSpqQ",
+  "Name": "x is Bon Jurnal",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2022-06-18T10:20:01.5832288Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-06-18T10:20:33.4741742Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

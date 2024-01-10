@@ -1,0 +1,16 @@
+﻿{
+  "Id": "lr0yiUqWaky5Nz7Rgwirqw",
+  "Reference": "XmXxxtzE4ke1YN84qKCJ1w/lr0yiUqWaky5Nz7Rgwirqw",
+  "ParentRef": "XmXxxtzE4ke1YN84qKCJ1w/h5FTN_qPGUOcgQm_pmQAxg",
+  "Name": "e Nama File",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2022-08-04T01:11:29.9786877Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-08-04T01:12:15.4746742Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

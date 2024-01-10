@@ -1,0 +1,16 @@
+﻿{
+  "Id": "RRujYPlA3ECZu88875AqGQ",
+  "Reference": "XmXxxtzE4ke1YN84qKCJ1w/RRujYPlA3ECZu88875AqGQ",
+  "ParentRef": "XmXxxtzE4ke1YN84qKCJ1w/T4n0d8My50uEfVGRxbvNmA",
+  "Name": "Icon: Hapus",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2022-07-28T02:30:29.2297185Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-07-28T02:30:48.0771533Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

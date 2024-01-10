@@ -1,0 +1,16 @@
+﻿{
+  "Id": "OcBTkb3AjU-64olePqaG7g",
+  "Reference": "XmXxxtzE4ke1YN84qKCJ1w/OcBTkb3AjU-64olePqaG7g",
+  "ParentRef": "XmXxxtzE4ke1YN84qKCJ1w/M-Zjp5ivtkumTq_qiz9-1A",
+  "Name": "2.2.1 Tmbh Pengurangan Pajak",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2022-04-20T06:54:12.3939267Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-04-20T06:55:35.3868973Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

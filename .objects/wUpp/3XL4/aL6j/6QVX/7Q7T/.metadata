@@ -1,0 +1,16 @@
+﻿{
+  "Id": "7Q7Tmi0tK0-HAhYdPDAdLg",
+  "Reference": "XmXxxtzE4ke1YN84qKCJ1w/7Q7Tmi0tK0-HAhYdPDAdLg",
+  "ParentRef": "XmXxxtzE4ke1YN84qKCJ1w/6QVXlRFmUESm1tAGcNUs6Q",
+  "Name": "c NPWP",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2022-08-04T10:26:36.085545Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-08-04T10:26:55.8583337Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

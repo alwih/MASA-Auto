@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetAnchorable BrowserURL="https://10.243.229.232/MASA/FinancialTransaction.PJUMNonPerdin.aspx" ContentHash="qIIW3YYiE0-QeJXORB3UdA" DesignTimeRectangle="739, 508, 395, 40" ElementType="InputBox" FriendlyName="'INPUT'" FullSelectorArgument="&lt;webctrl aaname='Keterangan' id='wt29_OutSystemsUIWeb_wt18_block_wtContent_wtMainContent_MASA_Fin*' idx='2' parentname='wt29$OutSystemsUIWeb_wt18$block$wtContent$wtMainContent$MASA_Fin*' tabindex='0' tag='INPUT' type='text' /&gt;" FuzzySelectorArgument="&lt;webctrl aaname='Keterangan' id='wt29_OutSystemsUIWeb_wt18_block_wtContent_wtMainContent_MASA_Fin*' parentname='wt29$OutSystemsUIWeb_wt18$block$wtContent$wtMainContent$MASA_Fin*' tabindex='0' tag='INPUT' type='text' /&gt;" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Pertanggungjawaban Uang Muka Non Perdin Detail | MASA' /&gt;" SearchSteps="FuzzySelector, Image" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=mscorlib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <TargetAnchorable.Anchors>
+    <scg:List x:TypeArguments="ITarget" Capacity="4">
+      <Target DesignTimeRectangle="739, 484, 261, 24" ElementType="Text" FriendlyName="'Keterangan'" FullSelectorArgument="&lt;webctrl aaname='Keterangan' idx='4' parentid='wt29_OutSystemsUIWeb_wt18_block_wtContent_wtMainContent_MASA_Fin*' parentname='wt29$OutSystemsUIWeb_wt18$block$wtContent$wtMainContent$MASA_Fin*' tag='LABEL' /&gt;" FuzzySelectorArgument="&lt;webctrl aaname='Keterangan' type='' parentid='wt29_OutSystemsUIWeb_wt18_block_wtContent_wtMainContent_MASA_Fin*' parentname='wt29$OutSystemsUIWeb_wt18$block$wtContent$wtMainContent$MASA_Fin*' tag='LABEL' check:text='Keterangan' /&gt;" SearchSteps="FuzzySelector, Image">
+        <imageRef attrName="ImageBase64" xmlns="">1kOeFY-i5PUecqK3uRxGo-Q</imageRef>
+      </Target>
+    </scg:List>
+  </TargetAnchorable.Anchors>
+  <imageRef attrName="ImageBase64" xmlns="">0qzKxX0dHkEKgq77XOqNzkw</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="12a8b6b61f11522dfbf25a8bbb170294.png" xmlns="">04bQutgGpZ06g5VosjUnGJQ</imageRef>
+</TargetAnchorable>

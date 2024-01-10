@@ -1,0 +1,15 @@
+﻿{
+  "Id": "PRIYTdUfnUKQbJe1AiwuXQ",
+  "Reference": "XmXxxtzE4ke1YN84qKCJ1w/PRIYTdUfnUKQbJe1AiwuXQ",
+  "ParentRef": "XmXxxtzE4ke1YN84qKCJ1w/3XL4ZboadUieKFsQ0wfrZQ",
+  "Name": "Nomor",
+  "Type": "Screen",
+  "Created": "2022-07-20T04:09:53.2118967Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-07-20T04:09:58.2024935Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

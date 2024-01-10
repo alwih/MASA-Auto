@@ -1,0 +1,16 @@
+﻿{
+  "Id": "S6Tg9jCi3U69fOuSvLViFQ",
+  "Reference": "XmXxxtzE4ke1YN84qKCJ1w/S6Tg9jCi3U69fOuSvLViFQ",
+  "ParentRef": "XmXxxtzE4ke1YN84qKCJ1w/pmbhmA3XAk-DsDQ0z3viVg",
+  "Name": "r Approver Acc 2B",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2022-06-27T07:13:15.711273Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-06-27T07:13:45.4224531Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

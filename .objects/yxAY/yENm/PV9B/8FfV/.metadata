@@ -1,0 +1,14 @@
+﻿{
+  "Id": "8FfVjZgOMEK58T7kgqsGkQ",
+  "Reference": "XmXxxtzE4ke1YN84qKCJ1w/8FfVjZgOMEK58T7kgqsGkQ",
+  "ParentRef": "XmXxxtzE4ke1YN84qKCJ1w/PV9BFr95mU6wOMBjxsByLw",
+  "Name": "Extract Table Data - PJUM",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2022-08-20T05:41:21.5850609Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=21.4.4.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-08-20T05:41:21.5850609Z"
+}

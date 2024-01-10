@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetAnchorable ContentHash="1FLJTaKk70e7aHq-cLCBvQ" DesignTimeRectangle="65, 354, 642, 41" ElementType="InputBox" FriendlyName="'2022-07-30'" FullSelectorArgument="&lt;ctrl name='Libur Detail | MASA' role='document' /&gt;&lt;ctrl name='Tanggal Libur *' role='editable text' /&gt;" FuzzySelectorArgument="&lt;ctrl name='Libur Detail | MASA' role='document' /&gt;&lt;ctrl name='Tanggal Libur *' role='editable text' automationid='' /&gt;" ScopeSelectorArgument="&lt;wnd app='chrome.exe' cls='Chrome_WidgetWin_1' title='Libur Detail | MASA - Google Chrome' /&gt;" SearchSteps="Selector, FuzzySelector, Image" SelectionStrategy="AA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=mscorlib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <TargetAnchorable.Anchors>
+    <scg:List x:TypeArguments="ITarget" Capacity="4">
+      <Target DesignTimeRectangle="65, 330, 197, 25" ElementType="InputBox" FriendlyName="'Tanggal Libur'" FullSelectorArgument="&lt;ctrl name='Libur Detail | MASA' role='document' /&gt;&lt;ctrl role='editable text' /&gt;" FuzzySelectorArgument="&lt;ctrl name='Libur Detail | MASA' role='document' /&gt;&lt;ctrl role='editable text' automationid='' /&gt;" SearchSteps="Selector, FuzzySelector, Image">
+        <imageRef attrName="ImageBase64" xmlns="">10L28Gpe7M4UaPE9VN1qIlVA</imageRef>
+      </Target>
+    </scg:List>
+  </TargetAnchorable.Anchors>
+  <imageRef attrName="ImageBase64" xmlns="">09G43mz9AokuZ9eLxgp1L-A</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="8e10fa5be2e4abfa0a719bd541e7c72a.png" xmlns="">0m3N0_ahnW0mo81e_tJHj9g</imageRef>
+</TargetAnchorable>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetAnchorable BrowserURL="https://10.243.229.232/MASA/ReportTransaksiGagalTransfer.aspx" ContentHash="Xe0x6iNrQ0mFyeeTDtLOEA" DesignTimeRectangle="452, 110, 171, 21" ElementType="Text" FriendlyName="'Data Berhasil Di Upload'" FullSelectorArgument="&lt;webctrl id='wt19_OutSystemsUIWeb_wt18_block_wt5_RichWidgets_wt7_block_wtSani*' tag='SPAN' /&gt;" FuzzySelectorArgument="&lt;webctrl id='wt19_OutSystemsUIWeb_wt18_block_wt5_RichWidgets_wt7_block_wtSani*' tag='SPAN' type='' aaname='Data Berhasil Di Upload' /&gt;" ScopeSelectorArgument="&lt;html app='chrome.exe' title='ReportTransaksiGagalTransfer' /&gt;" SearchSteps="Selector, FuzzySelector, Image" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=mscorlib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <TargetAnchorable.Anchors>
+    <scg:List x:TypeArguments="ITarget" Capacity="4">
+      <Target DesignTimeRectangle="420, 101, 600, 39" FriendlyName="'Data Berhasil Di Upload'" FullSelectorArgument="&lt;webctrl parentid='wt19_OutSystemsUIWeb_wt18_block_wt5_RichWidgets_wt7_block_wtFeed*' tag='DIV' /&gt;" FuzzySelectorArgument="&lt;webctrl parentid='wt19_OutSystemsUIWeb_wt18_block_wt5_RichWidgets_wt7_block_wtFeed*' tag='DIV' type='' aaname='' check:text='Data Berhasil Di Upload' /&gt;" SearchSteps="FuzzySelector, Image">
+        <imageRef attrName="ImageBase64" xmlns="">1A1htKoIEFE-fwnFK1RUyZw</imageRef>
+      </Target>
+    </scg:List>
+  </TargetAnchorable.Anchors>
+  <imageRef attrName="ImageBase64" xmlns="">0YmgVB7WNAUGXAIVPyM_Lpw</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="9277a79b80410c9f9f78623693797dc1.png" xmlns="">0h-Y4bN7haUSw2TOHNspaKQ</imageRef>
+</TargetAnchorable>

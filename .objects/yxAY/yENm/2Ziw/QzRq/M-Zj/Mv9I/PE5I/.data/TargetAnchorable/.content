@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetAnchorable ContentHash="DA7PnBsZ00KEXGepmvOzvg" DesignTimeRectangle="982, 415, 244, 41" ElementType="InputBox" FriendlyName="'0,00'" FullSelectorArgument="&lt;ctrl name='FPP Pajak / Non Pajak Detail | MASA' role='document' /&gt;&lt;ctrl name='Detail' role='property page' /&gt;&lt;ctrl name='Beban Grup' role='property page' /&gt;&lt;ctrl idx='7' role='row' /&gt;&lt;ctrl name='0,00' role='cell' /&gt;&lt;ctrl role='editable text' /&gt;" FuzzySelectorArgument="&lt;ctrl name='FPP Pajak / Non Pajak Detail | MASA' role='document' /&gt;&lt;ctrl name='Detail' role='property page' /&gt;&lt;ctrl name='Beban Grup' role='property page' /&gt;&lt;ctrl role='row' /&gt;&lt;ctrl name='0,00' role='cell' /&gt;&lt;ctrl role='editable text' automationid='' /&gt;" ScopeSelectorArgument="&lt;wnd app='chrome.exe' cls='Chrome_WidgetWin_1' title='FPP Pajak / Non Pajak Detail | MASA - Google Chrome' /&gt;" SearchSteps="FuzzySelector, Image" SelectionStrategy="AA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=mscorlib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <TargetAnchorable.Anchors>
+    <scg:List x:TypeArguments="ITarget" Capacity="4">
+      <Target DesignTimeRectangle="1061, 379, 86, 18" ElementType="Text" FriendlyName="'Nilai Potongan'" FullSelectorArgument="&lt;ctrl name='FPP Pajak / Non Pajak Detail | MASA' role='document' /&gt;&lt;ctrl name='Detail' role='property page' /&gt;&lt;ctrl name='Beban Grup' role='property page' /&gt;&lt;ctrl idx='6' role='row' /&gt;&lt;ctrl name='Nilai Potongan' role='cell' /&gt;&lt;ctrl name='Nilai Potongan' role='text' /&gt;" FuzzySelectorArgument="&lt;ctrl name='FPP Pajak / Non Pajak Detail | MASA' role='document' /&gt;&lt;ctrl name='Detail' role='property page' /&gt;&lt;ctrl name='Beban Grup' role='property page' /&gt;&lt;ctrl role='row' /&gt;&lt;ctrl name='Nilai Potongan' role='cell' /&gt;&lt;ctrl name='Nilai Potongan' role='text' automationid='' check:text='Nilai Potongan' /&gt;" SearchSteps="Selector, FuzzySelector, Image">
+        <imageRef attrName="ImageBase64" xmlns="">1Co-zBeHQMUmydm1U0gldLQ</imageRef>
+      </Target>
+    </scg:List>
+  </TargetAnchorable.Anchors>
+  <imageRef attrName="ImageBase64" xmlns="">0eO8llkESmUasikbq-FCVuQ</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="b11f7fdd9501bb6a581ab91c88101278.png" xmlns="">0qVLElc41rkC4kJPTKv_zIQ</imageRef>
+</TargetAnchorable>

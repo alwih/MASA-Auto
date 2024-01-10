@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetAnchorable ContentHash="DXFlTbvq5EqYmQt3CJD8ew" DesignTimeRectangle="735, 529, 639, 41" FriendlyName="'- Pilih Bank Penerima -'" FullSelectorArgument="&lt;ctrl name='FPP Setoran Materai Detail | MASA' role='document' /&gt;&lt;ctrl name='Main' role='property page' /&gt;&lt;ctrl idx='31' role='grouping' /&gt;" FuzzySelectorArgument="&lt;ctrl name='FPP Setoran Materai Detail | MASA' role='document' /&gt;&lt;ctrl name='Main' role='property page' /&gt;&lt;ctrl automationid='' role='grouping' check:fulltext='- Pilih Bank Penerima -' /&gt;" Reference="XmXxxtzE4ke1YN84qKCJ1w/zWmuVsLlr0GzUz_5cEkLSg" ScopeSelectorArgument="&lt;wnd app='chrome.exe' cls='Chrome_WidgetWin_1' title='FPP Setoran Materai Detail | MASA - Google Chrome' /&gt;" SearchSteps="Selector, FuzzySelector, Image" SelectionStrategy="AA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=mscorlib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <TargetAnchorable.Anchors>
+    <scg:List x:TypeArguments="ITarget" Capacity="4">
+      <Target DesignTimeRectangle="735, 505, 314, 25" ElementType="InputBox" FriendlyName="'Bank Penerima'" FullSelectorArgument="&lt;ctrl name='FPP Setoran Materai Detail | MASA' role='document' /&gt;&lt;ctrl name='Main' role='property page' /&gt;&lt;ctrl idx='26' role='editable text' /&gt;" FuzzySelectorArgument="&lt;ctrl name='FPP Setoran Materai Detail | MASA' role='document' /&gt;&lt;ctrl name='Main' role='property page' /&gt;&lt;ctrl automationid='' role='editable text' /&gt;" SearchSteps="Selector, FuzzySelector, Image">
+        <imageRef attrName="ImageBase64" xmlns="">17p4VwG39D0yQ0PFqANqThQ</imageRef>
+      </Target>
+    </scg:List>
+  </TargetAnchorable.Anchors>
+  <imageRef attrName="ImageBase64" xmlns="">0j1gOIvroWkCTefpZVZNo8Q</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="ee0648eae260f84fcd82ace516edcf23.png" xmlns="">0OI0VQYTDW0euN359X0fd8g</imageRef>
+</TargetAnchorable>

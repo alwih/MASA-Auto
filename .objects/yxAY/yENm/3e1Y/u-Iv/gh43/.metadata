@@ -1,0 +1,16 @@
+﻿{
+  "Id": "gh43GwKZYkOTO6npSNVlCw",
+  "Reference": "XmXxxtzE4ke1YN84qKCJ1w/gh43GwKZYkOTO6npSNVlCw",
+  "ParentRef": "XmXxxtzE4ke1YN84qKCJ1w/u-Ivu-jzEk6c0xLyXBwf5w",
+  "Name": "2.2 Tab Valuta",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2022-04-19T08:38:53.5520921Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-04-19T08:39:25.3981092Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

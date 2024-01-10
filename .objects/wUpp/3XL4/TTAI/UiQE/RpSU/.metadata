@@ -1,0 +1,16 @@
+﻿{
+  "Id": "RpSUdnm_3E-lvNPll7BbNg",
+  "Reference": "XmXxxtzE4ke1YN84qKCJ1w/RpSUdnm_3E-lvNPll7BbNg",
+  "ParentRef": "XmXxxtzE4ke1YN84qKCJ1w/UiQETIt1JUC_NISFHmN6mg",
+  "Name": "d Group",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2022-08-02T08:56:58.5231835Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-08-02T08:57:17.1286733Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetAnchorable BrowserURL="https://10.243.229.232/MASA/FinancialTransaction.PJUMNonPerdin.aspx" ContentHash="eGJiE2srMUW7PtVv-YDB0Q" DesignTimeRectangle="748, 822, 18, 18" ElementType="CheckBox" FriendlyName="'Checkbox'" FullSelectorArgument="&lt;webctrl aaname='Is FormSetoran' tag='INPUT' type='checkbox' /&gt;" FuzzySelectorArgument="&lt;webctrl aaname='Is FormSetoran' tag='INPUT' type='checkbox' /&gt;" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Pertanggungjawaban Uang Muka Non Perdin Detail | MASA' /&gt;" SearchSteps="Selector, FuzzySelector" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=mscorlib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <TargetAnchorable.Anchors>
+    <scg:List x:TypeArguments="ITarget" Capacity="4">
+      <Target DesignTimeRectangle="736, 798, 204, 24" ElementType="Text" FriendlyName="'unchecked'" FullSelectorArgument="&lt;webctrl aaname='Is FormSetoran' parentid='wt29_OutSystemsUIWeb_wt18_block_wtContent_wtMainContent_MASA_Fin*' tag='LABEL' /&gt;" FuzzySelectorArgument="&lt;webctrl aaname='Is FormSetoran' parentid='wt29_OutSystemsUIWeb_wt18_block_wtContent_wtMainContent_MASA_Fin*' tag='LABEL' type='' check:text='unchecked' /&gt;" SearchSteps="FuzzySelector, Image">
+        <imageRef attrName="ImageBase64" xmlns="">1-O47SKxvA0evAve_PAjy-Q</imageRef>
+      </Target>
+    </scg:List>
+  </TargetAnchorable.Anchors>
+  <imageRef attrName="ImageBase64" xmlns="">0bjLm4JU71EO-h6Br-KS1CA</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="89c8cddacf1d9169de5d424ce8c59946.png" xmlns="">0KKwgxqpDF0qKQAUw_5ofCg</imageRef>
+</TargetAnchorable>

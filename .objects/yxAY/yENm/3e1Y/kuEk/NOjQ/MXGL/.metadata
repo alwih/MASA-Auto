@@ -1,0 +1,16 @@
+﻿{
+  "Id": "MXGLpl5fT0Kq0O-W-IpsUQ",
+  "Reference": "XmXxxtzE4ke1YN84qKCJ1w/MXGLpl5fT0Kq0O-W-IpsUQ",
+  "ParentRef": "XmXxxtzE4ke1YN84qKCJ1w/NOjQIkSsAUqMfzEoPFAjlA",
+  "Name": "No Invoice",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2022-04-19T08:28:06.5722505Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-04-19T08:28:20.5603441Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

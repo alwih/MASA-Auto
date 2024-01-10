@@ -1,0 +1,14 @@
+﻿{
+  "Id": "qz01xqKyY0uenp3C_Rv_-g",
+  "Reference": "XmXxxtzE4ke1YN84qKCJ1w/qz01xqKyY0uenp3C_Rv_-g",
+  "ParentRef": "XmXxxtzE4ke1YN84qKCJ1w/efPlp2vOKkS0bwxd3TGZhQ",
+  "Name": "GetText: Hasil Download",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2022-05-10T07:10:58.3702428Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=21.4.4.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-05-10T07:10:58.3702428Z"
+}

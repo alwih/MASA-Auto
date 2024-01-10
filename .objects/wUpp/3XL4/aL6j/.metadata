@@ -1,0 +1,15 @@
+﻿{
+  "Id": "aL6jtCV9lUKEC_7Ti9rTzA",
+  "Reference": "XmXxxtzE4ke1YN84qKCJ1w/aL6jtCV9lUKEC_7Ti9rTzA",
+  "ParentRef": "XmXxxtzE4ke1YN84qKCJ1w/3XL4ZboadUieKFsQ0wfrZQ",
+  "Name": "Vendor",
+  "Type": "Screen",
+  "Created": "2022-08-04T10:23:59.0345811Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-08-04T10:24:06.8957563Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

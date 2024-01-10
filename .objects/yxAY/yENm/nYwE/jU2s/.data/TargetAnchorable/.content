@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetAnchorable BrowserURL="https://10.243.229.232/MASA/Order.aspx?(Not.Licensed.For.Production)=" ContentHash="gvFwFtZlokm_EUshJwWtyA" DesignTimeRectangle="1199, 347, 159, 40" ElementType="Button" FriendlyName="'Tambah Dokumen'" FullSelectorArgument="&lt;webctrl id='wt28_OutSystemsUIWeb_wt18_block_wtContent_wtMainContent_MASA_Reg*' tag='INPUT' type='submit' /&gt;" FuzzySelectorArgument="&lt;webctrl id='wt28_OutSystemsUIWeb_wt18_block_wtContent_wtMainContent_MASA_Reg*' tag='INPUT' type='submit' aaname='Tambah Dokumen' check:text='Tambah Dokumen' /&gt;" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Order | MASA' /&gt;" SearchSteps="FuzzySelector, Image" xmlns="http://schemas.uipath.com/workflow/activities/uix">
+  <imageRef attrName="ImageBase64" xmlns="">0acO3mFckd0eYGtduPuRV7Q</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="521cbe345e73220ef221a62555e57117.png" xmlns="">0fpFZgtbrsUSOxij1nkT6Cw</imageRef>
+</TargetAnchorable>

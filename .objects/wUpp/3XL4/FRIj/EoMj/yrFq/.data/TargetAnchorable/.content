@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetAnchorable ContentHash="fz-E5xCl5kKSCmHyxWAPpg" DesignTimeRectangle="1265, 553, 104, 41" ElementType="Text" FriendlyName="' Delete'" FullSelectorArgument="&lt;ctrl name='Limit Kewenangan | MASA' role='document' /&gt;&lt;ctrl idx='2' role='row' /&gt;&lt;ctrl name=' Delete' role='link' /&gt;" FuzzySelectorArgument="&lt;ctrl name='Limit Kewenangan | MASA' role='document' /&gt;&lt;ctrl role='row' /&gt;&lt;ctrl name=' Delete' role='link' automationid='' check:text=' Delete' /&gt;" ScopeSelectorArgument="&lt;wnd app='chrome.exe' cls='Chrome_WidgetWin_1' title='Limit Kewenangan | MASA - Google Chrome' /&gt;" SearchSteps="FuzzySelector, Image" SelectionStrategy="AA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=mscorlib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <TargetAnchorable.Anchors>
+    <scg:List x:TypeArguments="ITarget" Capacity="4">
+      <Target DesignTimeRectangle="1265, 513, 104, 41" ElementType="Text" FriendlyName="' Edit'" FullSelectorArgument="&lt;ctrl name='Limit Kewenangan | MASA' role='document' /&gt;&lt;ctrl idx='2' role='row' /&gt;&lt;ctrl name=' Edit' role='link' /&gt;" FuzzySelectorArgument="&lt;ctrl name='Limit Kewenangan | MASA' role='document' /&gt;&lt;ctrl role='row' /&gt;&lt;ctrl name=' Edit' role='link' automationid='' check:text=' Edit' /&gt;" SearchSteps="Selector, FuzzySelector, Image">
+        <imageRef attrName="ImageBase64" xmlns="">15CDqpl6wT0SU-uaaCFdrZQ</imageRef>
+      </Target>
+    </scg:List>
+  </TargetAnchorable.Anchors>
+  <imageRef attrName="ImageBase64" xmlns="">0_Rmz6gHZZU6i1BxbJiUPdg</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="e65cd857644715a343ccf103260066cb.png" xmlns="">0dJGBMqmKEk-2PRWEM4F1-A</imageRef>
+</TargetAnchorable>

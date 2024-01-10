@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetAnchorable ContentHash="RZTDUj4k2UmAoEbXG_L2DA" DesignTimeRectangle="961, 555, 405, 41" ElementType="InputBox" FriendlyName="'editable text'" FullSelectorArgument="&lt;ctrl name='Kasbon Detail | MASA' role='document' /&gt;&lt;ctrl name='Detail' role='property page' /&gt;&lt;ctrl name='Accounting' role='property page' /&gt;&lt;ctrl idx='2' role='row' /&gt;&lt;ctrl idx='2' role='editable text' /&gt;" FuzzySelectorArgument="&lt;ctrl name='Kasbon Detail | MASA' role='document' /&gt;&lt;ctrl name='Detail' role='property page' /&gt;&lt;ctrl name='Accounting' role='property page' /&gt;&lt;ctrl role='row' /&gt;&lt;ctrl automationid='' role='editable text' /&gt;" ScopeSelectorArgument="&lt;wnd app='chrome.exe' cls='Chrome_WidgetWin_1' title='Kasbon Detail | MASA - Google Chrome' /&gt;" SearchSteps="Selector, FuzzySelector, Image" SelectionStrategy="AA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=mscorlib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <TargetAnchorable.Anchors>
+    <scg:List x:TypeArguments="ITarget" Capacity="4">
+      <Target DesignTimeRectangle="961, 519, 65, 18" ElementType="Text" FriendlyName="'Atas Nama'" FullSelectorArgument="&lt;ctrl name='Kasbon Detail | MASA' role='document' /&gt;&lt;ctrl name='Detail' role='property page' /&gt;&lt;ctrl name='Accounting' role='property page' /&gt;&lt;ctrl role='row' /&gt;&lt;ctrl name='Atas Nama' role='cell' /&gt;&lt;ctrl name='Atas Nama' role='text' /&gt;" FuzzySelectorArgument="&lt;ctrl name='Kasbon Detail | MASA' role='document' /&gt;&lt;ctrl name='Detail' role='property page' /&gt;&lt;ctrl name='Accounting' role='property page' /&gt;&lt;ctrl role='row' /&gt;&lt;ctrl name='Atas Nama' role='cell' /&gt;&lt;ctrl name='Atas Nama' role='text' automationid='' check:text='Atas Nama' /&gt;" SearchSteps="Selector, FuzzySelector, Image">
+        <imageRef attrName="ImageBase64" xmlns="">1YC35Gz3aq0O3tRpsW53Uvg</imageRef>
+      </Target>
+      <Target DesignTimeRectangle="953, 547, 421, 57" ElementType="Cell" FriendlyName="'cell'" FullSelectorArgument="&lt;ctrl name='Kasbon Detail | MASA' role='document' /&gt;&lt;ctrl name='Detail' role='property page' /&gt;&lt;ctrl name='Accounting' role='property page' /&gt;&lt;ctrl idx='2' role='row' /&gt;&lt;ctrl idx='3' role='cell' /&gt;" FuzzySelectorArgument="&lt;ctrl name='Kasbon Detail | MASA' role='document' /&gt;&lt;ctrl name='Detail' role='property page' /&gt;&lt;ctrl name='Accounting' role='property page' /&gt;&lt;ctrl role='row' /&gt;&lt;ctrl automationid='' role='cell' /&gt;" SearchSteps="Selector, FuzzySelector, Image">
+        <imageRef attrName="ImageBase64" xmlns="">264Mz341DR0ir123F_2MIZQ</imageRef>
+      </Target>
+    </scg:List>
+  </TargetAnchorable.Anchors>
+  <imageRef attrName="ImageBase64" xmlns="">0DPEc_1-HNE2S0ZolL2yq0Q</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="b7f85dfba36706facef94db968ee4bf6.png" xmlns="">0eeBzSCp-3EyDEh8cvwfLaA</imageRef>
+</TargetAnchorable>

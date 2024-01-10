@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetAnchorable BrowserURL="https://10.243.229.232/MASA/RekeningDetail.aspx" ContentHash="wIvb5DilL0u0s5zr_9LKYA" DesignTimeRectangle="1217, 335, 161, 40" ElementType="Text" FriendlyName="'Rekening Baru'" FullSelectorArgument="&lt;webctrl id='wt7_OutSystemsUIWeb_wt18_block_wtContent_wtMainContent_MASA_Back*' tag='A' /&gt;" FuzzySelectorArgument="&lt;webctrl id='wt7_OutSystemsUIWeb_wt18_block_wtContent_wtMainContent_MASA_Back*' tag='A' type='' aaname='Rekening Baru' check:text='Rekening Baru' /&gt;" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Master Rekening | MASA' /&gt;" SearchSteps="FuzzySelector, Image" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=mscorlib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <TargetAnchorable.Anchors>
+    <scg:List x:TypeArguments="ITarget" Capacity="4">
+      <Target DesignTimeRectangle="1114, 335, 82, 40" ElementType="Button" FriendlyName="'Upload'" FullSelectorArgument="&lt;webctrl id='wt7_OutSystemsUIWeb_wt18_block_wtContent_wtMainContent_MASA_Back*' tag='INPUT' type='submit' /&gt;" FuzzySelectorArgument="&lt;webctrl id='wt7_OutSystemsUIWeb_wt18_block_wtContent_wtMainContent_MASA_Back*' tag='INPUT' type='submit' aaname='Upload' check:text='Upload' /&gt;" SearchSteps="FuzzySelector, Image">
+        <imageRef attrName="ImageBase64" xmlns="">65rg-CSQi5EGtxb5p0Qt6vg</imageRef>
+      </Target>
+    </scg:List>
+  </TargetAnchorable.Anchors>
+  <imageRef attrName="ImageBase64" xmlns="">05MPdcNtvCkCZUPsVfUfFtw</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="3974c668c467d8b5b13136665ec70d84.png" xmlns="">0VBePw9QoqE-JMjwwVPExEg</imageRef>
+</TargetAnchorable>

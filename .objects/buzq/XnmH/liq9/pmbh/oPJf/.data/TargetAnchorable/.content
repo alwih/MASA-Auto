@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetAnchorable BrowserURL="https://10.243.229.232/MASA/TableScreen.aspx" ContentHash="FXCtFqRbLUan9Vu0YtzPKg" DesignTimeRectangle="969, 499, 422, 38" ElementType="Text" FriendlyName="'Approved by'" FullSelectorArgument="&lt;webctrl aaname='Date Status' id='wt1_OutSystemsUIWeb_wt18_block_wtContent_wtMainContent_MASA_Trac*' tag='TABLE' /&gt;&lt;webctrl isleaf='1' tag='TD' innertext='Approved by Approver 1A (Accounting)' /&gt;" FuzzySelectorArgument="&lt;webctrl aaname='Date Status' id='wt1_OutSystemsUIWeb_wt18_block_wtContent_wtMainContent_MASA_Trac*' tag='TABLE' /&gt;&lt;webctrl isleaf='1' type='' tag='TD' aaname='Approved by Approver 1A (Accounting)' check:text='Approved by Approver 1A (Accounting)' /&gt;" Reference="XmXxxtzE4ke1YN84qKCJ1w/oPJfiKLOqEWp14upg1M7lQ" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Informasi dan Riwayat | MASA' /&gt;" SearchSteps="Selector, Image" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=mscorlib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <TargetAnchorable.Anchors>
+    <scg:List x:TypeArguments="ITarget" Capacity="1">
+      <Target DesignTimeRectangle="744, 508, 218, 20" ElementType="Text" FriendlyName="'2022-06-20 09:22:40'" FullSelectorArgument="&lt;webctrl aaname='2022-06-20 09:22:40' parentid='wt1_OutSystemsUIWeb_wt18_block_wtContent_wtMainContent_MASA_Trac*' tag='DIV' /&gt;" FuzzySelectorArgument="&lt;webctrl aaname='20*' parentid='wt1_OutSystemsUIWeb_wt18_block_wtContent_wtMainContent_MASA_Trac*' tag='DIV' type='' /&gt;" SearchSteps="FuzzySelector, Image">
+        <imageRef attrName="ImageBase64" xmlns="">1RDgemXWe1ES-5T27it6dMA</imageRef>
+      </Target>
+    </scg:List>
+  </TargetAnchorable.Anchors>
+  <imageRef attrName="ImageBase64" xmlns="">0TLEVL9udjEOGMDXrduomkg</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="43f3d05a4bb5dcf2fbe45d0a63da887a.png" xmlns="">0Av7xjdCvwEiYgPyogc8nbQ</imageRef>
+</TargetAnchorable>

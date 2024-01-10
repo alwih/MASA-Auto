@@ -1,0 +1,13 @@
+﻿{
+  "Id": "PHyoTucmkkKqkbzcg3Bs7A",
+  "Reference": "XmXxxtzE4ke1YN84qKCJ1w/PHyoTucmkkKqkbzcg3Bs7A",
+  "ParentRef": "XmXxxtzE4ke1YN84qKCJ1w/5VHRnA7pGU2bWj6KRFcUFA",
+  "Name": "2.2 Beban Group",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2022-05-30T02:15:47.7206008Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-05-30T02:15:47.7206008Z"
+}

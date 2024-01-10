@@ -1,0 +1,16 @@
+﻿{
+  "Id": "GjzTkhyMakisOQ8W26nH5Q",
+  "Reference": "XmXxxtzE4ke1YN84qKCJ1w/GjzTkhyMakisOQ8W26nH5Q",
+  "ParentRef": "XmXxxtzE4ke1YN84qKCJ1w/WlvmkPaSb0Kn3L_6N9QK2w",
+  "Name": "Notif: Approve",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2022-04-25T10:18:40.2757797Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-04-25T10:19:03.7747825Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

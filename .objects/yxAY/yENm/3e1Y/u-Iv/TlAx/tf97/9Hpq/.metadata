@@ -1,0 +1,16 @@
+﻿{
+  "Id": "9HpqRqVMMkG2yeHbpmx2WA",
+  "Reference": "XmXxxtzE4ke1YN84qKCJ1w/9HpqRqVMMkG2yeHbpmx2WA",
+  "ParentRef": "XmXxxtzE4ke1YN84qKCJ1w/tf97-MEWbkuAGrv5TfJacA",
+  "Name": "6 Upload Doc",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2022-04-19T09:16:37.3394045Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-04-19T09:17:05.6651275Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

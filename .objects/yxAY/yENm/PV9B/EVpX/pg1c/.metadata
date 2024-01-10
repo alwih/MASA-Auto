@@ -1,0 +1,16 @@
+﻿{
+  "Id": "pg1cYJQnL0aiXFL0NnQX-g",
+  "Reference": "XmXxxtzE4ke1YN84qKCJ1w/pg1cYJQnL0aiXFL0NnQX-g",
+  "ParentRef": "XmXxxtzE4ke1YN84qKCJ1w/EVpX8ZAaLEGFWhGTz_mdxg",
+  "Name": "c Nomor Verifikasi",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2022-05-30T06:56:59.740355Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-05-30T06:57:21.2585445Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

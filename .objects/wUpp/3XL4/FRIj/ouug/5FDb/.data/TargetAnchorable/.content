@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetAnchorable ContentHash="6w9lKhZL1E2Q96DhDPeaPg" DesignTimeRectangle="69, 506, 642, 41" FriendlyName="'- Pilih Approver 1 -'" FullSelectorArgument="&lt;ctrl name='Limit Kewenangan Detail | MASA' role='document' /&gt;&lt;ctrl idx='47' role='grouping' /&gt;" FuzzySelectorArgument="&lt;ctrl name='Limit Kewenangan Detail | MASA' role='document' /&gt;&lt;ctrl automationid='' role='grouping' /&gt;" ScopeSelectorArgument="&lt;wnd app='chrome.exe' cls='Chrome_WidgetWin_1' title='Limit Kewenangan Detail | MASA - Google Chrome' /&gt;" SearchSteps="Selector, FuzzySelector, Image" SelectionStrategy="AA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=mscorlib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <TargetAnchorable.Anchors>
+    <scg:List x:TypeArguments="ITarget" Capacity="4">
+      <Target DesignTimeRectangle="69, 482, 642, 25" ElementType="InputBox" FriendlyName="'Approver 1'" FullSelectorArgument="&lt;ctrl name='Limit Kewenangan Detail | MASA' role='document' /&gt;&lt;ctrl idx='5' role='editable text' /&gt;" FuzzySelectorArgument="&lt;ctrl name='Limit Kewenangan Detail | MASA' role='document' /&gt;&lt;ctrl automationid='' role='editable text' /&gt;" SearchSteps="Selector, FuzzySelector, Image">
+        <imageRef attrName="ImageBase64" xmlns="">1cwMUb5cWwkeENh5L5ydAfQ</imageRef>
+      </Target>
+    </scg:List>
+  </TargetAnchorable.Anchors>
+  <imageRef attrName="ImageBase64" xmlns="">0_g3byu1zAkGTDEmeCouXOQ</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="96fb40b22185fcf8349f62adc93d3a8d.png" xmlns="">0Fy0ydKGwbky7-gI2TN3J2w</imageRef>
+</TargetAnchorable>

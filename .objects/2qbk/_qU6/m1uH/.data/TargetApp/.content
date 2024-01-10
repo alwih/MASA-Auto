@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetApp Area="0, 0, 0, 0" BrowserType="Chrome" ContentHash="3K1qKNEIDUOv--OVe-1ksQ" Selector="&lt;html app='chrome.exe' title='ReportTransaksiGagalTransfer'/&gt;" Url="https://10.243.229.232/MASA/ReportTransaksiGagalTransfer.aspx?(Not.Licensed.For.Production)=" xmlns="http://schemas.uipath.com/workflow/activities/uix">
+  <imageRef attrName="IconBase64" xmlns="">0XR3LTQDZa0Wh_TVZmiDvNw</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="7df473a35b5aed32be8927ddba23f7fc.png" xmlns="">0EQC3P2ghMUCallYuh888YA</imageRef>
+</TargetApp>

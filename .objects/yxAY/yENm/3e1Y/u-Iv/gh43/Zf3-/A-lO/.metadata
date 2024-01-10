@@ -1,0 +1,16 @@
+﻿{
+  "Id": "A-lOFC5wv0CERoFIjtrPig",
+  "Reference": "XmXxxtzE4ke1YN84qKCJ1w/A-lOFC5wv0CERoFIjtrPig",
+  "ParentRef": "XmXxxtzE4ke1YN84qKCJ1w/Zf3-BsFdykie2b0Ow4SHFQ",
+  "Name": "3 Ceklis",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2022-04-19T09:10:37.2366886Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-04-19T09:11:42.3400475Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

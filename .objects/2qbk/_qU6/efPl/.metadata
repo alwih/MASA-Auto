@@ -1,0 +1,15 @@
+﻿{
+  "Id": "efPlp2vOKkS0bwxd3TGZhQ",
+  "Reference": "XmXxxtzE4ke1YN84qKCJ1w/efPlp2vOKkS0bwxd3TGZhQ",
+  "ParentRef": "XmXxxtzE4ke1YN84qKCJ1w/_qU67JSIu0-1WIxMhJIsTw",
+  "Name": "1 Summary Report",
+  "Type": "Screen",
+  "Created": "2022-05-10T06:52:39.5790557Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-05-10T06:53:59.3594834Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

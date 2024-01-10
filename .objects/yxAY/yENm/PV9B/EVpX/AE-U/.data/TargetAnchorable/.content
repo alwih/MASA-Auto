@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetAnchorable BrowserURL="https://10.243.229.232/MASA/OrderDetail.aspx" ContentHash="F1nPj329yUqaJHbsekxphA" DesignTimeRectangle="65, 552, 639, 40" ElementType="InputBox" FriendlyName="'INPUT'" FullSelectorArgument="&lt;webctrl aaname='Keterangan' id='wt29_OutSystemsUIWeb_wt18_block_wtContent_wtMainContent_MASA_Fin*' tag='INPUT' type='text' /&gt;" FuzzySelectorArgument="&lt;webctrl aaname='Keterangan' id='wt29_OutSystemsUIWeb_wt18_block_wtContent_wtMainContent_MASA_Fin*' tag='INPUT' type='text' /&gt;" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Pertanggungjawaban Uang Muka Non Perdin Detail | MASA' /&gt;" SearchSteps="FuzzySelector, Image" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=mscorlib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <TargetAnchorable.Anchors>
+    <scg:List x:TypeArguments="ITarget" Capacity="4">
+      <Target DesignTimeRectangle="65, 528, 204, 24" ElementType="Text" FriendlyName="'Keterangan'" FullSelectorArgument="&lt;webctrl aaname='Keterangan' parentid='wt29_OutSystemsUIWeb_wt18_block_wtContent_wtMainContent_MASA_Fin*' tag='LABEL' /&gt;" FuzzySelectorArgument="&lt;webctrl aaname='Keterangan' parentid='wt29_OutSystemsUIWeb_wt18_block_wtContent_wtMainContent_MASA_Fin*' tag='LABEL' type='' check:text='Keterangan' /&gt;" SearchSteps="FuzzySelector, Image">
+        <imageRef attrName="ImageBase64" xmlns="">1j1wKPEgOjUOJTjuPHU8Rtg</imageRef>
+      </Target>
+      <Target DesignTimeRectangle="65, 425, 204, 24" ElementType="Text" FriendlyName="'Perihal'" FullSelectorArgument="&lt;webctrl aaname='Perihal' parentid='wt29_OutSystemsUIWeb_wt18_block_wtContent_wtMainContent_MASA_Fin*' tag='LABEL' /&gt;" FuzzySelectorArgument="&lt;webctrl aaname='Perihal' parentid='wt29_OutSystemsUIWeb_wt18_block_wtContent_wtMainContent_MASA_Fin*' tag='LABEL' type='' check:text='Perihal' /&gt;" SearchSteps="FuzzySelector, Image">
+        <imageRef attrName="ImageBase64" xmlns="">2NF3IRshKZ0eRjLZeYDik7Q</imageRef>
+      </Target>
+    </scg:List>
+  </TargetAnchorable.Anchors>
+  <imageRef attrName="ImageBase64" xmlns="">0y_tDXSmc8Eq19qkwVyOlyg</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="ce76a1f0f08d7122614bde8913cee19c.png" xmlns="">0jFcOSBSxrkm3J28EaEEwEQ</imageRef>
+</TargetAnchorable>

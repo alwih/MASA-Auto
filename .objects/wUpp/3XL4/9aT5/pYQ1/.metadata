@@ -1,0 +1,14 @@
+﻿{
+  "Id": "pYQ1gRx4r060pf-qS0j2Gw",
+  "Reference": "XmXxxtzE4ke1YN84qKCJ1w/pYQ1gRx4r060pf-qS0j2Gw",
+  "ParentRef": "XmXxxtzE4ke1YN84qKCJ1w/9aT5KuQlO0KKyXBN6VcqHQ",
+  "Name": "Extract Table Data - URC",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2022-07-29T13:11:09.7254058Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=21.4.4.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-07-29T13:11:09.7254058Z"
+}

@@ -1,0 +1,16 @@
+﻿{
+  "Id": "RdVCp_FAuESO_Ls3o4tN-Q",
+  "Reference": "XmXxxtzE4ke1YN84qKCJ1w/RdVCp_FAuESO_Ls3o4tN-Q",
+  "ParentRef": "XmXxxtzE4ke1YN84qKCJ1w/47XUujyua0SCy1qZodMkkw",
+  "Name": "Roulete",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2022-06-18T12:37:36.9971788Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-06-18T12:38:05.3434771Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

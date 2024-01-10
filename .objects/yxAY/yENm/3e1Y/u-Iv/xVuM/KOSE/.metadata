@@ -1,0 +1,16 @@
+﻿{
+  "Id": "KOSEq_TvnEOdvZTLZF6R7g",
+  "Reference": "XmXxxtzE4ke1YN84qKCJ1w/KOSEq_TvnEOdvZTLZF6R7g",
+  "ParentRef": "XmXxxtzE4ke1YN84qKCJ1w/xVuMNPEfXkWtudmsK7KbOg",
+  "Name": "7 Tgl Beban Group",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2022-04-19T08:53:49.2691446Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-04-19T09:02:04.1355561Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetAnchorable BrowserURL="https://10.243.229.232/MASA/FPP_SetoranMateraiDetail.aspx?FPP_SetoranMateraiId=1730df54-a796-4b99-9e31-84f0856386be" ContentHash="rQxGHQligU26fDoHzdU6-A" DesignTimeRectangle="494, 379, 458, 40" ElementType="InputBox" FriendlyName="'INPUT'" FullSelectorArgument="&lt;webctrl aaname='Tanggal Detail' id='wt10_OutSystemsUIWeb_wt18_block_wtContent_wtMainContent_MASA_Fin*' tag='INPUT' type='text' /&gt;" FuzzySelectorArgument="&lt;webctrl aaname='Tanggal Detail' id='wt10_OutSystemsUIWeb_wt18_block_wtContent_wtMainContent_MASA_Fin*' tag='INPUT' type='text' /&gt;" ScopeSelectorArgument="&lt;html app='chrome.exe' title='FPP Setoran Materai Detail | MASA' /&gt;" SearchSteps="FuzzySelector, Image" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=mscorlib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <TargetAnchorable.Anchors>
+    <scg:List x:TypeArguments="ITarget" Capacity="4">
+      <Target DesignTimeRectangle="494, 355, 147, 24" ElementType="Text" FriendlyName="'Tanggal Detail'" FullSelectorArgument="&lt;webctrl aaname='Tanggal Detail' parentid='wt10_OutSystemsUIWeb_wt18_block_wtContent_wtMainContent_MASA_Fin*' tag='LABEL' /&gt;" FuzzySelectorArgument="&lt;webctrl aaname='Tanggal Detail' parentid='wt10_OutSystemsUIWeb_wt18_block_wtContent_wtMainContent_MASA_Fin*' tag='LABEL' type='' check:text='Tanggal Detail' /&gt;" SearchSteps="FuzzySelector, Image">
+        <imageRef attrName="ImageBase64" xmlns="">1FDmvFoxWckaR39OoWzY05w</imageRef>
+      </Target>
+    </scg:List>
+  </TargetAnchorable.Anchors>
+  <imageRef attrName="ImageBase64" xmlns="">0RkKLIsIVw0a231HWo9n_1Q</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="10ecd800cb0d82a9a21d390088a486aa.png" xmlns="">0-tTE309vNkiyIiJvvaSOMg</imageRef>
+</TargetAnchorable>

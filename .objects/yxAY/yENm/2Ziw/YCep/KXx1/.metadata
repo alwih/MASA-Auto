@@ -1,0 +1,16 @@
+﻿{
+  "Id": "KXx1tXykd0ifvT2cfbOHuQ",
+  "Reference": "XmXxxtzE4ke1YN84qKCJ1w/KXx1tXykd0ifvT2cfbOHuQ",
+  "ParentRef": "XmXxxtzE4ke1YN84qKCJ1w/YCepkdxQQUWoV2DzFFSpqQ",
+  "Name": "h Tgl Dok Lengkap",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2022-04-20T06:24:57.2305318Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-04-20T06:25:54.7746738Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

@@ -1,0 +1,16 @@
+﻿{
+  "Id": "Xrh-vp0dL0ucfZj_M41Cgw",
+  "Reference": "XmXxxtzE4ke1YN84qKCJ1w/Xrh-vp0dL0ucfZj_M41Cgw",
+  "ParentRef": "XmXxxtzE4ke1YN84qKCJ1w/efPlp2vOKkS0bwxd3TGZhQ",
+  "Name": "3 Tgl Mulai",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2022-05-10T06:55:59.5653913Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-05-10T06:56:13.3264534Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

@@ -1,0 +1,16 @@
+﻿{
+  "Id": "BNIgjJrtsUGv9K18gCm1AA",
+  "Reference": "XmXxxtzE4ke1YN84qKCJ1w/BNIgjJrtsUGv9K18gCm1AA",
+  "ParentRef": "XmXxxtzE4ke1YN84qKCJ1w/PCBmsux5DUSqD4cYljgEjQ",
+  "Name": "Klik: Add Record",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2022-06-23T04:52:50.5303815Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-06-23T04:53:45.3800522Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

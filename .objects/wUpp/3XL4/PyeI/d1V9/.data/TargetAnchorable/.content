@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetAnchorable ContentHash="U5voAySgjkaekefDpyEeFQ" DesignTimeRectangle="69, 393, 1309, 266" FriendlyName="'TABLE'" FullSelectorArgument="&lt;webctrl id='wt1_OutSystemsUIWeb_wt18_block_wtContent_wtMainContent_MASA_Back*' tag='TABLE' /&gt;" ScopeSelectorArgument="&lt;html app='chrome.exe' title='SAP Group | MASA' /&gt;" SearchSteps="Selector" xmlns="http://schemas.uipath.com/workflow/activities/uix">
+  <imageRef attrName="InformativeScreenshot" originalValue="a96bb6dedfd7dd82747b8c4c8cc8d636.png" xmlns="">0A58KOKcS2kuIj4fQOvU-JQ</imageRef>
+</TargetAnchorable>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetAnchorable BrowserURL="https://10.243.229.232/MASA/FPP_SetoranMateraiDetail.aspx?FPP_SetoranMateraiId=1730df54-a796-4b99-9e31-84f0856386be" ContentHash="Ultr4Vcz80GVJgSzaVzoaw" DesignTimeRectangle="494, 305, 458, 40" ElementType="InputBox" FriendlyName="'INPUT'" FullSelectorArgument="&lt;webctrl aria-role='textbox' id='wt10_OutSystemsUIWeb_wt18_block_wtContent_wtMainContent_MASA_Fin*' tag='INPUT' type='text' /&gt;" FuzzySelectorArgument="&lt;webctrl aria-role='textbox' id='wt10_OutSystemsUIWeb_wt18_block_wtContent_wtMainContent_MASA_Fin*' tag='INPUT' type='text' aaname='Nama Dokumen' /&gt;" ScopeSelectorArgument="&lt;html app='chrome.exe' title='FPP Setoran Materai Detail | MASA' /&gt;" SearchSteps="FuzzySelector, Image" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=mscorlib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <TargetAnchorable.Anchors>
+    <scg:List x:TypeArguments="ITarget" Capacity="4">
+      <Target DesignTimeRectangle="494, 281, 147, 24" ElementType="Text" FriendlyName="'Nama Dokumen'" FullSelectorArgument="&lt;webctrl aaname='Nama Dokumen' parentid='wt10_OutSystemsUIWeb_wt18_block_wtContent_wtMainContent_MASA_Fin*' tag='LABEL' /&gt;" FuzzySelectorArgument="&lt;webctrl aaname='Nama Dokumen' parentid='wt10_OutSystemsUIWeb_wt18_block_wtContent_wtMainContent_MASA_Fin*' tag='LABEL' type='' check:text='Nama Dokumen' /&gt;" SearchSteps="FuzzySelector, Image">
+        <imageRef attrName="ImageBase64" xmlns="">1BYqoilnM-063ErTmTjLCwA</imageRef>
+      </Target>
+    </scg:List>
+  </TargetAnchorable.Anchors>
+  <imageRef attrName="ImageBase64" xmlns="">0DmgHmaX-MEOnW4u41ghLQA</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="37d3fbdc42d7cdd4ac950d475a54b055.png" xmlns="">0NZV9A6e4_kWspcEsNcSWjA</imageRef>
+</TargetAnchorable>

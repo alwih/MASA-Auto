@@ -1,0 +1,16 @@
+﻿{
+  "Id": "ylm2fyLZfk6Zjdx5JBlYZA",
+  "Reference": "XmXxxtzE4ke1YN84qKCJ1w/ylm2fyLZfk6Zjdx5JBlYZA",
+  "ParentRef": "XmXxxtzE4ke1YN84qKCJ1w/URIpBWBSj0qd4eZCj0YEDQ",
+  "Name": "b Keterangan",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2022-06-23T04:36:28.0584138Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-06-23T04:37:05.2883776Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

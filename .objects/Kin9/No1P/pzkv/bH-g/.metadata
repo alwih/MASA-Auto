@@ -1,0 +1,13 @@
+﻿{
+  "Id": "bH-gKLlu606wWb_n1bwU5w",
+  "Reference": "XmXxxtzE4ke1YN84qKCJ1w/bH-gKLlu606wWb_n1bwU5w",
+  "ParentRef": "XmXxxtzE4ke1YN84qKCJ1w/pzkvE5_xZ02x_1-Vs7X6Bw",
+  "Name": "Btn: OK",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2022-04-27T08:18:08.2869234Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-04-27T08:18:08.2869234Z"
+}

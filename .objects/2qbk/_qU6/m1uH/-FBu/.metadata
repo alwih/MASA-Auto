@@ -1,0 +1,14 @@
+﻿{
+  "Id": "-FBuNTgi0k68zW_yklThDA",
+  "Reference": "XmXxxtzE4ke1YN84qKCJ1w/-FBuNTgi0k68zW_yklThDA",
+  "ParentRef": "XmXxxtzE4ke1YN84qKCJ1w/m1uH4Jw53EuadV0WyLmhPA",
+  "Name": "Extract Table Data PGT",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2022-05-19T04:10:08.5540802Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=21.4.4.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-05-19T04:10:08.5540802Z"
+}

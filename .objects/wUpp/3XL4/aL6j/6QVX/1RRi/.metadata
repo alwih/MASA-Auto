@@ -1,0 +1,16 @@
+﻿{
+  "Id": "1RRi3ro-w0esVnJ4tKqejA",
+  "Reference": "XmXxxtzE4ke1YN84qKCJ1w/1RRi3ro-w0esVnJ4tKqejA",
+  "ParentRef": "XmXxxtzE4ke1YN84qKCJ1w/6QVXlRFmUESm1tAGcNUs6Q",
+  "Name": "d Add Vendor Rekening",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2022-08-04T10:27:26.4747517Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-08-04T10:28:24.0735425Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

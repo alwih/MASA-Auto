@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetAnchorable BrowserURL="https://10.243.229.26/MASA/ApprovalRequest.aspx" ContentHash="A2JJLyZP4Uik_Vtv1oPU3A" DesignTimeRectangle="460, 110, 154, 21" ElementType="Text" FriendlyName="'Document approved.'" FullSelectorArgument="&lt;webctrl id='wt8_OutSystemsUIWeb_wt18_block_wt5_RichWidgets_wt7_block_wtSanit*' tag='SPAN' /&gt;" FuzzySelectorArgument="&lt;webctrl id='wt8_OutSystemsUIWeb_wt18_block_wt5_RichWidgets_wt7_block_wtSanit*' tag='SPAN' type='' aaname='*' /&gt;" Reference="XmXxxtzE4ke1YN84qKCJ1w/JR7NWkl0xEaiVD-2W2AovQ" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Approval Request | MASA' /&gt;" SearchSteps="FuzzySelector, Image" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=mscorlib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <TargetAnchorable.Anchors>
+    <scg:List x:TypeArguments="ITarget" Capacity="1">
+      <Target DesignTimeRectangle="428, 101, 600, 39" FriendlyName="'Document approved.'" FullSelectorArgument="&lt;webctrl parentid='wt8_OutSystemsUIWeb_wt18_block_wt5_RichWidgets_wt7_block_wtFeedb*' tag='DIV' /&gt;" FuzzySelectorArgument="&lt;webctrl parentid='wt8_OutSystemsUIWeb_wt18_block_wt5_RichWidgets_wt7_block_wtFeedb*' tag='DIV' type='' aaname='' check:text='Document approved.' /&gt;" SearchSteps="FuzzySelector, Image">
+        <imageRef attrName="ImageBase64" xmlns="">1cN3J6mfWWEiAg7WYMXIkng</imageRef>
+      </Target>
+    </scg:List>
+  </TargetAnchorable.Anchors>
+  <imageRef attrName="ImageBase64" xmlns="">0C9ZEChTX2UO6whlCRVSzmA</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="953f0024fa351960e8a72d93bdede39e.png" xmlns="">0pkvIzBUxNEKd28_4RkUj4w</imageRef>
+</TargetAnchorable>

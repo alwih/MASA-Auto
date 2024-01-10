@@ -1,0 +1,16 @@
+﻿{
+  "Id": "Y5BXuCtM_EusHJmoaTJf9A",
+  "Reference": "XmXxxtzE4ke1YN84qKCJ1w/Y5BXuCtM_EusHJmoaTJf9A",
+  "ParentRef": "XmXxxtzE4ke1YN84qKCJ1w/tf97-MEWbkuAGrv5TfJacA",
+  "Name": "Btn: Simpan",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2022-04-19T09:18:27.6844675Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-04-19T09:18:43.7746444Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

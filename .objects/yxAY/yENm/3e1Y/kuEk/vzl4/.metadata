@@ -1,0 +1,16 @@
+﻿{
+  "Id": "vzl44WkjmUWEkF3-Lk2h4g",
+  "Reference": "XmXxxtzE4ke1YN84qKCJ1w/vzl44WkjmUWEkF3-Lk2h4g",
+  "ParentRef": "XmXxxtzE4ke1YN84qKCJ1w/kuEks7dypEeX5gOwRQZyUA",
+  "Name": "g Code Group",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2022-04-19T08:19:34.873572Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-04-19T08:23:21.484504Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

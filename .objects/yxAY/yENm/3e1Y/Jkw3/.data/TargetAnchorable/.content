@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetAnchorable ContentHash="7f2zqRpeXkmU0ADZL2tpvA" DesignTimeRectangle="1338, 447, 19, 19" ElementType="Text" FriendlyName="''" FullSelectorArgument="&lt;ctrl name='Pertanggungjawaban Uang Muka Non Perdin | MASA' role='document' /&gt;&lt;ctrl idx='2' role='row' /&gt;&lt;ctrl name='' role='cell' /&gt;&lt;ctrl name='' role='link' /&gt;" FuzzySelectorArgument="&lt;ctrl name='*' role='document' /&gt;&lt;ctrl role='row' /&gt;&lt;ctrl name='' role='cell' /&gt;&lt;ctrl name='' role='link' automationid='' /&gt;" ScopeSelectorArgument="&lt;wnd app='chrome.exe' cls='Chrome_WidgetWin_1' title='Pertanggungjawaban Uang Muka Non Perdin | MASA - Google Chrome' /&gt;" SearchSteps="FuzzySelector, Image" SelectionStrategy="AA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=mscorlib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <TargetAnchorable.Anchors>
+    <scg:List x:TypeArguments="ITarget" Capacity="4">
+      <Target DesignTimeRectangle="1329, 401, 37, 19" FriendlyName="'Action'" FullSelectorArgument="&lt;ctrl name='*' role='document' /&gt;&lt;ctrl role='row' /&gt;&lt;ctrl name='Action' role='column header' /&gt;&lt;ctrl role='grouping' /&gt;" FuzzySelectorArgument="&lt;ctrl name='*' role='document' /&gt;&lt;ctrl role='row' /&gt;&lt;ctrl name='Action' role='column header' /&gt;&lt;ctrl role='grouping' automationid='' check:text='Action' /&gt;" SearchSteps="Selector, FuzzySelector, Image">
+        <imageRef attrName="ImageBase64" xmlns="">1oaI7gClKbU2MkdYnFFIZZg</imageRef>
+      </Target>
+      <Target DesignTimeRectangle="1189, 388, 133, 46" FriendlyName="'Status'" FullSelectorArgument="&lt;ctrl name='*' role='document' /&gt;&lt;ctrl role='row' /&gt;&lt;ctrl name='Status' role='column header' /&gt;" FuzzySelectorArgument="&lt;ctrl name='*' role='document' /&gt;&lt;ctrl role='row' /&gt;&lt;ctrl name='Status' role='column header' automationid='' check:text='Status' /&gt;" SearchSteps="Selector, FuzzySelector, Image">
+        <imageRef attrName="ImageBase64" xmlns="">2z5MnCSNm30WUI-KuZm8PIw</imageRef>
+      </Target>
+    </scg:List>
+  </TargetAnchorable.Anchors>
+  <imageRef attrName="ImageBase64" xmlns="">0DwZKXbU93UWU_OgnEAzSug</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="fc106ea3af293dbab87361aa4b06a7e5.png" xmlns="">0PrDitfOoukqkoEj9X5YpjQ</imageRef>
+</TargetAnchorable>

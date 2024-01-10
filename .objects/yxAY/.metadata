@@ -1,0 +1,14 @@
+﻿{
+  "Id": "yxAYh-1rNkefHqFG-L-ZyA",
+  "Reference": "XmXxxtzE4ke1YN84qKCJ1w/yxAYh-1rNkefHqFG-L-ZyA",
+  "Name": "Transaksi Finansial",
+  "Type": "App",
+  "Created": "2022-04-19T06:20:30.0368317Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-08-18T03:56:49.05397Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

@@ -1,0 +1,16 @@
+﻿{
+  "Id": "CSv-D-jzFEu4qcAojTYybA",
+  "Reference": "XmXxxtzE4ke1YN84qKCJ1w/CSv-D-jzFEu4qcAojTYybA",
+  "ParentRef": "XmXxxtzE4ke1YN84qKCJ1w/6QVXlRFmUESm1tAGcNUs6Q",
+  "Name": "a Nama Vendor",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2022-08-04T10:25:23.3588582Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-08-04T10:25:54.8000926Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

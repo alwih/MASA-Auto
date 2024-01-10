@@ -1,0 +1,14 @@
+﻿{
+  "Id": "Ml3z_JXxDEWwVDAl0DBsaw",
+  "Reference": "XmXxxtzE4ke1YN84qKCJ1w/Ml3z_JXxDEWwVDAl0DBsaw",
+  "ParentRef": "XmXxxtzE4ke1YN84qKCJ1w/9HpqRqVMMkG2yeHbpmx2WA",
+  "Name": "Click 'unchecked'",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2022-04-20T11:37:12.4070185Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=21.4.4.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-04-20T11:37:12.4070185Z"
+}

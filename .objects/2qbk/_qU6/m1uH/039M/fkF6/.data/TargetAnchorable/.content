@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetAnchorable BrowserURL="https://10.243.229.232/MASA/ReportTransaksiGagalTransfer.aspx?(Not.Licensed.For.Production)=" ContentHash="HW5pVMpI3Ue9_rMot0idWw" DesignTimeRectangle="452, 110, 421, 21" ElementType="Text" FriendlyName="'None of'" FullSelectorArgument="&lt;webctrl id='wt19_OutSystemsUIWeb_wt18_block_wt5_RichWidgets_wt7_block_wtSani*' tag='SPAN' /&gt;" FuzzySelectorArgument="&lt;webctrl id='wt19_OutSystemsUIWeb_wt18_block_wt5_RichWidgets_wt7_block_wtSani*' tag='SPAN' type='' aaname='None of the column headers match with the record attributes.' /&gt;" ScopeSelectorArgument="&lt;html app='chrome.exe' title='ReportTransaksiGagalTransfer' /&gt;" SearchSteps="FuzzySelector, Image" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=mscorlib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <TargetAnchorable.Anchors>
+    <scg:List x:TypeArguments="ITarget" Capacity="4">
+      <Target DesignTimeRectangle="420, 101, 600, 39" FriendlyName="'None of'" FullSelectorArgument="&lt;webctrl parentid='wt19_OutSystemsUIWeb_wt18_block_wt5_RichWidgets_wt7_block_wtFeed*' tag='DIV' /&gt;" FuzzySelectorArgument="&lt;webctrl parentid='wt19_OutSystemsUIWeb_wt18_block_wt5_RichWidgets_wt7_block_wtFeed*' tag='DIV' type='' aaname='' check:text='None of the column headers match with the record attributes.' /&gt;" SearchSteps="FuzzySelector, Image">
+        <imageRef attrName="ImageBase64" xmlns="">1uP-IDPtFHkW2BA46cMphcQ</imageRef>
+      </Target>
+    </scg:List>
+  </TargetAnchorable.Anchors>
+  <imageRef attrName="ImageBase64" xmlns="">0r6aQBitF8EWVxfMkZVTD7A</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="23800c8522740947ac39d381e2f8af7b.png" xmlns="">0zdh4kuAQVkKxKbrffcAgNA</imageRef>
+</TargetAnchorable>

@@ -1,0 +1,16 @@
+﻿{
+  "Id": "sRC-whmsBkKJGv1ZCToQwg",
+  "Reference": "XmXxxtzE4ke1YN84qKCJ1w/sRC-whmsBkKJGv1ZCToQwg",
+  "ParentRef": "XmXxxtzE4ke1YN84qKCJ1w/nkyS7sqDskCiUnveJ9F8EA",
+  "Name": "c Nomor Rekening",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2022-05-30T02:18:02.8913217Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-05-30T02:18:44.495702Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

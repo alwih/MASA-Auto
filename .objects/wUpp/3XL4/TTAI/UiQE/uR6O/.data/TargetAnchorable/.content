@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetAnchorable ContentHash="O7MqkGnD1Eu_-CmG6osmqA" DesignTimeRectangle="65, 319, 642, 41" FriendlyName="'- Pilih User -'" FullSelectorArgument="&lt;ctrl name='Master User Employee Detail | MASA' role='document' /&gt;&lt;ctrl idx='49' role='grouping' /&gt;" FuzzySelectorArgument="&lt;ctrl name='Master User Employee Detail | MASA' role='document' /&gt;&lt;ctrl automationid='' role='grouping' /&gt;" Reference="XmXxxtzE4ke1YN84qKCJ1w/uR6OJbqeEE-6EM9TOn8ZRQ" ScopeSelectorArgument="&lt;wnd app='chrome.exe' cls='Chrome_WidgetWin_1' title='Master User Employee Detail | MASA - Google Chrome' /&gt;" SearchSteps="FuzzySelector, Image" SelectionStrategy="AA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=mscorlib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <TargetAnchorable.Anchors>
+    <scg:List x:TypeArguments="ITarget" Capacity="4">
+      <Target DesignTimeRectangle="65, 295, 420, 25" ElementType="InputBox" FriendlyName="'User'" FullSelectorArgument="&lt;ctrl name='Master User Employee Detail | MASA' role='document' /&gt;&lt;ctrl role='editable text' /&gt;" FuzzySelectorArgument="&lt;ctrl name='Master User Employee Detail | MASA' role='document' /&gt;&lt;ctrl role='editable text' automationid='' /&gt;" SearchSteps="Selector, FuzzySelector, Image">
+        <imageRef attrName="ImageBase64" xmlns="">3_lJGQDHdo0C7Cfqn2tl4Nw</imageRef>
+      </Target>
+    </scg:List>
+  </TargetAnchorable.Anchors>
+  <imageRef attrName="ImageBase64" xmlns="">02xkQIJi5tkSTE-bQZluXdg</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="5aa7fc4e7a0caacbc1d201844b7f0f27.png" xmlns="">0GdQJiDOahEagOpJ21Jm1jQ</imageRef>
+</TargetAnchorable>

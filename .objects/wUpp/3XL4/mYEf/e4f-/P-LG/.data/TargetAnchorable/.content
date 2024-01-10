@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetAnchorable BrowserURL="https://10.243.229.26/MASA/Modul.aspx" ContentHash="3GrIfkkc3kqILKBtqTTAlQ" DesignTimeRectangle="69, 655, 642, 40" ElementType="InputBox" FriendlyName="'INPUT'" FullSelectorArgument="&lt;webctrl aaname='Kode Dokumen' tag='INPUT' type='text' /&gt;" FuzzySelectorArgument="&lt;webctrl aaname='Kode Dokumen' tag='INPUT' type='text' /&gt;" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Master Modul Detail | MASA' /&gt;" SearchSteps="Selector, FuzzySelector, Image" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=mscorlib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <TargetAnchorable.Anchors>
+    <scg:List x:TypeArguments="ITarget" Capacity="4">
+      <Target DesignTimeRectangle="69, 631, 197, 24" ElementType="Text" FriendlyName="'Kode Dokumen'" FullSelectorArgument="&lt;webctrl aaname='Kode Dokumen' parentid='wt25_OutSystemsUIWeb_wt18_block_wtContent_wtMainContent_MASA_Bac*' tag='LABEL' /&gt;" FuzzySelectorArgument="&lt;webctrl aaname='Kode Dokumen' parentid='wt25_OutSystemsUIWeb_wt18_block_wtContent_wtMainContent_MASA_Bac*' tag='LABEL' type='' check:text='Kode Dokumen' /&gt;" SearchSteps="FuzzySelector, Image">
+        <imageRef attrName="ImageBase64" xmlns="">15J2LvY8d40ew-QJeSBXAwQ</imageRef>
+      </Target>
+    </scg:List>
+  </TargetAnchorable.Anchors>
+  <imageRef attrName="ImageBase64" xmlns="">0sCu31jCA5U2sB_TUbJryBg</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="b1e1a5547e21f7d797928d2b04de7cb0.png" xmlns="">0zGY0HUKMAEO6ekwRX6Co4A</imageRef>
+</TargetAnchorable>

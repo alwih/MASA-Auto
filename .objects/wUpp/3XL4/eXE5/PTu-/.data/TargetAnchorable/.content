@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetAnchorable ContentHash="VoRyMdBvOESCruopA47kqQ" DesignTimeRectangle="1244, 313, 147, 41" ElementType="Text" FriendlyName="'Modul Team'" FullSelectorArgument="&lt;ctrl name='Master Modul Team | MASA' role='document' /&gt;&lt;ctrl name=' Modul Team' role='link' /&gt;" FuzzySelectorArgument="&lt;ctrl name='Master Modul Team | MASA' role='document' /&gt;&lt;ctrl name=' Modul Team' role='link' automationid='' check:text='Modul Team' /&gt;" ScopeSelectorArgument="&lt;wnd app='chrome.exe' cls='Chrome_WidgetWin_1' title='Master Modul Team | MASA - Google Chrome' /&gt;" SearchSteps="Selector, FuzzySelector, Image" SelectionStrategy="AA" xmlns="http://schemas.uipath.com/workflow/activities/uix">
+  <imageRef attrName="ImageBase64" xmlns="">0ClvmvxvHhkae_IP-Of8vvQ</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="3cdd7dbc40210bc01c433faa7129e2be.png" xmlns="">0EkwpPLUZyk6DZzRIj6HOFA</imageRef>
+</TargetAnchorable>

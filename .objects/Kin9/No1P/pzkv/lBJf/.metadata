@@ -1,0 +1,16 @@
+﻿{
+  "Id": "lBJf42lPNkmE32iQAnYzcQ",
+  "Reference": "XmXxxtzE4ke1YN84qKCJ1w/lBJf42lPNkmE32iQAnYzcQ",
+  "ParentRef": "XmXxxtzE4ke1YN84qKCJ1w/pzkvE5_xZ02x_1-Vs7X6Bw",
+  "Name": "Tambah Baru: Temp Doc",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2022-04-27T07:59:56.6300324Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-04-27T08:00:19.5848538Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

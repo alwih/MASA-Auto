@@ -1,0 +1,17 @@
+﻿{
+  "Id": "4gohVBDEYEq5TBqIbNt2HA",
+  "Reference": "XmXxxtzE4ke1YN84qKCJ1w/4gohVBDEYEq5TBqIbNt2HA",
+  "ParentRef": "XmXxxtzE4ke1YN84qKCJ1w/47XUujyua0SCy1qZodMkkw",
+  "Name": "GetText: PIC 2",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2022-06-18T14:04:41.4724609Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=21.4.4.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-06-20T07:48:07.9035479Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

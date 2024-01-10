@@ -1,0 +1,16 @@
+﻿{
+  "Id": "ZOBBeYQvDECLXNi4yxAlXA",
+  "Reference": "XmXxxtzE4ke1YN84qKCJ1w/ZOBBeYQvDECLXNi4yxAlXA",
+  "ParentRef": "XmXxxtzE4ke1YN84qKCJ1w/jU2sn4NRp0-V-LkSNwrWkg",
+  "Name": "Notif Save Order",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2022-04-19T08:30:25.1032623Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-04-19T08:32:32.2240658Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

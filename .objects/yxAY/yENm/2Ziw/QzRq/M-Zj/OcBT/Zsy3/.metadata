@@ -1,0 +1,16 @@
+﻿{
+  "Id": "Zsy3HJqepEOI7qiZ96q2ZQ",
+  "Reference": "XmXxxtzE4ke1YN84qKCJ1w/Zsy3HJqepEOI7qiZ96q2ZQ",
+  "ParentRef": "XmXxxtzE4ke1YN84qKCJ1w/OcBTkb3AjU-64olePqaG7g",
+  "Name": "6 DPP",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2022-04-20T07:01:19.9052513Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-04-20T07:01:50.7384649Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

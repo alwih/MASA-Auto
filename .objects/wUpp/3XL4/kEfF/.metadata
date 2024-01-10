@@ -1,0 +1,15 @@
+﻿{
+  "Id": "kEfF4SmLxUWB3_VwkfjqZw",
+  "Reference": "XmXxxtzE4ke1YN84qKCJ1w/kEfF4SmLxUWB3_VwkfjqZw",
+  "ParentRef": "XmXxxtzE4ke1YN84qKCJ1w/3XL4ZboadUieKFsQ0wfrZQ",
+  "Name": "Mata Uang",
+  "Type": "Screen",
+  "Created": "2022-08-12T01:00:03.8824587Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-08-12T01:00:54.5873218Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

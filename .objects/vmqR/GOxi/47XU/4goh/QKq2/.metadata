@@ -1,0 +1,13 @@
+﻿{
+  "Id": "QKq2DrVjhESCXffP4-7XAQ",
+  "Reference": "XmXxxtzE4ke1YN84qKCJ1w/QKq2DrVjhESCXffP4-7XAQ",
+  "ParentRef": "XmXxxtzE4ke1YN84qKCJ1w/4gohVBDEYEq5TBqIbNt2HA",
+  "Name": "GetText: PIC B",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2022-06-20T07:47:36.2710037Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-06-20T07:47:36.2710037Z"
+}

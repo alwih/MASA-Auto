@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetAnchorable BrowserURL="https://10.243.229.232/MASA/FPP_SetoranMateraiDetail.aspx?FPP_SetoranMateraiId=1730df54-a796-4b99-9e31-84f0856386be" ContentHash="f6ebVYUtEUKVrW_iMr_Dfw" DesignTimeRectangle="1199, 505, 159, 40" ElementType="Button" FriendlyName="'Tambah Dokumen'" FullSelectorArgument="&lt;webctrl aaname='Tambah Dokumen' id='wt10_OutSystemsUIWeb_wt18_block_wtContent_wtMainContent_MASA_Fin*' tag='INPUT' type='submit' /&gt;" FuzzySelectorArgument="&lt;webctrl aaname='Tambah Dokumen' id='wt10_OutSystemsUIWeb_wt18_block_wtContent_wtMainContent_MASA_Fin*' tag='INPUT' type='submit' check:text='Tambah Dokumen' /&gt;" ScopeSelectorArgument="&lt;html app='chrome.exe' title='FPP Setoran Materai Detail | MASA' /&gt;" SearchSteps="FuzzySelector, Image" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=mscorlib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <TargetAnchorable.Anchors>
+    <scg:List x:TypeArguments="ITarget" Capacity="4">
+      <Target DesignTimeRectangle="930, 505, 244, 40" ElementType="Button" FriendlyName="'Download Template'" FullSelectorArgument="&lt;webctrl aaname='Download Template Bon Jurnal' id='wt10_OutSystemsUIWeb_wt18_block_wtContent_wtMainContent_MASA_Fin*' tag='INPUT' type='submit' /&gt;" FuzzySelectorArgument="&lt;webctrl aaname='Download Template Bon Jurnal' id='wt10_OutSystemsUIWeb_wt18_block_wtContent_wtMainContent_MASA_Fin*' tag='INPUT' type='submit' check:text='Download Template Bon Jurnal' /&gt;" SearchSteps="FuzzySelector, Image">
+        <imageRef attrName="ImageBase64" xmlns="">7Rqq-fRD9VkWcydaZ6U29UQ</imageRef>
+      </Target>
+    </scg:List>
+  </TargetAnchorable.Anchors>
+  <imageRef attrName="ImageBase64" xmlns="">06TV4p-7-QUmru7G1lAwF3Q</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="fce4dbca0ecf3883b7d8c2b953431d92.png" xmlns="">0cQG000pSDEGWcRYSrYQk6w</imageRef>
+</TargetAnchorable>

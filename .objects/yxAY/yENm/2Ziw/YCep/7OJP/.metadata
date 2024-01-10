@@ -1,0 +1,16 @@
+﻿{
+  "Id": "7OJPoXlNL0OJ-FZTORkE6g",
+  "Reference": "XmXxxtzE4ke1YN84qKCJ1w/7OJPoXlNL0OJ-FZTORkE6g",
+  "ParentRef": "XmXxxtzE4ke1YN84qKCJ1w/YCepkdxQQUWoV2DzFFSpqQ",
+  "Name": "k Jml Nominal",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2022-04-20T06:29:10.3904968Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-04-20T06:29:50.175936Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

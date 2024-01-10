@@ -1,0 +1,16 @@
+﻿{
+  "Id": "G1M1fXjRJUOQj0VbpSP9vQ",
+  "Reference": "XmXxxtzE4ke1YN84qKCJ1w/G1M1fXjRJUOQj0VbpSP9vQ",
+  "ParentRef": "XmXxxtzE4ke1YN84qKCJ1w/HKbx-ORLVkOfxbNqUvT6OQ",
+  "Name": "Logout",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2022-04-19T06:35:59.0064383Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-04-19T06:36:17.8156306Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetAnchorable ContentHash="Yt2759ad_EKJh0g2SWOwEA" DesignTimeRectangle="65, 428, 313, 41" FriendlyName="'- Select Approval Type -'" FullSelectorArgument="&lt;ctrl name='Approval Type Detail | MASA' role='document' /&gt;&lt;ctrl role='combo box' text='*' idx='3' /&gt;&lt;ctrl role='grouping' idx='1' /&gt;" FuzzySelectorArgument="&lt;ctrl name='Approval Type Detail | MASA' role='document' /&gt;&lt;ctrl role='combo box' text='*' /&gt;&lt;ctrl role='grouping' automationid='' /&gt;" ScopeSelectorArgument="&lt;wnd app='chrome.exe' cls='Chrome_WidgetWin_1' title='Approval Type Detail | MASA - Google Chrome' /&gt;" SearchSteps="FuzzySelector, Image" SelectionStrategy="AA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=mscorlib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <TargetAnchorable.Anchors>
+    <scg:List x:TypeArguments="ITarget" Capacity="4">
+      <Target DesignTimeRectangle="65, 404, 205, 25" ElementType="InputBox" FriendlyName="'Approval Type'" FullSelectorArgument="&lt;ctrl name='Approval Type Detail | MASA' role='document' /&gt;&lt;ctrl idx='2' role='editable text' /&gt;" FuzzySelectorArgument="&lt;ctrl name='Approval Type Detail | MASA' role='document' /&gt;&lt;ctrl automationid='' role='editable text' /&gt;" SearchSteps="Selector, FuzzySelector, Image">
+        <imageRef attrName="ImageBase64" xmlns="">1VgQjsaV9nkq2epi-Qt5I2Q</imageRef>
+      </Target>
+    </scg:List>
+  </TargetAnchorable.Anchors>
+  <imageRef attrName="ImageBase64" xmlns="">0WpDiB8eLqUqG8t_QbTmdcw</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="c4d6753bd439fba1a0404bb90c95c385.png" xmlns="">0moUylHPrq0GBc9gM8HPVMg</imageRef>
+</TargetAnchorable>

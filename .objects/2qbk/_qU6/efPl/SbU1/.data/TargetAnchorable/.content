@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetAnchorable BrowserURL="https://10.243.229.232/MASA/Laporan.aspx?(Not.Licensed.For.Production)=" ContentHash="lXU4usOLIUCgCNGo8iXp8g" DesignTimeRectangle="298, 526, 409, 40" ElementType="InputBox" FriendlyName="'2022-05-10'" FullSelectorArgument="&lt;webctrl tabindex='109' tag='INPUT' type='text' /&gt;" FuzzySelectorArgument="&lt;webctrl tabindex='109' tag='INPUT' type='text' aaname='' /&gt;" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Laporan' /&gt;" SearchSteps="FuzzySelector, Image" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=mscorlib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <TargetAnchorable.Anchors>
+    <scg:List x:TypeArguments="ITarget" Capacity="4">
+      <Target DesignTimeRectangle="81, 535, 192, 21" ElementType="Text" FriendlyName="'Tanggal Akhir'" FullSelectorArgument="&lt;webctrl aaname='Tanggal Akhir' idx='2' parentid='wt12_OutSystemsUIWeb_wt18_block_wtContent_wtMainContent_MASA_Rep*' tag='LABEL' /&gt;" FuzzySelectorArgument="&lt;webctrl aaname='Tanggal Akhir' type='' parentid='wt12_OutSystemsUIWeb_wt18_block_wtContent_wtMainContent_MASA_Rep*' tag='LABEL' check:text='Tanggal Akhir' /&gt;" SearchSteps="FuzzySelector, Image">
+        <imageRef attrName="ImageBase64" xmlns="">1fQSdyp5xPEC-GFBByk37Mg</imageRef>
+      </Target>
+    </scg:List>
+  </TargetAnchorable.Anchors>
+  <imageRef attrName="ImageBase64" xmlns="">00qOXllOmJ0C8a53Xb1rEcg</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="aeff92493aba985a90cdbcd2e9005dbe.png" xmlns="">09oT4InB_u0W955phsLlqEw</imageRef>
+</TargetAnchorable>

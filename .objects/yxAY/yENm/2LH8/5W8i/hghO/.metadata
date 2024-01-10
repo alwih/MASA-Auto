@@ -1,0 +1,16 @@
+﻿{
+  "Id": "hghO2TAuC0myKh4Oto8SBg",
+  "Reference": "XmXxxtzE4ke1YN84qKCJ1w/hghO2TAuC0myKh4Oto8SBg",
+  "ParentRef": "XmXxxtzE4ke1YN84qKCJ1w/5W8iKogDi0qSJnq7lmtf2A",
+  "Name": "d Jumlah Pegawai",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2022-08-20T03:39:21.867042Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-08-20T03:40:01.4730144Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

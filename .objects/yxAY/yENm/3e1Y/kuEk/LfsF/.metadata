@@ -1,0 +1,16 @@
+﻿{
+  "Id": "LfsFnGInWUycsS12XbgqeQ",
+  "Reference": "XmXxxtzE4ke1YN84qKCJ1w/LfsFnGInWUycsS12XbgqeQ",
+  "ParentRef": "XmXxxtzE4ke1YN84qKCJ1w/kuEks7dypEeX5gOwRQZyUA",
+  "Name": "d Utk Pembayaran",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2022-04-19T08:17:22.3625391Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-04-19T08:23:06.3923991Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

@@ -1,0 +1,16 @@
+﻿{
+  "Id": "7KMgnhvWkE6xReb1P4DCsQ",
+  "Reference": "XmXxxtzE4ke1YN84qKCJ1w/7KMgnhvWkE6xReb1P4DCsQ",
+  "ParentRef": "XmXxxtzE4ke1YN84qKCJ1w/YCepkdxQQUWoV2DzFFSpqQ",
+  "Name": "o Ket Bank Pajak",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2022-04-20T06:32:13.0371807Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-04-20T06:32:50.1378169Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetApp Area="0, 0, 0, 0" BrowserType="Chrome" ContentHash="V66cQVUfjESVPPBWp9Yczg" Selector="&lt;html app='chrome.exe' title='Rubrik Surat Detail | MASA'/&gt;" Url="https://10.243.229.232/MASA/RubrikSurat.aspx" xmlns="http://schemas.uipath.com/workflow/activities/uix">
+  <imageRef attrName="IconBase64" xmlns="">0Yz0PgTm7i0CS440VB94T9w</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="71978ab4a11b7441344ff0bb9297a39f.png" xmlns="">0-N0FV3PkiEibq1Xw3MAsSw</imageRef>
+</TargetApp>

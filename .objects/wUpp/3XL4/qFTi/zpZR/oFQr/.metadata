@@ -1,0 +1,16 @@
+﻿{
+  "Id": "oFQrNBQHjEWOkWspV-9lqg",
+  "Reference": "XmXxxtzE4ke1YN84qKCJ1w/oFQrNBQHjEWOkWspV-9lqg",
+  "ParentRef": "XmXxxtzE4ke1YN84qKCJ1w/zpZRVNK_o02xmJVzsiUYkQ",
+  "Name": "b Team",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2022-07-28T08:55:58.4888339Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-07-28T08:56:13.4224492Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

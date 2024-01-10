@@ -1,0 +1,15 @@
+﻿{
+  "Id": "47XUujyua0SCy1qZodMkkw",
+  "Reference": "XmXxxtzE4ke1YN84qKCJ1w/47XUujyua0SCy1qZodMkkw",
+  "ParentRef": "XmXxxtzE4ke1YN84qKCJ1w/GOxiepyUPEeVjQz121PRhQ",
+  "Name": "Assign PIC",
+  "Type": "Screen",
+  "Created": "2022-04-27T06:21:58.120322Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-04-27T06:22:21.8320841Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

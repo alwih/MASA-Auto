@@ -1,0 +1,16 @@
+﻿{
+  "Id": "zWmuVsLlr0GzUz_5cEkLSg",
+  "Reference": "XmXxxtzE4ke1YN84qKCJ1w/zWmuVsLlr0GzUz_5cEkLSg",
+  "ParentRef": "XmXxxtzE4ke1YN84qKCJ1w/kuEks7dypEeX5gOwRQZyUA",
+  "Name": "j Bank Penerima",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2022-04-19T08:22:11.610403Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-04-19T08:23:42.4758353Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

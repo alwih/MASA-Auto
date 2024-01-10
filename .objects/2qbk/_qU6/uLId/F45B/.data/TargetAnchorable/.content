@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetAnchorable ContentHash="ppbbaHhDlE-RxjGPVy70bw" DesignTimeRectangle="968, 438, 109, 41" ElementType="Button" FriendlyName="'Export PDF'" FullSelectorArgument="&lt;ctrl name='ReportFakturPajak' role='document' /&gt;&lt;ctrl name='Export PDF' role='push button' /&gt;" FuzzySelectorArgument="&lt;ctrl name='ReportFakturPajak' role='document' /&gt;&lt;ctrl name='Export PDF' role='push button' automationid='' check:text='Export PDF' /&gt;" ScopeSelectorArgument="&lt;wnd app='chrome.exe' cls='Chrome_WidgetWin_1' title='ReportFakturPajak - Google Chrome' /&gt;" SearchSteps="Selector, FuzzySelector, Image" SelectionStrategy="AA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=mscorlib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <TargetAnchorable.Anchors>
+    <scg:List x:TypeArguments="ITarget" Capacity="4">
+      <Target DesignTimeRectangle="831, 438, 118, 41" ElementType="Button" FriendlyName="'Export Excel'" FullSelectorArgument="&lt;ctrl name='ReportFakturPajak' role='document' /&gt;&lt;ctrl name='Export Excel' role='push button' /&gt;" FuzzySelectorArgument="&lt;ctrl name='ReportFakturPajak' role='document' /&gt;&lt;ctrl name='Export Excel' role='push button' automationid='' check:text='Export Excel' /&gt;" SearchSteps="Selector, FuzzySelector, Image">
+        <imageRef attrName="ImageBase64" xmlns="">15odEPYuwbEuJh7sXrySkJA</imageRef>
+      </Target>
+    </scg:List>
+  </TargetAnchorable.Anchors>
+  <imageRef attrName="ImageBase64" xmlns="">0BaCDZ_juvEyr0_mtgEJTKg</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="cf2b83f7113a510c4e3c2e7567c8c402.png" xmlns="">0rl5eK3k4iE24Xv0AniE1Hg</imageRef>
+</TargetAnchorable>

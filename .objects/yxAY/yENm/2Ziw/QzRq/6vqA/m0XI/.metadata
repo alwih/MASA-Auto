@@ -1,0 +1,16 @@
+﻿{
+  "Id": "m0XIwIy0f0efhiWW5NBj-A",
+  "Reference": "XmXxxtzE4ke1YN84qKCJ1w/m0XIwIy0f0efhiWW5NBj-A",
+  "ParentRef": "XmXxxtzE4ke1YN84qKCJ1w/6vqAGK3KvkGAcZ-4LCJFQQ",
+  "Name": "2 Sisa Pembayaran Pajak",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2022-04-20T06:50:56.6641479Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-04-20T06:51:25.5990294Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

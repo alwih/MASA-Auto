@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetAnchorable ContentHash="MXaMW7WuBkiHwI8xB-XW-w" DesignTimeRectangle="1234, 334, 144, 41" ElementType="Text" FriendlyName="'Rubrik Baru'" FullSelectorArgument="&lt;ctrl name='Rubrik Surat | MASA' role='document' /&gt;&lt;ctrl name=' Rubrik Baru' role='link' /&gt;" FuzzySelectorArgument="&lt;ctrl name='Rubrik Surat | MASA' role='document' /&gt;&lt;ctrl name=' Rubrik Baru' role='link' automationid='' check:text='Rubrik Baru' /&gt;" ScopeSelectorArgument="&lt;wnd app='chrome.exe' cls='Chrome_WidgetWin_1' title='Rubrik Surat | MASA - Google Chrome' /&gt;" SearchSteps="Selector, FuzzySelector" SelectionStrategy="AA" xmlns="http://schemas.uipath.com/workflow/activities/uix">
+  <imageRef attrName="ImageBase64" xmlns="">0E7AN8AFqqEOq_RlExDIbbA</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="c8eb145ceda3f8a38e3ca25e2ad0ebea.png" xmlns="">0xxV5glmeqEyK3NGW5rRHfQ</imageRef>
+</TargetAnchorable>

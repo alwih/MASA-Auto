@@ -1,0 +1,15 @@
+﻿{
+  "Id": "JELKshWvA0SfU9lPXI02vA",
+  "Reference": "XmXxxtzE4ke1YN84qKCJ1w/JELKshWvA0SfU9lPXI02vA",
+  "ParentRef": "XmXxxtzE4ke1YN84qKCJ1w/3XL4ZboadUieKFsQ0wfrZQ",
+  "Name": "Parameter",
+  "Type": "Screen",
+  "Created": "2022-07-28T03:39:26.0900505Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-07-28T03:39:39.0158638Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

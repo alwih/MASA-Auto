@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetAnchorable ContentHash="uIfAjBKN_kC3OV52GBE83w" DesignTimeRectangle="1092, 488, 160, 41" ElementType="Button" FriendlyName="'Tambah Dokumen'" FullSelectorArgument="&lt;ctrl name='Kasbon Detail | MASA' role='document' /&gt;&lt;ctrl name='Detail' role='property page' /&gt;&lt;ctrl name='Beban Group' role='property page' /&gt;&lt;ctrl name='Tambah Dokumen' role='push button' /&gt;" FuzzySelectorArgument="&lt;ctrl name='Kasbon Detail | MASA' role='document' /&gt;&lt;ctrl name='Detail' role='property page' /&gt;&lt;ctrl name='Beban Group' role='property page' /&gt;&lt;ctrl name='Tambah Dokumen' role='push button' automationid='' check:text='Tambah Dokumen' /&gt;" ScopeSelectorArgument="&lt;wnd app='chrome.exe' cls='Chrome_WidgetWin_1' title='Kasbon Detail | MASA - Google Chrome' /&gt;" SearchSteps="Selector, FuzzySelector, Image" SelectionStrategy="AA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=mscorlib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <TargetAnchorable.Anchors>
+    <scg:List x:TypeArguments="ITarget" Capacity="4">
+      <Target DesignTimeRectangle="1271, 488, 103, 41" ElementType="Button" FriendlyName="'Download'" FullSelectorArgument="&lt;ctrl name='Kasbon Detail | MASA' role='document' /&gt;&lt;ctrl name='Detail' role='property page' /&gt;&lt;ctrl name='Beban Group' role='property page' /&gt;&lt;ctrl name='Download' role='push button' /&gt;" FuzzySelectorArgument="&lt;ctrl name='Kasbon Detail | MASA' role='document' /&gt;&lt;ctrl name='Detail' role='property page' /&gt;&lt;ctrl name='Beban Group' role='property page' /&gt;&lt;ctrl name='Download' role='push button' automationid='' check:text='Download' /&gt;" SearchSteps="Selector, FuzzySelector, Image">
+        <imageRef attrName="ImageBase64" xmlns="">1Rr-mEqx42Eq4n6IDuO6QKw</imageRef>
+      </Target>
+    </scg:List>
+  </TargetAnchorable.Anchors>
+  <imageRef attrName="ImageBase64" xmlns="">0EB4L3Z-2eUmxPR4JGEDf1w</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="d10011c8a7295df0188fc6aa893b719f.png" xmlns="">0JAXY0aOJ-kW3zGJatFy8-w</imageRef>
+</TargetAnchorable>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetAnchorable BrowserURL="https://10.243.229.232/MASA/OrderDetail.aspx" ContentHash="mLrnBWCq9k-D2uvWvUaksw" DesignTimeRectangle="736, 420, 623, 69" ElementType="InputBox" FriendlyName="'TEXTAREA'" FullSelectorArgument="&lt;webctrl aaname='Keterangan Bank' tag='TEXTAREA' /&gt;" FuzzySelectorArgument="&lt;webctrl aaname='Keterangan Bank' tag='TEXTAREA' type='' /&gt;" Reference="XmXxxtzE4ke1YN84qKCJ1w/Up6vc3EAjk2dtQnPBsZSSg" ScopeSelectorArgument="&lt;html app='chrome.exe' title='FPP Setoran Materai Detail | MASA' /&gt;" SearchSteps="FuzzySelector, Image" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=mscorlib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <TargetAnchorable.Anchors>
+    <scg:List x:TypeArguments="ITarget" Capacity="4">
+      <Target DesignTimeRectangle="736, 396, 305, 24" ElementType="Text" FriendlyName="'Keterangan Bank'" FullSelectorArgument="&lt;webctrl aaname='Keterangan Bank' parentid='wt10_OutSystemsUIWeb_wt18_block_wtContent_wtMainContent_MASA_Fin*' tag='LABEL' /&gt;" FuzzySelectorArgument="&lt;webctrl aaname='Keterangan Bank' parentid='wt10_OutSystemsUIWeb_wt18_block_wtContent_wtMainContent_MASA_Fin*' tag='LABEL' type='' check:text='Keterangan Bank' /&gt;" SearchSteps="FuzzySelector, Image">
+        <imageRef attrName="ImageBase64" xmlns="">1p8YWGco11kqQOjUKylis4A</imageRef>
+      </Target>
+    </scg:List>
+  </TargetAnchorable.Anchors>
+  <imageRef attrName="ImageBase64" xmlns="">0fuThpGtTDEuGyX8uXEODLQ</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="c0d99f45be64c3d0936d89f8a213f191.png" xmlns="">0Hu8amioEfEePAgENfqYaNg</imageRef>
+</TargetAnchorable>

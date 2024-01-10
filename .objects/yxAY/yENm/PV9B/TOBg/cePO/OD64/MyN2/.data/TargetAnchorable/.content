@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetAnchorable ContentHash="oBWB4v8sG0KSY96pG-JeFA" DesignTimeRectangle="892, 517, 60, 32" ElementType="Button" FriendlyName="'Submit'" FullSelectorArgument="&lt;ctrl name='Pertanggungjawaban Uang Muka Non Perdin Detail | MASA' role='document' /&gt;&lt;ctrl name='Upload Transaksi' role='document' /&gt;&lt;ctrl name='Submit' role='push button' /&gt;" FuzzySelectorArgument="&lt;ctrl name='Pertanggungjawaban Uang Muka Non Perdin Detail | MASA' role='document' /&gt;&lt;ctrl name='Upload Transaksi' role='document' /&gt;&lt;ctrl name='Submit' role='push button' automationid='' check:text='Submit' /&gt;" ScopeSelectorArgument="&lt;wnd app='chrome.exe' cls='Chrome_WidgetWin_1' title='Pertanggungjawaban Uang Muka Non Perdin Detail | MASA - Google C*' /&gt;" SearchSteps="Selector, FuzzySelector, Image" SelectionStrategy="AA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=mscorlib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <TargetAnchorable.Anchors>
+    <scg:List x:TypeArguments="ITarget" Capacity="4">
+      <Target DesignTimeRectangle="824, 517, 49, 32" ElementType="Button" FriendlyName="'Batal'" FullSelectorArgument="&lt;ctrl name='Pertanggungjawaban Uang Muka Non Perdin Detail | MASA' role='document' /&gt;&lt;ctrl name='Upload Transaksi' role='document' /&gt;&lt;ctrl name='Batal' role='push button' /&gt;" FuzzySelectorArgument="&lt;ctrl name='Pertanggungjawaban Uang Muka Non Perdin Detail | MASA' role='document' /&gt;&lt;ctrl name='Upload Transaksi' role='document' /&gt;&lt;ctrl name='Batal' role='push button' automationid='' check:text='Batal' /&gt;" SearchSteps="Selector, FuzzySelector, Image">
+        <imageRef attrName="ImageBase64" xmlns="">1YJHlRQ9-7kOALUmkZIrWsQ</imageRef>
+      </Target>
+    </scg:List>
+  </TargetAnchorable.Anchors>
+  <imageRef attrName="ImageBase64" xmlns="">0jt-OY9o910mcfnVnE8sBZA</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="705133e894db0f89daa96f06fccdb3d4.png" xmlns="">0Uy0ky41Y7U60bPHDfdlrFw</imageRef>
+</TargetAnchorable>

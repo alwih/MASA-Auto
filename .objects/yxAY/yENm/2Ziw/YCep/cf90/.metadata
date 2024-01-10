@@ -1,0 +1,16 @@
+﻿{
+  "Id": "cf90A-ipjU2Ujd8xpIMQHw",
+  "Reference": "XmXxxtzE4ke1YN84qKCJ1w/cf90A-ipjU2Ujd8xpIMQHw",
+  "ParentRef": "XmXxxtzE4ke1YN84qKCJ1w/YCepkdxQQUWoV2DzFFSpqQ",
+  "Name": "g Ket Main Pajak",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2022-04-20T04:44:26.1023171Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-04-20T04:45:11.8616877Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

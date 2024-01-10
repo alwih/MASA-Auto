@@ -1,0 +1,15 @@
+﻿{
+  "Id": "WIkfpUQaQ06sN1K8v-NhkQ",
+  "Reference": "XmXxxtzE4ke1YN84qKCJ1w/WIkfpUQaQ06sN1K8v-NhkQ",
+  "ParentRef": "XmXxxtzE4ke1YN84qKCJ1w/3XL4ZboadUieKFsQ0wfrZQ",
+  "Name": "File",
+  "Type": "Screen",
+  "Created": "2022-08-02T10:14:51.690733Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-08-02T10:20:52.4131503Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

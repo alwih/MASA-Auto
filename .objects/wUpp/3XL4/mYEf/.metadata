@@ -1,0 +1,15 @@
+﻿{
+  "Id": "mYEf3fghuEeT372ExYEEUA",
+  "Reference": "XmXxxtzE4ke1YN84qKCJ1w/mYEf3fghuEeT372ExYEEUA",
+  "ParentRef": "XmXxxtzE4ke1YN84qKCJ1w/3XL4ZboadUieKFsQ0wfrZQ",
+  "Name": "Modul",
+  "Type": "Screen",
+  "Created": "2022-07-28T02:55:20.9466642Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-07-28T02:57:59.4056492Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetAnchorable BrowserURL="https://10.243.229.27/MASA/OrderList.aspx?(Not.Licensed.For.Production)=" ContentHash="WEU-ZE2NGE-zHhDN8gMLLw" DesignTimeRectangle="344, 539, 396, 40" ElementType="InputBox" FriendlyName="'INPUT'" FullSelectorArgument="&lt;webctrl css-selector='body&amp;gt;form&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;main&amp;gt;div&amp;gt;div&amp;gt;span&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;span&amp;gt;div&amp;gt;table&amp;gt;tbody&amp;gt;tr&amp;gt;td&amp;gt;input' parentname='wt13$OutSystemsUIWeb_wt18$block$wtContent$wtMainContent$MASA_SHA*' tag='INPUT' type='text' /&gt;" FuzzySelectorArgument="&lt;webctrl css-selector='body&amp;gt;form&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;main&amp;gt;div&amp;gt;div&amp;gt;span&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;span&amp;gt;div&amp;gt;table&amp;gt;tbody&amp;gt;tr&amp;gt;td&amp;gt;input' parentname='wt13$OutSystemsUIWeb_wt18$block$wtContent$wtMainContent$MASA_SHA*' tag='INPUT' type='text' aaname='' /&gt;" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Order List | MASA' /&gt;" SearchSteps="FuzzySelector, Image" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=mscorlib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <TargetAnchorable.Anchors>
+    <scg:List x:TypeArguments="ITarget" Capacity="4">
+      <Target DesignTimeRectangle="320, 531, 428, 56" FriendlyName="'Temporary Document'" FullSelectorArgument="&lt;webctrl id='wt13_OutSystemsUIWeb_wt18_block_wtContent_wtMainContent_MASA_SHA*' name='wt13$OutSystemsUIWeb_wt18$block$wtContent$wtMainContent$MASA_SHA*' tag='TABLE' /&gt;&lt;webctrl tag='TD' /&gt;" FuzzySelectorArgument="&lt;webctrl id='wt13_OutSystemsUIWeb_wt18_block_wtContent_wtMainContent_MASA_SHA*' name='wt13$OutSystemsUIWeb_wt18$block$wtContent$wtMainContent$MASA_SHA*' tag='TABLE' /&gt;&lt;webctrl tag='TD' type='' aaname='' check:text='Temporary Document' /&gt;" SearchSteps="FuzzySelector, Image">
+        <imageRef attrName="ImageBase64" xmlns="">1pI9SlT3MF0mcCxW8_nIXYg</imageRef>
+      </Target>
+    </scg:List>
+  </TargetAnchorable.Anchors>
+  <imageRef attrName="ImageBase64" xmlns="">0z8EkqTQVMEKOcWKXKiPsYA</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="2ecb68d3a3c8828d1747744506bb99b9.png" xmlns="">0hrSirpomikqWhqRa6Nqnqw</imageRef>
+</TargetAnchorable>

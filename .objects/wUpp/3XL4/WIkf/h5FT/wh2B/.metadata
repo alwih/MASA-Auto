@@ -1,0 +1,16 @@
+﻿{
+  "Id": "wh2BNVcalk6-Oa7uqUrMrA",
+  "Reference": "XmXxxtzE4ke1YN84qKCJ1w/wh2BNVcalk6-Oa7uqUrMrA",
+  "ParentRef": "XmXxxtzE4ke1YN84qKCJ1w/h5FTN_qPGUOcgQm_pmQAxg",
+  "Name": "b Sub Grup",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2022-08-02T10:43:26.8711089Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-08-02T10:43:54.7351835Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

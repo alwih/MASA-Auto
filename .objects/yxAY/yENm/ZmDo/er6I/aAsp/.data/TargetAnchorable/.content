@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetAnchorable ContentHash="cF1RPQuiSUCqk6aRMJ4yDg" DesignTimeRectangle="65, 453, 639, 41" FriendlyName="'- Pilih Penandatangan -'" FullSelectorArgument="&lt;ctrl name='Pertanggungjawaban Uang Muka Perdin Detail | MASA' role='document' /&gt;&lt;ctrl name='Main' role='property page' /&gt;&lt;ctrl idx='25' role='grouping' /&gt;" FuzzySelectorArgument="&lt;ctrl name='Pertanggungjawaban Uang Muka Perdin Detail | MASA' role='document' /&gt;&lt;ctrl name='Main' role='property page' /&gt;&lt;ctrl automationid='' role='grouping' check:fulltext='- Pilih Penandatangan -' /&gt;" ScopeSelectorArgument="&lt;wnd app='chrome.exe' cls='Chrome_WidgetWin_1' title='Pertanggungjawaban Uang Muka Perdin Detail | MASA - Google Chrom*' /&gt;" SearchSteps="FuzzySelector, Image" SelectionStrategy="AA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=mscorlib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <TargetAnchorable.Anchors>
+    <scg:List x:TypeArguments="ITarget" Capacity="4">
+      <Target DesignTimeRectangle="65, 429, 205, 25" ElementType="InputBox" FriendlyName="'Penandatangan 2'" FullSelectorArgument="&lt;ctrl name='Pertanggungjawaban Uang Muka Perdin Detail | MASA' role='document' /&gt;&lt;ctrl name='Main' role='property page' /&gt;&lt;ctrl idx='26' role='editable text' /&gt;" FuzzySelectorArgument="&lt;ctrl name='Pertanggungjawaban Uang Muka Perdin Detail | MASA' role='document' /&gt;&lt;ctrl name='Main' role='property page' /&gt;&lt;ctrl automationid='' role='editable text' /&gt;" SearchSteps="Selector, FuzzySelector, Image">
+        <imageRef attrName="ImageBase64" xmlns="">10p9yeuyGiE6_ytVrFfzXEw</imageRef>
+      </Target>
+    </scg:List>
+  </TargetAnchorable.Anchors>
+  <imageRef attrName="ImageBase64" xmlns="">0dfq4efQBQUWfGXZFvpkLnA</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="eb2de8133a37d2b015810d80b0de4acc.png" xmlns="">0vrg593edcECG3Q4jtsuZ-g</imageRef>
+</TargetAnchorable>

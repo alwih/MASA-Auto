@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetAnchorable ContentHash="VO6Ydj-5GU-I_vJl8rLuNw" DesignTimeRectangle="65, 430, 642, 41" FriendlyName="'- Pilih Team -'" FullSelectorArgument="&lt;ctrl name='Master PIC Detail | MASA' role='document' /&gt;&lt;ctrl idx='49' role='grouping' /&gt;" FuzzySelectorArgument="&lt;ctrl name='Master PIC Detail | MASA' role='document' /&gt;&lt;ctrl automationid='' role='grouping' /&gt;" Reference="XmXxxtzE4ke1YN84qKCJ1w/oFQrNBQHjEWOkWspV-9lqg" ScopeSelectorArgument="&lt;wnd app='chrome.exe' cls='Chrome_WidgetWin_1' title='Master PIC Detail | MASA - Google Chrome' /&gt;" SearchSteps="FuzzySelector" SelectionStrategy="AA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=mscorlib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <TargetAnchorable.Anchors>
+    <scg:List x:TypeArguments="ITarget" Capacity="4">
+      <Target DesignTimeRectangle="65, 406, 420, 25" ElementType="InputBox" FriendlyName="'Team'" FullSelectorArgument="&lt;ctrl name='Master PIC Detail | MASA' role='document' /&gt;&lt;ctrl idx='2' role='editable text' /&gt;" FuzzySelectorArgument="&lt;ctrl name='Master PIC Detail | MASA' role='document' /&gt;&lt;ctrl automationid='' role='editable text' /&gt;" SearchSteps="Selector, FuzzySelector, Image">
+        <imageRef attrName="ImageBase64" xmlns="">1x90glq79aUGZ94EWYzk_8A</imageRef>
+      </Target>
+    </scg:List>
+  </TargetAnchorable.Anchors>
+  <imageRef attrName="ImageBase64" xmlns="">0sULnvG3ZfUCNkaVoAZjyrw</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="eb2f04abe0b6fc53dabf644fe878cf1c.png" xmlns="">0587jIJUhnkeWpzh2QBNEgQ</imageRef>
+</TargetAnchorable>

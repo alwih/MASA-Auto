@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetAnchorable ContentHash="ZoP2kPYaSUWLTEpLaU7IVw" DesignTimeRectangle="455, 114, 390, 21" FriendlyName="'Master Jabatan'" FullSelectorArgument="&lt;ctrl name='Jabatan | MASA' role='document' /&gt;&lt;ctrl idx='23' role='grouping' /&gt;" FuzzySelectorArgument="&lt;ctrl name='Jabatan | MASA' role='document' /&gt;&lt;ctrl automationid='' role='grouping' /&gt;" ScopeSelectorArgument="&lt;wnd app='chrome.exe' cls='Chrome_WidgetWin_1' title='Jabatan | MASA - Google Chrome' /&gt;" SearchSteps="Selector, FuzzySelector" SelectionStrategy="AA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=mscorlib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <TargetAnchorable.Anchors>
+    <scg:List x:TypeArguments="ITarget" Capacity="4">
+      <Target DesignTimeRectangle="423, 105, 601, 39" FriendlyName="'grouping'" FullSelectorArgument="&lt;ctrl name='Jabatan | MASA' role='document' /&gt;&lt;ctrl idx='14' role='grouping' /&gt;" FuzzySelectorArgument="&lt;ctrl name='Jabatan | MASA' role='document' /&gt;&lt;ctrl automationid='' role='grouping' /&gt;" SearchSteps="Selector, FuzzySelector, Image">
+        <imageRef attrName="ImageBase64" xmlns="">1iIBW5_zgWEaXpigOArKixA</imageRef>
+      </Target>
+    </scg:List>
+  </TargetAnchorable.Anchors>
+  <imageRef attrName="ImageBase64" xmlns="">0C_5uJWWqwUu-RBrEqSdXEA</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="ff90dec3aa7abb5b6646ee6c16884fdf.png" xmlns="">0EKEOAhEBIUmu_Tx_KDCojQ</imageRef>
+</TargetAnchorable>

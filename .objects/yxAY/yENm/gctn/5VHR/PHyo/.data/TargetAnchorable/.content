@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetAnchorable BrowserURL="https://10.243.229.232/MASA/OrderDetail.aspx" ContentHash="qmzZwIWo4kaDF95NiK3l5Q" DesignTimeRectangle="328, 410, 259, 48" ElementType="Text" FriendlyName="'Beban Group'" FullSelectorArgument="&lt;webctrl aaname='Beban Group' aria-role='tab' tag='DIV' /&gt;" FuzzySelectorArgument="&lt;webctrl aaname='Beban Group' aria-role='tab' tag='DIV' type='' check:text='Beban Group' /&gt;" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Kasbon Detail | MASA' /&gt;" SearchSteps="Selector, FuzzySelector, Image" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=mscorlib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <TargetAnchorable.Anchors>
+    <scg:List x:TypeArguments="ITarget" Capacity="4">
+      <Target DesignTimeRectangle="65, 410, 259, 48" ElementType="Text" FriendlyName="'Nomor Rekening'" FullSelectorArgument="&lt;webctrl aaname='Nomor Rekening' aria-role='tab' tag='DIV' /&gt;" FuzzySelectorArgument="&lt;webctrl aaname='Nomor Rekening' aria-role='tab' tag='DIV' type='' check:text='Nomor Rekening' /&gt;" SearchSteps="FuzzySelector, Image">
+        <imageRef attrName="ImageBase64" xmlns="">1qCzhEM6zRUuOwbeBIG_SXA</imageRef>
+      </Target>
+    </scg:List>
+  </TargetAnchorable.Anchors>
+  <imageRef attrName="ImageBase64" xmlns="">0KfG0qyA-80uvD45M-fpYMQ</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="9d68d0ace4ecaacdbf90da2562c955df.png" xmlns="">05X_CbD6p_EyO5_5alPTglA</imageRef>
+</TargetAnchorable>

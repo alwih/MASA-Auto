@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetAnchorable ContentHash="G8eOjT73bEmFfr8HA7GBgg" DesignTimeRectangle="781, 728, 86, 41" ElementType="Button" FriendlyName="'Simpan'" FullSelectorArgument="&lt;ctrl name='Limit Kewenangan Detail | MASA' role='document' /&gt;&lt;ctrl name='Simpan' role='push button' /&gt;" FuzzySelectorArgument="&lt;ctrl name='Limit Kewenangan Detail | MASA' role='document' /&gt;&lt;ctrl name='Simpan' role='push button' automationid='' check:text='Simpan' /&gt;" ScopeSelectorArgument="&lt;wnd app='chrome.exe' cls='Chrome_WidgetWin_1' title='Limit Kewenangan Detail | MASA - Google Chrome' /&gt;" SearchSteps="Selector, FuzzySelector, Image" SelectionStrategy="AA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=mscorlib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <TargetAnchorable.Anchors>
+    <scg:List x:TypeArguments="ITarget" Capacity="4">
+      <Target DesignTimeRectangle="689, 728, 73, 41" ElementType="Button" FriendlyName="'Reset'" FullSelectorArgument="&lt;ctrl name='Limit Kewenangan Detail | MASA' role='document' /&gt;&lt;ctrl name='Reset' role='push button' /&gt;" FuzzySelectorArgument="&lt;ctrl name='Limit Kewenangan Detail | MASA' role='document' /&gt;&lt;ctrl name='Reset' role='push button' automationid='' check:text='Reset' /&gt;" SearchSteps="Selector, FuzzySelector, Image">
+        <imageRef attrName="ImageBase64" xmlns="">1BaNZBuYRrU64Vnu4OiOM6g</imageRef>
+      </Target>
+    </scg:List>
+  </TargetAnchorable.Anchors>
+  <imageRef attrName="ImageBase64" xmlns="">0PbldbiPRfkyZA5ZsKII-cA</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="6a5a56b71eea555191cd9eff55c61f61.png" xmlns="">0CUEc57G8fku7g8GNrI-i-w</imageRef>
+</TargetAnchorable>

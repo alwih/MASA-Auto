@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetAnchorable BrowserURL="https://10.243.229.232/MASA/OrderDetail.aspx" ContentHash="HXq77LzhEkq0VoX3HIgd2A" DesignTimeRectangle="89, 564, 1261, 21" ElementType="Text" FriendlyName="'Add Record'" FullSelectorArgument="&lt;webctrl id='wt20_OutSystemsUIWeb_wt18_block_wtContent_wtMainContent_MASA_Fin*' tag='A' /&gt;" FuzzySelectorArgument="&lt;webctrl id='wt20_OutSystemsUIWeb_wt18_block_wtContent_wtMainContent_MASA_Fin*' tag='A' type='' aaname='Add Record' check:text='Add Record' /&gt;" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Kasbon Detail | MASA' /&gt;" SearchSteps="FuzzySelector, Image" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=mscorlib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <TargetAnchorable.Anchors>
+    <scg:List x:TypeArguments="ITarget" Capacity="4">
+      <Target DesignTimeRectangle="65, 548, 1309, 53" FriendlyName="'Add Record'" FullSelectorArgument="&lt;webctrl id='wt20_OutSystemsUIWeb_wt18_block_wtContent_wtMainContent_MASA_Fin*' tag='TABLE' /&gt;&lt;webctrl css-selector='body&amp;gt;form&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;main&amp;gt;div&amp;gt;div&amp;gt;span&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;span&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;table&amp;gt;tfoot&amp;gt;tr&amp;gt;td' tag='TD' /&gt;" FuzzySelectorArgument="&lt;webctrl id='wt20_OutSystemsUIWeb_wt18_block_wtContent_wtMainContent_MASA_Fin*' tag='TABLE' /&gt;&lt;webctrl css-selector='body&amp;gt;form&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;main&amp;gt;div&amp;gt;div&amp;gt;span&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;span&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;table&amp;gt;tfoot&amp;gt;tr&amp;gt;td' tag='TD' type='' aaname='' check:text='Add Record' /&gt;" SearchSteps="FuzzySelector, Image">
+        <imageRef attrName="ImageBase64" xmlns="">1D803NCHOPEevsMez6GR_Fw</imageRef>
+      </Target>
+    </scg:List>
+  </TargetAnchorable.Anchors>
+  <imageRef attrName="ImageBase64" xmlns="">0_j5srq_2S0q-K5ySMHUUvg</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="c5ef9ef902f084603c1f77cedb508f0a.png" xmlns="">0VLhIEQyP1UGLXZu29NN2rw</imageRef>
+</TargetAnchorable>

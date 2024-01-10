@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetAnchorable ContentHash="L9ximN8CUUmQX7EF86CEAA" DesignTimeRectangle="451, 110, 150, 21" FriendlyName="'Approval requested.'" FullSelectorArgument="&lt;ctrl name='Order List | MASA' role='document' /&gt;&lt;ctrl idx='23' role='grouping' /&gt;" FuzzySelectorArgument="&lt;ctrl name='Order List | MASA' role='document' /&gt;&lt;ctrl automationid='' role='grouping' check:text='Approval requested.' /&gt;" ScopeSelectorArgument="&lt;wnd app='chrome.exe' cls='Chrome_WidgetWin_1' title='Order List | MASA - Google Chrome' /&gt;" SearchSteps="FuzzySelector, Image" SelectionStrategy="AA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=mscorlib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <TargetAnchorable.Anchors>
+    <scg:List x:TypeArguments="ITarget" Capacity="4">
+      <Target DesignTimeRectangle="419, 101, 601, 39" FriendlyName="'grouping'" FullSelectorArgument="&lt;ctrl name='Order List | MASA' role='document' /&gt;&lt;ctrl idx='14' role='grouping' /&gt;" FuzzySelectorArgument="&lt;ctrl name='Order List | MASA' role='document' /&gt;&lt;ctrl automationid='' role='grouping' /&gt;" SearchSteps="Selector, FuzzySelector, Image">
+        <imageRef attrName="ImageBase64" xmlns="">1X3Zt-acY6E2JHmKB7jazDA</imageRef>
+      </Target>
+    </scg:List>
+  </TargetAnchorable.Anchors>
+  <imageRef attrName="ImageBase64" xmlns="">0sLUb8_Q2GEKYOtInaQUjRQ</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="344c2d92d8abb7e3bde5e731a8c61115.png" xmlns="">0G5a8LQ-AOE6bv03_VLUqUw</imageRef>
+</TargetAnchorable>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetAnchorable ContentHash="c4ZCDZDRpEWY0kRthuIM5Q" DesignTimeRectangle="1070, 440, 79, 41" ElementType="Button" FriendlyName="'Delete'" FullSelectorArgument="&lt;ctrl name='ReportTransaksiGagalTransfer' role='document' /&gt;&lt;ctrl name='Delete' role='push button' /&gt;" FuzzySelectorArgument="&lt;ctrl name='ReportTransaksiGagalTransfer' role='document' /&gt;&lt;ctrl name='Delete' role='push button' automationid='' check:text='Delete' /&gt;" ScopeSelectorArgument="&lt;wnd app='chrome.exe' cls='Chrome_WidgetWin_1' title='ReportTransaksiGagalTransfer - Google Chrome' /&gt;" SearchSteps="Selector, FuzzySelector, Image" SelectionStrategy="AA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=mscorlib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <TargetAnchorable.Anchors>
+    <scg:List x:TypeArguments="ITarget" Capacity="4">
+      <Target DesignTimeRectangle="934, 440, 117, 41" ElementType="Button" FriendlyName="'Export Excel'" FullSelectorArgument="&lt;ctrl name='ReportTransaksiGagalTransfer' role='document' /&gt;&lt;ctrl name='Export Excel' role='push button' /&gt;" FuzzySelectorArgument="&lt;ctrl name='ReportTransaksiGagalTransfer' role='document' /&gt;&lt;ctrl name='Export Excel' role='push button' automationid='' check:text='Export Excel' /&gt;" SearchSteps="Selector, FuzzySelector, Image">
+        <imageRef attrName="ImageBase64" xmlns="">15iNEzdTIj0eKDhZipRaGxQ</imageRef>
+      </Target>
+    </scg:List>
+  </TargetAnchorable.Anchors>
+  <imageRef attrName="ImageBase64" xmlns="">0GIarrhbtl0-ErMizMoc4OQ</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="fa67da25c3abc356f4468fa61ac30d52.png" xmlns="">0vHgI2qQ5M0WwlEyrrNJQ_A</imageRef>
+</TargetAnchorable>

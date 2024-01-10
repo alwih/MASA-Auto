@@ -1,0 +1,16 @@
+﻿{
+  "Id": "-IjDG8K7kkuM6CThPn_Gxw",
+  "Reference": "XmXxxtzE4ke1YN84qKCJ1w/-IjDG8K7kkuM6CThPn_Gxw",
+  "ParentRef": "XmXxxtzE4ke1YN84qKCJ1w/6QVXlRFmUESm1tAGcNUs6Q",
+  "Name": "b Alamat",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2022-08-04T10:26:06.3653521Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-08-04T10:26:29.7946452Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

@@ -1,0 +1,16 @@
+﻿{
+  "Id": "Bbt5wmjjRE-caGlpWtyPWg",
+  "Reference": "XmXxxtzE4ke1YN84qKCJ1w/Bbt5wmjjRE-caGlpWtyPWg",
+  "ParentRef": "XmXxxtzE4ke1YN84qKCJ1w/9aT5KuQlO0KKyXBN6VcqHQ",
+  "Name": "Btn: Action",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2022-08-10T23:53:34.5118785Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-08-10T23:54:04.4540633Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

@@ -1,0 +1,15 @@
+﻿{
+  "Id": "2ZiwKLi1YEmNkXFyfkcMtg",
+  "Reference": "XmXxxtzE4ke1YN84qKCJ1w/2ZiwKLi1YEmNkXFyfkcMtg",
+  "ParentRef": "XmXxxtzE4ke1YN84qKCJ1w/yENmqdyk4keTz4ZD0b7jZA",
+  "Name": "FPP Pajak",
+  "Type": "Screen",
+  "Created": "2022-04-19T09:20:16.4649924Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-04-19T09:20:20.340172Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

@@ -1,0 +1,16 @@
+﻿{
+  "Id": "66eQKtVTD0Ob_PDWYqDfpA",
+  "Reference": "XmXxxtzE4ke1YN84qKCJ1w/66eQKtVTD0Ob_PDWYqDfpA",
+  "ParentRef": "XmXxxtzE4ke1YN84qKCJ1w/sFOfk7oLlUO7EbESv_VvEQ",
+  "Name": "2.2 Dokumen",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2022-05-30T06:40:09.3018799Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-05-30T06:40:43.8091927Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

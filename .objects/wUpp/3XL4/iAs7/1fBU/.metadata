@@ -1,0 +1,14 @@
+﻿{
+  "Id": "1fBUuYqVZ0yMDDUJ5ZGHvg",
+  "Reference": "XmXxxtzE4ke1YN84qKCJ1w/1fBUuYqVZ0yMDDUJ5ZGHvg",
+  "ParentRef": "XmXxxtzE4ke1YN84qKCJ1w/iAs7tVPRuUK8MxdRceJ_tg",
+  "Name": "Extract Table Data - Exchange Rate",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2022-08-16T04:04:53.7357713Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=21.4.4.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-08-16T04:04:53.7357713Z"
+}

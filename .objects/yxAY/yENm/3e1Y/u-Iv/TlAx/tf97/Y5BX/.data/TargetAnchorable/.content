@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetAnchorable BrowserURL="https://10.243.229.232/MASA/FPP_SetoranMateraiDetail.aspx?FPP_SetoranMateraiId=1730df54-a796-4b99-9e31-84f0856386be" ContentHash="Bp3lnkll80m6aw1KA3EBcw" DesignTimeRectangle="890, 758, 65, 36" ElementType="Button" FriendlyName="'Simpan'" FullSelectorArgument="&lt;webctrl aaname='Simpan' id='wt10_OutSystemsUIWeb_wt18_block_wtContent_wtMainContent_MASA_Fin*' tag='INPUT' type='submit' /&gt;" FuzzySelectorArgument="&lt;webctrl aaname='Simpan' id='wt10_OutSystemsUIWeb_wt18_block_wtContent_wtMainContent_MASA_Fin*' tag='INPUT' type='submit' check:text='Simpan' /&gt;" ScopeSelectorArgument="&lt;html app='chrome.exe' title='FPP Setoran Materai Detail | MASA' /&gt;" SearchSteps="FuzzySelector, Image" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=mscorlib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <TargetAnchorable.Anchors>
+    <scg:List x:TypeArguments="ITarget" Capacity="4">
+      <Target DesignTimeRectangle="807, 760, 65, 32" ElementType="Button" FriendlyName="'Kembali'" FullSelectorArgument="&lt;webctrl aaname='Kembali' id='wt10_OutSystemsUIWeb_wt18_block_wtContent_wtMainContent_MASA_Fin*' tag='INPUT' type='submit' /&gt;" FuzzySelectorArgument="&lt;webctrl aaname='Kembali' id='wt10_OutSystemsUIWeb_wt18_block_wtContent_wtMainContent_MASA_Fin*' tag='INPUT' type='submit' check:text='Kembali' /&gt;" SearchSteps="FuzzySelector, Image">
+        <imageRef attrName="ImageBase64" xmlns="">1a7GxZCZwsU-xI3N2muB7Xg</imageRef>
+      </Target>
+    </scg:List>
+  </TargetAnchorable.Anchors>
+  <imageRef attrName="ImageBase64" xmlns="">0VS5gTSzFQ02io8ph440pYg</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="310413436d52198e441085b666c7281f.png" xmlns="">0bb0cw6GkOESmCimFPA1VRg</imageRef>
+</TargetAnchorable>

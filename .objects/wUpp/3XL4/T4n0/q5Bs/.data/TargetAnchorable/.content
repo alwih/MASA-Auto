@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetAnchorable ContentHash="22rS65Pd8EK3gS0FX0U7Kg" DesignTimeRectangle="1227, 334, 151, 41" ElementType="Text" FriendlyName="'Jabatan Baru'" FullSelectorArgument="&lt;ctrl name='Jabatan | MASA' role='document' /&gt;&lt;ctrl name=' Jabatan Baru' role='link' /&gt;" FuzzySelectorArgument="&lt;ctrl name='Jabatan | MASA' role='document' /&gt;&lt;ctrl name=' Jabatan Baru' role='link' automationid='' check:text='Jabatan Baru' /&gt;" ScopeSelectorArgument="&lt;wnd app='chrome.exe' cls='Chrome_WidgetWin_1' title='Jabatan | MASA - Google Chrome' /&gt;" SearchSteps="Selector, FuzzySelector, Image" SelectionStrategy="AA" xmlns="http://schemas.uipath.com/workflow/activities/uix">
+  <imageRef attrName="ImageBase64" xmlns="">0krRGNqNmv0qR3atnA62gqw</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="6e12f247ea21392b2283d2cd4d04fcf8.png" xmlns="">0pGetn_aI2E66qZJzl3UZ0w</imageRef>
+</TargetAnchorable>

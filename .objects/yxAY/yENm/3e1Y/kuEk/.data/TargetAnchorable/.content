@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetAnchorable BrowserURL="https://10.243.229.232/MASA/OrderDetail.aspx" ContentHash="k_G1qR9uMEOYwr7e1CsN1A" DesignTimeRectangle="81, 347, 423, 48" ElementType="Text" FriendlyName="'Main'" FullSelectorArgument="&lt;webctrl aria-role='tab' tag='DIV' /&gt;" FuzzySelectorArgument="&lt;webctrl aria-role='tab' tag='DIV' type='' aaname='Main' check:text='Main' /&gt;" ScopeSelectorArgument="&lt;html app='chrome.exe' title='FPP Setoran Materai Detail | MASA' /&gt;" SearchSteps="FuzzySelector, Image" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=mscorlib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <TargetAnchorable.Anchors>
+    <scg:List x:TypeArguments="ITarget" Capacity="4">
+      <Target DesignTimeRectangle="508, 347, 423, 48" ElementType="Text" FriendlyName="'Detail'" FullSelectorArgument="&lt;webctrl aaname='Detail' aria-role='tab' tag='DIV' /&gt;" FuzzySelectorArgument="&lt;webctrl aaname='Detail' aria-role='tab' tag='DIV' type='' check:text='Detail' /&gt;" SearchSteps="FuzzySelector, Image">
+        <imageRef attrName="ImageBase64" xmlns="">1HB3VG6emZUqb4kBVcfvCFQ</imageRef>
+      </Target>
+    </scg:List>
+  </TargetAnchorable.Anchors>
+  <imageRef attrName="ImageBase64" xmlns="">00mkYfgY9HEyAhQ2ZS77EFQ</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="a3a63de9323bc3c28a38e9b3e6af8b95.png" xmlns="">01uAQW_hVr02JvYKGp4NDiA</imageRef>
+</TargetAnchorable>

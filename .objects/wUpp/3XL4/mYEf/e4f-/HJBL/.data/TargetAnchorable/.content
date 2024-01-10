@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetAnchorable BrowserURL="https://10.243.229.26/MASA/Modul.aspx" ContentHash="9U2A7j0H20uznE8MXCW-4g" DesignTimeRectangle="69, 803, 642, 40" ElementType="InputBox" FriendlyName="'INPUT'" FullSelectorArgument="&lt;webctrl aaname='Kode File Close' tag='INPUT' type='text' /&gt;" FuzzySelectorArgument="&lt;webctrl aaname='Kode File Close' tag='INPUT' type='text' /&gt;" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Master Modul Detail | MASA' /&gt;" SearchSteps="Selector, FuzzySelector, Image" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=mscorlib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <TargetAnchorable.Anchors>
+    <scg:List x:TypeArguments="ITarget" Capacity="4">
+      <Target DesignTimeRectangle="69, 779, 197, 24" ElementType="Text" FriendlyName="'Kode File Close'" FullSelectorArgument="&lt;webctrl aaname='Kode File Close' parentid='wt25_OutSystemsUIWeb_wt18_block_wtContent_wtMainContent_MASA_Bac*' tag='LABEL' /&gt;" FuzzySelectorArgument="&lt;webctrl aaname='Kode File Close' parentid='wt25_OutSystemsUIWeb_wt18_block_wtContent_wtMainContent_MASA_Bac*' tag='LABEL' type='' check:text='Kode File Close' /&gt;" SearchSteps="FuzzySelector, Image">
+        <imageRef attrName="ImageBase64" xmlns="">9SXwzZtybuUy5wZmTKPJ_wg</imageRef>
+      </Target>
+    </scg:List>
+  </TargetAnchorable.Anchors>
+  <imageRef attrName="ImageBase64" xmlns="">08Ts-hMynsEaey3eBlZFioA</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="e8cc078ec5db218801c5d1c3c5b946dc.png" xmlns="">0YsAulN61QUmfE26iEUA8Qg</imageRef>
+</TargetAnchorable>

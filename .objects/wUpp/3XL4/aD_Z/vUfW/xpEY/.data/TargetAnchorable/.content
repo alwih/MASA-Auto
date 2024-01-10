@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetAnchorable ContentHash="pgFdw4vAlUSt9A4R5lO80A" DesignTimeRectangle="725, 595, 80, 41" ElementType="Button" FriendlyName="'Create'" FullSelectorArgument="&lt;ctrl name='GroupCategoryDetail' role='document' /&gt;&lt;ctrl name='Create' role='push button' /&gt;" FuzzySelectorArgument="&lt;ctrl name='GroupCategoryDetail' role='document' /&gt;&lt;ctrl name='Create' role='push button' automationid='' check:text='Create' /&gt;" ScopeSelectorArgument="&lt;wnd app='chrome.exe' cls='Chrome_WidgetWin_1' title='GroupCategoryDetail - Google Chrome' /&gt;" SearchSteps="Selector, FuzzySelector, Image" SelectionStrategy="AA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=mscorlib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <TargetAnchorable.Anchors>
+    <scg:List x:TypeArguments="ITarget" Capacity="4">
+      <Target DesignTimeRectangle="634, 595, 72, 41" ElementType="Button" FriendlyName="'Reset'" FullSelectorArgument="&lt;ctrl name='GroupCategoryDetail' role='document' /&gt;&lt;ctrl name='Reset' role='push button' /&gt;" FuzzySelectorArgument="&lt;ctrl name='GroupCategoryDetail' role='document' /&gt;&lt;ctrl name='Reset' role='push button' automationid='' check:text='Reset' /&gt;" SearchSteps="Selector, FuzzySelector, Image">
+        <imageRef attrName="ImageBase64" xmlns="">15oycO79yeU6r5bIPs6jEJQ</imageRef>
+      </Target>
+    </scg:List>
+  </TargetAnchorable.Anchors>
+  <imageRef attrName="ImageBase64" xmlns="">0XTLcLVg9rk2Ocx1ox_pT6A</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="f422822e389587f917ba61bafd101eac.png" xmlns="">0HCzjaSM77kevy1qN_lEtqA</imageRef>
+</TargetAnchorable>

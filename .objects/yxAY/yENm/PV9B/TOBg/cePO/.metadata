@@ -1,0 +1,16 @@
+﻿{
+  "Id": "cePOPGaNXUmnzIprklqGaA",
+  "Reference": "XmXxxtzE4ke1YN84qKCJ1w/cePOPGaNXUmnzIprklqGaA",
+  "ParentRef": "XmXxxtzE4ke1YN84qKCJ1w/TOBgxu99iUOUFcIUjxx3hA",
+  "Name": "2.2 Beban Group",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2022-05-30T07:01:02.8579638Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-05-30T07:01:21.6697521Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

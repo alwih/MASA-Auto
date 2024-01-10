@@ -1,0 +1,16 @@
+﻿{
+  "Id": "hLS92qDVykuN2zCubAMjhg",
+  "Reference": "XmXxxtzE4ke1YN84qKCJ1w/hLS92qDVykuN2zCubAMjhg",
+  "ParentRef": "XmXxxtzE4ke1YN84qKCJ1w/G_gLhC9YYEqM497Ms6izWg",
+  "Name": "d Urutan Ke",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2022-07-28T03:50:03.1185889Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-07-28T03:50:22.7998823Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

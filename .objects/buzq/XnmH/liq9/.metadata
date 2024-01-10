@@ -1,0 +1,15 @@
+﻿{
+  "Id": "liq9JpKifUCJeSnkEXx7FQ",
+  "Reference": "XmXxxtzE4ke1YN84qKCJ1w/liq9JpKifUCJeSnkEXx7FQ",
+  "ParentRef": "XmXxxtzE4ke1YN84qKCJ1w/XnmHB76l_0uCdxlZcVchiw",
+  "Name": "Tracking Nota",
+  "Type": "Screen",
+  "Created": "2022-04-28T05:28:48.0743921Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-04-28T05:28:52.8729113Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

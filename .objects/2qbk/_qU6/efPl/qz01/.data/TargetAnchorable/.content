@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetAnchorable ContentHash="BaEz2fwBsEan_y1GggcNVQ" DesignTimeRectangle="12, 812, 233, 56" FriendlyName="'FPPP_10-May-22.xlsx Buka'" FullSelectorArgument="&lt;ctrl name='Laporan - Google Chrome' role='pane' /&gt;&lt;ctrl name='Google Chrome' role='pane' /&gt;&lt;ctrl name='Kotak download' role='grouping' /&gt;&lt;ctrl name=' FPPP_10-May-22.xlsx' role='grouping' /&gt;" FuzzySelectorArgument="&lt;ctrl name='Laporan - Google Chrome' role='pane' /&gt;&lt;ctrl name='Google Chrome' role='pane' /&gt;&lt;ctrl name='Kotak download' role='grouping' /&gt;&lt;ctrl name=' FPPP_10-May-22.xlsx' role='grouping' automationid='' /&gt;" ScopeSelectorArgument="&lt;wnd app='chrome.exe' cls='Chrome_WidgetWin_1' title='Laporan - Google Chrome' /&gt;" SearchSteps="Selector, FuzzySelector" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=mscorlib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <TargetAnchorable.Anchors>
+    <scg:List x:TypeArguments="ITarget" Capacity="4">
+      <Target DesignTimeRectangle="8, 811, 1440, 57" FriendlyName="'FPPP_10-May-22.xlsx Buka'" FullSelectorArgument="&lt;ctrl name='Laporan - Google Chrome' role='pane' /&gt;&lt;ctrl name='Google Chrome' role='pane' /&gt;&lt;ctrl name='Kotak download' role='grouping' /&gt;" FuzzySelectorArgument="&lt;ctrl name='Laporan - Google Chrome' role='pane' /&gt;&lt;ctrl name='Google Chrome' role='pane' /&gt;&lt;ctrl name='Kotak download' role='grouping' automationid='' check:fulltext='FPPP_10-May-22.xlsx&amp;#xD;&amp;#xA;Buka sekarang&amp;#xD;&amp;#xA;Tetap Download&amp;#xD;&amp;#xA;Buang&amp;#xD;&amp;#xA;Kirim&amp;#xD;&amp;#xA;Tinjau&amp;#xD;&amp;#xA;Menu opsi&amp;#xD;&amp;#xA;Tampilkan' /&gt;" SearchSteps="Selector, FuzzySelector, Image">
+        <imageRef attrName="ImageBase64" xmlns="">0FxuI639O9EeDV_j1_Zqjkg</imageRef>
+      </Target>
+    </scg:List>
+  </TargetAnchorable.Anchors>
+  <imageRef attrName="InformativeScreenshot" originalValue="c629ea9329970252093c5e6adb2c536a.png" xmlns="">0rQYTIRATHE2wv1ciAX3zmg</imageRef>
+</TargetAnchorable>

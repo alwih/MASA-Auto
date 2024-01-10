@@ -1,0 +1,15 @@
+﻿{
+  "Id": "nYwEr1ZnpEKdoGt81DNRjA",
+  "Reference": "XmXxxtzE4ke1YN84qKCJ1w/nYwEr1ZnpEKdoGt81DNRjA",
+  "ParentRef": "XmXxxtzE4ke1YN84qKCJ1w/yENmqdyk4keTz4ZD0b7jZA",
+  "Name": "Registrasi - Order",
+  "Type": "Screen",
+  "Created": "2022-04-19T08:09:39.1656074Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-08-18T03:57:53.9057382Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

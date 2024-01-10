@@ -1,0 +1,16 @@
+﻿{
+  "Id": "doC-iBIzhECYEo9q0Wvr8g",
+  "Reference": "XmXxxtzE4ke1YN84qKCJ1w/doC-iBIzhECYEo9q0Wvr8g",
+  "ParentRef": "XmXxxtzE4ke1YN84qKCJ1w/JMVeg6fiZEaOkK454tYu7Q",
+  "Name": "b Tgl Mulai",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2022-08-20T12:58:40.3059051Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-08-20T12:59:45.4027311Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

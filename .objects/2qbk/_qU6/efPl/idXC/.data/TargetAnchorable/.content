@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetAnchorable BrowserURL="https://10.243.229.232/MASA/Laporan.aspx?(Not.Licensed.For.Production)=" ContentHash="95AGgsvQkk2bbpn_-dcmkQ" DesignTimeRectangle="722, 347, 637, 48" ElementType="Text" FriendlyName="'Modul Export'" FullSelectorArgument="&lt;webctrl aaname='Modul Export' aria-role='tab' tag='DIV' /&gt;" FuzzySelectorArgument="&lt;webctrl aaname='Modul Export' aria-role='tab' tag='DIV' type='' check:text='Modul Export' /&gt;" Reference="XmXxxtzE4ke1YN84qKCJ1w/idXC3qdIKkyjDa3h-lPvFQ" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Laporan' /&gt;" SearchSteps="Selector, FuzzySelector, Image" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=mscorlib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <TargetAnchorable.Anchors>
+    <scg:List x:TypeArguments="ITarget" Capacity="4">
+      <Target DesignTimeRectangle="81, 347, 637, 48" ElementType="Text" FriendlyName="'Summary Report'" FullSelectorArgument="&lt;webctrl aria-role='tab' tag='DIV' /&gt;" FuzzySelectorArgument="&lt;webctrl aria-role='tab' tag='DIV' type='' aaname='Summary Report' check:text='Summary Report' /&gt;" SearchSteps="FuzzySelector, Image">
+        <imageRef attrName="ImageBase64" xmlns="">1VY5Is-7XakOaSsc8f5n1Pw</imageRef>
+      </Target>
+    </scg:List>
+  </TargetAnchorable.Anchors>
+  <imageRef attrName="ImageBase64" xmlns="">0IcgAektxjky8SkXGMPJMtA</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="538cbbf75b791850ccf67844dbe564c1.png" xmlns="">0HKT9aj9jTU2yYDrDyTvVDA</imageRef>
+</TargetAnchorable>

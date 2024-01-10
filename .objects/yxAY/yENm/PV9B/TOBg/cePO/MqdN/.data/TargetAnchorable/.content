@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetAnchorable BrowserURL="https://10.243.229.232/MASA/FinancialTransaction.ReimbursementNonPerdin.aspx" ContentHash="70cUvriFBkiyIq4yZ1ssog" DesignTimeRectangle="931, 489, 151, 40" ElementType="Button" FriendlyName="'Upload Transaksi'" FullSelectorArgument="&lt;webctrl aaname='Upload Transaksi' id='wt4_OutSystemsUIWeb_wt18_block_wtContent_wtMainContent_MASA_Fina*' tag='INPUT' type='submit' /&gt;" FuzzySelectorArgument="&lt;webctrl aaname='Upload Transaksi' id='wt4_OutSystemsUIWeb_wt18_block_wtContent_wtMainContent_MASA_Fina*' tag='INPUT' type='submit' check:text='Upload Transaksi' /&gt;" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Reimbursement Non Perdin Detail | MASA' /&gt;" SearchSteps="FuzzySelector, Image" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=mscorlib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <TargetAnchorable.Anchors>
+    <scg:List x:TypeArguments="ITarget" Capacity="4">
+      <Target DesignTimeRectangle="1102, 489, 125, 40" ElementType="Button" FriendlyName="'Tambah Baru'" FullSelectorArgument="&lt;webctrl aaname='Tambah Baru' id='wt4_OutSystemsUIWeb_wt18_block_wtContent_wtMainContent_MASA_Fina*' tag='INPUT' type='submit' /&gt;" FuzzySelectorArgument="&lt;webctrl aaname='Tambah Baru' id='wt4_OutSystemsUIWeb_wt18_block_wtContent_wtMainContent_MASA_Fina*' tag='INPUT' type='submit' check:text='Tambah Baru' /&gt;" SearchSteps="FuzzySelector, Image">
+        <imageRef attrName="ImageBase64" xmlns="">7bn9xYBYNmEuD-Re-dtgunw</imageRef>
+      </Target>
+    </scg:List>
+  </TargetAnchorable.Anchors>
+  <imageRef attrName="ImageBase64" xmlns="">06RlDZM4qOEyV4DiqeIU35A</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="100598be968a34f727ba6e287d03f907.png" xmlns="">0iVe0DDXMfEe9lV_L6LdP2g</imageRef>
+</TargetAnchorable>

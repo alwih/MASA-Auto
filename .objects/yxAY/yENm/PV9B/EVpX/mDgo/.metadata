@@ -1,0 +1,16 @@
+﻿{
+  "Id": "mDgo4thHuUyBgH4QSBgAqg",
+  "Reference": "XmXxxtzE4ke1YN84qKCJ1w/mDgo4thHuUyBgH4QSBgAqg",
+  "ParentRef": "XmXxxtzE4ke1YN84qKCJ1w/EVpX8ZAaLEGFWhGTz_mdxg",
+  "Name": "b No Bukti Setor",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2022-05-30T06:56:20.2706554Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-05-30T06:56:51.6149799Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

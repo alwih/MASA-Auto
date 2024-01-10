@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetAnchorable BrowserURL="https://10.243.229.232/MASA/OrderDetail.aspx" ContentHash="wzPmFfu5vEaF1r2ZxujljA" DesignTimeRectangle="736, 540, 639, 40" ElementType="InputBox" FriendlyName="'0,00'" FullSelectorArgument="&lt;webctrl aaname='Nominal' id='wt20_OutSystemsUIWeb_wt18_block_wtContent_wtMainContent_MASA_Fin*' tag='INPUT' type='text' /&gt;" FuzzySelectorArgument="&lt;webctrl aaname='Nominal' id='wt20_OutSystemsUIWeb_wt18_block_wtContent_wtMainContent_MASA_Fin*' tag='INPUT' type='text' /&gt;" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Kasbon Detail | MASA' /&gt;" SearchSteps="Selector, FuzzySelector, Image" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=mscorlib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <TargetAnchorable.Anchors>
+    <scg:List x:TypeArguments="ITarget" Capacity="4">
+      <Target DesignTimeRectangle="736, 516, 421, 24" ElementType="Text" FriendlyName="'Nominal'" FullSelectorArgument="&lt;webctrl aaname='Nominal' parentid='wt20_OutSystemsUIWeb_wt18_block_wtContent_wtMainContent_MASA_Fin*' tag='LABEL' /&gt;" FuzzySelectorArgument="&lt;webctrl aaname='Nominal' parentid='wt20_OutSystemsUIWeb_wt18_block_wtContent_wtMainContent_MASA_Fin*' tag='LABEL' type='' check:text='Nominal' /&gt;" SearchSteps="FuzzySelector, Image">
+        <imageRef attrName="ImageBase64" xmlns="">1IRNG_w7rfk6dKhvy0A0CNQ</imageRef>
+      </Target>
+    </scg:List>
+  </TargetAnchorable.Anchors>
+  <imageRef attrName="ImageBase64" xmlns="">0O54y1JnpwEKhLrQg_649AQ</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="59c4d2aa9ae0f94eed31ab32f107987c.png" xmlns="">0uJWfgzqWF0GcCwUrPa9jHA</imageRef>
+</TargetAnchorable>

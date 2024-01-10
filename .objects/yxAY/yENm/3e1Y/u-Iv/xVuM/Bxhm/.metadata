@@ -1,0 +1,16 @@
+﻿{
+  "Id": "BxhmPofYB0OhOpbbl7ORYw",
+  "Reference": "XmXxxtzE4ke1YN84qKCJ1w/BxhmPofYB0OhOpbbl7ORYw",
+  "ParentRef": "XmXxxtzE4ke1YN84qKCJ1w/xVuMNPEfXkWtudmsK7KbOg",
+  "Name": "8 Sisa Anggaran",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2022-04-19T08:54:11.241686Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-04-19T09:02:15.5474085Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

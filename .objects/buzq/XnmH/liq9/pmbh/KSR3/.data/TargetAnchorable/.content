@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetAnchorable BrowserURL="https://10.243.229.232/MASA/TableScreen.aspx" ContentHash="qt4UZOPrw0ykyY6xCnD9KA" DesignTimeRectangle="969, 195, 422, 38" ElementType="Text" FriendlyName="'Draft completed'" FullSelectorArgument="&lt;webctrl aaname='Date Status' id='wt1_OutSystemsUIWeb_wt18_block_wtContent_wtMainContent_MASA_Trac*' tag='TABLE' /&gt;&lt;webctrl isleaf='1' tag='TD' innertext='Draft completed' /&gt;" FuzzySelectorArgument="&lt;webctrl aaname='Date Status' id='wt1_OutSystemsUIWeb_wt18_block_wtContent_wtMainContent_MASA_Trac*' tag='TABLE' /&gt;&lt;webctrl isleaf='1' type='' tag='TD' aaname='*' /&gt;" Reference="XmXxxtzE4ke1YN84qKCJ1w/KSR3WA66PEiOu_t1X0MDLQ" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Informasi dan Riwayat | MASA' /&gt;" SearchSteps="Selector, Image" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=mscorlib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <TargetAnchorable.Anchors>
+    <scg:List x:TypeArguments="ITarget" Capacity="4">
+      <Target DesignTimeRectangle="744, 204, 218, 20" ElementType="Text" FriendlyName="'2022-04-28 10:30:57'" FullSelectorArgument="&lt;webctrl aaname='2022-04-28 10:30:57' parentid='wt1_OutSystemsUIWeb_wt18_block_wtContent_wtMainContent_MASA_Trac*' tag='DIV' /&gt;" FuzzySelectorArgument="&lt;webctrl aaname='*' parentid='wt1_OutSystemsUIWeb_wt18_block_wtContent_wtMainContent_MASA_Trac*' tag='DIV' type='' /&gt;" SearchSteps="FuzzySelector, Image">
+        <imageRef attrName="ImageBase64" xmlns="">1HueYqHlDCE6QSdRpCU1bdQ</imageRef>
+      </Target>
+    </scg:List>
+  </TargetAnchorable.Anchors>
+  <imageRef attrName="ImageBase64" xmlns="">0W1hVqSM6VEOXgrYf3Ducgg</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="337d0d09de46229e52a7e106be30ac2e.png" xmlns="">0eawp3bFaVEaYV1Td73fr3g</imageRef>
+</TargetAnchorable>

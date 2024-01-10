@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetAnchorable ContentHash="mtS0ICHxB0SL5xKlNIUPng" DesignTimeRectangle="735, 601, 639, 41" FriendlyName="'- Pilih Buku Besar -'" FullSelectorArgument="&lt;ctrl name='Uang Muka Non Perdin Detail | MASA' role='document' /&gt;&lt;ctrl name='Main' role='property page' /&gt;&lt;ctrl idx='19' role='grouping' /&gt;" FuzzySelectorArgument="&lt;ctrl name='Uang Muka Non Perdin Detail | MASA' role='document' /&gt;&lt;ctrl name='Main' role='property page' /&gt;&lt;ctrl automationid='' role='grouping' check:fulltext='- Pilih Buku Besar -' /&gt;" Reference="XmXxxtzE4ke1YN84qKCJ1w/7Bbg2d65KU-NDjNbLHrHtw" ScopeSelectorArgument="&lt;wnd app='chrome.exe' cls='Chrome_WidgetWin_1' title='Uang Muka Non Perdin Detail | MASA - Google Chrome' /&gt;" SearchSteps="FuzzySelector, Image" SelectionStrategy="AA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=mscorlib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <TargetAnchorable.Anchors>
+    <scg:List x:TypeArguments="ITarget" Capacity="4">
+      <Target DesignTimeRectangle="735, 577, 314, 25" ElementType="InputBox" FriendlyName="'Buku Besar'" FullSelectorArgument="&lt;ctrl name='Uang Muka Non Perdin Detail | MASA' role='document' /&gt;&lt;ctrl name='Main' role='property page' /&gt;&lt;ctrl idx='15' role='editable text' /&gt;" FuzzySelectorArgument="&lt;ctrl name='Uang Muka Non Perdin Detail | MASA' role='document' /&gt;&lt;ctrl name='Main' role='property page' /&gt;&lt;ctrl automationid='' role='editable text' /&gt;" SearchSteps="Selector, FuzzySelector, Image">
+        <imageRef attrName="ImageBase64" xmlns="">1oIMKGPzzu0aRUqNUvkE0Eg</imageRef>
+      </Target>
+    </scg:List>
+  </TargetAnchorable.Anchors>
+  <imageRef attrName="ImageBase64" xmlns="">0H6XCiE4ce0C7o1BQR5hMFw</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="03da19cbf7b8ade91b203e1e3c85f38b.png" xmlns="">05rcgfB2DwE-X4wFO4bK2Xw</imageRef>
+</TargetAnchorable>

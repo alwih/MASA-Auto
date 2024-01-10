@@ -1,0 +1,14 @@
+﻿{
+  "Id": "idXC3qdIKkyjDa3h-lPvFQ",
+  "Reference": "XmXxxtzE4ke1YN84qKCJ1w/idXC3qdIKkyjDa3h-lPvFQ",
+  "ParentRef": "XmXxxtzE4ke1YN84qKCJ1w/efPlp2vOKkS0bwxd3TGZhQ",
+  "Name": "1 Modul Export",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2022-05-10T06:54:40.101141Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=21.4.4.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-05-10T06:54:40.101141Z"
+}

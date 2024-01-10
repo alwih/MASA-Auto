@@ -1,0 +1,16 @@
+﻿{
+  "Id": "ligYP6i0hke2fEg_hUSY0Q",
+  "Reference": "XmXxxtzE4ke1YN84qKCJ1w/ligYP6i0hke2fEg_hUSY0Q",
+  "ParentRef": "XmXxxtzE4ke1YN84qKCJ1w/OcBTkb3AjU-64olePqaG7g",
+  "Name": "3 GL Account",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2022-04-20T06:59:21.0182503Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-04-20T07:00:00.4788293Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetAnchorable BrowserURL="https://10.243.229.232/MASA/ReportTransaksiGagalTransfer.aspx?(Not.Licensed.For.Production)=" ContentHash="C3P1cZ3R9EOWmcEwaJ4ISw" DesignTimeRectangle="934, 441, 116, 40" ElementType="Button" FriendlyName="'Export Excel'" FullSelectorArgument="&lt;webctrl aaname='Export Excel' id='wt19_OutSystemsUIWeb_wt18_block_wtContent_wtMainContent_MASA_Rep*' tag='INPUT' type='submit' /&gt;" FuzzySelectorArgument="&lt;webctrl aaname='Export Excel' id='wt19_OutSystemsUIWeb_wt18_block_wtContent_wtMainContent_MASA_Rep*' tag='INPUT' type='submit' check:text='Export Excel' /&gt;" ScopeSelectorArgument="&lt;html app='chrome.exe' title='ReportTransaksiGagalTransfer' /&gt;" SearchSteps="FuzzySelector, Image" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=mscorlib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <TargetAnchorable.Anchors>
+    <scg:List x:TypeArguments="ITarget" Capacity="4">
+      <Target DesignTimeRectangle="834, 441, 80, 40" ElementType="Button" FriendlyName="'Search'" FullSelectorArgument="&lt;webctrl aaname='Search' id='wt19_OutSystemsUIWeb_wt18_block_wtContent_wtMainContent_MASA_Rep*' tag='INPUT' type='submit' /&gt;" FuzzySelectorArgument="&lt;webctrl aaname='Search' id='wt19_OutSystemsUIWeb_wt18_block_wtContent_wtMainContent_MASA_Rep*' tag='INPUT' type='submit' check:text='Search' /&gt;" SearchSteps="FuzzySelector, Image">
+        <imageRef attrName="ImageBase64" xmlns="">1N0CttbGpjUOpzZBptJup5Q</imageRef>
+      </Target>
+    </scg:List>
+  </TargetAnchorable.Anchors>
+  <imageRef attrName="ImageBase64" xmlns="">0ybQIjfwlhkmhsbN43FyO2A</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="0cd0115dc9fae1a2229ada0967bca106.png" xmlns="">0K6CQY6eslEGLYRjeu3_evw</imageRef>
+</TargetAnchorable>

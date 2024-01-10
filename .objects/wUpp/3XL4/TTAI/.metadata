@@ -1,0 +1,15 @@
+﻿{
+  "Id": "TTAI37W6G0KXIBf9tAg3DA",
+  "Reference": "XmXxxtzE4ke1YN84qKCJ1w/TTAI37W6G0KXIBf9tAg3DA",
+  "ParentRef": "XmXxxtzE4ke1YN84qKCJ1w/3XL4ZboadUieKFsQ0wfrZQ",
+  "Name": "User Employee",
+  "Type": "Screen",
+  "Created": "2022-08-02T08:54:08.879719Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-08-02T08:54:28.9255154Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

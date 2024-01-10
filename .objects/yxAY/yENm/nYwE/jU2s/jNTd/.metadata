@@ -1,0 +1,16 @@
+﻿{
+  "Id": "jNTdOhM5TUa_nhdwsKqAwA",
+  "Reference": "XmXxxtzE4ke1YN84qKCJ1w/jNTdOhM5TUa_nhdwsKqAwA",
+  "ParentRef": "XmXxxtzE4ke1YN84qKCJ1w/jU2sn4NRp0-V-LkSNwrWkg",
+  "Name": "4 Tgl Nota",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2022-04-19T08:12:11.7381315Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-04-19T08:12:26.8523577Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

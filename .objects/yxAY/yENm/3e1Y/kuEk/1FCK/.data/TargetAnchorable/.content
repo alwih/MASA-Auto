@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetAnchorable BrowserURL="https://10.243.229.232/MASA/OrderDetail.aspx" ContentHash="lGTyDEn4T0C3qsaS4UCsvw" DesignTimeRectangle="81, 672, 623, 40" ElementType="InputBox" FriendlyName="'INPUT'" FullSelectorArgument="&lt;webctrl aaname='Tanggal Terima Berkas' tag='INPUT' type='text' /&gt;" FuzzySelectorArgument="&lt;webctrl aaname='Tanggal Terima Berkas' tag='INPUT' type='text' /&gt;" ScopeSelectorArgument="&lt;html app='chrome.exe' title='FPP Setoran Materai Detail | MASA' /&gt;" SearchSteps="FuzzySelector, Image" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=mscorlib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <TargetAnchorable.Anchors>
+    <scg:List x:TypeArguments="ITarget" Capacity="4">
+      <Target DesignTimeRectangle="81, 648, 305, 24" ElementType="Text" FriendlyName="'Tanggal Terima Berkas'" FullSelectorArgument="&lt;webctrl aaname='Tanggal Terima Berkas' parentid='wt10_OutSystemsUIWeb_wt18_block_wtContent_wtMainContent_MASA_Fin*' tag='LABEL' /&gt;" FuzzySelectorArgument="&lt;webctrl aaname='Tanggal Terima Berkas' parentid='wt10_OutSystemsUIWeb_wt18_block_wtContent_wtMainContent_MASA_Fin*' tag='LABEL' type='' check:text='Tanggal Terima Berkas' /&gt;" SearchSteps="FuzzySelector, Image">
+        <imageRef attrName="ImageBase64" xmlns="">1P6rIVuAJCE628VcrMmlQrQ</imageRef>
+      </Target>
+    </scg:List>
+  </TargetAnchorable.Anchors>
+  <imageRef attrName="ImageBase64" xmlns="">0vMRo8paXpEuXxCK6-Y6VEQ</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="6e3c8619633b624ebfccf0b62d55eac5.png" xmlns="">0gluNp0lzoUq7Fe1jPaLXgQ</imageRef>
+</TargetAnchorable>

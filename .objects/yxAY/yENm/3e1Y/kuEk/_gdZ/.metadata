@@ -1,0 +1,16 @@
+﻿{
+  "Id": "_gdZm0RXik2ck_6Mk33Spw",
+  "Reference": "XmXxxtzE4ke1YN84qKCJ1w/_gdZm0RXik2ck_6Mk33Spw",
+  "ParentRef": "XmXxxtzE4ke1YN84qKCJ1w/kuEks7dypEeX5gOwRQZyUA",
+  "Name": "p Project Code",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2022-04-19T08:26:08.7476368Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-04-19T08:26:22.3705217Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

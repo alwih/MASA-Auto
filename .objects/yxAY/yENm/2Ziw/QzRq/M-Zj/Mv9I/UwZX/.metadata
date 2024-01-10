@@ -1,0 +1,16 @@
+﻿{
+  "Id": "UwZXSle95UeB0KoF9YUikQ",
+  "Reference": "XmXxxtzE4ke1YN84qKCJ1w/UwZXSle95UeB0KoF9YUikQ",
+  "ParentRef": "XmXxxtzE4ke1YN84qKCJ1w/Mv9Iid_SVUy9d_dDW9yWOA",
+  "Name": "4 Kode Group",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2022-04-20T07:04:46.9163632Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-04-20T07:05:36.3403361Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

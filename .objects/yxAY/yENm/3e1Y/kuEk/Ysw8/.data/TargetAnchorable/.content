@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetAnchorable BrowserURL="https://10.243.229.232/MASA/OrderDetail.aspx" ContentHash="LC80AaesTEKL7OzipSCrHA" DesignTimeRectangle="65, 636, 639, 40" ElementType="InputBox" FriendlyName="'INPUT'" FullSelectorArgument="&lt;webctrl aaname='Keterangan' id='wt10_OutSystemsUIWeb_wt18_block_wtContent_wtMainContent_MASA_Fin*' tag='INPUT' type='text' /&gt;" FuzzySelectorArgument="&lt;webctrl aaname='Keterangan' id='wt10_OutSystemsUIWeb_wt18_block_wtContent_wtMainContent_MASA_Fin*' tag='INPUT' type='text' /&gt;" Reference="XmXxxtzE4ke1YN84qKCJ1w/Ysw89eJ4M0uIKX7OGKSP3A" ScopeSelectorArgument="&lt;html app='chrome.exe' title='FPP Setoran Materai Detail | MASA' /&gt;" SearchSteps="FuzzySelector, Image" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=mscorlib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <TargetAnchorable.Anchors>
+    <scg:List x:TypeArguments="ITarget" Capacity="4">
+      <Target DesignTimeRectangle="65, 612, 313, 24" ElementType="Text" FriendlyName="'Keterangan'" FullSelectorArgument="&lt;webctrl aaname='Keterangan' parentid='wt10_OutSystemsUIWeb_wt18_block_wtContent_wtMainContent_MASA_Fin*' tag='LABEL' /&gt;" FuzzySelectorArgument="&lt;webctrl aaname='Keterangan' parentid='wt10_OutSystemsUIWeb_wt18_block_wtContent_wtMainContent_MASA_Fin*' tag='LABEL' type='' check:text='Keterangan' /&gt;" SearchSteps="FuzzySelector, Image">
+        <imageRef attrName="ImageBase64" xmlns="">86O18FAwrPE-1shFf16bJKQ</imageRef>
+      </Target>
+      <Target DesignTimeRectangle="65, 509, 313, 24" ElementType="Text" FriendlyName="'Untuk Pembayaran'" FullSelectorArgument="&lt;webctrl aaname='Untuk Pembayaran' parentid='wt10_OutSystemsUIWeb_wt18_block_wtContent_wtMainContent_MASA_Fin*' tag='LABEL' /&gt;" FuzzySelectorArgument="&lt;webctrl aaname='Untuk Pembayaran' parentid='wt10_OutSystemsUIWeb_wt18_block_wtContent_wtMainContent_MASA_Fin*' tag='LABEL' type='' check:text='Untuk Pembayaran' /&gt;" SearchSteps="FuzzySelector, Image">
+        <imageRef attrName="ImageBase64" xmlns="">874AkaNpiAr0uGosBq8xmkkA</imageRef>
+      </Target>
+    </scg:List>
+  </TargetAnchorable.Anchors>
+  <imageRef attrName="ImageBase64" xmlns="">07Hyiqg_2gk-dYDXXf87jmw</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="7d83829f4f8c39f953059ad62530fe11.png" xmlns="">044bGgtuATUiFmGvW08pEZA</imageRef>
+</TargetAnchorable>

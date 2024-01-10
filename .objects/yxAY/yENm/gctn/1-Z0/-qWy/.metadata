@@ -1,0 +1,16 @@
+﻿{
+  "Id": "-qWyNwallEGMrTQ1DrVl2w",
+  "Reference": "XmXxxtzE4ke1YN84qKCJ1w/-qWyNwallEGMrTQ1DrVl2w",
+  "ParentRef": "XmXxxtzE4ke1YN84qKCJ1w/1-Z04LGNdU-jI70faj8cmw",
+  "Name": "a Perihal Main Kasbon",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2022-05-30T02:02:12.9675577Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-05-30T02:02:34.5915046Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

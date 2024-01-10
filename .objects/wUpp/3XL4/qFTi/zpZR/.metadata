@@ -1,0 +1,16 @@
+﻿{
+  "Id": "zpZRVNK_o02xmJVzsiUYkQ",
+  "Reference": "XmXxxtzE4ke1YN84qKCJ1w/zpZRVNK_o02xmJVzsiUYkQ",
+  "ParentRef": "XmXxxtzE4ke1YN84qKCJ1w/qFTiCjclUEql8JHh7Y2R-Q",
+  "Name": "Btn: Tambah PIC",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2022-07-28T08:54:19.804536Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-07-28T08:54:56.8682286Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetAnchorable ContentHash="rL2GxsZzf0C5skkuwelyuA" DesignTimeRectangle="287, 409, 420, 41" ElementType="DropDown" FriendlyName="'Form Permintaan'" FullSelectorArgument="&lt;ctrl name='Laporan' role='document' /&gt;&lt;ctrl name='Modul Export' role='property page' /&gt;&lt;ctrl role='combo box' aastate='collapsed, focusable, has popup, opaque' /&gt;" FuzzySelectorArgument="&lt;ctrl name='Laporan' role='document' /&gt;&lt;ctrl name='Modul Export' role='property page' /&gt;&lt;ctrl role='combo box' aastate='collapsed, focusable, has popup, opaque' automationid='' /&gt;" ScopeSelectorArgument="&lt;wnd app='chrome.exe' cls='Chrome_WidgetWin_1' title='Laporan - Google Chrome' /&gt;" SearchSteps="Selector, FuzzySelector" SelectionStrategy="AA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=mscorlib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <TargetAnchorable.Anchors>
+    <scg:List x:TypeArguments="ITarget" Capacity="4">
+      <Target DesignTimeRectangle="65, 418, 197, 22" ElementType="InputBox" FriendlyName="'Modul'" FullSelectorArgument="&lt;ctrl name='Laporan' role='document' /&gt;&lt;ctrl name='Modul Export' role='property page' /&gt;&lt;ctrl role='editable text' /&gt;" FuzzySelectorArgument="&lt;ctrl name='Laporan' role='document' /&gt;&lt;ctrl name='Modul Export' role='property page' /&gt;&lt;ctrl role='editable text' automationid='' /&gt;" SearchSteps="Selector, FuzzySelector, Image">
+        <imageRef attrName="ImageBase64" xmlns="">0w-Em_kCjf0SLv4WdOu41AQ</imageRef>
+      </Target>
+    </scg:List>
+  </TargetAnchorable.Anchors>
+  <imageRef attrName="InformativeScreenshot" originalValue="a97a509d2878fe326958f0fb90e6104d.png" xmlns="">0ualGaLPiYkK0pFoS1dbUFQ</imageRef>
+</TargetAnchorable>

@@ -1,0 +1,14 @@
+﻿{
+  "Id": "cjnapi3QYEyQaeDM3c0n0Q",
+  "Reference": "XmXxxtzE4ke1YN84qKCJ1w/cjnapi3QYEyQaeDM3c0n0Q",
+  "ParentRef": "XmXxxtzE4ke1YN84qKCJ1w/aL6jtCV9lUKEC_7Ti9rTzA",
+  "Name": "Extract Table Data - Vendor",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2022-08-04T11:51:25.0409853Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=21.4.4.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-08-04T11:51:25.0409853Z"
+}

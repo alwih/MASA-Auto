@@ -1,0 +1,16 @@
+﻿{
+  "Id": "-Q02-_E4gkG2MGC1bmfWOQ",
+  "Reference": "XmXxxtzE4ke1YN84qKCJ1w/-Q02-_E4gkG2MGC1bmfWOQ",
+  "ParentRef": "XmXxxtzE4ke1YN84qKCJ1w/er6IIhtuK02F8Me5E6WQuw",
+  "Name": "i Kas Transfer",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2022-08-22T03:43:09.0603188Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-08-22T03:43:35.6216245Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

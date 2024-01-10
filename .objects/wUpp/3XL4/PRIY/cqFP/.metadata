@@ -1,0 +1,13 @@
+﻿{
+  "Id": "cqFP7wiI_Uer7i3X8IbFJg",
+  "Reference": "XmXxxtzE4ke1YN84qKCJ1w/cqFP7wiI_Uer7i3X8IbFJg",
+  "ParentRef": "XmXxxtzE4ke1YN84qKCJ1w/PRIYTdUfnUKQbJe1AiwuXQ",
+  "Name": "Btn Trx Nomor",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2022-07-20T04:10:05.7970405Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-07-20T04:10:05.7970405Z"
+}

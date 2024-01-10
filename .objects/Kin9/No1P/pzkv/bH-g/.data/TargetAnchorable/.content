@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetAnchorable ContentHash="EhjUKBJ3wkyH85iSa7CcMw" DesignTimeRectangle="800, 157, 64, 32" ElementType="Button" FriendlyName="'Oke'" FullSelectorArgument="&lt;ctrl name='10.243.229.26 menyatakan' role='dialog' /&gt;&lt;ctrl name='Oke' role='push button' /&gt;" FuzzySelectorArgument="&lt;ctrl name='10.243.229.26 menyatakan' role='dialog' /&gt;&lt;ctrl name='Oke' role='push button' automationid='' check:fulltext='Oke' /&gt;" ScopeSelectorArgument="&lt;wnd app='chrome.exe' cls='Chrome_WidgetWin_1' title='Approval Request | MASA - Google Chrome' /&gt;" SearchSteps="Selector, FuzzySelector, Image" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=mscorlib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <TargetAnchorable.Anchors>
+    <scg:List x:TypeArguments="ITarget" Capacity="4">
+      <Target DesignTimeRectangle="497, 70, 462, 144" FriendlyName="'10.243.229.26 menyatakan'" FullSelectorArgument="&lt;ctrl name='10.243.229.26 menyatakan' role='dialog' /&gt;&lt;ctrl idx='2' role='pane' /&gt;" FuzzySelectorArgument="&lt;ctrl name='10.243.229.26 menyatakan' role='dialog' /&gt;&lt;ctrl automationid='' role='pane' check:fulltext='10.243.229.26 menyatakan&amp;#xD;&amp;#xA;Apakah anda yakin ?&amp;#xD;&amp;#xA;Oke&amp;#xD;&amp;#xA;Batal' /&gt;" SearchSteps="Selector, FuzzySelector, Image">
+        <imageRef attrName="ImageBase64" xmlns="">1NR117pvvHESQFOBB2Xoocw</imageRef>
+      </Target>
+    </scg:List>
+  </TargetAnchorable.Anchors>
+  <imageRef attrName="ImageBase64" xmlns="">0lEowlysXNEWUcRMb8cqsrw</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="b73d9fe42201028662b6f4dcdeb93a21.png" xmlns="">0qVMME6gvZk62Zqo4CekUcg</imageRef>
+</TargetAnchorable>

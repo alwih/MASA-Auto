@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetAnchorable ContentHash="mPV0P9L9nUeRHDOE8RpxMQ" DesignTimeRectangle="327, 409, 260, 49" ElementType="TabPage" FriendlyName="'Jenis Pembayaran'" FullSelectorArgument="&lt;ctrl name='FPP Pajak / Non Pajak Detail | MASA' role='document' /&gt;&lt;ctrl name='Detail' role='property page' /&gt;&lt;ctrl name='Beban Grup Jenis Pembayaran Dokumen History Mutasi' role='page tab list' /&gt;&lt;ctrl name='Jenis Pembayaran' role='page tab' /&gt;" FuzzySelectorArgument="&lt;ctrl name='FPP Pajak / Non Pajak Detail | MASA' role='document' /&gt;&lt;ctrl name='Detail' role='property page' /&gt;&lt;ctrl name='Beban Grup Jenis Pembayaran Dokumen History Mutasi' role='page tab list' /&gt;&lt;ctrl name='Jenis Pembayaran' role='page tab' automationid='' check:text='Jenis Pembayaran' /&gt;" ScopeSelectorArgument="&lt;wnd app='chrome.exe' cls='Chrome_WidgetWin_1' title='FPP Pajak / Non Pajak Detail | MASA - Google Chrome' /&gt;" SearchSteps="Selector, FuzzySelector, Image" SelectionStrategy="AA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=mscorlib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <TargetAnchorable.Anchors>
+    <scg:List x:TypeArguments="ITarget" Capacity="4">
+      <Target DesignTimeRectangle="502, 330, 435, 49" ElementType="TabPage" FriendlyName="'Detail'" FullSelectorArgument="&lt;ctrl name='FPP Pajak / Non Pajak Detail | MASA' role='document' /&gt;&lt;ctrl name='Main Detail Accounting' role='page tab list' /&gt;&lt;ctrl name='Detail' role='page tab' /&gt;" FuzzySelectorArgument="&lt;ctrl name='FPP Pajak / Non Pajak Detail | MASA' role='document' /&gt;&lt;ctrl name='Main Detail Accounting' role='page tab list' /&gt;&lt;ctrl name='Detail' role='page tab' automationid='' check:text='Detail' /&gt;" SearchSteps="Selector, FuzzySelector, Image">
+        <imageRef attrName="ImageBase64" xmlns="">1MNg8t9oOMUap1eHqqpApXA</imageRef>
+      </Target>
+    </scg:List>
+  </TargetAnchorable.Anchors>
+  <imageRef attrName="ImageBase64" xmlns="">0IpdKQsSGHkCSt45CDrtFAQ</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="e08330b1971ce44ca469bc404c3fd0f7.png" xmlns="">0rW9ThMyeQkugpTD2pfdRog</imageRef>
+</TargetAnchorable>

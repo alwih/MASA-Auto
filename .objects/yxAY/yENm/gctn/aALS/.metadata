@@ -1,0 +1,16 @@
+﻿{
+  "Id": "aALSZaW8z0-4JzdTscIdmA",
+  "Reference": "XmXxxtzE4ke1YN84qKCJ1w/aALSZaW8z0-4JzdTscIdmA",
+  "ParentRef": "XmXxxtzE4ke1YN84qKCJ1w/gctnT_PQjkiimeLRomxEUw",
+  "Name": "Notif: Berhasil",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2022-07-04T07:52:23.3746988Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-07-04T07:53:25.5955003Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

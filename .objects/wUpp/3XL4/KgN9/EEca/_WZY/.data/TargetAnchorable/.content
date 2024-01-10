@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetAnchorable ContentHash="JDQnoLTIk0OV0NlqV1LgCQ" DesignTimeRectangle="69, 432, 642, 41" ElementType="InputBox" FriendlyName="'editable text'" FullSelectorArgument="&lt;ctrl name='Master Rekening Detail | MASA' role='document' /&gt;&lt;ctrl name='Nomor Rekening *' role='editable text' /&gt;" FuzzySelectorArgument="&lt;ctrl name='Master Rekening Detail | MASA' role='document' /&gt;&lt;ctrl name='Nomor Rekening *' role='editable text' automationid='' /&gt;" ScopeSelectorArgument="&lt;wnd app='chrome.exe' cls='Chrome_WidgetWin_1' title='Master Rekening Detail | MASA - Google Chrome' /&gt;" SearchSteps="Selector, FuzzySelector" SelectionStrategy="AA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=mscorlib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <TargetAnchorable.Anchors>
+    <scg:List x:TypeArguments="ITarget" Capacity="4">
+      <Target DesignTimeRectangle="69, 408, 197, 25" ElementType="InputBox" FriendlyName="'Nomor Rekening'" FullSelectorArgument="&lt;ctrl name='Master Rekening Detail | MASA' role='document' /&gt;&lt;ctrl idx='2' role='editable text' /&gt;" FuzzySelectorArgument="&lt;ctrl name='Master Rekening Detail | MASA' role='document' /&gt;&lt;ctrl automationid='' role='editable text' /&gt;" SearchSteps="Selector, FuzzySelector, Image">
+        <imageRef attrName="ImageBase64" xmlns="">1QAdB6fRefEy1YXJN_ATPjw</imageRef>
+      </Target>
+    </scg:List>
+  </TargetAnchorable.Anchors>
+  <imageRef attrName="ImageBase64" xmlns="">0SSC5Qe51mkeQu9BAAqI-Sg</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="4c89bb11eedb8aa71fb1068d406487f4.png" xmlns="">0H8Wbxn6TBEGHyJnnZxW7Yg</imageRef>
+</TargetAnchorable>

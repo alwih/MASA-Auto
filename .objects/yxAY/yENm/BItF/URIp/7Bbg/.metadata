@@ -1,0 +1,16 @@
+﻿{
+  "Id": "7Bbg2d65KU-NDjNbLHrHtw",
+  "Reference": "XmXxxtzE4ke1YN84qKCJ1w/7Bbg2d65KU-NDjNbLHrHtw",
+  "ParentRef": "XmXxxtzE4ke1YN84qKCJ1w/URIpBWBSj0qd4eZCj0YEDQ",
+  "Name": "a Buku Besar",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2022-05-30T04:36:27.5745202Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-05-30T04:36:42.3513625Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

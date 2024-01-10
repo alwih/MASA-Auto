@@ -1,0 +1,16 @@
+﻿{
+  "Id": "Gl4u_n8s10Oy3wNZPLLQkw",
+  "Reference": "XmXxxtzE4ke1YN84qKCJ1w/Gl4u_n8s10Oy3wNZPLLQkw",
+  "ParentRef": "XmXxxtzE4ke1YN84qKCJ1w/wN2CQhBA8E2SqIhl98FT9w",
+  "Name": "Klik: GL Account",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2022-04-22T07:09:40.4811074Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-04-22T07:11:03.9728495Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

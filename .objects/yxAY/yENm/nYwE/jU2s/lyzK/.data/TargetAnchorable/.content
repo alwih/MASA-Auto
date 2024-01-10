@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetAnchorable BrowserURL="https://10.243.229.232/MASA/Order.aspx" ContentHash="7vZCIpJv7Uyeo3GbI7NHLg" DesignTimeRectangle="736, 519, 623, 69" ElementType="InputBox" FriendlyName="'TEXTAREA'" FullSelectorArgument="&lt;webctrl tag='TEXTAREA' /&gt;" FuzzySelectorArgument="&lt;webctrl tag='TEXTAREA' type='' aaname='Perihal' /&gt;" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Order Detail | MASA' /&gt;" SearchSteps="FuzzySelector, Image" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=mscorlib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <TargetAnchorable.Anchors>
+    <scg:List x:TypeArguments="ITarget" Capacity="4">
+      <Target DesignTimeRectangle="736, 495, 305, 24" ElementType="Text" FriendlyName="'Perihal'" FullSelectorArgument="&lt;webctrl aaname='Perihal' parentid='wt4_OutSystemsUIWeb_wt18_block_wtContent_wtMainContent_MASA_Regi*' tag='LABEL' /&gt;" FuzzySelectorArgument="&lt;webctrl aaname='Perihal' parentid='wt4_OutSystemsUIWeb_wt18_block_wtContent_wtMainContent_MASA_Regi*' tag='LABEL' type='' check:text='Perihal' /&gt;" SearchSteps="FuzzySelector, Image">
+        <imageRef attrName="ImageBase64" xmlns="">1wESVU0rQXE6r8LHb5NERHA</imageRef>
+      </Target>
+    </scg:List>
+  </TargetAnchorable.Anchors>
+  <imageRef attrName="ImageBase64" xmlns="">0hLNPcoNWykmYqxNm4dZwPw</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="b219ae08931fce2e56d71d41f03d4d5d.png" xmlns="">0zX0-yDFBjkCofvZbA2yHiA</imageRef>
+</TargetAnchorable>

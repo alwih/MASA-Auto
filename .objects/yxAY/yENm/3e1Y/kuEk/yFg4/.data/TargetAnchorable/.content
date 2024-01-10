@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetAnchorable ContentHash="BQNRGD0FAEaMuD06aMYRnA" DesignTimeRectangle="735, 555, 639, 41" FriendlyName="'Bumi Daya Plaza, PT'" FullSelectorArgument="&lt;ctrl name='FPP Setoran Materai Detail | MASA' role='document' /&gt;&lt;ctrl name='Main' role='property page' /&gt;&lt;ctrl idx='20' role='grouping' /&gt;" FuzzySelectorArgument="&lt;ctrl name='FPP Setoran Materai Detail | MASA' role='document' /&gt;&lt;ctrl name='Main' role='property page' /&gt;&lt;ctrl automationid='' role='grouping' /&gt;" ScopeSelectorArgument="&lt;wnd app='chrome.exe' cls='Chrome_WidgetWin_1' title='FPP Setoran Materai Detail | MASA - Google Chrome' /&gt;" SearchSteps="Selector, FuzzySelector, Image" SelectionStrategy="AA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=mscorlib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <TargetAnchorable.Anchors>
+    <scg:List x:TypeArguments="ITarget" Capacity="4">
+      <Target DesignTimeRectangle="735, 531, 314, 25" ElementType="InputBox" FriendlyName="'Nama Penerima'" FullSelectorArgument="&lt;ctrl name='FPP Setoran Materai Detail | MASA' role='document' /&gt;&lt;ctrl name='Main' role='property page' /&gt;&lt;ctrl idx='12' role='editable text' /&gt;" FuzzySelectorArgument="&lt;ctrl name='FPP Setoran Materai Detail | MASA' role='document' /&gt;&lt;ctrl name='Main' role='property page' /&gt;&lt;ctrl automationid='' role='editable text' /&gt;" SearchSteps="Selector, FuzzySelector, Image">
+        <imageRef attrName="ImageBase64" xmlns="">1yv4g2k4aeUacjRMjS8r5Jg</imageRef>
+      </Target>
+    </scg:List>
+  </TargetAnchorable.Anchors>
+  <imageRef attrName="ImageBase64" xmlns="">0c8OPXVrSVEqTJV2XJMQa-w</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="be66b59e44c758c9c7a68028cc15910b.png" xmlns="">00Rp_bevxIEOF1R63Gd-QQg</imageRef>
+</TargetAnchorable>

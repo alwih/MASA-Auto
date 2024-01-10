@@ -1,0 +1,16 @@
+﻿{
+  "Id": "bZV-Hk2NBU6-WLXyDVNtRA",
+  "Reference": "XmXxxtzE4ke1YN84qKCJ1w/bZV-Hk2NBU6-WLXyDVNtRA",
+  "ParentRef": "XmXxxtzE4ke1YN84qKCJ1w/kuEks7dypEeX5gOwRQZyUA",
+  "Name": "h Valuta Main Materai",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2022-04-19T08:21:04.6890443Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-04-19T08:23:26.6458315Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

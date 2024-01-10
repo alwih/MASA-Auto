@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetAnchorable ContentHash="muv2FbnLPkmk-ExjrVNCCw" DesignTimeRectangle="69, 358, 642, 41" ElementType="DropDown" FriendlyName="'-'" FullSelectorArgument="&lt;ctrl name='SAP Group | MASA' role='document' /&gt;&lt;ctrl name='Group *' role='combo box' /&gt;" FuzzySelectorArgument="&lt;ctrl name='SAP Group | MASA' role='document' /&gt;&lt;ctrl name='Group *' role='combo box' automationid='' /&gt;" ScopeSelectorArgument="&lt;wnd app='chrome.exe' cls='Chrome_WidgetWin_1' title='SAP Group | MASA - Google Chrome' /&gt;" SearchSteps="Selector, FuzzySelector" SelectionStrategy="AA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=mscorlib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <TargetAnchorable.Anchors>
+    <scg:List x:TypeArguments="ITarget" Capacity="4">
+      <Target DesignTimeRectangle="69, 334, 420, 25" ElementType="InputBox" FriendlyName="'Group'" FullSelectorArgument="&lt;ctrl name='SAP Group | MASA' role='document' /&gt;&lt;ctrl role='editable text' /&gt;" FuzzySelectorArgument="&lt;ctrl name='SAP Group | MASA' role='document' /&gt;&lt;ctrl role='editable text' automationid='' /&gt;" SearchSteps="Selector, FuzzySelector, Image">
+        <imageRef attrName="ImageBase64" xmlns="">0A_ClPdPLMUKndD9dTG8H4w</imageRef>
+      </Target>
+    </scg:List>
+  </TargetAnchorable.Anchors>
+  <imageRef attrName="InformativeScreenshot" originalValue="acedf4addad647675c7b4ae478d23fc1.png" xmlns="">0kEyow99seEe0TjYcmz-jAw</imageRef>
+</TargetAnchorable>

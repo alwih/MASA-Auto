@@ -1,0 +1,16 @@
+﻿{
+  "Id": "7xanFlDU30S-SKaiMzb_iA",
+  "Reference": "XmXxxtzE4ke1YN84qKCJ1w/7xanFlDU30S-SKaiMzb_iA",
+  "ParentRef": "XmXxxtzE4ke1YN84qKCJ1w/-t0w2dZZV0uFLCsquFs4ig",
+  "Name": "Tab Dokumen",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2022-08-20T04:07:59.2148994Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-08-20T04:08:42.8602676Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

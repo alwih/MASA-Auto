@@ -1,0 +1,16 @@
+﻿{
+  "Id": "Tm8l4GY5R0m9nhqCteERoA",
+  "Reference": "XmXxxtzE4ke1YN84qKCJ1w/Tm8l4GY5R0m9nhqCteERoA",
+  "ParentRef": "XmXxxtzE4ke1YN84qKCJ1w/e4f-naiIxkmu0gFUwB74kw",
+  "Name": "d Nama Sub Modul",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2022-07-28T03:01:31.7840333Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-07-28T03:01:50.5843196Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

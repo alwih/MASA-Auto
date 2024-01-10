@@ -1,0 +1,16 @@
+﻿{
+  "Id": "Up6vc3EAjk2dtQnPBsZSSg",
+  "Reference": "XmXxxtzE4ke1YN84qKCJ1w/Up6vc3EAjk2dtQnPBsZSSg",
+  "ParentRef": "XmXxxtzE4ke1YN84qKCJ1w/kuEks7dypEeX5gOwRQZyUA",
+  "Name": "k Ket Bank Main Materai",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2022-04-19T08:23:48.9283537Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-04-19T08:24:23.5188665Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

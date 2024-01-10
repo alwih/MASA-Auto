@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetAnchorable ContentHash="z9XPoux8AUKOqE3ujlfbwA" DesignTimeRectangle="940, 230, 435, 49" ElementType="TabPage" FriendlyName="'Accounting'" FullSelectorArgument="&lt;ctrl name='FPP Setoran Materai Detail | MASA' role='document' /&gt;&lt;ctrl name='Main Detail Accounting' role='page tab list' /&gt;&lt;ctrl name='Accounting' role='page tab' /&gt;" FuzzySelectorArgument="&lt;ctrl name='FPP Setoran Materai Detail | MASA' role='document' /&gt;&lt;ctrl name='Main Detail Accounting' role='page tab list' /&gt;&lt;ctrl name='Accounting' role='page tab' automationid='' check:text='Accounting' /&gt;" ScopeSelectorArgument="&lt;wnd app='chrome.exe' cls='Chrome_WidgetWin_1' title='FPP Setoran Materai Detail | MASA - Google Chrome' /&gt;" SearchSteps="Selector, FuzzySelector, Image" SelectionStrategy="AA" xmlns="http://schemas.uipath.com/workflow/activities/uix">
+  <imageRef attrName="ImageBase64" xmlns="">0JUaOlvz-YUu49C45HepO2Q</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="952ddd9f68a270f58d7706183c7a7ff0.png" xmlns="">0jbESW_3tm0aIe0053_7sMg</imageRef>
+</TargetAnchorable>

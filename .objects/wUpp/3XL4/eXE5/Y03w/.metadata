@@ -1,0 +1,14 @@
+﻿{
+  "Id": "Y03wZfQvh0eyLTN6mhNjcw",
+  "Reference": "XmXxxtzE4ke1YN84qKCJ1w/Y03wZfQvh0eyLTN6mhNjcw",
+  "ParentRef": "XmXxxtzE4ke1YN84qKCJ1w/eXE5t3-b-Eijntqt78ZAIA",
+  "Name": "Extract Table Data - Modul Team",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2022-08-04T12:24:51.2877097Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=21.4.4.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-08-04T12:24:51.2877097Z"
+}

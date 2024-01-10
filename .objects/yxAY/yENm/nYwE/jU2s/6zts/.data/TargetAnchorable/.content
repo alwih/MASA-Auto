@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetAnchorable BrowserURL="https://10.243.229.232/MASA/Order.aspx" ContentHash="aWIj3yQ8gkKTPqOh-GNqKA" DesignTimeRectangle="81, 371, 623, 40" FriendlyName="'- Pilih'" FullSelectorArgument="&lt;webctrl css-selector='body&amp;gt;form&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;main&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div' parentid='wt4_OutSystemsUIWeb_wt18_block_wtContent_wtMainContent_MASA_Regi*' tag='DIV' /&gt;" FuzzySelectorArgument="&lt;webctrl css-selector='body&amp;gt;form&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;main&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div' parentid='wt4_OutSystemsUIWeb_wt18_block_wtContent_wtMainContent_MASA_Regi*' tag='DIV' type='' aaname='' check:text='- Pilih Tipe Dokumen -&amp;#xA;              - Pilih Tipe Dokumen -&amp;#xA;                Remove item' /&gt;" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Order Detail | MASA' /&gt;" SearchSteps="FuzzySelector, Image" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=mscorlib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <TargetAnchorable.Anchors>
+    <scg:List x:TypeArguments="ITarget" Capacity="4">
+      <Target DesignTimeRectangle="81, 347, 305, 24" ElementType="Text" FriendlyName="'Tipe Dokumen'" FullSelectorArgument="&lt;webctrl parentid='wt4_OutSystemsUIWeb_wt18_block_wtContent_wtMainContent_MASA_Regi*' tag='LABEL' /&gt;" FuzzySelectorArgument="&lt;webctrl parentid='wt4_OutSystemsUIWeb_wt18_block_wtContent_wtMainContent_MASA_Regi*' tag='LABEL' type='' aaname='Tipe Dokumen' check:text='Tipe Dokumen' /&gt;" SearchSteps="FuzzySelector, Image">
+        <imageRef attrName="ImageBase64" xmlns="">1K4x28KRVZEOG8az770zRPg</imageRef>
+      </Target>
+    </scg:List>
+  </TargetAnchorable.Anchors>
+  <imageRef attrName="ImageBase64" xmlns="">0_7ZA6skDjU2uD1N51mzfwg</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="48eb9d0645999537f49b164ad1a5dcf6.png" xmlns="">0htOg9MpXU0mJU1Sx9bhg8Q</imageRef>
+</TargetAnchorable>

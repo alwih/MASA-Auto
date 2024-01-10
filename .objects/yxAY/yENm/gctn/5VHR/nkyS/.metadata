@@ -1,0 +1,16 @@
+﻿{
+  "Id": "nkyS7sqDskCiUnveJ9F8EA",
+  "Reference": "XmXxxtzE4ke1YN84qKCJ1w/nkyS7sqDskCiUnveJ9F8EA",
+  "ParentRef": "XmXxxtzE4ke1YN84qKCJ1w/5VHRnA7pGU2bWj6KRFcUFA",
+  "Name": "2.1 Nomor Rekening",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2022-05-30T02:14:48.9195244Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-05-30T02:15:08.4609496Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

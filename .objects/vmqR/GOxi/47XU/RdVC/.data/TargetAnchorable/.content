@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetAnchorable BrowserURL="https://10.243.229.232/MASA/AssignPIC.aspx?(Not.Licensed.For.Production)=" ContentHash="A-r8SYgwrE-Ea7d3rJFKfw" DesignTimeRectangle="1288, 331, 86, 40" ElementType="Button" FriendlyName="'Roulete'" FullSelectorArgument="&lt;webctrl id='wt6_OutSystemsUIWeb_wt18_block_wtContent_wtMainContent_MASA_SHAR*' tag='INPUT' type='submit' /&gt;" FuzzySelectorArgument="&lt;webctrl id='wt6_OutSystemsUIWeb_wt18_block_wtContent_wtMainContent_MASA_SHAR*' tag='INPUT' type='submit' aaname='Roulete' check:text='Roulete' /&gt;" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Assign PIC | MASA' /&gt;" SearchSteps="FuzzySelector, Image" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=mscorlib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <TargetAnchorable.Anchors>
+    <scg:List x:TypeArguments="ITarget" Capacity="4">
+      <Target DesignTimeRectangle="1297, 390, 69, 18" ElementType="Text" FriendlyName="'Action'" FullSelectorArgument="&lt;webctrl aaname='Action' parentid='wt6_OutSystemsUIWeb_wt18_block_wtContent_wtMainContent_MASA_SHAR*' tag='DIV' /&gt;" FuzzySelectorArgument="&lt;webctrl aaname='Action' parentid='wt6_OutSystemsUIWeb_wt18_block_wtContent_wtMainContent_MASA_SHAR*' tag='DIV' type='' check:text='Action' /&gt;" SearchSteps="FuzzySelector, Image">
+        <imageRef attrName="ImageBase64" xmlns="">1ShHvBqPzVkS5utjg76ghGA</imageRef>
+      </Target>
+    </scg:List>
+  </TargetAnchorable.Anchors>
+  <imageRef attrName="ImageBase64" xmlns="">0MUBeOAQWkUWedy7PwA9bWg</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="9379aaaaf4254f8a2c3e58752b4ca17a.png" xmlns="">0UuKvf9Nw00mlKvBmMah6uA</imageRef>
+</TargetAnchorable>

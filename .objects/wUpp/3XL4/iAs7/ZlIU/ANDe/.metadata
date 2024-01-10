@@ -1,0 +1,16 @@
+﻿{
+  "Id": "ANDelQK7AkO4ZvHlRyDNfg",
+  "Reference": "XmXxxtzE4ke1YN84qKCJ1w/ANDelQK7AkO4ZvHlRyDNfg",
+  "ParentRef": "XmXxxtzE4ke1YN84qKCJ1w/ZlIUVsjDvESySOJXYPa11Q",
+  "Name": "a Currency",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2022-08-16T03:53:38.636583Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-08-16T03:54:10.1834763Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetAnchorable BrowserURL="https://10.243.229.27/MASA/OrderList.aspx?(Not.Licensed.For.Production)=" ContentHash="3Ztt_GZgV0CmNO7-370jWA" DesignTimeRectangle="667, 593, 34, 25" FriendlyName="'A'" FullSelectorArgument="&lt;webctrl parentid='wt13_OutSystemsUIWeb_wt18_block_wtContent_wtMainContent_MASA_SHA*' parentname='wt13$OutSystemsUIWeb_wt18$block$wtContent$wtMainContent$MASA_SHA*' tag='A' /&gt;" FuzzySelectorArgument="&lt;webctrl parentid='wt13_OutSystemsUIWeb_wt18_block_wtContent_wtMainContent_MASA_SHA*' parentname='wt13$OutSystemsUIWeb_wt18$block$wtContent$wtMainContent$MASA_SHA*' tag='A' type='' aaname='' /&gt;" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Order List | MASA' /&gt;" SearchSteps="FuzzySelector, Image" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=mscorlib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <TargetAnchorable.Anchors>
+    <scg:List x:TypeArguments="ITarget" Capacity="4">
+      <Target DesignTimeRectangle="707, 595, 30, 21" FriendlyName="'A'" FullSelectorArgument="&lt;webctrl idx='2' parentid='wt13_OutSystemsUIWeb_wt18_block_wtContent_wtMainContent_MASA_SHA*' parentname='wt13$OutSystemsUIWeb_wt18$block$wtContent$wtMainContent$MASA_SHA*' tag='A' /&gt;" FuzzySelectorArgument="&lt;webctrl type='' parentid='wt13_OutSystemsUIWeb_wt18_block_wtContent_wtMainContent_MASA_SHA*' parentname='wt13$OutSystemsUIWeb_wt18$block$wtContent$wtMainContent$MASA_SHA*' tag='A' aaname='' /&gt;" SearchSteps="FuzzySelector, Image">
+        <imageRef attrName="ImageBase64" xmlns="">96JP3sNHFS0S9RHlKoAlNcA</imageRef>
+      </Target>
+    </scg:List>
+  </TargetAnchorable.Anchors>
+  <imageRef attrName="ImageBase64" xmlns="">08hUMLQCZ-0G5-YVJsZPwTw</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="c50291cd50bca26582312bfdbad8e654.png" xmlns="">0VJdkLT_vOUikNYS1fvANfQ</imageRef>
+</TargetAnchorable>

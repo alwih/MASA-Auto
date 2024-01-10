@@ -1,0 +1,13 @@
+﻿{
+  "Id": "6vqAGK3KvkGAcZ-4LCJFQQ",
+  "Reference": "XmXxxtzE4ke1YN84qKCJ1w/6vqAGK3KvkGAcZ-4LCJFQQ",
+  "ParentRef": "XmXxxtzE4ke1YN84qKCJ1w/QzRqNweJK0OWVnDhtzB4yg",
+  "Name": "2.1 Tab Beban Group",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2022-04-20T06:40:56.7323561Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-04-20T06:40:56.7323561Z"
+}

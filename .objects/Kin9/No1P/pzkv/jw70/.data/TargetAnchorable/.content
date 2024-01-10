@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetAnchorable BrowserURL="https://10.243.229.232/MASA/AssignPIC.aspx?(Not.Licensed.For.Production)=" ContentHash="PmjTrE7YiEux3Bz61Dm_lg" DesignTimeRectangle="1297, 453, 24, 24" FriendlyName="'SPAN'" FullSelectorArgument="&lt;webctrl css-selector='body&amp;gt;form&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;main&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;table&amp;gt;tbody&amp;gt;tr&amp;gt;td&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;span' idx='1' parentid='wt6_OutSystemsUIWeb_wt18_block_wtContent_wtMainContent_MASA_SHAR*' tag='SPAN' /&gt;" FuzzySelectorArgument="&lt;webctrl css-selector='body&amp;gt;form&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;main&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;table&amp;gt;tbody&amp;gt;tr&amp;gt;td&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;span' type='' parentid='wt6_OutSystemsUIWeb_wt18_block_wtContent_wtMainContent_MASA_SHAR*' tag='SPAN' aaname='' /&gt;" Reference="XmXxxtzE4ke1YN84qKCJ1w/JJPi90WzQECmZXvbhWQa7w" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Assign PIC | MASA' /&gt;" SearchSteps="Selector, FuzzySelector, Image" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=mscorlib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <TargetAnchorable.Anchors>
+    <scg:List x:TypeArguments="ITarget" Capacity="4">
+      <Target DesignTimeRectangle="1273, 443, 102, 48" FriendlyName="'DetailView// Waits'" FullSelectorArgument="&lt;webctrl id='wt6_OutSystemsUIWeb_wt18_block_wtContent_wtMainContent_MASA_SHAR*' tag='TABLE' /&gt;&lt;webctrl tableCol='10' tag='TD' /&gt;" FuzzySelectorArgument="&lt;webctrl id='wt6_OutSystemsUIWeb_wt18_block_wtContent_wtMainContent_MASA_SHAR*' tag='TABLE' /&gt;&lt;webctrl type='' tag='TD' aaname='' check:text='DetailView// Waits elements render and inits the responsiveTables&amp;#xA;var dropdownDOMReadyHandler =' /&gt;" SearchSteps="FuzzySelector, Image">
+        <imageRef attrName="ImageBase64" xmlns="">1ptXWZ3xJeEStj8X4e91Ikg</imageRef>
+      </Target>
+      <Target DesignTimeRectangle="1281, 413, 86, 20" ElementType="Text" FriendlyName="'Action'" FullSelectorArgument="&lt;webctrl parentid='wt6_OutSystemsUIWeb_wt18_block_wtContent_wtMainContent_MASA_SHAR*' tag='DIV' /&gt;" FuzzySelectorArgument="&lt;webctrl parentid='wt6_OutSystemsUIWeb_wt18_block_wtContent_wtMainContent_MASA_SHAR*' tag='DIV' type='' aaname='Action' check:text='Action' /&gt;" SearchSteps="FuzzySelector, Image">
+        <imageRef attrName="ImageBase64" xmlns="">2TLX-fxOStEWhotNwgNIy_g</imageRef>
+      </Target>
+    </scg:List>
+  </TargetAnchorable.Anchors>
+  <imageRef attrName="ImageBase64" xmlns="">0kDLtPJhYKkS2Q8yz_8nLjg</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="ac64e2f62fe59936fc62e6df157c107a.png" xmlns="">0Wv-nQvIuT0ODdtQW507shA</imageRef>
+</TargetAnchorable>

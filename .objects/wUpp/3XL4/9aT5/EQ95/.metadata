@@ -1,0 +1,16 @@
+﻿{
+  "Id": "EQ95-rTWJEKo1VNiEO_VFg",
+  "Reference": "XmXxxtzE4ke1YN84qKCJ1w/EQ95-rTWJEKo1VNiEO_VFg",
+  "ParentRef": "XmXxxtzE4ke1YN84qKCJ1w/9aT5KuQlO0KKyXBN6VcqHQ",
+  "Name": "a URC Type",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2022-07-28T09:15:44.2786671Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-07-28T09:16:19.1653251Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

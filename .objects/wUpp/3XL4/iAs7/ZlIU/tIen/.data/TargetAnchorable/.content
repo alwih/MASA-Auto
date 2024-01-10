@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetAnchorable ContentHash="RDTj6oXPmkuyNJb7Cx-x6A" DesignTimeRectangle="650, 619, 139, 41" ElementType="Button" FriendlyName="'Request Create'" FullSelectorArgument="&lt;ctrl name='ExchangeRateDetail' role='document' /&gt;&lt;ctrl name='Request Create' role='push button' /&gt;" FuzzySelectorArgument="&lt;ctrl name='ExchangeRateDetail' role='document' /&gt;&lt;ctrl name='Request Create' role='push button' automationid='' check:text='Request Create' /&gt;" ScopeSelectorArgument="&lt;wnd app='chrome.exe' cls='Chrome_WidgetWin_1' title='ExchangeRateDetail - Google Chrome' /&gt;" SearchSteps="Selector, FuzzySelector, Image" SelectionStrategy="AA" xmlns="http://schemas.uipath.com/workflow/activities/uix">
+  <imageRef attrName="ImageBase64" xmlns="">0KBVFjqxun0K3OzpeFnhIQQ</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="787228f71972d37c40caaeae1f48aca6.png" xmlns="">0uD0yJNW7iU6738JIID4HJQ</imageRef>
+</TargetAnchorable>

@@ -1,0 +1,16 @@
+﻿{
+  "Id": "039Mrbh69EOA9SxUVHGUSg",
+  "Reference": "XmXxxtzE4ke1YN84qKCJ1w/039Mrbh69EOA9SxUVHGUSg",
+  "ParentRef": "XmXxxtzE4ke1YN84qKCJ1w/m1uH4Jw53EuadV0WyLmhPA",
+  "Name": "6 Upload",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2022-05-11T08:31:21.3879119Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-05-11T08:31:39.2276335Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

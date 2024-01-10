@@ -1,0 +1,14 @@
+﻿{
+  "Id": "n5H56e1u4kact9G3Z0ZMvA",
+  "Reference": "XmXxxtzE4ke1YN84qKCJ1w/n5H56e1u4kact9G3Z0ZMvA",
+  "ParentRef": "XmXxxtzE4ke1YN84qKCJ1w/qFTiCjclUEql8JHh7Y2R-Q",
+  "Name": "Extract Table Data - PIC",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2022-07-28T09:07:14.4845194Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=21.4.4.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-07-28T09:07:14.4845194Z"
+}

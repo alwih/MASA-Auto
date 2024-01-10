@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetApp Area="0, 0, 0, 0" BrowserType="Chrome" ContentHash="cBnoeHN6AEGC2E5pFQMmfA" Selector="&lt;html app='chrome.exe' title='GroupCategory'/&gt;" Url="https://10.243.229.232/MASA/GroupCategory.aspx?(Not.Licensed.For.Production)=" xmlns="http://schemas.uipath.com/workflow/activities/uix">
+  <imageRef attrName="IconBase64" xmlns="">0-8tCWmK-Hkat6dlQGO-2Fw</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="86bbf41c9cd0b9cf5d34c08decf12cf2.png" xmlns="">0uivIYDIAWkeoYRnJWcRWAw</imageRef>
+</TargetApp>

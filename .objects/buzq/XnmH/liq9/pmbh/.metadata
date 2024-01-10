@@ -1,0 +1,16 @@
+﻿{
+  "Id": "pmbhmA3XAk-DsDQ0z3viVg",
+  "Reference": "XmXxxtzE4ke1YN84qKCJ1w/pmbhmA3XAk-DsDQ0z3viVg",
+  "ParentRef": "XmXxxtzE4ke1YN84qKCJ1w/liq9JpKifUCJeSnkEXx7FQ",
+  "Name": "Btn: Detail",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2022-04-28T05:36:33.9169333Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-04-28T05:36:57.7148749Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

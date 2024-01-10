@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetAnchorable BrowserURL="https://10.243.229.232/MASA/FinancialTransaction.FPP_SetoranMaterai.aspx" ContentHash="OXUTIfedTkaNnummmJu-dA" DesignTimeRectangle="522, 565, 407, 38" ElementType="Text" FriendlyName="'Assigned PIC'" FullSelectorArgument="&lt;webctrl aaname='Group Status Note Created By Created Date' id='wt10_OutSystemsUIWeb_wt18_block_wtContent_wtMainContent_MASA_Fin*' tag='TABLE' /&gt;&lt;webctrl isleaf='1' tableCol='3' tableRow='3' tag='TD' /&gt;" FuzzySelectorArgument="&lt;webctrl aaname='Group Status Note Created By Created Date' id='wt10_OutSystemsUIWeb_wt18_block_wtContent_wtMainContent_MASA_Fin*' tag='TABLE' /&gt;&lt;webctrl isleaf='1' type='' aaname='*' tag='TD' /&gt;" ScopeSelectorArgument="&lt;html app='chrome.exe' title='FPP Setoran Materai Detail | MASA' /&gt;" SearchSteps="FuzzySelector, Image" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=mscorlib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <TargetAnchorable.Anchors>
+    <scg:List x:TypeArguments="ITarget" Capacity="4">
+      <Target DesignTimeRectangle="522, 489, 407, 38" ElementType="Text" FriendlyName="'Note'" FullSelectorArgument="&lt;webctrl aaname='Group Status Note Created By Created Date' id='wt10_OutSystemsUIWeb_wt18_block_wtContent_wtMainContent_MASA_Fin*' tag='TABLE' /&gt;&lt;webctrl aaname='Note' tag='TH' /&gt;" FuzzySelectorArgument="&lt;webctrl aaname='Group Status Note Created By Created Date' id='wt10_OutSystemsUIWeb_wt18_block_wtContent_wtMainContent_MASA_Fin*' tag='TABLE' /&gt;&lt;webctrl aaname='Note' tag='TH' type='' check:text='Note' /&gt;" SearchSteps="FuzzySelector, Image">
+        <imageRef attrName="ImageBase64" xmlns="">1AV23Ixq6TkO7hLu3bMs_DA</imageRef>
+      </Target>
+    </scg:List>
+  </TargetAnchorable.Anchors>
+  <imageRef attrName="ImageBase64" xmlns="">0_oU4Fk8vi0qGQcQlK0D2ag</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="2185534c124d2aae6ba3a6b01c2b2a27.png" xmlns="">0PkcAMf1-HEmgyWNBGxIgrw</imageRef>
+</TargetAnchorable>

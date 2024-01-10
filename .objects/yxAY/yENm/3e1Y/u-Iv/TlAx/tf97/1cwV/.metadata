@@ -1,0 +1,16 @@
+﻿{
+  "Id": "1cwVcWcC40qgK9-9mxJ7ag",
+  "Reference": "XmXxxtzE4ke1YN84qKCJ1w/1cwVcWcC40qgK9-9mxJ7ag",
+  "ParentRef": "XmXxxtzE4ke1YN84qKCJ1w/tf97-MEWbkuAGrv5TfJacA",
+  "Name": "4 Nominal Pajak",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2022-04-19T09:15:41.9937987Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-04-19T09:16:02.4669732Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetAnchorable BrowserURL="https://10.243.229.232/MASA/Order.aspx" ContentHash="EVoJQPkuZUGP2yX5ZtxW4A" DesignTimeRectangle="736, 371, 623, 40" ElementType="InputBox" FriendlyName="'INPUT'" FullSelectorArgument="&lt;webctrl aaname='Asal Nota' id='wt4_OutSystemsUIWeb_wt18_block_wtContent_wtMainContent_MASA_Regi*' tag='INPUT' type='text' /&gt;" FuzzySelectorArgument="&lt;webctrl aaname='Asal Nota' id='wt4_OutSystemsUIWeb_wt18_block_wtContent_wtMainContent_MASA_Regi*' tag='INPUT' type='text' /&gt;" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Order Detail | MASA' /&gt;" SearchSteps="FuzzySelector, Image" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=mscorlib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <TargetAnchorable.Anchors>
+    <scg:List x:TypeArguments="ITarget" Capacity="4">
+      <Target DesignTimeRectangle="736, 347, 305, 24" ElementType="Text" FriendlyName="'Asal Nota'" FullSelectorArgument="&lt;webctrl aaname='Asal Nota' parentid='wt4_OutSystemsUIWeb_wt18_block_wtContent_wtMainContent_MASA_Regi*' tag='LABEL' /&gt;" FuzzySelectorArgument="&lt;webctrl aaname='Asal Nota' parentid='wt4_OutSystemsUIWeb_wt18_block_wtContent_wtMainContent_MASA_Regi*' tag='LABEL' type='' check:text='Asal Nota' /&gt;" SearchSteps="FuzzySelector, Image">
+        <imageRef attrName="ImageBase64" xmlns="">1i0gjFLJcwUK1yxS9JqWd5w</imageRef>
+      </Target>
+    </scg:List>
+  </TargetAnchorable.Anchors>
+  <imageRef attrName="ImageBase64" xmlns="">0r3izRetFGE6_oKCDTorrkA</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="e6890e3321ca3c604f3d596bed35af1d.png" xmlns="">0NCu8k38-E0S7ZseRVdAK0g</imageRef>
+</TargetAnchorable>

@@ -1,0 +1,13 @@
+﻿{
+  "Id": "MpAXFpNEKk2dw_x4qGbGgA",
+  "Reference": "XmXxxtzE4ke1YN84qKCJ1w/MpAXFpNEKk2dw_x4qGbGgA",
+  "ParentRef": "XmXxxtzE4ke1YN84qKCJ1w/nkyS7sqDskCiUnveJ9F8EA",
+  "Name": "d Atas Nama",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2022-05-30T02:19:34.0550334Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-05-30T02:19:34.0550334Z"
+}

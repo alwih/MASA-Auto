@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetAnchorable BrowserURL="https://10.243.229.232/MASA/AssignPIC.aspx?(Not.Licensed.For.Production)=" ContentHash="Pq9msTGpXkiGxpkUEaeEBw" DesignTimeRectangle="1313, 429, 24, 24" FriendlyName="'SPAN'" FullSelectorArgument="&lt;webctrl css-selector='body&amp;gt;form&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;main&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;table&amp;gt;tbody&amp;gt;tr&amp;gt;td&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;span' idx='2' parentid='wt6_OutSystemsUIWeb_wt18_block_wtContent_wtMainContent_MASA_SHAR*' tag='SPAN' /&gt;" FuzzySelectorArgument="&lt;webctrl css-selector='body&amp;gt;form&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;main&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;table&amp;gt;tbody&amp;gt;tr&amp;gt;td&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;span' type='' parentid='wt6_OutSystemsUIWeb_wt18_block_wtContent_wtMainContent_MASA_SHAR*' tag='SPAN' aaname='' /&gt;" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Assign PIC | MASA' /&gt;" SearchSteps="FuzzySelector, Image" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=mscorlib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <TargetAnchorable.Anchors>
+    <scg:List x:TypeArguments="ITarget" Capacity="4">
+      <Target DesignTimeRectangle="1297, 390, 69, 18" ElementType="Text" FriendlyName="'Action'" FullSelectorArgument="&lt;webctrl aaname='Action' parentid='wt6_OutSystemsUIWeb_wt18_block_wtContent_wtMainContent_MASA_SHAR*' tag='DIV' /&gt;" FuzzySelectorArgument="&lt;webctrl aaname='Action' parentid='wt6_OutSystemsUIWeb_wt18_block_wtContent_wtMainContent_MASA_SHAR*' tag='DIV' type='' check:text='Action' /&gt;" SearchSteps="FuzzySelector, Image">
+        <imageRef attrName="ImageBase64" xmlns="">12FiAvxyaqU2n9-R08PJLFg</imageRef>
+      </Target>
+    </scg:List>
+  </TargetAnchorable.Anchors>
+  <imageRef attrName="ImageBase64" xmlns="">0n6WxcEmDVEeOvORVnukDGA</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="fd265530ac870a0a19a41ffb941f7814.png" xmlns="">0MOqYnHGEj0-tNxykRJKgAA</imageRef>
+</TargetAnchorable>

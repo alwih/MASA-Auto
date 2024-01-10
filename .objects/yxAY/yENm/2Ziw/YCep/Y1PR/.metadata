@@ -1,0 +1,16 @@
+﻿{
+  "Id": "Y1PRKOVkpEa7D4T6XLntLw",
+  "Reference": "XmXxxtzE4ke1YN84qKCJ1w/Y1PRKOVkpEa7D4T6XLntLw",
+  "ParentRef": "XmXxxtzE4ke1YN84qKCJ1w/YCepkdxQQUWoV2DzFFSpqQ",
+  "Name": "p Norek Nasabah",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2022-04-20T06:32:57.4153842Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-04-20T06:33:34.3461133Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

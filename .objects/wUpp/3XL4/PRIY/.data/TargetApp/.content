@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetApp Area="0, 0, 0, 0" BrowserType="Chrome" ContentHash="9OWiWmMdbUCBtkKltIlsLA" Selector="&lt;html app='chrome.exe' title='Nomor | MASA'/&gt;" Url="https://10.243.229.26/MASA/Nomor.aspx?(Not.Licensed.For.Production)=" xmlns="http://schemas.uipath.com/workflow/activities/uix">
+  <imageRef attrName="IconBase64" xmlns="">0DrYbiFUtYEWIXVwqpP3cPQ</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="499d965f4a756e4252077c468e5f7ed8.png" xmlns="">0Iyaqj0-g3UywhcaMUIC07g</imageRef>
+</TargetApp>

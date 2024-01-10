@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetAnchorable BrowserURL="https://10.243.229.232/MASA/OrderDetail.aspx" ContentHash="JEcD2EvHlkWJYZycOrCD1A" DesignTimeRectangle="105, 642, 1229, 21" ElementType="Text" FriendlyName="'Tambah baru'" FullSelectorArgument="&lt;webctrl id='wt10_OutSystemsUIWeb_wt18_block_wtContent_wtMainContent_MASA_Fin*' tag='A' /&gt;" FuzzySelectorArgument="&lt;webctrl id='wt10_OutSystemsUIWeb_wt18_block_wtContent_wtMainContent_MASA_Fin*' tag='A' type='' aaname='Tambah baru' /&gt;" ScopeSelectorArgument="&lt;html app='chrome.exe' title='FPP Setoran Materai Detail | MASA' /&gt;" SearchSteps="FuzzySelector, Image" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=mscorlib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <TargetAnchorable.Anchors>
+    <scg:List x:TypeArguments="ITarget" Capacity="4">
+      <Target DesignTimeRectangle="81, 588, 1277, 38" ElementType="Text" FriendlyName="'Nomor Invoice'" FullSelectorArgument="&lt;webctrl id='wt10_OutSystemsUIWeb_wt18_block_wtContent_wtMainContent_MASA_Fin*' tag='TABLE' /&gt;&lt;webctrl tag='TH' /&gt;" FuzzySelectorArgument="&lt;webctrl id='wt10_OutSystemsUIWeb_wt18_block_wtContent_wtMainContent_MASA_Fin*' tag='TABLE' /&gt;&lt;webctrl tag='TH' type='' aaname='Nomor Invoice' check:text='Nomor Invoice' /&gt;" SearchSteps="FuzzySelector, Image">
+        <imageRef attrName="ImageBase64" xmlns="">1K_2VGaZog0ezcq4HFspYcQ</imageRef>
+      </Target>
+    </scg:List>
+  </TargetAnchorable.Anchors>
+  <imageRef attrName="ImageBase64" xmlns="">0tLi8r65neU2FdOAlwovJVA</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="c43c72de94bc6a83e8899988adb44421.png" xmlns="">0Wxdmq2o74kOmLDQYi5SW1A</imageRef>
+</TargetAnchorable>

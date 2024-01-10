@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetAnchorable BrowserURL="https://10.243.229.232/MASA/TableScreen.aspx" ContentHash="Y5Padaph-U2EjqV6ZA-F5A" DesignTimeRectangle="969, 233, 422, 38" ElementType="Text" FriendlyName="'Approved by'" FullSelectorArgument="&lt;webctrl aaname='Date Status' id='wt1_OutSystemsUIWeb_wt18_block_wtContent_wtMainContent_MASA_Trac*' tag='TABLE' /&gt;&lt;webctrl isleaf='1' tag='TD' innertext='Approved by Approver 1 (Group)' /&gt;" FuzzySelectorArgument="&lt;webctrl aaname='Date Status' id='wt1_OutSystemsUIWeb_wt18_block_wtContent_wtMainContent_MASA_Trac*' tag='TABLE' /&gt;&lt;webctrl isleaf='1' type='' tag='TD' aaname='Approved by Approver 1 (Group)' check:text='Approved by Approver 1 (Group)' /&gt;" Reference="XmXxxtzE4ke1YN84qKCJ1w/wUi0-xujk0WOOTOc2ILesA" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Informasi dan Riwayat | MASA' /&gt;" SearchSteps="Selector, Image" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=mscorlib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <TargetAnchorable.Anchors>
+    <scg:List x:TypeArguments="ITarget" Capacity="4">
+      <Target DesignTimeRectangle="744, 242, 218, 20" ElementType="Text" FriendlyName="'2022-06-20 09:15:39'" FullSelectorArgument="&lt;webctrl aaname='2022-06-20 09:15:39' parentid='wt1_OutSystemsUIWeb_wt18_block_wtContent_wtMainContent_MASA_Trac*' tag='DIV' /&gt;" FuzzySelectorArgument="&lt;webctrl aaname='*' parentid='wt1_OutSystemsUIWeb_wt18_block_wtContent_wtMainContent_MASA_Trac*' tag='DIV' type='' /&gt;" SearchSteps="FuzzySelector, Image">
+        <imageRef attrName="ImageBase64" xmlns="">1EWA2gQgunUSwk3xx19RY-w</imageRef>
+      </Target>
+    </scg:List>
+  </TargetAnchorable.Anchors>
+  <imageRef attrName="ImageBase64" xmlns="">0LZ_t_7wVBkq9eFNSs-_AqA</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="7977cde215b14962404b56d7183c6b51.png" xmlns="">0sqsVluD8DUOhkwGDvqsORw</imageRef>
+</TargetAnchorable>

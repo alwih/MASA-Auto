@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetAnchorable BrowserURL="https://10.243.229.27/MASA/OrderList.aspx?(Not.Licensed.For.Production)=" ContentHash="G5DX2tnsn0Ka74-k9x-5kw" DesignTimeRectangle="320, 638, 805, 69" ElementType="InputBox" FriendlyName="'TEXTAREA'" FullSelectorArgument="&lt;webctrl parentname='WebForm1' tag='TEXTAREA' /&gt;" FuzzySelectorArgument="&lt;webctrl parentname='WebForm1' tag='TEXTAREA' type='' aaname='Note' /&gt;" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Order List | MASA' /&gt;" SearchSteps="FuzzySelector, Image" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=mscorlib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <TargetAnchorable.Anchors>
+    <scg:List x:TypeArguments="ITarget" Capacity="4">
+      <Target DesignTimeRectangle="320, 617, 805, 21" ElementType="Text" FriendlyName="'Note'" FullSelectorArgument="&lt;webctrl aaname='Note' parentid='wt13_OutSystemsUIWeb_wt18_block_wtContent_wtMainContent_MASA_SHA*' parentname='WebForm1' tag='LABEL' /&gt;" FuzzySelectorArgument="&lt;webctrl aaname='Note' parentid='wt13_OutSystemsUIWeb_wt18_block_wtContent_wtMainContent_MASA_SHA*' parentname='WebForm1' tag='LABEL' type='' check:text='Note' /&gt;" SearchSteps="FuzzySelector, Image">
+        <imageRef attrName="ImageBase64" xmlns="">1EN66QyB9y0CnpLTas3xxBg</imageRef>
+      </Target>
+    </scg:List>
+  </TargetAnchorable.Anchors>
+  <imageRef attrName="ImageBase64" xmlns="">0nuZ1t1KmfEG7Hr3xnDMQ2Q</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="e49514a62cce128e6a226173e6aff2ef.png" xmlns="">0rRuITGV9fkq8iXxSJsoZNw</imageRef>
+</TargetAnchorable>

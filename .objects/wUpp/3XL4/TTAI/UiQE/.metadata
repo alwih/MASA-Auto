@@ -1,0 +1,16 @@
+﻿{
+  "Id": "UiQETIt1JUC_NISFHmN6mg",
+  "Reference": "XmXxxtzE4ke1YN84qKCJ1w/UiQETIt1JUC_NISFHmN6mg",
+  "ParentRef": "XmXxxtzE4ke1YN84qKCJ1w/TTAI37W6G0KXIBf9tAg3DA",
+  "Name": "Btn: User Employee Baru",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2022-08-02T08:54:47.153879Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-08-02T08:55:01.5930638Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

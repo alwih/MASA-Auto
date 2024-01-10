@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetAnchorable ContentHash="4DIVBX4ly0ib0Pn9gUJ0mg" DesignTimeRectangle="396, 577, 86, 41" ElementType="Button" FriendlyName="'Simpan'" FullSelectorArgument="&lt;ctrl name='Approval Type Detail | MASA' role='document' /&gt;&lt;ctrl name='Simpan' role='push button' /&gt;" FuzzySelectorArgument="&lt;ctrl name='Approval Type Detail | MASA' role='document' /&gt;&lt;ctrl name='Simpan' role='push button' automationid='' check:text='Simpan' /&gt;" ScopeSelectorArgument="&lt;wnd app='chrome.exe' cls='Chrome_WidgetWin_1' title='Approval Type Detail | MASA - Google Chrome' /&gt;" SearchSteps="Selector, FuzzySelector, Image" SelectionStrategy="AA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=mscorlib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <TargetAnchorable.Anchors>
+    <scg:List x:TypeArguments="ITarget" Capacity="4">
+      <Target DesignTimeRectangle="287, 577, 90, 41" ElementType="Button" FriendlyName="'Kembali'" FullSelectorArgument="&lt;ctrl name='Approval Type Detail | MASA' role='document' /&gt;&lt;ctrl name='Kembali' role='push button' /&gt;" FuzzySelectorArgument="&lt;ctrl name='Approval Type Detail | MASA' role='document' /&gt;&lt;ctrl name='Kembali' role='push button' automationid='' check:text='Kembali' /&gt;" SearchSteps="Selector, FuzzySelector, Image">
+        <imageRef attrName="ImageBase64" xmlns="">6uUl86fBRukGrQMv99bZGkw</imageRef>
+      </Target>
+    </scg:List>
+  </TargetAnchorable.Anchors>
+  <imageRef attrName="ImageBase64" xmlns="">05EIyJIMWmUOq_UPKCK_r6A</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="57486d5bf45674e9f3617c58ef233a98.png" xmlns="">0w2yNEycHXEOsZiHFnf1nLA</imageRef>
+</TargetAnchorable>

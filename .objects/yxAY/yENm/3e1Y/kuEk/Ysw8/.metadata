@@ -1,0 +1,16 @@
+﻿{
+  "Id": "Ysw89eJ4M0uIKX7OGKSP3A",
+  "Reference": "XmXxxtzE4ke1YN84qKCJ1w/Ysw89eJ4M0uIKX7OGKSP3A",
+  "ParentRef": "XmXxxtzE4ke1YN84qKCJ1w/kuEks7dypEeX5gOwRQZyUA",
+  "Name": "e Ket Main Materai",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2022-04-19T08:18:00.6560956Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-04-19T08:23:10.4796594Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

@@ -1,0 +1,16 @@
+﻿{
+  "Id": "oE3pUrFq70uSUeL8LzxWAQ",
+  "Reference": "XmXxxtzE4ke1YN84qKCJ1w/oE3pUrFq70uSUeL8LzxWAQ",
+  "ParentRef": "XmXxxtzE4ke1YN84qKCJ1w/xVuMNPEfXkWtudmsK7KbOg",
+  "Name": "2 Mata Uang",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2022-04-19T08:41:44.9198575Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-04-19T09:01:29.7631998Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

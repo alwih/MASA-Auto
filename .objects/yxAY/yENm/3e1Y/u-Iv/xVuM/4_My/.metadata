@@ -1,0 +1,16 @@
+﻿{
+  "Id": "4_Mye-F_skG0SnQ8aMfl8w",
+  "Reference": "XmXxxtzE4ke1YN84qKCJ1w/4_Mye-F_skG0SnQ8aMfl8w",
+  "ParentRef": "XmXxxtzE4ke1YN84qKCJ1w/xVuMNPEfXkWtudmsK7KbOg",
+  "Name": "1 Code Group Beban Group",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2022-04-19T08:40:52.4334749Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-04-19T09:01:03.9361775Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

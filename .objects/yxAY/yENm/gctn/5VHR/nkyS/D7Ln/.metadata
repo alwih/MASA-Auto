@@ -1,0 +1,16 @@
+﻿{
+  "Id": "D7LnLV3T30ilymQ6GN0JUQ",
+  "Reference": "XmXxxtzE4ke1YN84qKCJ1w/D7LnLV3T30ilymQ6GN0JUQ",
+  "ParentRef": "XmXxxtzE4ke1YN84qKCJ1w/nkyS7sqDskCiUnveJ9F8EA",
+  "Name": "b Jenis Rekening",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2022-05-30T02:17:26.4752244Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-05-30T02:17:54.8359528Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

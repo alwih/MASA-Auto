@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetAnchorable BrowserURL="https://10.243.229.27/MASA/OrderList.aspx" ContentHash="yAvX51YAtUGr8mncMzT1-w" DesignTimeRectangle="460, 110, 161, 21" ElementType="Text" FriendlyName="'Document completed.'" FullSelectorArgument="&lt;webctrl id='wt13_OutSystemsUIWeb_wt18_block_wt5_RichWidgets_wt7_block_wtSani*' tag='SPAN' /&gt;" FuzzySelectorArgument="&lt;webctrl id='wt13_OutSystemsUIWeb_wt18_block_wt5_RichWidgets_wt7_block_wtSani*' tag='SPAN' type='' aaname='*' /&gt;" Reference="XmXxxtzE4ke1YN84qKCJ1w/aDPvzmZPJEmn-LFEShaSJg" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Order List | MASA' /&gt;" SearchSteps="FuzzySelector, Image" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=mscorlib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <TargetAnchorable.Anchors>
+    <scg:List x:TypeArguments="ITarget" Capacity="4">
+      <Target DesignTimeRectangle="428, 101, 600, 39" FriendlyName="'Document completed.'" FullSelectorArgument="&lt;webctrl parentid='wt13_OutSystemsUIWeb_wt18_block_wt5_RichWidgets_wt7_block_wtFeed*' tag='DIV' /&gt;" FuzzySelectorArgument="&lt;webctrl parentid='wt13_OutSystemsUIWeb_wt18_block_wt5_RichWidgets_wt7_block_wtFeed*' tag='DIV' type='' aaname='' check:text='Document completed.' /&gt;" SearchSteps="FuzzySelector, Image">
+        <imageRef attrName="ImageBase64" xmlns="">10j4bX3in-kW-Ue0hspVjKw</imageRef>
+      </Target>
+    </scg:List>
+  </TargetAnchorable.Anchors>
+  <imageRef attrName="ImageBase64" xmlns="">0QLbUR43V50-ZYwyvBUrX9Q</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="d4754da956f1e73bcdf6d439acce6840.png" xmlns="">0ssdtGVB0NUqulISBqRYGlw</imageRef>
+</TargetAnchorable>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetAnchorable BrowserURL="https://10.243.229.232/MASA/DashBoard.aspx?(Not.Licensed.For.Production)=" ContentHash="bZzWczRahUm99Sfdsp343g" DesignTimeRectangle="418, 137, 79, 37" ElementType="Text" FriendlyName="'Beranda'" FullSelectorArgument="&lt;webctrl id='wt14_OutSystemsUIWeb_wt18_block_wtHeader_wtHeaderContent_wt4_Ric*' tag='A' /&gt;" FuzzySelectorArgument="&lt;webctrl id='wt14_OutSystemsUIWeb_wt18_block_wtHeader_wtHeaderContent_wt4_Ric*' tag='A' type='' aaname='Beranda' check:text='Beranda' /&gt;" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Dashboard | MASA' /&gt;" SearchSteps="FuzzySelector, Image" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=mscorlib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <TargetAnchorable.Anchors>
+    <scg:List x:TypeArguments="ITarget" Capacity="4">
+      <Target DesignTimeRectangle="418, 135, 79, 39" ElementType="Button" FriendlyName="'Beranda'" FullSelectorArgument="&lt;webctrl aria-role='button' tag='DIV' /&gt;" FuzzySelectorArgument="&lt;webctrl aria-role='button' tag='DIV' type='' aaname='' check:text='Beranda' /&gt;" SearchSteps="FuzzySelector, Image">
+        <imageRef attrName="ImageBase64" xmlns="">1vhrWqwzTTkO3O8DSaN8lNA</imageRef>
+      </Target>
+    </scg:List>
+  </TargetAnchorable.Anchors>
+  <imageRef attrName="ImageBase64" xmlns="">0bj-Kyn6-S0Gr4eo0UgjeJg</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="9a7757db2c93efcb20165bfc247555ce.png" xmlns="">0lpJcC3wfzUmzrRkch8wpyA</imageRef>
+</TargetAnchorable>

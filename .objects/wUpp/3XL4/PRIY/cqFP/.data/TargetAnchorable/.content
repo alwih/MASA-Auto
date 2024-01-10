@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetAnchorable ContentHash="PAN3OTAu802MLHT8uFrdaQ" DesignTimeRectangle="93, 726, 1261, 22" ElementType="Text" FriendlyName="'Add TransaksiNomor'" FullSelectorArgument="&lt;ctrl name='Nomor | MASA' role='document' /&gt;&lt;ctrl idx='7' role='row' /&gt;&lt;ctrl name=' Add TransaksiNomor' role='cell' /&gt;&lt;ctrl name=' Add TransaksiNomor' role='link' /&gt;" FuzzySelectorArgument="&lt;ctrl name='Nomor | MASA' role='document' /&gt;&lt;ctrl role='row' /&gt;&lt;ctrl name=' Add TransaksiNomor' role='cell' /&gt;&lt;ctrl name=' Add TransaksiNomor' role='link' automationid='' check:text='Add TransaksiNomor' /&gt;" ScopeSelectorArgument="&lt;wnd app='chrome.exe' cls='Chrome_WidgetWin_1' title='Nomor | MASA - Google Chrome' /&gt;" SearchSteps="FuzzySelector, Image" SelectionStrategy="AA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=mscorlib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <TargetAnchorable.Anchors>
+    <scg:List x:TypeArguments="ITarget" Capacity="4">
+      <Target DesignTimeRectangle="69, 710, 1309, 54" ElementType="Cell" FriendlyName="'Add TransaksiNomor '" FullSelectorArgument="&lt;ctrl name='Nomor | MASA' role='document' /&gt;&lt;ctrl idx='7' role='row' /&gt;&lt;ctrl name=' Add TransaksiNomor' role='cell' /&gt;" FuzzySelectorArgument="&lt;ctrl name='Nomor | MASA' role='document' /&gt;&lt;ctrl role='row' /&gt;&lt;ctrl name=' Add TransaksiNomor' role='cell' automationid='' /&gt;" SearchSteps="Selector, FuzzySelector, Image">
+        <imageRef attrName="ImageBase64" xmlns="">10Ntl_3PPNckm_NdgTIP0uDg</imageRef>
+      </Target>
+    </scg:List>
+  </TargetAnchorable.Anchors>
+  <imageRef attrName="ImageBase64" xmlns="">09b5bwGa4-k6MsQUdXlQIrQ</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="b6f4e15e2278c64f6487f3e7f8f7342e.png" xmlns="">0GUGkpqEDlE6GItbNEEJSbQ</imageRef>
+</TargetAnchorable>

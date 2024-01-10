@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetAnchorable ContentHash="7d1lbHCdNEyBziqKHrPq7w" DesignTimeRectangle="735, 211, 639, 41" ElementType="DropDown" FriendlyName="'MASA Operator Internal'" FullSelectorArgument="&lt;ctrl name='*' role='document' /&gt;&lt;ctrl name='Mutasi' role='property page' /&gt;&lt;ctrl name='PIC' role='combo box' text='*' /&gt;" FuzzySelectorArgument="&lt;ctrl name='*' role='document' /&gt;&lt;ctrl name='Mutasi' role='property page' /&gt;&lt;ctrl name='PIC' role='combo box' text='*' automationid='' /&gt;" Reference="XmXxxtzE4ke1YN84qKCJ1w/4gohVBDEYEq5TBqIbNt2HA" ScopeSelectorArgument="&lt;wnd app='chrome.exe' cls='Chrome_WidgetWin_1' title='*' /&gt;" SearchSteps="Selector, FuzzySelector" SelectionStrategy="AA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=mscorlib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <TargetAnchorable.Anchors>
+    <scg:List x:TypeArguments="ITarget" Capacity="4">
+      <Target DesignTimeRectangle="735, 187, 422, 25" ElementType="InputBox" FriendlyName="'PIC'" FullSelectorArgument="&lt;ctrl name='*' role='document' /&gt;&lt;ctrl name='Mutasi' role='property page' /&gt;&lt;ctrl idx='12' role='editable text' /&gt;" FuzzySelectorArgument="&lt;ctrl name='*' role='document' /&gt;&lt;ctrl name='Mutasi' role='property page' /&gt;&lt;ctrl automationid='' role='editable text' /&gt;" SearchSteps="Selector, FuzzySelector, Image">
+        <imageRef attrName="ImageBase64" xmlns="">0pWIig6RZVESovHk3cxyTGw</imageRef>
+      </Target>
+    </scg:List>
+  </TargetAnchorable.Anchors>
+  <imageRef attrName="InformativeScreenshot" originalValue="adfb882858f7c4fa6d449ca84143fe14.png" xmlns="">0M01xCXtq6UmolAZpLAZRrA</imageRef>
+</TargetAnchorable>

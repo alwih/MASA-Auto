@@ -1,0 +1,14 @@
+﻿{
+  "Id": "NIpIU3F6PUad16UJ_T3GgA",
+  "Reference": "XmXxxtzE4ke1YN84qKCJ1w/NIpIU3F6PUad16UJ_T3GgA",
+  "ParentRef": "XmXxxtzE4ke1YN84qKCJ1w/nOFoJFU7rEWhI1davf0Mjg",
+  "Name": "Extract Table Data - Hari Libur",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2022-08-04T15:07:26.3887661Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=21.4.4.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-08-04T15:07:26.3887661Z"
+}

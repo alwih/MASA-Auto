@@ -1,0 +1,16 @@
+﻿{
+  "Id": "8Rfu_GARBUOtqHNb7WAkoA",
+  "Reference": "XmXxxtzE4ke1YN84qKCJ1w/8Rfu_GARBUOtqHNb7WAkoA",
+  "ParentRef": "XmXxxtzE4ke1YN84qKCJ1w/BNIgjJrtsUGv9K18gCm1AA",
+  "Name": "c Nama Rekening",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2022-06-23T04:53:51.7555777Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-06-23T04:54:16.3747014Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetAnchorable BrowserURL="https://10.243.229.232/MASA/FPP_Pajak_NonPajak.aspx" ContentHash="dseEKiv73kOjViAVwQGPqQ" DesignTimeRectangle="736, 672, 623, 40" ElementType="InputBox" FriendlyName="'0,00'" FullSelectorArgument="&lt;webctrl aaname='Jumlah Nominal' id='wt17_OutSystemsUIWeb_wt18_block_wtContent_wtMainContent_MASA_Fin*' tag='INPUT' type='text' /&gt;" FuzzySelectorArgument="&lt;webctrl aaname='Jumlah Nominal' id='wt17_OutSystemsUIWeb_wt18_block_wtContent_wtMainContent_MASA_Fin*' tag='INPUT' type='text' /&gt;" ScopeSelectorArgument="&lt;html app='chrome.exe' title='FPP Pajak / Non Pajak Detail | MASA' /&gt;" SearchSteps="FuzzySelector, Image" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=mscorlib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <TargetAnchorable.Anchors>
+    <scg:List x:TypeArguments="ITarget" Capacity="4">
+      <Target DesignTimeRectangle="736, 648, 199, 24" ElementType="Text" FriendlyName="'Jumlah Nominal'" FullSelectorArgument="&lt;webctrl aaname='Jumlah Nominal' parentid='wt17_OutSystemsUIWeb_wt18_block_wtContent_wtMainContent_MASA_Fin*' tag='LABEL' /&gt;" FuzzySelectorArgument="&lt;webctrl aaname='Jumlah Nominal' parentid='wt17_OutSystemsUIWeb_wt18_block_wtContent_wtMainContent_MASA_Fin*' tag='LABEL' type='' check:text='Jumlah Nominal' /&gt;" SearchSteps="FuzzySelector, Image">
+        <imageRef attrName="ImageBase64" xmlns="">1oiFTYIP_0kOBPvPK83cS9Q</imageRef>
+      </Target>
+    </scg:List>
+  </TargetAnchorable.Anchors>
+  <imageRef attrName="ImageBase64" xmlns="">0VNhQRThS_kGZqJx4_Q5H1A</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="1c261e19729576e5b5c3d1a659210c65.png" xmlns="">06Hp-9FAnAkWJCrtplosYCQ</imageRef>
+</TargetAnchorable>

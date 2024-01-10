@@ -1,0 +1,16 @@
+﻿{
+  "Id": "jU2sn4NRp0-V-LkSNwrWkg",
+  "Reference": "XmXxxtzE4ke1YN84qKCJ1w/jU2sn4NRp0-V-LkSNwrWkg",
+  "ParentRef": "XmXxxtzE4ke1YN84qKCJ1w/nYwEr1ZnpEKdoGt81DNRjA",
+  "Name": "Btn: Tambah Dokumen",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2022-04-19T08:09:56.1868168Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-04-19T08:10:04.8593706Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

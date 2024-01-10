@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetAnchorable ContentHash="DDY44Cn5IUKeZXw7MQpjvA" DesignTimeRectangle="69, 432, 642, 41" FriendlyName="'85209'" FullSelectorArgument="&lt;ctrl name='Master URC Detail | MASA' role='document' /&gt;&lt;ctrl idx='64' role='grouping' /&gt;" FuzzySelectorArgument="&lt;ctrl name='Master URC Detail | MASA' role='document' /&gt;&lt;ctrl automationid='' role='grouping' /&gt;" ScopeSelectorArgument="&lt;wnd app='chrome.exe' cls='Chrome_WidgetWin_1' title='Master URC Detail | MASA - Google Chrome' /&gt;" SearchSteps="Selector, FuzzySelector" SelectionStrategy="AA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=mscorlib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <TargetAnchorable.Anchors>
+    <scg:List x:TypeArguments="ITarget" Capacity="4">
+      <Target DesignTimeRectangle="69, 408, 420, 25" ElementType="InputBox" FriendlyName="'URC'" FullSelectorArgument="&lt;ctrl name='Master URC Detail | MASA' role='document' /&gt;&lt;ctrl idx='10' role='editable text' /&gt;" FuzzySelectorArgument="&lt;ctrl name='Master URC Detail | MASA' role='document' /&gt;&lt;ctrl automationid='' role='editable text' /&gt;" SearchSteps="Selector, FuzzySelector, Image">
+        <imageRef attrName="ImageBase64" xmlns="">182kX0iun2Uy_0JbXRZYF3g</imageRef>
+      </Target>
+    </scg:List>
+  </TargetAnchorable.Anchors>
+  <imageRef attrName="ImageBase64" xmlns="">0Cjl4h-pcA0-gY_hqDO_QXQ</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="20bd4d92d141c08e32171f0dee755558.png" xmlns="">0eolWNuFpMkOo9VVvlOxrGw</imageRef>
+</TargetAnchorable>

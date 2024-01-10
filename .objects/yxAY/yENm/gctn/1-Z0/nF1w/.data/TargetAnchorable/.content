@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetAnchorable BrowserURL="https://10.243.229.232/MASA/FinancialTransaction.ReimbursementNonPerdin.aspx" ContentHash="gt1pfKO3CUOLOG9DfKDjzA" DesignTimeRectangle="736, 528, 639, 69" ElementType="InputBox" FriendlyName="'TEXTAREA'" FullSelectorArgument="&lt;webctrl aaname='Perihal' tag='TEXTAREA' /&gt;" FuzzySelectorArgument="&lt;webctrl aaname='Perihal' tag='TEXTAREA' type='' /&gt;" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Reimbursement Non Perdin Detail | MASA' /&gt;" SearchSteps="FuzzySelector, Image" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=mscorlib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <TargetAnchorable.Anchors>
+    <scg:List x:TypeArguments="ITarget" Capacity="4">
+      <Target DesignTimeRectangle="736, 504, 96, 24" ElementType="Text" FriendlyName="'Perihal'" FullSelectorArgument="&lt;webctrl aaname='Perihal' parentid='wt4_OutSystemsUIWeb_wt18_block_wtContent_wtMainContent_MASA_Fina*' tag='LABEL' /&gt;" FuzzySelectorArgument="&lt;webctrl aaname='Perihal' parentid='wt4_OutSystemsUIWeb_wt18_block_wtContent_wtMainContent_MASA_Fina*' tag='LABEL' type='' check:text='Perihal' /&gt;" SearchSteps="FuzzySelector, Image">
+        <imageRef attrName="ImageBase64" xmlns="">4t-cODaynoUSvfulOhoiQhg</imageRef>
+      </Target>
+    </scg:List>
+  </TargetAnchorable.Anchors>
+  <imageRef attrName="ImageBase64" xmlns="">03dgFqa0lmECLlHlsJXv61g</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="72d25509347be11126b4610aced077b9.png" xmlns="">0S6lHN7HmLESVplro4YQSBA</imageRef>
+</TargetAnchorable>

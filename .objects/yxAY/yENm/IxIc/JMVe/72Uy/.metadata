@@ -1,0 +1,16 @@
+﻿{
+  "Id": "72Uy5jMCGEShW5f5qUqB1w",
+  "Reference": "XmXxxtzE4ke1YN84qKCJ1w/72Uy5jMCGEShW5f5qUqB1w",
+  "ParentRef": "XmXxxtzE4ke1YN84qKCJ1w/JMVeg6fiZEaOkK454tYu7Q",
+  "Name": "e Cost Center Pegawai",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2022-08-20T13:05:33.2199787Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-08-20T13:06:01.6220748Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

@@ -1,0 +1,16 @@
+﻿{
+  "Id": "rGEdM0VnfU-J5A30r-HpAw",
+  "Reference": "XmXxxtzE4ke1YN84qKCJ1w/rGEdM0VnfU-J5A30r-HpAw",
+  "ParentRef": "XmXxxtzE4ke1YN84qKCJ1w/tf97-MEWbkuAGrv5TfJacA",
+  "Name": "1 Nomor Dokumen",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2022-04-19T09:14:24.3266577Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-04-19T09:15:12.5030176Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

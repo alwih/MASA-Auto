@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetAnchorable BrowserURL="https://10.243.229.232/MASA/TrackNoteDashboard.aspx?(Not.Licensed.For.Production)=" ContentHash="rtftUzYSw0iW3ReJx6Bozg" DesignTimeRectangle="261, 335, 841, 50" ElementType="InputBox" FriendlyName="'INPUT'" FullSelectorArgument="&lt;webctrl tag='INPUT' type='text' /&gt;" FuzzySelectorArgument="&lt;webctrl tag='INPUT' type='text' aaname='' /&gt;" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Tracking Nota | MASA' /&gt;" SearchSteps="Selector, FuzzySelector, Image" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=mscorlib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <TargetAnchorable.Anchors>
+    <scg:List x:TypeArguments="ITarget" Capacity="4">
+      <Target DesignTimeRectangle="1124, 340, 71, 40" ElementType="Button" FriendlyName="'Track'" FullSelectorArgument="&lt;webctrl id='wt17_OutSystemsUIWeb_wt18_block_wtContent_wtMainContent_MASA_Tra*' tag='INPUT' type='submit' /&gt;" FuzzySelectorArgument="&lt;webctrl id='wt17_OutSystemsUIWeb_wt18_block_wtContent_wtMainContent_MASA_Tra*' tag='INPUT' type='submit' aaname='Track' check:text='Track' /&gt;" SearchSteps="FuzzySelector, Image">
+        <imageRef attrName="ImageBase64" xmlns="">1HwlP7zrrsUq-ZuyEtKbl5w</imageRef>
+      </Target>
+    </scg:List>
+  </TargetAnchorable.Anchors>
+  <imageRef attrName="ImageBase64" xmlns="">0MPe4XhAlQEGhciDFAlbWFQ</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="9398c55319272cdb2582e582961f4e39.png" xmlns="">0MpkhBD_5xEKDLGh2H7qhbA</imageRef>
+</TargetAnchorable>

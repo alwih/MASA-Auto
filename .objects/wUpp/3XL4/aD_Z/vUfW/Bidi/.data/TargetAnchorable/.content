@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetAnchorable ContentHash="f53DYE_raE6hLDqMoh2eMw" DesignTimeRectangle="48, 488, 435, 88" ElementType="InputBox" FriendlyName="'editable text Notes'" FullSelectorArgument="&lt;ctrl name='GroupCategoryDetail' role='document' /&gt;&lt;ctrl name='Notes' role='editable text' /&gt;" FuzzySelectorArgument="&lt;ctrl name='GroupCategoryDetail' role='document' /&gt;&lt;ctrl name='Notes' role='editable text' automationid='' /&gt;" ScopeSelectorArgument="&lt;wnd app='chrome.exe' cls='Chrome_WidgetWin_1' title='GroupCategoryDetail - Google Chrome' /&gt;" SearchSteps="Selector, FuzzySelector, Image" SelectionStrategy="AA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=mscorlib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <TargetAnchorable.Anchors>
+    <scg:List x:TypeArguments="ITarget" Capacity="4">
+      <Target DesignTimeRectangle="48, 464, 211, 25" ElementType="InputBox" FriendlyName="'Notes'" FullSelectorArgument="&lt;ctrl name='GroupCategoryDetail' role='document' /&gt;&lt;ctrl idx='2' role='editable text' /&gt;" FuzzySelectorArgument="&lt;ctrl name='GroupCategoryDetail' role='document' /&gt;&lt;ctrl automationid='' role='editable text' /&gt;" SearchSteps="Selector, FuzzySelector, Image">
+        <imageRef attrName="ImageBase64" xmlns="">1rLkBvnvON0aeOBTqtAqLhg</imageRef>
+      </Target>
+    </scg:List>
+  </TargetAnchorable.Anchors>
+  <imageRef attrName="ImageBase64" xmlns="">0B3E5kbKyRUWkGEjK148C8Q</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="fb97ab648c69a287d4769b3a48cdbfc5.png" xmlns="">0CsXC00MGR06xUYjyJbZ3Ew</imageRef>
+</TargetAnchorable>

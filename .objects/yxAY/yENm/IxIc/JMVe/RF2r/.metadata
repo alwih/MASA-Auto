@@ -1,0 +1,16 @@
+﻿{
+  "Id": "RF2r621HdkyAJfk5uTzVig",
+  "Reference": "XmXxxtzE4ke1YN84qKCJ1w/RF2r621HdkyAJfk5uTzVig",
+  "ParentRef": "XmXxxtzE4ke1YN84qKCJ1w/JMVeg6fiZEaOkK454tYu7Q",
+  "Name": "c Tgl Akhir",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2022-08-20T12:59:57.349806Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-08-20T13:00:12.7655459Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

@@ -1,0 +1,13 @@
+﻿{
+  "Id": "ZHGi7uAEcUy_cEkbjt5FLQ",
+  "Reference": "XmXxxtzE4ke1YN84qKCJ1w/ZHGi7uAEcUy_cEkbjt5FLQ",
+  "ParentRef": "XmXxxtzE4ke1YN84qKCJ1w/WIkfpUQaQ06sN1K8v-NhkQ",
+  "Name": "Btn: Simpan Kiri",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2022-08-04T02:13:42.4139816Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-08-04T02:13:42.4139816Z"
+}

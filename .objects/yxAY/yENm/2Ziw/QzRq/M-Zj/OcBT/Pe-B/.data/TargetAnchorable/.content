@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetAnchorable ContentHash="nQi4uViDJk2WsiFy1o_Deg" DesignTimeRectangle="873, 696, 195, 41" ElementType="InputBox" FriendlyName="'0'" FullSelectorArgument="&lt;ctrl name='FPP Pajak / Non Pajak Detail | MASA' role='document' /&gt;&lt;ctrl name='Detail' role='property page' /&gt;&lt;ctrl name='Beban Grup' role='property page' /&gt;&lt;ctrl idx='4' role='row' /&gt;&lt;ctrl name='0' role='cell' /&gt;&lt;ctrl role='editable text' /&gt;" FuzzySelectorArgument="&lt;ctrl name='FPP Pajak / Non Pajak Detail | MASA' role='document' /&gt;&lt;ctrl name='Detail' role='property page' /&gt;&lt;ctrl name='Beban Grup' role='property page' /&gt;&lt;ctrl role='row' /&gt;&lt;ctrl name='0' role='cell' /&gt;&lt;ctrl role='editable text' automationid='' /&gt;" ScopeSelectorArgument="&lt;wnd app='chrome.exe' cls='Chrome_WidgetWin_1' title='FPP Pajak / Non Pajak Detail | MASA - Google Chrome' /&gt;" SearchSteps="FuzzySelector, Image" SelectionStrategy="AA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=mscorlib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <TargetAnchorable.Anchors>
+    <scg:List x:TypeArguments="ITarget" Capacity="4">
+      <Target DesignTimeRectangle="933, 660, 75, 18" ElementType="Text" FriendlyName="'Tarif Pajak %'" FullSelectorArgument="&lt;ctrl name='FPP Pajak / Non Pajak Detail | MASA' role='document' /&gt;&lt;ctrl name='Detail' role='property page' /&gt;&lt;ctrl name='Beban Grup' role='property page' /&gt;&lt;ctrl idx='3' role='row' /&gt;&lt;ctrl name='Tarif Pajak %' role='cell' /&gt;&lt;ctrl name='Tarif Pajak %' role='text' /&gt;" FuzzySelectorArgument="&lt;ctrl name='FPP Pajak / Non Pajak Detail | MASA' role='document' /&gt;&lt;ctrl name='Detail' role='property page' /&gt;&lt;ctrl name='Beban Grup' role='property page' /&gt;&lt;ctrl role='row' /&gt;&lt;ctrl name='Tarif Pajak %' role='cell' /&gt;&lt;ctrl name='Tarif Pajak %' role='text' automationid='' check:text='Tarif Pajak %' /&gt;" SearchSteps="Selector, FuzzySelector, Image">
+        <imageRef attrName="ImageBase64" xmlns="">14dDv6VR-SEmJv93gYpSkrQ</imageRef>
+      </Target>
+    </scg:List>
+  </TargetAnchorable.Anchors>
+  <imageRef attrName="ImageBase64" xmlns="">0vNc5wKig9UWZnql7RpMWLQ</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="fd089755b30b2e7a905e5f8c6b228bde.png" xmlns="">0xt-maXvzmkiCZW9wDBj7Yg</imageRef>
+</TargetAnchorable>

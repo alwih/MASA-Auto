@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetAnchorable BrowserURL="https://10.243.229.232/MASA/AssignPIC.aspx?(Not.Licensed.For.Production)=" ContentHash="xHcB9ff58UWiBOK5R7QN8Q" DesignTimeRectangle="73, 431, 18, 18" ElementType="CheckBox" FriendlyName="'Checkbox'" FullSelectorArgument="&lt;webctrl css-selector='body&amp;gt;form&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;main&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;table&amp;gt;tbody&amp;gt;tr&amp;gt;td&amp;gt;input' tag='INPUT' type='checkbox' /&gt;" FuzzySelectorArgument="&lt;webctrl css-selector='body&amp;gt;form&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;main&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;table&amp;gt;tbody&amp;gt;tr&amp;gt;td&amp;gt;input' tag='INPUT' type='checkbox' aaname='' /&gt;" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Assign PIC | MASA' /&gt;" SearchSteps="FuzzySelector" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=mscorlib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <TargetAnchorable.Anchors>
+    <scg:List x:TypeArguments="ITarget" Capacity="4">
+      <Target DesignTimeRectangle="112, 419, 122, 48" ElementType="Text" FriendlyName="'2022.15'" FullSelectorArgument="&lt;webctrl id='wt6_OutSystemsUIWeb_wt18_block_wtContent_wtMainContent_MASA_SHAR*' tag='TABLE' /&gt;&lt;webctrl isleaf='1' tag='TD' /&gt;" FuzzySelectorArgument="&lt;webctrl id='wt6_OutSystemsUIWeb_wt18_block_wtContent_wtMainContent_MASA_SHAR*' tag='TABLE' /&gt;&lt;webctrl isleaf='1' tag='TD' type='' aaname='2022.15' check:text='2022.15' /&gt;" SearchSteps="FuzzySelector, Image">
+        <imageRef attrName="ImageBase64" xmlns="">0sIo1M9wQakmV1Pczde-cug</imageRef>
+      </Target>
+      <Target DesignTimeRectangle="73, 385, 24, 24" ElementType="CheckBox" FriendlyName="'Checkbox'" FullSelectorArgument="&lt;webctrl tag='INPUT' type='checkbox' /&gt;" FuzzySelectorArgument="&lt;webctrl tag='INPUT' type='checkbox' aaname='Select All/Select None' /&gt;" SearchSteps="FuzzySelector, Image">
+        <imageRef attrName="ImageBase64" xmlns="">1XFPaNebBDEOLWgLqqj31jA</imageRef>
+      </Target>
+    </scg:List>
+  </TargetAnchorable.Anchors>
+  <imageRef attrName="InformativeScreenshot" originalValue="b87afbd7d293b6684b31e1a9c2e832a8.png" xmlns="">0huiHpZN6O0Cjd4qndAZjsA</imageRef>
+</TargetAnchorable>

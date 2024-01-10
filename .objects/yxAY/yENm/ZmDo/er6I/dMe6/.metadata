@@ -1,0 +1,16 @@
+﻿{
+  "Id": "dMe6V37OWkqt9P5cx3ouZQ",
+  "Reference": "XmXxxtzE4ke1YN84qKCJ1w/dMe6V37OWkqt9P5cx3ouZQ",
+  "ParentRef": "XmXxxtzE4ke1YN84qKCJ1w/er6IIhtuK02F8Me5E6WQuw",
+  "Name": "b Jenis PJUM",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2022-08-22T02:58:37.6447356Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-08-22T02:59:19.0968568Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

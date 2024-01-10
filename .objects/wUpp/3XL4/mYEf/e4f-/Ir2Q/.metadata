@@ -1,0 +1,16 @@
+﻿{
+  "Id": "Ir2QfJqHGkS0yugBS76x0Q",
+  "Reference": "XmXxxtzE4ke1YN84qKCJ1w/Ir2QfJqHGkS0yugBS76x0Q",
+  "ParentRef": "XmXxxtzE4ke1YN84qKCJ1w/e4f-naiIxkmu0gFUwB74kw",
+  "Name": "b Nama Modul",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2022-07-28T03:00:25.4230711Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-07-28T03:00:40.5965328Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

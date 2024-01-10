@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetAnchorable ContentHash="HJzcr4eZAkiJQbXINEUKYQ" DesignTimeRectangle="69, 506, 642, 70" ElementType="InputBox" FriendlyName="'editable text Keterangan'" FullSelectorArgument="&lt;ctrl name='Master Rekening Detail | MASA' role='document' /&gt;&lt;ctrl name='Keterangan' role='editable text' /&gt;" FuzzySelectorArgument="&lt;ctrl name='Master Rekening Detail | MASA' role='document' /&gt;&lt;ctrl name='Keterangan' role='editable text' automationid='' /&gt;" ScopeSelectorArgument="&lt;wnd app='chrome.exe' cls='Chrome_WidgetWin_1' title='Master Rekening Detail | MASA - Google Chrome' /&gt;" SearchSteps="Selector, FuzzySelector" SelectionStrategy="AA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=mscorlib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <TargetAnchorable.Anchors>
+    <scg:List x:TypeArguments="ITarget" Capacity="4">
+      <Target DesignTimeRectangle="69, 482, 197, 25" ElementType="InputBox" FriendlyName="'Keterangan'" FullSelectorArgument="&lt;ctrl name='Master Rekening Detail | MASA' role='document' /&gt;&lt;ctrl idx='3' role='editable text' /&gt;" FuzzySelectorArgument="&lt;ctrl name='Master Rekening Detail | MASA' role='document' /&gt;&lt;ctrl automationid='' role='editable text' /&gt;" SearchSteps="Selector, FuzzySelector, Image">
+        <imageRef attrName="ImageBase64" xmlns="">1z6up7dkoKUSTWWSalPh_bA</imageRef>
+      </Target>
+    </scg:List>
+  </TargetAnchorable.Anchors>
+  <imageRef attrName="ImageBase64" xmlns="">0OojYv_F3zEmcESF3MkD9WA</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="f38f2877c697f9cb84a6e67c883cafcc.png" xmlns="">0D4Ktq1luE0CTFpm5hVhTng</imageRef>
+</TargetAnchorable>

@@ -1,0 +1,16 @@
+﻿{
+  "Id": "LBcOFuoliEqV_t26_ujCDw",
+  "Reference": "XmXxxtzE4ke1YN84qKCJ1w/LBcOFuoliEqV_t26_ujCDw",
+  "ParentRef": "XmXxxtzE4ke1YN84qKCJ1w/aD_ZwgP_I0iQhH70Gu2siQ",
+  "Name": "Btn: Action View",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2022-08-16T06:56:27.5900402Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-08-16T06:57:02.1838339Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

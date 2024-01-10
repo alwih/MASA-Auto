@@ -1,0 +1,14 @@
+﻿{
+  "Id": "wUpp3dgLKkmzH7Ym9ZF7qg",
+  "Reference": "XmXxxtzE4ke1YN84qKCJ1w/wUpp3dgLKkmzH7Ym9ZF7qg",
+  "Name": "Master Data",
+  "Type": "App",
+  "Created": "2022-07-20T04:09:40.274742Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-07-28T02:57:59.3696444Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

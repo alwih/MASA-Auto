@@ -1,0 +1,16 @@
+﻿{
+  "Id": "5s-qgz6v4kOyWi7IQ-tX7w",
+  "Reference": "XmXxxtzE4ke1YN84qKCJ1w/5s-qgz6v4kOyWi7IQ-tX7w",
+  "ParentRef": "XmXxxtzE4ke1YN84qKCJ1w/1RRi3ro-w0esVnJ4tKqejA",
+  "Name": "Nama Bank",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2022-08-04T10:29:04.8019142Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-08-04T10:29:17.3766719Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

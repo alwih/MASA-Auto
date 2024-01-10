@@ -1,0 +1,16 @@
+﻿{
+  "Id": "pFlHf2Gzrk6h7ILsndUsdQ",
+  "Reference": "XmXxxtzE4ke1YN84qKCJ1w/pFlHf2Gzrk6h7ILsndUsdQ",
+  "ParentRef": "XmXxxtzE4ke1YN84qKCJ1w/47XUujyua0SCy1qZodMkkw",
+  "Name": "Notif: Assign PIC",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2022-04-27T06:35:01.1345456Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-04-27T06:36:27.1743418Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

@@ -1,0 +1,16 @@
+﻿{
+  "Id": "hvRMTo95X02m31hHGOhkEw",
+  "Reference": "XmXxxtzE4ke1YN84qKCJ1w/hvRMTo95X02m31hHGOhkEw",
+  "ParentRef": "XmXxxtzE4ke1YN84qKCJ1w/tf97-MEWbkuAGrv5TfJacA",
+  "Name": "5 Ket Detail",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2022-04-19T09:16:06.1822723Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-04-19T09:16:27.4795729Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

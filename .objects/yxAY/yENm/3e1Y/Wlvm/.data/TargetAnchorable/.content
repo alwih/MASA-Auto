@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetAnchorable ContentHash="XNfVnL0fO0GK5WF5phs0bw" DesignTimeRectangle="65, 758, 148, 41" ElementType="Button" FriendlyName="'Request Approval'" FullSelectorArgument="&lt;ctrl name='*| MASA' role='document' /&gt;&lt;ctrl name='Request Approval' role='push button' /&gt;" FuzzySelectorArgument="&lt;ctrl name='*| MASA' role='document' /&gt;&lt;ctrl name='Request Approval' role='push button' automationid='' check:text='Request Approval' /&gt;" Reference="XmXxxtzE4ke1YN84qKCJ1w/WlvmkPaSb0Kn3L_6N9QK2w" ScopeSelectorArgument="&lt;wnd app='chrome.exe' cls='Chrome_WidgetWin_1' title='FPP Pajak / Non Pajak Detail | MASA - Google Chrome' /&gt;" SearchSteps="Selector, FuzzySelector, Image" SelectionStrategy="AA" xmlns="http://schemas.uipath.com/workflow/activities/uix">
+  <imageRef attrName="ImageBase64" xmlns="">0BnlvkOfJ8kuq7ZmAg7lTLg</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="529a75b3bf0ad47a466e295d5cecbd23.png" xmlns="">0y5aemt2CFUqgqTjZNnkZqQ</imageRef>
+</TargetAnchorable>

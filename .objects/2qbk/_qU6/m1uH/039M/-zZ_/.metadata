@@ -1,0 +1,16 @@
+﻿{
+  "Id": "-zZ_IoHJF0G0p8gc7AgZ5Q",
+  "Reference": "XmXxxtzE4ke1YN84qKCJ1w/-zZ_IoHJF0G0p8gc7AgZ5Q",
+  "ParentRef": "XmXxxtzE4ke1YN84qKCJ1w/039Mrbh69EOA9SxUVHGUSg",
+  "Name": "Notif: Upload Berhasil",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2022-05-11T09:14:29.2699175Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-05-13T08:21:30.7852471Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

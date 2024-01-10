@@ -1,0 +1,16 @@
+﻿{
+  "Id": "E7dvlduI4EW2iN4wP5takQ",
+  "Reference": "XmXxxtzE4ke1YN84qKCJ1w/E7dvlduI4EW2iN4wP5takQ",
+  "ParentRef": "XmXxxtzE4ke1YN84qKCJ1w/qSd3XJ0m2UO2O3nCqdR8Hw",
+  "Name": "Notif: Verification",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2022-04-28T05:06:38.7618291Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-04-28T05:07:15.3478752Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

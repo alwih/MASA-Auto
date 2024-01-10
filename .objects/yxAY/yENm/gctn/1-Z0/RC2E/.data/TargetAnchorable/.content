@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetAnchorable BrowserURL="https://10.243.229.232/MASA/FinancialTransaction.ReimbursementNonPerdin.aspx" ContentHash="V5_kvBjLAkSIoI7u0eWKTA" DesignTimeRectangle="65, 449, 639, 69" ElementType="InputBox" FriendlyName="'TEXTAREA'" FullSelectorArgument="&lt;webctrl tag='TEXTAREA' /&gt;" FuzzySelectorArgument="&lt;webctrl tag='TEXTAREA' type='' aaname='Keterangan' /&gt;" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Reimbursement Non Perdin Detail | MASA' /&gt;" SearchSteps="FuzzySelector, Image" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=mscorlib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <TargetAnchorable.Anchors>
+    <scg:List x:TypeArguments="ITarget" Capacity="4">
+      <Target DesignTimeRectangle="65, 425, 96, 24" ElementType="Text" FriendlyName="'Keterangan'" FullSelectorArgument="&lt;webctrl aaname='Keterangan' parentid='wt4_OutSystemsUIWeb_wt18_block_wtContent_wtMainContent_MASA_Fina*' tag='LABEL' /&gt;" FuzzySelectorArgument="&lt;webctrl aaname='Keterangan' parentid='wt4_OutSystemsUIWeb_wt18_block_wtContent_wtMainContent_MASA_Fina*' tag='LABEL' type='' check:text='Keterangan' /&gt;" SearchSteps="FuzzySelector, Image">
+        <imageRef attrName="ImageBase64" xmlns="">1ellOuJQde022rLmNSgVlYQ</imageRef>
+      </Target>
+    </scg:List>
+  </TargetAnchorable.Anchors>
+  <imageRef attrName="ImageBase64" xmlns="">0H1_ulgTw0UOF1nWtT1CF_Q</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="ebcf85b51db289c5efd74b77c042efd0.png" xmlns="">0MMhGMO8DtkCAGQkMoJU-xA</imageRef>
+</TargetAnchorable>

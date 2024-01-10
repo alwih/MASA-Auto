@@ -1,0 +1,14 @@
+﻿{
+  "Id": "aUpCUDgVhEuXQ0Z0Z4-bvQ",
+  "Reference": "XmXxxtzE4ke1YN84qKCJ1w/aUpCUDgVhEuXQ0Z0Z4-bvQ",
+  "ParentRef": "XmXxxtzE4ke1YN84qKCJ1w/84TIviGNr06hJtV-hZ46eQ",
+  "Name": "Extract Table Data - Rubrik Surat",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2022-07-28T07:27:42.173329Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=21.4.4.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-07-28T07:27:42.173329Z"
+}

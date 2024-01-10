@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetAnchorable ContentHash="HcxWuthqyES-mzOsiyz7wQ" DesignTimeRectangle="1178, 334, 200, 41" ElementType="Text" FriendlyName="'User Employee Baru'" FullSelectorArgument="&lt;ctrl name='Master User Employee | MASA' role='document' /&gt;&lt;ctrl name=' User Employee Baru' role='link' /&gt;" FuzzySelectorArgument="&lt;ctrl name='Master User Employee | MASA' role='document' /&gt;&lt;ctrl name=' User Employee Baru' role='link' automationid='' check:text='User Employee Baru' /&gt;" ScopeSelectorArgument="&lt;wnd app='chrome.exe' cls='Chrome_WidgetWin_1' title='Master User Employee | MASA - Google Chrome' /&gt;" SearchSteps="Selector, FuzzySelector" SelectionStrategy="AA" xmlns="http://schemas.uipath.com/workflow/activities/uix">
+  <imageRef attrName="ImageBase64" xmlns="">0M1s5o2A6vUyHD-gtNzFT0Q</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="dfc5b130f276a8e199d80f1bf608847a.png" xmlns="">0ThWFAIZWTE2db4u5bijJqA</imageRef>
+</TargetAnchorable>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetAnchorable BrowserURL="https://10.243.229.232/MASA/AssignPIC.aspx?(Not.Licensed.For.Production)=" ContentHash="hBWdEDA7A0aUZOIC2DqG6A" DesignTimeRectangle="1249, 452, 99, 40" ElementType="Text" FriendlyName="'Detail'" FullSelectorArgument="&lt;webctrl aaname='Detail' id='wt6_OutSystemsUIWeb_wt18_block_wtContent_wtMainContent_MASA_SHAR*' tag='A' /&gt;" FuzzySelectorArgument="&lt;webctrl aaname='Detail' id='wt6_OutSystemsUIWeb_wt18_block_wtContent_wtMainContent_MASA_SHAR*' tag='A' type='' check:text='Detail' /&gt;" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Assign PIC | MASA' /&gt;" SearchSteps="FuzzySelector, Image" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=mscorlib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <TargetAnchorable.Anchors>
+    <scg:List x:TypeArguments="ITarget" Capacity="4">
+      <Target DesignTimeRectangle="1247, 490, 103, 44" ElementType="Text" FriendlyName="'View'" FullSelectorArgument="&lt;webctrl aaname='View' id='wt6_OutSystemsUIWeb_wt18_block_wtContent_wtMainContent_MASA_SHAR*' tag='A' /&gt;" FuzzySelectorArgument="&lt;webctrl aaname='View' id='wt6_OutSystemsUIWeb_wt18_block_wtContent_wtMainContent_MASA_SHAR*' tag='A' type='' check:text='View' /&gt;" SearchSteps="FuzzySelector, Image">
+        <imageRef attrName="ImageBase64" xmlns="">1cNjbiqE88EWDkAYPC9Rtxw</imageRef>
+      </Target>
+    </scg:List>
+  </TargetAnchorable.Anchors>
+  <imageRef attrName="ImageBase64" xmlns="">0PvD-VZ85bUycpqiOGIbgPw</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="874964e73ba18b12bc286e323a5ff365.png" xmlns="">0Kz3bhmKN2EqHnfGXuMjBrA</imageRef>
+</TargetAnchorable>

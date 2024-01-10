@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetAnchorable ContentHash="JXypXz7xJEKZ5x6bfVX6xQ" DesignTimeRectangle="393, 409, 325, 49" ElementType="TabPage" FriendlyName="'Dokumen'" FullSelectorArgument="&lt;ctrl name='Reimbursement Perdin Detail | MASA' role='document' /&gt;&lt;ctrl name='Detail' role='property page' /&gt;&lt;ctrl name='Beban Group Dokumen History Mutasi' role='page tab list' /&gt;&lt;ctrl name='Dokumen' role='page tab' /&gt;" FuzzySelectorArgument="&lt;ctrl name='Reimbursement Perdin Detail | MASA' role='document' /&gt;&lt;ctrl name='Detail' role='property page' /&gt;&lt;ctrl name='Beban Group Dokumen History Mutasi' role='page tab list' /&gt;&lt;ctrl name='Dokumen' role='page tab' automationid='' check:text='Dokumen' /&gt;" ScopeSelectorArgument="&lt;wnd app='chrome.exe' cls='Chrome_WidgetWin_1' title='Reimbursement Perdin Detail | MASA - Google Chrome' /&gt;" SearchSteps="Selector, FuzzySelector, Image" SelectionStrategy="AA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=mscorlib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <TargetAnchorable.Anchors>
+    <scg:List x:TypeArguments="ITarget" Capacity="4">
+      <Target DesignTimeRectangle="502, 330, 435, 49" ElementType="TabPage" FriendlyName="'Detail'" FullSelectorArgument="&lt;ctrl name='Reimbursement Perdin Detail | MASA' role='document' /&gt;&lt;ctrl name='Main Detail Accounting' role='page tab list' /&gt;&lt;ctrl name='Detail' role='page tab' /&gt;" FuzzySelectorArgument="&lt;ctrl name='Reimbursement Perdin Detail | MASA' role='document' /&gt;&lt;ctrl name='Main Detail Accounting' role='page tab list' /&gt;&lt;ctrl name='Detail' role='page tab' automationid='' check:text='Detail' /&gt;" SearchSteps="Selector, FuzzySelector, Image">
+        <imageRef attrName="ImageBase64" xmlns="">1GWzFZDFbBkCH1PwHi1kJug</imageRef>
+      </Target>
+    </scg:List>
+  </TargetAnchorable.Anchors>
+  <imageRef attrName="ImageBase64" xmlns="">0k3OPDq1mJE2G34Ya6sKHow</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="1ddb0c22963b8d2d83efc0a76618d7c7.png" xmlns="">0Ag7Ng0SCB02et1AoPHOybA</imageRef>
+</TargetAnchorable>

@@ -1,0 +1,16 @@
+﻿{
+  "Id": "RC2Ee5vD3k2sVcM_dYnGLQ",
+  "Reference": "XmXxxtzE4ke1YN84qKCJ1w/RC2Ee5vD3k2sVcM_dYnGLQ",
+  "ParentRef": "XmXxxtzE4ke1YN84qKCJ1w/1-Z04LGNdU-jI70faj8cmw",
+  "Name": "f Ket RNP",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2022-07-04T08:28:21.6711581Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-07-04T08:28:51.7958229Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

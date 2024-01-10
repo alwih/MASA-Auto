@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetAnchorable BrowserURL="https://10.243.229.26/MASA/Parameter.aspx?(Not.Licensed.For.Production)=" ContentHash="V6TaLVYrVUGV1WP5SnzRYQ" DesignTimeRectangle="1207, 335, 171, 40" ElementType="Text" FriendlyName="'Paramater Baru'" FullSelectorArgument="&lt;webctrl id='wt5_OutSystemsUIWeb_wt18_block_wtContent_wtMainContent_MASA_Back*' tag='A' /&gt;" FuzzySelectorArgument="&lt;webctrl id='wt5_OutSystemsUIWeb_wt18_block_wtContent_wtMainContent_MASA_Back*' tag='A' type='' aaname='Paramater Baru' check:text='Paramater Baru' /&gt;" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Master Parameter | MASA' /&gt;" SearchSteps="FuzzySelector, Image" xmlns="http://schemas.uipath.com/workflow/activities/uix">
+  <imageRef attrName="ImageBase64" xmlns="">0rqQFwbYe806Y0sRudd_EXA</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="50f8f6d342cd7c651fc1e62b1ff2d906.png" xmlns="">09ZS7CVZfx0WF-wtdmoSgqA</imageRef>
+</TargetAnchorable>

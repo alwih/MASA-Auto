@@ -1,0 +1,16 @@
+﻿{
+  "Id": "KSR3WA66PEiOu_t1X0MDLQ",
+  "Reference": "XmXxxtzE4ke1YN84qKCJ1w/KSR3WA66PEiOu_t1X0MDLQ",
+  "ParentRef": "XmXxxtzE4ke1YN84qKCJ1w/pmbhmA3XAk-DsDQ0z3viVg",
+  "Name": "e Draft Complete",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2022-04-28T05:48:09.0602823Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-04-28T05:48:59.3414591Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

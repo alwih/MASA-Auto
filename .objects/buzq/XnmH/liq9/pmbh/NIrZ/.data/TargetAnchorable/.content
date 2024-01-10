@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetAnchorable BrowserURL="https://10.243.229.232/MASA/TableScreen.aspx" ContentHash="qyKa2Ky5QUy0w9TVikVlyg" DesignTimeRectangle="969, 689, 422, 38" ElementType="Text" FriendlyName="'Document received'" FullSelectorArgument="&lt;webctrl aaname='Date Status' id='wt1_OutSystemsUIWeb_wt18_block_wtContent_wtMainContent_MASA_Trac*' tag='TABLE' /&gt;&lt;webctrl isleaf='1' tag='TD' innertext='Document received by PIC B' /&gt;" FuzzySelectorArgument="&lt;webctrl aaname='Date Status' id='wt1_OutSystemsUIWeb_wt18_block_wtContent_wtMainContent_MASA_Trac*' tag='TABLE' /&gt;&lt;webctrl isleaf='1' type='' tag='TD' aaname='Document received by PIC B' /&gt;" Reference="XmXxxtzE4ke1YN84qKCJ1w/NIrZmggflkKrB9nXuq4ZbA" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Informasi dan Riwayat | MASA' /&gt;" SearchSteps="Selector, Image" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=mscorlib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <TargetAnchorable.Anchors>
+    <scg:List x:TypeArguments="ITarget" Capacity="4">
+      <Target DesignTimeRectangle="744, 698, 218, 20" ElementType="Text" FriendlyName="'2022-06-26 17:22:55'" FullSelectorArgument="&lt;webctrl aaname='2022-06-26 17:22:55' parentid='wt1_OutSystemsUIWeb_wt18_block_wtContent_wtMainContent_MASA_Trac*' tag='DIV' /&gt;" FuzzySelectorArgument="&lt;webctrl aaname='20*' parentid='wt1_OutSystemsUIWeb_wt18_block_wtContent_wtMainContent_MASA_Trac*' tag='DIV' type='' /&gt;" SearchSteps="FuzzySelector, Image">
+        <imageRef attrName="ImageBase64" xmlns="">1Dg2sIuBrw0SYL0YKNc7HBg</imageRef>
+      </Target>
+    </scg:List>
+  </TargetAnchorable.Anchors>
+  <imageRef attrName="ImageBase64" xmlns="">0vhHxgzspAUiceVEljBAJSg</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="e6de1c5b9c395f0e8d9d9a8501180e79.png" xmlns="">0l2f-dG7Mn0WZBm2LQ2qngA</imageRef>
+</TargetAnchorable>

@@ -1,0 +1,16 @@
+﻿{
+  "Id": "15ie-IIF8UaW0TOWaR9Crw",
+  "Reference": "XmXxxtzE4ke1YN84qKCJ1w/15ie-IIF8UaW0TOWaR9Crw",
+  "ParentRef": "XmXxxtzE4ke1YN84qKCJ1w/tf97-MEWbkuAGrv5TfJacA",
+  "Name": "2 Nama Dokumen",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2022-04-19T09:14:28.813946Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-04-19T09:15:04.6595173Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

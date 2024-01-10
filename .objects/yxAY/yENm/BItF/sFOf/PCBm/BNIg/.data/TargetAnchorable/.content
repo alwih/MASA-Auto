@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetAnchorable BrowserURL="https://10.243.229.232/MASA/Order.aspx" ContentHash="Dn6R1uYtIkaZtvfqWd-lzg" DesignTimeRectangle="89, 543, 1261, 21" ElementType="Text" FriendlyName="'Add Record'" FullSelectorArgument="&lt;webctrl id='wt25_OutSystemsUIWeb_wt18_block_wtContent_wtMainContent_MASA_Fin*' tag='A' /&gt;" FuzzySelectorArgument="&lt;webctrl id='wt25_OutSystemsUIWeb_wt18_block_wtContent_wtMainContent_MASA_Fin*' tag='A' type='' aaname='Add Record' /&gt;" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Uang Muka Non Perdin Detail | MASA' /&gt;" SearchSteps="FuzzySelector, Image" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=mscorlib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <TargetAnchorable.Anchors>
+    <scg:List x:TypeArguments="ITarget" Capacity="4">
+      <Target DesignTimeRectangle="65, 527, 1309, 53" FriendlyName="'Add Record'" FullSelectorArgument="&lt;webctrl id='wt25_OutSystemsUIWeb_wt18_block_wtContent_wtMainContent_MASA_Fin*' tag='TABLE' /&gt;&lt;webctrl css-selector='body&amp;gt;form&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;main&amp;gt;div&amp;gt;div&amp;gt;span&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;span&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;table&amp;gt;tfoot&amp;gt;tr&amp;gt;td' tag='TD' /&gt;" FuzzySelectorArgument="&lt;webctrl id='wt25_OutSystemsUIWeb_wt18_block_wtContent_wtMainContent_MASA_Fin*' tag='TABLE' /&gt;&lt;webctrl css-selector='body&amp;gt;form&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;main&amp;gt;div&amp;gt;div&amp;gt;span&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;span&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;table&amp;gt;tfoot&amp;gt;tr&amp;gt;td' tag='TD' type='' aaname='' check:text='Add Record' /&gt;" SearchSteps="FuzzySelector, Image">
+        <imageRef attrName="ImageBase64" xmlns="">1l2OQY1N1HUycrBa5dtsKdw</imageRef>
+      </Target>
+      <Target DesignTimeRectangle="73, 498, 84, 17" ElementType="Text" FriendlyName="'Jenis Rekening'" FullSelectorArgument="&lt;webctrl aaname='Jenis Rekening' parentid='wt25_OutSystemsUIWeb_wt18_block_wtContent_wtMainContent_MASA_Fin*' parentname='wt25$OutSystemsUIWeb_wt18$block$wtContent$wtMainContent$MASA_Fin*' tag='SPAN' /&gt;" FuzzySelectorArgument="&lt;webctrl aaname='Jenis Rekening' parentid='wt25_OutSystemsUIWeb_wt18_block_wtContent_wtMainContent_MASA_Fin*' parentname='wt25$OutSystemsUIWeb_wt18$block$wtContent$wtMainContent$MASA_Fin*' tag='SPAN' type='' check:text='Jenis Rekening' /&gt;" SearchSteps="FuzzySelector, Image">
+        <imageRef attrName="ImageBase64" xmlns="">2qHku6RP2nUqRY9cbf4xlIQ</imageRef>
+      </Target>
+    </scg:List>
+  </TargetAnchorable.Anchors>
+  <imageRef attrName="ImageBase64" xmlns="">0Ug1-J6BsxkG3jArzcJFCLg</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="07c9f64b7bef1277978086a970cc021b.png" xmlns="">0UGe6ePeNB0qgkxH9MZra8A</imageRef>
+</TargetAnchorable>

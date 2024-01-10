@@ -1,0 +1,16 @@
+﻿{
+  "Id": "755f2joRO0q61ZLltZVZQw",
+  "Reference": "XmXxxtzE4ke1YN84qKCJ1w/755f2joRO0q61ZLltZVZQw",
+  "ParentRef": "XmXxxtzE4ke1YN84qKCJ1w/Bbt5wmjjRE-caGlpWtyPWg",
+  "Name": "Action: Delete",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2022-08-10T23:55:23.0951398Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-08-10T23:55:50.3678514Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

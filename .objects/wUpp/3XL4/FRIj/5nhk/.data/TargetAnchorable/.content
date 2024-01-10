@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetAnchorable BrowserURL="https://10.243.229.232/MASA/LimitKewenangan.aspx" ContentHash="HUaBIdmPtE-JuPTyT5qLhw" DesignTimeRectangle="456, 114, 291, 21" ElementType="Text" FriendlyName="'Master Limit'" FullSelectorArgument="&lt;webctrl id='wt24_OutSystemsUIWeb_wt18_block_wt5_RichWidgets_wt7_block_wtSani*' tag='SPAN' /&gt;" FuzzySelectorArgument="&lt;webctrl id='wt24_OutSystemsUIWeb_wt18_block_wt5_RichWidgets_wt7_block_wtSani*' tag='SPAN' type='' aaname='Master Limit Kewenangan berhasil dibuat.' check:text='Master Limit Kewenangan berhasil dibuat.' /&gt;" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Limit Kewenangan | MASA' /&gt;" SearchSteps="Selector, FuzzySelector" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=mscorlib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <TargetAnchorable.Anchors>
+    <scg:List x:TypeArguments="ITarget" Capacity="4">
+      <Target DesignTimeRectangle="424, 105, 600, 39" FriendlyName="'Master Limit'" FullSelectorArgument="&lt;webctrl parentid='wt24_OutSystemsUIWeb_wt18_block_wt5_RichWidgets_wt7_block_wtFeed*' tag='DIV' /&gt;" FuzzySelectorArgument="&lt;webctrl parentid='wt24_OutSystemsUIWeb_wt18_block_wt5_RichWidgets_wt7_block_wtFeed*' tag='DIV' type='' aaname='' check:text='Master Limit Kewenangan berhasil dibuat.' /&gt;" SearchSteps="FuzzySelector, Image">
+        <imageRef attrName="ImageBase64" xmlns="">1smUHkQBcNUSGtSYV7QsOMQ</imageRef>
+      </Target>
+    </scg:List>
+  </TargetAnchorable.Anchors>
+  <imageRef attrName="ImageBase64" xmlns="">0D88exAlcWE6G9Xq-lpq4AA</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="4705c43312eed6e06e616ba1f5be55d7.png" xmlns="">0js_kPUI_nEeVRIAfPAWTkw</imageRef>
+</TargetAnchorable>

@@ -1,0 +1,16 @@
+﻿{
+  "Id": "ZxFo4WcNskyV7tN9U48dsA",
+  "Reference": "XmXxxtzE4ke1YN84qKCJ1w/ZxFo4WcNskyV7tN9U48dsA",
+  "ParentRef": "XmXxxtzE4ke1YN84qKCJ1w/htacyg-giEyHs7ZxpTo4CA",
+  "Name": "3 Sisa Pembayaran",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2022-04-19T08:59:00.6162635Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-04-19T08:59:19.2119118Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

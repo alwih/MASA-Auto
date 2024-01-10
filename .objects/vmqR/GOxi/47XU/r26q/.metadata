@@ -1,0 +1,16 @@
+﻿{
+  "Id": "r26qTRoxoUuL57MGXHsowA",
+  "Reference": "XmXxxtzE4ke1YN84qKCJ1w/r26qTRoxoUuL57MGXHsowA",
+  "ParentRef": "XmXxxtzE4ke1YN84qKCJ1w/47XUujyua0SCy1qZodMkkw",
+  "Name": "Get Text: PIC",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2022-06-20T07:48:48.5019727Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-06-20T07:50:35.9510998Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

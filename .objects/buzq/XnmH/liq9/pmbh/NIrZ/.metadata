@@ -1,0 +1,16 @@
+﻿{
+  "Id": "NIrZmggflkKrB9nXuq4ZbA",
+  "Reference": "XmXxxtzE4ke1YN84qKCJ1w/NIrZmggflkKrB9nXuq4ZbA",
+  "ParentRef": "XmXxxtzE4ke1YN84qKCJ1w/pmbhmA3XAk-DsDQ0z3viVg",
+  "Name": "o Doc Received PIC B",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2022-06-27T07:08:22.2275365Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-06-27T07:09:15.4398459Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

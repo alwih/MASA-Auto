@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetAnchorable ContentHash="05JuZeOJnEKjubUDs84myA" DesignTimeRectangle="458, 95, 68, 23" ElementType="Button" FriendlyName="'unchecked'" FullSelectorArgument="&lt;wnd aaname='Open' cls='DirectUIHWND' /&gt;&lt;wnd cls='Button' title='OK' /&gt;" FuzzySelectorArgument="&lt;wnd aaname='Open' cls='DirectUIHWND' /&gt;&lt;wnd cls='Button' title='OK' check:text='unchecked' /&gt;" Reference="XmXxxtzE4ke1YN84qKCJ1w/Ml3z_JXxDEWwVDAl0DBsaw" ScopeSelectorArgument="&lt;wnd app='chrome.exe' cls='#32770' title='Open' /&gt;" SearchSteps="Selector, FuzzySelector, Image" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=mscorlib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <TargetAnchorable.Anchors>
+    <scg:List x:TypeArguments="ITarget" Capacity="4">
+      <Target DesignTimeRectangle="55, 41, 471, 30" ElementType="Text" FriendlyName="'‪C:\Users\AdminRPA\Docu…'" FullSelectorArgument="&lt;wnd aaname='Open' cls='DirectUIHWND' /&gt;&lt;ctrl name='Open' role='pane' /&gt;&lt;ctrl name='‪C:\Users\AdminRPA\Documents\UiPath\MASA\Dokumen Tambahan\dummy *' role='text' /&gt;" FuzzySelectorArgument="&lt;wnd aaname='Open' cls='DirectUIHWND' /&gt;&lt;ctrl name='Open' role='pane' /&gt;&lt;ctrl name='‪C:\Users\AdminRPA\Documents\UiPath\MASA\Dokumen Tambahan\dummy *' role='text' automationid='' check:text='‪C:\Users\AdminRPA\Documents\UiPath\MASA\Dokumen Tambahan\dummy pdf1.pdf&amp;#xD;&amp;#xA;The file name is not' /&gt;" SearchSteps="Selector, FuzzySelector, Image">
+        <imageRef attrName="ImageBase64" xmlns="">1z6wkIzn9wk-ITeSI8GEtRA</imageRef>
+      </Target>
+    </scg:List>
+  </TargetAnchorable.Anchors>
+  <imageRef attrName="ImageBase64" xmlns="">0b1O5X-Q4BEembclDHrwcJw</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="67896b9aaf4fe3ada396e1355bfb717d.png" xmlns="">0bhnt6ILm5kWkJ9DJVi6Apw</imageRef>
+</TargetAnchorable>

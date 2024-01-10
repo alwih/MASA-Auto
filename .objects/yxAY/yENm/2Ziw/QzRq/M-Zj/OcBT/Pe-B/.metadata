@@ -1,0 +1,16 @@
+﻿{
+  "Id": "Pe-B3hRIz0iYcq47cKUZCA",
+  "Reference": "XmXxxtzE4ke1YN84qKCJ1w/Pe-B3hRIz0iYcq47cKUZCA",
+  "ParentRef": "XmXxxtzE4ke1YN84qKCJ1w/OcBTkb3AjU-64olePqaG7g",
+  "Name": "5 Tarif Pajak",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2022-04-20T07:00:46.348839Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-04-20T07:01:13.8338712Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

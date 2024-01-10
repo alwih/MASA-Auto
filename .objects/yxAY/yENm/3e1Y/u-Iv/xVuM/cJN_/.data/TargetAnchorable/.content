@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetAnchorable BrowserURL="https://10.243.229.232/MASA/FinancialTransaction.FPP_SetoranMaterai.aspx" ContentHash="OtB-DyX11U6Q3SAST-4H0A" DesignTimeRectangle="1086, 354, 125, 40" ElementType="Button" FriendlyName="'Tambah Baru'" FullSelectorArgument="&lt;webctrl id='wt10_OutSystemsUIWeb_wt18_block_wtContent_wtMainContent_MASA_Fin*' tag='INPUT' type='submit' /&gt;" FuzzySelectorArgument="&lt;webctrl id='wt10_OutSystemsUIWeb_wt18_block_wtContent_wtMainContent_MASA_Fin*' tag='INPUT' type='submit' aaname='Tambah Baru' check:text='Tambah Baru' /&gt;" ScopeSelectorArgument="&lt;html app='chrome.exe' title='FPP Setoran Materai Detail | MASA' /&gt;" SearchSteps="FuzzySelector, Image" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=mscorlib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <TargetAnchorable.Anchors>
+    <scg:List x:TypeArguments="ITarget" Capacity="4">
+      <Target DesignTimeRectangle="1231, 354, 127, 40" ElementType="Button" FriendlyName="'Hapus Semua'" FullSelectorArgument="&lt;webctrl aaname='Hapus Semua' id='wt10_OutSystemsUIWeb_wt18_block_wtContent_wtMainContent_MASA_Fin*' tag='INPUT' type='submit' /&gt;" FuzzySelectorArgument="&lt;webctrl aaname='Hapus Semua' id='wt10_OutSystemsUIWeb_wt18_block_wtContent_wtMainContent_MASA_Fin*' tag='INPUT' type='submit' check:text='Hapus Semua' /&gt;" SearchSteps="FuzzySelector, Image">
+        <imageRef attrName="ImageBase64" xmlns="">1fd4Sbwd2-0K1FEfTPU-RKw</imageRef>
+      </Target>
+    </scg:List>
+  </TargetAnchorable.Anchors>
+  <imageRef attrName="ImageBase64" xmlns="">0zuCt-wPS8U-dmoIONBG--w</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="8c769a6455026dd63a07d7b23826a22a.png" xmlns="">0EwqG2agh2kmPZswTBaW-hA</imageRef>
+</TargetAnchorable>

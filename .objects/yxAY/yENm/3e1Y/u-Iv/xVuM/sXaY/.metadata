@@ -1,0 +1,16 @@
+﻿{
+  "Id": "sXaY2hxQ0EyzwAZhFoCmSg",
+  "Reference": "XmXxxtzE4ke1YN84qKCJ1w/sXaY2hxQ0EyzwAZhFoCmSg",
+  "ParentRef": "XmXxxtzE4ke1YN84qKCJ1w/xVuMNPEfXkWtudmsK7KbOg",
+  "Name": "3 GL Account Beban Group",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2022-04-19T08:42:26.2940602Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-04-19T09:01:39.1837963Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

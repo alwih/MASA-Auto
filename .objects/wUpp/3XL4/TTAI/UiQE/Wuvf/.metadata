@@ -1,0 +1,16 @@
+﻿{
+  "Id": "Wuvf_YR3aUmJ8AnTs9Nxhw",
+  "Reference": "XmXxxtzE4ke1YN84qKCJ1w/Wuvf_YR3aUmJ8AnTs9Nxhw",
+  "ParentRef": "XmXxxtzE4ke1YN84qKCJ1w/UiQETIt1JUC_NISFHmN6mg",
+  "Name": "c Direktorat",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2022-08-02T08:56:29.7536923Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-08-02T08:56:48.3154624Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

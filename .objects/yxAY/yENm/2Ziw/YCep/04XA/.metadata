@@ -1,0 +1,16 @@
+﻿{
+  "Id": "04XAo7eYnEGOQye4oTeOkA",
+  "Reference": "XmXxxtzE4ke1YN84qKCJ1w/04XAo7eYnEGOQye4oTeOkA",
+  "ParentRef": "XmXxxtzE4ke1YN84qKCJ1w/YCepkdxQQUWoV2DzFFSpqQ",
+  "Name": "m Nama Penerima",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2022-04-20T06:30:40.5413148Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-04-20T06:31:09.2335913Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

@@ -1,0 +1,16 @@
+﻿{
+  "Id": "grkdqYyn9EiykJ23SBS-6Q",
+  "Reference": "XmXxxtzE4ke1YN84qKCJ1w/grkdqYyn9EiykJ23SBS-6Q",
+  "ParentRef": "XmXxxtzE4ke1YN84qKCJ1w/YCepkdxQQUWoV2DzFFSpqQ",
+  "Name": "j Valuta Pajak",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2022-04-20T06:27:41.3168221Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-04-20T06:28:32.3457153Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

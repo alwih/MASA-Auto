@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetAnchorable BrowserURL="https://10.243.229.232/MASA/OrderDetail.aspx" ContentHash="SD26vcgsNkSr9dAJTw9Zsw" DesignTimeRectangle="748, 648, 18, 18" ElementType="CheckBox" FriendlyName="'Checkbox'" FullSelectorArgument="&lt;webctrl aaname='Apakah Transaksi ini memiliki Bon Jurnal' tag='INPUT' type='checkbox' /&gt;" FuzzySelectorArgument="&lt;webctrl aaname='Apakah Transaksi ini memiliki Bon Jurnal' tag='INPUT' type='checkbox' /&gt;" ScopeSelectorArgument="&lt;html app='chrome.exe' title='FPP Pajak / Non Pajak Detail | MASA' /&gt;" SearchSteps="Selector, FuzzySelector" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=mscorlib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <TargetAnchorable.Anchors>
+    <scg:List x:TypeArguments="ITarget" Capacity="4">
+      <Target DesignTimeRectangle="736, 614, 367, 24" ElementType="Text" FriendlyName="'unchecked'" FullSelectorArgument="&lt;webctrl aaname='Apakah Transaksi ini memiliki Bon Jurnal' parentid='wt17_OutSystemsUIWeb_wt18_block_wtContent_wtMainContent_MASA_Fin*' tag='LABEL' /&gt;" FuzzySelectorArgument="&lt;webctrl aaname='Apakah Transaksi ini memiliki Bon Jurnal' parentid='wt17_OutSystemsUIWeb_wt18_block_wtContent_wtMainContent_MASA_Fin*' tag='LABEL' type='' check:text='unchecked' /&gt;" SearchSteps="FuzzySelector, Image">
+        <imageRef attrName="ImageBase64" xmlns="">1kVOo52GL-EWWVqlxMgMfaQ</imageRef>
+      </Target>
+    </scg:List>
+  </TargetAnchorable.Anchors>
+  <imageRef attrName="ImageBase64" xmlns="">0W6V2RB8szkqctzmK6gp1Gg</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="e41337f84a5213c22161e4508c8624f2.png" xmlns="">0kYWyxckedkWyej0pb9Z6Mw</imageRef>
+</TargetAnchorable>

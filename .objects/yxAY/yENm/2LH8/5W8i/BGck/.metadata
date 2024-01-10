@@ -1,0 +1,16 @@
+﻿{
+  "Id": "BGckiuPNjk2b1V2u-ZCpfg",
+  "Reference": "XmXxxtzE4ke1YN84qKCJ1w/BGckiuPNjk2b1V2u-ZCpfg",
+  "ParentRef": "XmXxxtzE4ke1YN84qKCJ1w/5W8iKogDi0qSJnq7lmtf2A",
+  "Name": "f Jml Trx",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2022-08-20T08:00:48.3825667Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-08-20T08:01:15.0647696Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetAnchorable BrowserURL="https://10.243.229.232/MASA/Dashboard.aspx" ContentHash="7hl2vRHEukWkgRf4G_20aQ" DesignTimeRectangle="1266, 220, 124, 40" ElementType="Text" FriendlyName="'Logout'" FullSelectorArgument="&lt;webctrl aaname='Logout' id='wt14_OutSystemsUIWeb_wt18_block_wtHeader_wtRight_wt3_OutSystemsU*' tag='A' /&gt;" FuzzySelectorArgument="&lt;webctrl aaname='Logout' id='wt14_OutSystemsUIWeb_wt18_block_wtHeader_wtRight_wt3_OutSystemsU*' tag='A' type='' check:text='Logout' /&gt;" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Dashboard | MASA' /&gt;" SearchSteps="FuzzySelector, Image" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=mscorlib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <TargetAnchorable.Anchors>
+    <scg:List x:TypeArguments="ITarget" Capacity="4">
+      <Target DesignTimeRectangle="1266, 180, 124, 40" ElementType="Text" FriendlyName="'My Apps'" FullSelectorArgument="&lt;webctrl aaname='My Apps' id='wt14_OutSystemsUIWeb_wt18_block_wtHeader_wtRight_wt3_OutSystemsU*' tag='A' /&gt;" FuzzySelectorArgument="&lt;webctrl aaname='My Apps' id='wt14_OutSystemsUIWeb_wt18_block_wtHeader_wtRight_wt3_OutSystemsU*' tag='A' type='' check:text='My Apps' /&gt;" SearchSteps="FuzzySelector, Image">
+        <imageRef attrName="ImageBase64" xmlns="">1wdifgVxolU-zLa50yAhvfQ</imageRef>
+      </Target>
+    </scg:List>
+  </TargetAnchorable.Anchors>
+  <imageRef attrName="ImageBase64" xmlns="">0srRe3DKY-EigZhDtGHCDbQ</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="521a8d157117726ac5506a71adc67eec.png" xmlns="">0_7-2eimer0-ujYhHZ98vbQ</imageRef>
+</TargetAnchorable>

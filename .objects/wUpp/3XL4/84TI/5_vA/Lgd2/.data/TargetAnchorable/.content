@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetAnchorable ContentHash="WopeYV-1Jkmlrh-sygm4lw" DesignTimeRectangle="69, 509, 642, 41" ElementType="DropDown" FriendlyName="'-'" FullSelectorArgument="&lt;ctrl name='Rubrik Surat Detail | MASA' role='document' /&gt;&lt;ctrl name='Nama Sub Modul *' role='combo box' /&gt;" FuzzySelectorArgument="&lt;ctrl name='Rubrik Surat Detail | MASA' role='document' /&gt;&lt;ctrl name='Nama Sub Modul *' role='combo box' automationid='' /&gt;" ScopeSelectorArgument="&lt;wnd app='chrome.exe' cls='Chrome_WidgetWin_1' title='Rubrik Surat Detail | MASA - Google Chrome' /&gt;" SearchSteps="Selector, FuzzySelector" SelectionStrategy="AA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=mscorlib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <TargetAnchorable.Anchors>
+    <scg:List x:TypeArguments="ITarget" Capacity="4">
+      <Target DesignTimeRectangle="69, 485, 308, 25" ElementType="InputBox" FriendlyName="'Nama Sub Modul'" FullSelectorArgument="&lt;ctrl name='Rubrik Surat Detail | MASA' role='document' /&gt;&lt;ctrl idx='2' role='editable text' /&gt;" FuzzySelectorArgument="&lt;ctrl name='Rubrik Surat Detail | MASA' role='document' /&gt;&lt;ctrl automationid='' role='editable text' /&gt;" SearchSteps="Selector, FuzzySelector, Image">
+        <imageRef attrName="ImageBase64" xmlns="">0juSK8I4wWEexsOUU7nM3oA</imageRef>
+      </Target>
+    </scg:List>
+  </TargetAnchorable.Anchors>
+  <imageRef attrName="InformativeScreenshot" originalValue="dee3d0acc867e8f3c8b8140fea9d4bb0.png" xmlns="">0Wb08RnCnSkSiJPOuvUTf_A</imageRef>
+</TargetAnchorable>

@@ -1,0 +1,16 @@
+﻿{
+  "Id": "dkgbYaD85kuaPSMKR_RocQ",
+  "Reference": "XmXxxtzE4ke1YN84qKCJ1w/dkgbYaD85kuaPSMKR_RocQ",
+  "ParentRef": "XmXxxtzE4ke1YN84qKCJ1w/pzkvE5_xZ02x_1-Vs7X6Bw",
+  "Name": "Complete Document",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2022-04-27T08:05:47.391541Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-04-27T08:06:02.8007707Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

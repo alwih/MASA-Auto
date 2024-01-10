@@ -1,0 +1,16 @@
+﻿{
+  "Id": "jXJsONsajU-KdUiwLQ1u2w",
+  "Reference": "XmXxxtzE4ke1YN84qKCJ1w/jXJsONsajU-KdUiwLQ1u2w",
+  "ParentRef": "XmXxxtzE4ke1YN84qKCJ1w/kuEks7dypEeX5gOwRQZyUA",
+  "Name": "n Paid Main Materai",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2022-04-19T08:25:27.7121482Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-04-19T08:25:43.7790674Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

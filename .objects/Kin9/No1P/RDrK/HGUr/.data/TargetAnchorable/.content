@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetAnchorable ContentHash="AdRLMUDxok-rtL-O5Fxasg" DesignTimeRectangle="663, 760, 118, 33" ElementType="Button" FriendlyName="'Request Approval'" FullSelectorArgument="&lt;ctrl name='Order List | MASA' role='document' /&gt;&lt;ctrl name='Approval Confirmation' role='document' /&gt;&lt;ctrl name='Request Approval' role='push button' /&gt;" FuzzySelectorArgument="&lt;ctrl name='Order List | MASA' role='document' /&gt;&lt;ctrl name='Approval Confirmation' role='document' /&gt;&lt;ctrl name='Request Approval' role='push button' automationid='' check:text='Request Approval' /&gt;" ScopeSelectorArgument="&lt;wnd app='chrome.exe' cls='Chrome_WidgetWin_1' title='Order List | MASA - Google Chrome' /&gt;" SearchSteps="Selector, FuzzySelector, Image" SelectionStrategy="AA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=mscorlib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <TargetAnchorable.Anchors>
+    <scg:List x:TypeArguments="ITarget" Capacity="4">
+      <Target DesignTimeRectangle="586, 760, 58, 33" ElementType="Button" FriendlyName="'Cancel'" FullSelectorArgument="&lt;ctrl name='Order List | MASA' role='document' /&gt;&lt;ctrl name='Approval Confirmation' role='document' /&gt;&lt;ctrl name='Cancel' role='push button' /&gt;" FuzzySelectorArgument="&lt;ctrl name='Order List | MASA' role='document' /&gt;&lt;ctrl name='Approval Confirmation' role='document' /&gt;&lt;ctrl name='Cancel' role='push button' automationid='' check:text='Cancel' /&gt;" SearchSteps="Selector, FuzzySelector, Image">
+        <imageRef attrName="ImageBase64" xmlns="">1hc4t4SHRc0SsmGGVmYWxMA</imageRef>
+      </Target>
+    </scg:List>
+  </TargetAnchorable.Anchors>
+  <imageRef attrName="ImageBase64" xmlns="">0b3Fr9Zr800Gu78C4Jw5QQw</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="fa01d52d8658732e3afb8fa15e6f8a7a.png" xmlns="">0K4yW644Ze0uH9yd9kcwr7Q</imageRef>
+</TargetAnchorable>

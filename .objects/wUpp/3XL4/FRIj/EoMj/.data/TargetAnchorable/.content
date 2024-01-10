@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetAnchorable ContentHash="Wv40pv4e5kmReaxMXRKZWA" DesignTimeRectangle="1313, 460, 57, 41" ElementType="DropDown" FriendlyName="'combo box'" FullSelectorArgument="&lt;ctrl name='Limit Kewenangan | MASA' role='document' /&gt;&lt;ctrl idx='2' role='row' /&gt;&lt;ctrl role='combo box' /&gt;" FuzzySelectorArgument="&lt;ctrl name='Limit Kewenangan | MASA' role='document' /&gt;&lt;ctrl role='row' /&gt;&lt;ctrl role='combo box' automationid='' /&gt;" ScopeSelectorArgument="&lt;wnd app='chrome.exe' cls='Chrome_WidgetWin_1' title='Limit Kewenangan | MASA - Google Chrome' /&gt;" SearchSteps="Selector, FuzzySelector" SelectionStrategy="AA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=mscorlib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <TargetAnchorable.Anchors>
+    <scg:List x:TypeArguments="ITarget" Capacity="4">
+      <Target DesignTimeRectangle="1313, 405, 57, 19" FriendlyName="'Action'" FullSelectorArgument="&lt;ctrl name='Limit Kewenangan | MASA' role='document' /&gt;&lt;ctrl role='row' /&gt;&lt;ctrl name='Action' role='column header' /&gt;&lt;ctrl role='grouping' /&gt;" FuzzySelectorArgument="&lt;ctrl name='Limit Kewenangan | MASA' role='document' /&gt;&lt;ctrl role='row' /&gt;&lt;ctrl name='Action' role='column header' /&gt;&lt;ctrl role='grouping' automationid='' check:text='Action' /&gt;" SearchSteps="Selector, FuzzySelector, Image">
+        <imageRef attrName="ImageBase64" xmlns="">1823PoT1CJkuG_tMcrQ_cHA</imageRef>
+      </Target>
+    </scg:List>
+  </TargetAnchorable.Anchors>
+  <imageRef attrName="ImageBase64" xmlns="">0nAu8e32-G0KnnR0MBsrUcw</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="693cb74080c0c0b55220f766e4966665.png" xmlns="">0fHivFtVCokivYQA4zkrf2A</imageRef>
+</TargetAnchorable>

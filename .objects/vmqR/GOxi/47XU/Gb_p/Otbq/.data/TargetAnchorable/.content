@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetAnchorable BrowserURL="https://10.243.229.232/MASA/FPP_Pajak_NonPajak.aspx" ContentHash="iKCDVZQxxkqoFsOYaUURsQ" DesignTimeRectangle="853, 410, 259, 48" ElementType="Text" FriendlyName="'History'" FullSelectorArgument="&lt;webctrl aaname='History' aria-role='tab' tag='DIV' /&gt;" FuzzySelectorArgument="&lt;webctrl aaname='History' aria-role='tab' tag='DIV' type='' check:text='History' /&gt;" ScopeSelectorArgument="&lt;html app='chrome.exe' title='FPP Pajak / Non Pajak Detail | MASA' /&gt;" SearchSteps="FuzzySelector, Image" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=mscorlib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <TargetAnchorable.Anchors>
+    <scg:List x:TypeArguments="ITarget" Capacity="4">
+      <Target DesignTimeRectangle="503, 331, 434, 48" ElementType="Text" FriendlyName="'Detail'" FullSelectorArgument="&lt;webctrl aaname='Detail' aria-role='tab' tag='DIV' /&gt;" FuzzySelectorArgument="&lt;webctrl aaname='Detail' aria-role='tab' tag='DIV' type='' check:text='Detail' /&gt;" SearchSteps="FuzzySelector, Image">
+        <imageRef attrName="ImageBase64" xmlns="">1XZh249cqk02gwzx66J9GeQ</imageRef>
+      </Target>
+    </scg:List>
+  </TargetAnchorable.Anchors>
+  <imageRef attrName="ImageBase64" xmlns="">0sTksXQIrdEKtbuFcT8GkDw</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="1d8fc47b787cdac813562b9037ff2d06.png" xmlns="">0WJmR_ut950GhryRjqcMF5Q</imageRef>
+</TargetAnchorable>

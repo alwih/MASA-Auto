@@ -1,0 +1,16 @@
+﻿{
+  "Id": "a7jF_cQlREKatFUG0gSgiw",
+  "Reference": "XmXxxtzE4ke1YN84qKCJ1w/a7jF_cQlREKatFUG0gSgiw",
+  "ParentRef": "XmXxxtzE4ke1YN84qKCJ1w/9aT5KuQlO0KKyXBN6VcqHQ",
+  "Name": "c Business Area",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2022-07-29T12:54:14.9301175Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-07-29T12:54:36.3112567Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

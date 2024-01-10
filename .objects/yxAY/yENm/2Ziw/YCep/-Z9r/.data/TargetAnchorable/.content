@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetAnchorable BrowserURL="https://10.243.229.232/MASA/OrderDetail.aspx" ContentHash="QiI761f3BU26SCbR9xTZ9w" DesignTimeRectangle="736, 597, 623, 40" ElementType="InputBox" FriendlyName="'0'" FullSelectorArgument="&lt;webctrl tag='INPUT' type='number' /&gt;" FuzzySelectorArgument="&lt;webctrl tag='INPUT' type='number' aaname='Jumlah Transaksi' /&gt;" ScopeSelectorArgument="&lt;html app='chrome.exe' title='FPP Setoran Materai Detail | MASA' /&gt;" SearchSteps="FuzzySelector, Image" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=mscorlib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <TargetAnchorable.Anchors>
+    <scg:List x:TypeArguments="ITarget" Capacity="4">
+      <Target DesignTimeRectangle="736, 573, 305, 24" ElementType="Text" FriendlyName="'Jumlah Transaksi'" FullSelectorArgument="&lt;webctrl aaname='Jumlah Transaksi' parentid='wt10_OutSystemsUIWeb_wt18_block_wtContent_wtMainContent_MASA_Fin*' tag='LABEL' /&gt;" FuzzySelectorArgument="&lt;webctrl aaname='Jumlah Transaksi' parentid='wt10_OutSystemsUIWeb_wt18_block_wtContent_wtMainContent_MASA_Fin*' tag='LABEL' type='' check:text='Jumlah Transaksi' /&gt;" SearchSteps="FuzzySelector, Image">
+        <imageRef attrName="ImageBase64" xmlns="">1pRKELmrLZUOOyTjqX4beew</imageRef>
+      </Target>
+    </scg:List>
+  </TargetAnchorable.Anchors>
+  <imageRef attrName="ImageBase64" xmlns="">0Z8ONiGLtik-usRqSavpLIA</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="488bc4dd0e4ca0c9c0ad0ab0d178a858.png" xmlns="">0c088vYSWQEKEe4zGURJp1A</imageRef>
+</TargetAnchorable>

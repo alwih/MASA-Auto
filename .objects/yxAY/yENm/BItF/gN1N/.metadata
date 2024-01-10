@@ -1,0 +1,14 @@
+﻿{
+  "Id": "gN1NOf6l1kma9NU1QMPVxA",
+  "Reference": "XmXxxtzE4ke1YN84qKCJ1w/gN1NOf6l1kma9NU1QMPVxA",
+  "ParentRef": "XmXxxtzE4ke1YN84qKCJ1w/BItFztr2rkiWud77cdOlkA",
+  "Name": "Extract Table Data: Uang Muka",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2022-06-23T06:05:47.6313485Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=21.4.4.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-06-23T06:05:47.6313485Z"
+}

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetAnchorable ContentHash="HVepg3SOS0qY73ktB7YuWw" DesignTimeRectangle="48, 559, 323, 41" ElementType="InputBox" FriendlyName="'0'" FullSelectorArgument="&lt;ctrl name='ExchangeRateDetail' role='document' /&gt;&lt;ctrl name='New Rate' role='editable text' /&gt;" FuzzySelectorArgument="&lt;ctrl name='ExchangeRateDetail' role='document' /&gt;&lt;ctrl name='New Rate' role='editable text' automationid='' /&gt;" ScopeSelectorArgument="&lt;wnd app='chrome.exe' cls='Chrome_WidgetWin_1' title='ExchangeRateDetail - Google Chrome' /&gt;" SearchSteps="Selector, FuzzySelector, Image" SelectionStrategy="AA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=mscorlib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <TargetAnchorable.Anchors>
+    <scg:List x:TypeArguments="ITarget" Capacity="4">
+      <Target DesignTimeRectangle="48, 535, 211, 25" ElementType="InputBox" FriendlyName="'New Rate'" FullSelectorArgument="&lt;ctrl name='ExchangeRateDetail' role='document' /&gt;&lt;ctrl idx='4' role='editable text' /&gt;" FuzzySelectorArgument="&lt;ctrl name='ExchangeRateDetail' role='document' /&gt;&lt;ctrl automationid='' role='editable text' /&gt;" SearchSteps="Selector, FuzzySelector, Image">
+        <imageRef attrName="ImageBase64" xmlns="">1xJE1Dk803UGn4z3ETtjeXg</imageRef>
+      </Target>
+    </scg:List>
+  </TargetAnchorable.Anchors>
+  <imageRef attrName="ImageBase64" xmlns="">0-uCfDf5oK0ifqeNxinVFSA</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="1de62c96e8e3cbedb578cbddb0f06491.png" xmlns="">0rCsUc0kkGEeAntsk56p6YQ</imageRef>
+</TargetAnchorable>

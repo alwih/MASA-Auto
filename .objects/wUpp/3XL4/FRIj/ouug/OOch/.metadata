@@ -1,0 +1,13 @@
+﻿{
+  "Id": "OOchpVM3Ska0iYckTsdGcg",
+  "Reference": "XmXxxtzE4ke1YN84qKCJ1w/OOchpVM3Ska0iYckTsdGcg",
+  "ParentRef": "XmXxxtzE4ke1YN84qKCJ1w/ouugGXjs-E2yzDx4SIgTHw",
+  "Name": "Approver 2",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2022-07-27T05:38:28.123378Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-07-27T05:38:28.123378Z"
+}

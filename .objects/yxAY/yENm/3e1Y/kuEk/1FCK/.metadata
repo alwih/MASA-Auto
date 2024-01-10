@@ -1,0 +1,16 @@
+﻿{
+  "Id": "1FCKMVVJBUKogYURBibcfg",
+  "Reference": "XmXxxtzE4ke1YN84qKCJ1w/1FCKMVVJBUKogYURBibcfg",
+  "ParentRef": "XmXxxtzE4ke1YN84qKCJ1w/kuEks7dypEeX5gOwRQZyUA",
+  "Name": "a Tgl Terima Berkas",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2022-04-19T08:15:22.6384327Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-04-19T08:22:47.8341044Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

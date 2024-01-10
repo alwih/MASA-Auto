@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetApp Area="0, 0, 0, 0" BrowserType="Chrome" ContentHash="Cly1KHo3jkaRx0t9kGqU1w" Selector="&lt;html app='chrome.exe' title='Mata Uang | MASA'/&gt;" Url="https://10.243.229.232/MASA/MataUang.aspx?(Not.Licensed.For.Production)=" xmlns="http://schemas.uipath.com/workflow/activities/uix">
+  <imageRef attrName="IconBase64" xmlns="">0a3H7cxQmlEadok0sHh4OAA</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="51fbc69c538cd187ea2806ee6236d6af.png" xmlns="">0XcTgl_0-wU6ZjKgE7Htxmg</imageRef>
+</TargetApp>

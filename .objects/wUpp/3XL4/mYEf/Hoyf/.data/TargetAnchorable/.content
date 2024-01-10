@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetAnchorable ContentHash="cwx2dadYqEKRneBjyLqOUA" DesignTimeRectangle="455, 114, 314, 21" FriendlyName="'Master Modul'" FullSelectorArgument="&lt;ctrl name='*' role='document' /&gt;&lt;ctrl idx='23' role='grouping' /&gt;" FuzzySelectorArgument="&lt;ctrl name='*' role='document' /&gt;&lt;ctrl automationid='' role='grouping' /&gt;" ScopeSelectorArgument="&lt;wnd app='chrome.exe' cls='Chrome_WidgetWin_1' title='Master Modul | MASA - Google Chrome' /&gt;" SearchSteps="Selector, FuzzySelector" SelectionStrategy="AA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=mscorlib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <TargetAnchorable.Anchors>
+    <scg:List x:TypeArguments="ITarget" Capacity="4">
+      <Target DesignTimeRectangle="423, 105, 601, 39" FriendlyName="'grouping'" FullSelectorArgument="&lt;ctrl name='Master Modul | MASA' role='document' /&gt;&lt;ctrl idx='14' role='grouping' /&gt;" FuzzySelectorArgument="&lt;ctrl name='Master Modul | MASA' role='document' /&gt;&lt;ctrl automationid='' role='grouping' /&gt;" SearchSteps="Selector, FuzzySelector, Image">
+        <imageRef attrName="ImageBase64" xmlns="">1O8CEaSe3KEWOGPXPsYaplg</imageRef>
+      </Target>
+    </scg:List>
+  </TargetAnchorable.Anchors>
+  <imageRef attrName="ImageBase64" xmlns="">0Az4FiZJNe0KbVbDb-f10_g</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="21faa037fef229733f267ec45e8194b9.png" xmlns="">0aML1hqKEN0qIC1_LqLwi3w</imageRef>
+</TargetAnchorable>

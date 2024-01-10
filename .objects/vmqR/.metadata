@@ -1,0 +1,11 @@
+﻿{
+  "Id": "vmqReKXbz0q5rOracaeQxQ",
+  "Reference": "XmXxxtzE4ke1YN84qKCJ1w/vmqReKXbz0q5rOracaeQxQ",
+  "Name": "Assign PIC",
+  "Type": "App",
+  "Created": "2022-04-19T06:20:55.8258077Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-04-19T06:20:55.8258077Z"
+}

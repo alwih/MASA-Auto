@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetAnchorable BrowserURL="https://10.243.229.232/MASA/OrderDetail.aspx" ContentHash="Jpzxd82xZEmfnd3Bj6YW0w" DesignTimeRectangle="739, 444, 395, 40" ElementType="InputBox" FriendlyName="'0,00'" FullSelectorArgument="&lt;webctrl aaname='Nominal' id='wt20_OutSystemsUIWeb_wt18_block_wtContent_wtMainContent_MASA_Fin*' parentname='wt20$OutSystemsUIWeb_wt18$block$wtContent$wtMainContent$MASA_Fin*' tabindex='0' tag='INPUT' type='text' /&gt;" FuzzySelectorArgument="&lt;webctrl aaname='Nominal' id='wt20_OutSystemsUIWeb_wt18_block_wtContent_wtMainContent_MASA_Fin*' parentname='wt20$OutSystemsUIWeb_wt18$block$wtContent$wtMainContent$MASA_Fin*' tabindex='0' tag='INPUT' type='text' /&gt;" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Kasbon Detail | MASA' /&gt;" SearchSteps="Selector, FuzzySelector, Image" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=mscorlib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <TargetAnchorable.Anchors>
+    <scg:List x:TypeArguments="ITarget" Capacity="4">
+      <Target DesignTimeRectangle="739, 420, 261, 24" ElementType="Text" FriendlyName="'Nominal'" FullSelectorArgument="&lt;webctrl aaname='Nominal' idx='2' parentid='wt20_OutSystemsUIWeb_wt18_block_wtContent_wtMainContent_MASA_Fin*' parentname='wt20$OutSystemsUIWeb_wt18$block$wtContent$wtMainContent$MASA_Fin*' tag='LABEL' /&gt;" FuzzySelectorArgument="&lt;webctrl aaname='Nominal' type='' parentid='wt20_OutSystemsUIWeb_wt18_block_wtContent_wtMainContent_MASA_Fin*' parentname='wt20$OutSystemsUIWeb_wt18$block$wtContent$wtMainContent$MASA_Fin*' tag='LABEL' check:text='Nominal' /&gt;" SearchSteps="FuzzySelector, Image">
+        <imageRef attrName="ImageBase64" xmlns="">1wlkI3EeEE0m-npA8GpBCcA</imageRef>
+      </Target>
+    </scg:List>
+  </TargetAnchorable.Anchors>
+  <imageRef attrName="ImageBase64" xmlns="">0r24RhCJ3HUqFP9rfRttycw</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="920a5422df98eec0ea66e3f5360bd86a.png" xmlns="">0kWqQZTFYcEOwuivmR0_cDA</imageRef>
+</TargetAnchorable>

@@ -1,0 +1,14 @@
+﻿{
+  "Id": "uCRl-pg2nEO_t3NBy4Iv1g",
+  "Reference": "XmXxxtzE4ke1YN84qKCJ1w/uCRl-pg2nEO_t3NBy4Iv1g",
+  "ParentRef": "XmXxxtzE4ke1YN84qKCJ1w/PRIYTdUfnUKQbJe1AiwuXQ",
+  "Name": "Extract Table Data - Nomor",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2022-08-12T00:53:36.0754932Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=21.4.4.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-08-12T00:53:36.0754932Z"
+}

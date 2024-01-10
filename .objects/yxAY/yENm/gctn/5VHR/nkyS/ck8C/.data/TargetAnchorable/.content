@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetAnchorable ContentHash="6sphPBiFmUii53YBJtMfbg" DesignTimeRectangle="451, 110, 181, 21" FriendlyName="'Berhasil menambah data'" FullSelectorArgument="&lt;ctrl name='Kasbon Detail | MASA' role='document' /&gt;&lt;ctrl name='Berhasil menambah data' role='grouping' /&gt;" FuzzySelectorArgument="&lt;ctrl name='Kasbon Detail | MASA' role='document' /&gt;&lt;ctrl name='Berhasil menambah data' role='grouping' automationid='' check:text='Berhasil menambah data' /&gt;" ScopeSelectorArgument="&lt;wnd app='chrome.exe' cls='Chrome_WidgetWin_1' title='Kasbon Detail | MASA - Google Chrome' /&gt;" SearchSteps="Selector, FuzzySelector, Image" SelectionStrategy="AA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=mscorlib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <TargetAnchorable.Anchors>
+    <scg:List x:TypeArguments="ITarget" Capacity="4">
+      <Target DesignTimeRectangle="419, 101, 601, 39" FriendlyName="'grouping'" FullSelectorArgument="&lt;ctrl name='Kasbon Detail | MASA' role='document' /&gt;&lt;ctrl idx='14' role='grouping' /&gt;" FuzzySelectorArgument="&lt;ctrl name='Kasbon Detail | MASA' role='document' /&gt;&lt;ctrl automationid='' role='grouping' /&gt;" SearchSteps="Selector, FuzzySelector, Image">
+        <imageRef attrName="ImageBase64" xmlns="">1Ro2ZtkcBM02AEEsZ38wdzA</imageRef>
+      </Target>
+    </scg:List>
+  </TargetAnchorable.Anchors>
+  <imageRef attrName="ImageBase64" xmlns="">0kb4K-GQxikaI5iwMkdpiZQ</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="697370dea6d23b465fbcff5ba666fd6b.png" xmlns="">0zd1ug73PdESjnOYqkImGGA</imageRef>
+</TargetAnchorable>

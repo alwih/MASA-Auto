@@ -1,0 +1,16 @@
+﻿{
+  "Id": "vrFFt411vUCjcOixOpGq5A",
+  "Reference": "XmXxxtzE4ke1YN84qKCJ1w/vrFFt411vUCjcOixOpGq5A",
+  "ParentRef": "XmXxxtzE4ke1YN84qKCJ1w/liq9JpKifUCJeSnkEXx7FQ",
+  "Name": "Menu: Tracking Nota",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2022-04-28T05:29:11.3039428Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-04-28T05:29:41.5873316Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetApp Area="0, 0, 0, 0" BrowserType="Chrome" ContentHash="jo_LJC-RPEeeH5qieNNIWA" Selector="&lt;html app='chrome.exe' title='ExchangeRate'/&gt;" Url="https://10.243.229.232/MASA/ExchangeRate.aspx?(Not.Licensed.For.Production)=" xmlns="http://schemas.uipath.com/workflow/activities/uix">
+  <imageRef attrName="IconBase64" xmlns="">0fF3VFFx82kGFZRR-dJXnBQ</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="dedf7bd35bf27f3f3b54b71c4f869a48.png" xmlns="">0-_Dhu8tLpUSRq-P1CPHO7Q</imageRef>
+</TargetApp>

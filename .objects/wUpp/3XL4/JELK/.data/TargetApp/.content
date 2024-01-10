@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetApp Area="0, 0, 0, 0" BrowserType="Chrome" ContentHash="zAcG8WHah0GRLtmI-eX5BQ" Selector="&lt;html app='chrome.exe' title='Master Parameter | MASA'/&gt;" Url="https://10.243.229.26/MASA/Parameter.aspx?(Not.Licensed.For.Production)=" xmlns="http://schemas.uipath.com/workflow/activities/uix">
+  <imageRef attrName="IconBase64" xmlns="">0C42W2kc6C0Sic-R11ivUsw</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="d5f3cb5d9b4d1a33092c857d6950ee9f.png" xmlns="">0m66swEamD0-tTed4ZIw-4g</imageRef>
+</TargetApp>

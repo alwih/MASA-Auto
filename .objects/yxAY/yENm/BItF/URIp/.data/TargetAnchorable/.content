@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetAnchorable BrowserURL="https://10.243.229.232/MASA/FinancialTransaction.UangMukaNonPerdin.aspx" ContentHash="kGBf1QvoVkKIoUNE5qvwwQ" DesignTimeRectangle="65, 331, 434, 48" ElementType="Text" FriendlyName="'Main'" FullSelectorArgument="&lt;webctrl aria-role='tab' tag='DIV' /&gt;" FuzzySelectorArgument="&lt;webctrl aria-role='tab' tag='DIV' type='' aaname='Main' check:text='Main' /&gt;" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Uang Muka Non Perdin Detail | MASA' /&gt;" SearchSteps="FuzzySelector, Image" xmlns="http://schemas.uipath.com/workflow/activities/uix">
+  <imageRef attrName="ImageBase64" xmlns="">0FLIGlwepE0eUmma9fPcXbg</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="e5349b98d45ae8ce8a3ee5a377bdee94.png" xmlns="">0L68KMoAwGEW7RPLZqQRnkg</imageRef>
+</TargetAnchorable>

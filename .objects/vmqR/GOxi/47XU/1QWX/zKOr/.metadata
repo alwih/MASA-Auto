@@ -1,0 +1,14 @@
+﻿{
+  "Id": "zKOrAQXPiUeoW-2lG1sIYw",
+  "Reference": "XmXxxtzE4ke1YN84qKCJ1w/zKOrAQXPiUeoW-2lG1sIYw",
+  "ParentRef": "XmXxxtzE4ke1YN84qKCJ1w/1QWX2tnjdkuDp8BtUn2m0A",
+  "Name": "Btn: View",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2022-06-18T13:29:15.4318955Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=21.4.4.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-06-18T13:29:15.4318955Z"
+}
